@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 THREADS=4
 
 while getopts "t:" opt; do
