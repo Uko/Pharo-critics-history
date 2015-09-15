@@ -38,7 +38,7 @@ process_image () {
 }
 
 webpage=`exec wget -q -O - http://files.pharo.org/image/50/`
-images=($(echo $webpage | grep -o -E '\d{5}\.zip' | sort -nu))
+images=($(echo $webpage | grep -o -E '[[:digit:]]{5}\.zip' | sort -nu))
 
 work_dir=`exec pwd`
 wget -O- get.pharo.org/vm50 | bash
