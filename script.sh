@@ -1,3 +1,16 @@
+THREADS=4
+
+while getopts "t:" opt; do
+  case $opt in
+    t)
+      THREADS=$OPTARG
+      ;;
+    \?)
+      echo "Invalid option: -$OPTARG" >&2
+      ;;
+  esac
+done
+
 process_rule() {
   result=$($work_dir/pharo $1 --no-default-preferences eval "$2 new in: [ :rule | RBSmalllintChecker runRule: rule. (rule critics collect: #name) asArray joinUsing: String lf ]")
   result=${result:1:${#result}-1}
@@ -32,5 +45,6 @@ wget -O- get.pharo.org/vm50 | bash
 
 for image in "${images[@]}"
 do
-  process_image $image
+  ((i=i%THREADS)); ((i++==0)) && wait
+  process_image $image &
 done
