@@ -17,7 +17,7 @@ process_rule() {
   result=$($work_dir/pharo $1 --no-default-preferences eval "$2 new in: [ :rule | RBSmalllintChecker runRule: rule. (rule critics collect: #name) asArray joinUsing: String lf ]")
   result=${result#\'}
   result=${result%\'}
-  echo $result > $2
+  echo "$result" > $2
 }
 
 process_image () {
