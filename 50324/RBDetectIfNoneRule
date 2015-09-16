@@ -1,0 +1,42 @@
+RBSmalllintTestObject>>#contains
+RBRefactoryTestDataApp>>#contains
+RxMatchOptimizer>>#conditionTester
+RxMatchOptimizer>>#nonMethodPredicateTester
+RxMatchOptimizer>>#methodPredicateTester
+RxMatchOptimizer>>#predicateTester
+RxMatchOptimizer>>#determineTestMethod
+RxMatchOptimizer>>#nonPredicateTester
+RBMoveVariableDefinitionRefactoring>>#checkNodes:
+RBCompositeLintRuleTest>>#isEmpty
+RBCompositeLintRuleTest>>#hasConflicts
+RBVariableEnvironment>>#includesClass:
+RBSubclassResponsibilityNotDefinedRule>>#checkClass:
+AJx86AssemblerTests>>#testMOVCMPSD
+RBVariableTypeTest>>#testBasicLintRuleTypes
+NetworkSystemSettings class>>#isAnExceptionFor:
+RBRealizeClassRefactoring>>#preconditions
+RBPullUpMethodRefactoring>>#copyDownMethod:
+RBPullUpMethodRefactoring>>#checkSuperSendsFromPushedUpMethods
+RBCondition class>>#subclassesOf:referToSelector:
+RBCondition class>>#hierarchyOf:referencesInstanceVariable:
+RBSuperSendsRule>>#initialize
+RBExtractMethodRefactoring>>#isParseTreeEquivalentTo:
+RBStringConcatenationRule>>#initialize
+RBAbstractClass>>#hierarchyDefinesInstanceVariable:
+RBAbstractClass>>#hierarchyDefinesPoolDictionary:
+RBAbstractClass>>#hierarchyDefinesClassVariable:
+RBAbstractClass>>#hierarchyDefinesVariable:
+RBTransformationRuleTest>>#superSends
+RxsCharSet>>#hasPredicates
+RxsCharSet>>#predicatePartPredicate
+RBCreateAccessorsForVariableRefactoring>>#usesAssignmentOf:in:classVariable:
+RBUtilityMethodsRule>>#subclassOf:overrides:
+RBAbstractVariablesRefactoring>>#removeDefinedClassVariables
+RBBasicLintRuleTest class>>#stringConcatenation
+RBBasicLintRuleTest class>>#utilityMethods
+RBBasicLintRuleTest class>>#overridesSpecialMessage
+RBBasicLintRuleTest class>>#ifTrueBlocks
+RBBasicLintRuleTest class>>#subclassResponsibilityNotDefined
+RBChildrenToSiblingsRefactoring>>#shouldPushUp:from:
+RBRemoveMethodRefactoring>>#justSendsSuper:
+RBPullUpInstanceVariableRefactoring>>#preconditions

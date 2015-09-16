@@ -1,0 +1,6 @@
+RBSmalllintTestObject>>#threeElementPoint
+RBRefactoryTestDataApp>>#threeElementPoint
+TraitCompositionTest>>#testSyntacticEqualsWithComplexCompositions
+TraitCompositionTest>>#testSyntacticEqualsWithAlias
+TraitCompositionTest>>#testInvalidComposition
+Number>>#asB3DVector3

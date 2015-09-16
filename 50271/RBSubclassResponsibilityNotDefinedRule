@@ -1,0 +1,166 @@
+ComposableModel class>>#defaultSpec
+GLMRenderer>>#doOpen:
+FileSystemStore>>#basicIsWritable:
+DisplayScanner>>#displayEmbeddedForm:
+AthensSurface>>#cacheAt:ifAbsentPut:
+AthensSurface>>#clipBy:during:
+AthensSurface>>#maskEnabled
+AthensSurface>>#disableMask
+AthensSurface>>#enableMask
+AthensSurface>>#clear:
+AthensSurface>>#flushCacheAt:
+MetacelloVersionSpec>>#isPartiallyCurrent:useEquality:
+AbstractCompiler>>#compilationContext:
+FT2Face>>#memoryFaceData
+LanguageEnvironment class>>#systemConverterClass
+SubclassResponsabilityDebugAction>>#appliesToDebugger:
+MCWriter class>>#readerClass
+AthensPathSegment>>#visitWith:
+AthensPathSegment>>#convertWith:
+SugsMockContext>>#browsedEnvironment
+AJOperand>>#ptr
+TelnetProtocolClient class>>#rawResponseCodes
+AthensStrokePaint>>#dashes:offset:
+FT2Handle>>#primDestroyHandle
+RBSubclassResponsibilityNotDefinedRule>>#checkClass:
+RBLintRuleTest>>#isEmpty
+RBLintRuleTest>>#problemCount
+RBLintRuleTest>>#viewResults
+MCVersionReader>>#loadDependencies
+MCVersionReader>>#loadPackage
+MCVersionReader>>#loadDefinitions
+DialogGroupManagerUI>>#text
+ArchiveMember class>>#newFromString:
+ArchiveMember class>>#newFromFile:
+ArchiveMember class>>#newDirectoryNamed:
+TraitBehavior>>#hasAbstractMethods
+GLMPort>>#copyAccordingToPaneMapping:inNewBrowser:
+Number>>#adaptToInteger:andSend:
+DisplayTransform>>#setIdentity
+DisplayTransform>>#invertBoundsRect:
+Exception>>#defaultAction
+KMModifier>>#matchesEvent:
+TxBasicTextPosition>>#insertObject:
+Collection>>#add:
+Collection>>#remove:ifAbsent:
+NBFnArgument>>#emitLoad:
+NBFnArgument>>#emitLoad:to:
+AthensPaint>>#athensFillPath:on:
+TBehavior>>#hasAbstractMethods
+UIManager>>#chooseFullFileNameMatching:label:
+UIManager>>#questionWithoutCancel:
+UIManager>>#textEntry:title:
+UIManager>>#textEntry:
+UIManager>>#request:initialAnswer:title:
+UIManager>>#confirm:trueChoice:falseChoice:
+UIManager>>#question:
+UIManager>>#chooseFileMatching:label:
+UIManager>>#openComparisionFrom:to:belongingTo:from:
+UIManager>>#textEntry:title:entryText:
+UIManager>>#alert:
+UIManager>>#questionWithoutCancel:title:
+UIManager>>#question:title:
+UIManager>>#proceed:title:
+UIManager>>#newMenuIn:for:
+UIManager>>#abort:
+UIManager>>#deny:title:
+UIManager>>#alert:title:configure:
+UIManager>>#deny:
+UIManager>>#proceed:
+UIManager>>#chooseOrRequestFrom:values:lines:title:
+UIManager>>#confirm:trueChoice:falseChoice:cancelChoice:default:
+UIManager>>#confirm:label:
+UIManager>>#alert:title:
+UIManager>>#abort:title:
+PackageTreeSelection>>#removeTarget:
+TxEditorOperation>>#captureDuring:
+SDL2MappedEvent class>>#accept:
+RBLintRule>>#result
+TxAthensCursor>>#drawOn:
+GLMBrowser>>#custom:
+TxBasicSpan>>#applyAttribute:
+OSWindowHandle>>#position:
+OSWindowHandle>>#show:
+OSWindowHandle>>#isValid
+OSWindowHandle>>#bounds
+OSWindowHandle>>#clipboardText
+OSWindowHandle>>#title:
+OSWindowHandle>>#bounds:
+OSWindowHandle>>#clipboardText:
+OSWindowHandle>>#extent:
+OSWindowHandle>>#title
+CompiledMethod class>>#abstractMarker
+CompiledMethod class>>#subclassResponsibilityMarker
+RBRealizeClassRefactoring>>#preconditions
+RBRealizeClassRefactoring>>#transform:
+BracketSliderMorph>>#gradient
+TClassDescription>>#removeInstVarNamed:
+TClassDescription>>#hasClassSide
+MetacelloResolveProjectUpgrade>>#handleOnDownGrade:onUpgrade:
+MorphicEvent>>#position
+NBExternalLibraryWrapper>>#libraryNameOrHandle
+RBMissingSuperSendsRule>>#checkMethod:
+AbstractClassInstaller>>#environment
+AbstractClassInstaller>>#classDefinitionShallowChangedFrom:to:by:
+AbstractClassInstaller>>#classDefinitionDeeplyChangedFrom:to:by:
+Archive>>#writeTo:
+CompiledMethodTest>>#abstractMethod
+ObjectLayout>>#initializeInstance:
+ObjectLayout>>#extend
+RBAbstractClass>>#isAbstract
+MetacelloPlatform>>#extractRepositoryFrom:to:
+MetacelloPlatform>>#downloadFile:to:
+DelayScheduler>>#handleTimerEvent:
+DelayScheduler>>#restoreResumptionTimes
+DelayScheduler>>#unscheduleDelay:
+DelayScheduler>>#adjust:resumptionTimeOldBase:newBase:
+DelayScheduler>>#millisecondsUntilResumptionTime:
+DelayScheduler>>#runTimerEventLoop
+DelayScheduler>>#scheduleDelay:
+DelayScheduler>>#saveResumptionTimes
+AJInstruction>>#accept:
+RubEditingMode class>>#menuKeyword
+OCSemanticWarning>>#openMenuIn:
+AbstractAdapter>>#buildWidget
+Stream>>#next
+Stream>>#atEnd
+Stream>>#contents
+Stream>>#nextPut:
+AbstractFieldModification>>#installOn:
+Behavior>>#hasAbstractMethods
+MBInfo>>#configurationInfo
+AbstractWidget>>#updateCategoryList
+AJCallInfo>>#defaultArgumentSize
+GlyphRenderer>>#initForFont:
+AbstractFont>>#lineGrid
+AbstractFont>>#familyName
+EyeAbstractInspector>>#selectedElement
+EyeAbstractInspector>>#selectedObject
+MetacelloProject>>#baselineOfVersionSpecClass
+MetacelloSpecLoader>>#unload
+TxBasicViewMorph>>#contents:
+MBInfo class>>#helpLabel
+NBExternalType>>#coerceOopToOperand:ifFailedJumpTo:
+NBExternalType>>#baseTypeSize
+NBExternalType>>#valueSize
+NBExternalType>>#coerceReturnValue:
+AthensTransform>>#transformX:Y:
+AthensTransform>>#invert
+AthensTransform>>#loadAffineTransform:
+Canvas>>#encryptedParagraph:bounds:color:
+Canvas>>#warpImage:transform:at:sourceRect:cellSize:
+Canvas>>#contentsOfArea:into:
+TComparable>>#hash
+TComparable>>#=
+TComparable>>#<
+Unicode class>>#compoundTextSequence
+GLMBrickLayoutTraverser>>#markOppositeDirty:
+ClassTestCase>>#classToBeTested
+MCRepository class>>#fillInTheBlankRequest
+MCRepository class>>#creationTemplate
+MetacelloMemberListSpec>>#copy:to:
+EncodedCharSet class>>#isBreakableAt:in:
+EncodedCharSet class>>#nextPutValue:toStream:withShiftSequenceIfNeededForTextConverterState:
+EncodedCharSet class>>#printingDirection
+MCDefinition>>#source
+MCDefinition>>#sortKey

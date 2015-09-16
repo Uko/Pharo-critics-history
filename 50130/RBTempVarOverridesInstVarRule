@@ -1,0 +1,7 @@
+RBSmalllintTestObject>>#tempVarOverridesInstVar
+RBRefactoryTestDataApp>>#tempVarOverridesInstVar
+TestRunner>>#addDeclaredPackagesUnderTestTo:
+TestRunner>>#promptForPackages
+TestRunner>>#runCoverage
+TestRunner>>#addMethodsUnderTestIn:to:
+Workspace>>#suggestedFileName

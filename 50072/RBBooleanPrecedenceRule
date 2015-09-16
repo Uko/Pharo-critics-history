@@ -1,0 +1,22 @@
+OSButtonState>>#button4
+OSButtonState>>#button2
+OSButtonState>>#button3
+OSButtonState>>#button5
+OSButtonState>>#button1
+DictionaryTest>>#testAsCommaStringMore
+DictionaryTest>>#testAsStringOnDelimiterLastMore
+RBSmalllintTestObject>>#booleanPrecedence
+RBRefactoryTestDataApp>>#booleanPrecedence
+GLMPagerBrick>>#scrollerSizeShortcutAction:second:
+AJBaseReg>>#requiresRex
+AJBaseReg>>#prohibitsRex
+NBWin32Shell class>>#isNetworkPresent
+TAsStringCommaAndDelimiterTest>>#testAsCommaStringMore
+TAsStringCommaAndDelimiterTest>>#testAsStringOnDelimiterLastMore
+SetTest>>#testAsCommaStringMore
+SetTest>>#testAsStringOnDelimiterLastMore
+GLMBrick class>>#scalePatchForm:size:
+AJx86InstructionDescription>>#emitmov:operand1:operand2:operand3:
+BagTest>>#testAsCommaStringMore
+BagTest>>#testAsStringOnDelimiterLastMore
+AJx64InstructionDescription>>#emitmov:operand1:operand2:operand3:

@@ -1,0 +1,17 @@
+RubExtraSelectionDecorator>>#computeSecondarySelectionShapesFrom:to:
+RBSmalllintTestObject>>#collectSelectNotUsed
+RBRefactoryTestDataApp>>#collectSelectNotUsed
+FilterTest>>#setUp
+MBConfigurationInfo>>#versions
+ScheduleTest>>#testExampleFromSwikiPage
+GLMTablePresentation>>#computeTagsFilterFor:
+GLMTablePresentation>>#computeTagsFor:
+RubSegmentIconMenuItemMorph>>#select:
+GLMCheckboxBrick>>#select:
+MCFileTreeRepository>>#goferVersionFrom:
+GLMBrick class>>#scalePatchForm:size:
+MetacelloNullRecordingMCSpecLoader>>#loadedRepositories
+GLMActionButtonBrick>>#select:
+RPackageWithDoTest>>#info
+RPackageWithDoTest>>#testInvariant
+MatrixTest>>#testCollectCreatesANewMatrix

@@ -1,0 +1,14 @@
+EncoderForSistaV1 class>>#nonExtensionBytecodeAt:in:
+EncoderForSistaV1 class>>#isSendAt:in:
+EncoderForSistaV1 class>>#isExtension:
+EncoderForSistaV1 class>>#extensionsAt:in:into:
+EncoderForSistaV1 class>>#selectorToSendOrItselfFor:in:at:
+EncoderForSistaV1 class>>#method:refersInBytecodeToLiteral:specialSelectorIndex:
+GLMPagerModel>>#isPaneVisible:
+Latin1 class>>#nextPutValue:toStream:withShiftSequenceIfNeededForTextConverterState:
+Unicode class>>#digitValueOf:
+EncodedCharSet class>>#isUppercase:
+EncodedCharSet class>>#digitValueOf:
+EncodedCharSet class>>#isLetter:
+EncodedCharSet class>>#isLowercase:
+EncodedCharSet class>>#isDigit:

@@ -1,0 +1,43 @@
+EncoderForSistaV1 class>>#nonExtensionBytecodeAt:in:
+EncoderForSistaV1 class>>#isSendAt:in:
+EncoderForSistaV1 class>>#isExtension:
+EncoderForSistaV1 class>>#extensionsAt:in:into:
+EncoderForSistaV1 class>>#selectorToSendOrItselfFor:in:at:
+EncoderForSistaV1 class>>#method:refersInBytecodeToLiteral:specialSelectorIndex:
+InstructionStream>>#interpretNextSistaV1InstructionFor:
+BitBlt>>#copyBits
+PluggableTabBarMorph>>#mouseDown:
+Process>>#priority:
+FreeTypeFont>>#getWidthOf:
+FreeTypeFont>>#getLinearWidthOf:
+FreeTypeFont>>#linearKerningLeft:right:
+GLMPagerModel>>#isPaneVisible:
+AJImmediate>>#isInt32
+PluggableMultiColumnListMorph>>#itemFromPoint:
+RunArray>>#at:put:
+MorphTreeMorph>>#scrollerSubMorphFromPoint:
+Interval>>#at:
+PluggableListMorph>>#itemFromPoint:
+Integer>>#isByte
+TxBasicTextPosition>>#isValid
+ShortIntegerArray>>#pvtAt:put:
+ShortIntegerArray>>#at:put:
+FreeTypeSubPixelAntiAliasedGlyphRenderer>>#renderStretchedGlyph:depth:subpixelPosition:font:
+Latin1 class>>#nextPutValue:toStream:withShiftSequenceIfNeededForTextConverterState:
+TxInterval>>#contains:
+SimpleHierarchicalListMorph>>#itemFromPoint:
+ShiftJISTextConverter>>#nextPut:toStream:
+PositionableStream>>#position:
+Object>>#basicAt:put:
+Object>>#at:put:
+FreeTypeGlyphRenderer>>#renderGlyph:depth:subpixelPosition:font:
+Win32Platform>>#virtualKey:
+Unicode class>>#isUnifiedKanji:
+Unicode class>>#digitValueOf:
+ByteArray>>#indexOf:startingAt:
+EncodedCharSet class>>#isUppercase:
+EncodedCharSet class>>#digitValueOf:
+EncodedCharSet class>>#isLetter:
+EncodedCharSet class>>#isLowercase:
+EncodedCharSet class>>#isDigit:
+String>>#asAlphaNumeric:extraChars:mergeUID:

@@ -1,0 +1,6 @@
+RBSmalllintTestObject>>#modifiesCollection
+RBRefactoryTestDataApp>>#modifiesCollection
+Collection>>#removeAll
+ProcessList>>#removeAllSuchThat:
+ZnCookieJar>>#add:
+LinkedList>>#removeAllSuchThat:

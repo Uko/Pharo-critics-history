@@ -1,0 +1,45 @@
+OCClosureCompilerTest>>#testInlineBlockCollectionLR3
+RBSmalllintTestObject>>#toDoWithIncrement
+RBRefactoryTestDataApp>>#toDoWithIncrement
+OCOpalExamples>>#exampleInlineBlockCollectionLR3
+MBConfigurationInfo>>#trimVersionInfos:
+TSequencedConcatenationTest>>#testConcatenation
+InflateStream>>#createHuffmanTables:counts:from:to:
+ArrayTest>>#testConcatenation
+ArrayTest>>#firstIndexesOf:in:
+ZipConstants class>>#initializeLengthCodes
+ZipConstants class>>#initializeDistanceCodes
+FloatArrayTest>>#testConcatenation
+FloatArrayTest>>#firstIndexesOf:in:
+IntervalTest>>#testConcatenation
+IntervalTest>>#firstIndexesOf:in:
+PragmaMenuBuilder class>>#orderAssignBlock
+Integer>>#digitDiv:neg:
+Integer>>#replaceFrom:to:with:startingAt:
+Integer>>#digitMultiply:neg:
+FBDExamples>>#exampleInlineBlockCollectionLR3
+MetacelloVersionNumber>>#copyFrom:to:
+TCopySequenceableWithReplacement>>#firstIndexesOf:in:
+FontChooserMorph>>#previewText
+Matrix>>#withIndicesCollect:
+AJGeneratedCode>>#dumpWithLabels
+LinkedListTest>>#firstIndexesOf:in:
+Bitmap>>#decompress:fromByteArray:at:
+MetacelloSemanticVersionNumber>>#copyFrom:to:
+JPEGReadWriter>>#scaleQuantizationTable:
+SettingTree>>#childrenOf:
+SymbolTest>>#testConcatenation
+SymbolTest>>#firstIndexesOf:in:
+StringTest>>#firstIndexesOf:in:
+StringTest>>#testConcatenation
+JPEGReadStream>>#createHuffmanTables:counts:from:to:
+OrderedCollectionTest>>#testConcatenation
+OrderedCollectionTest>>#firstIndexesOf:in:
+BalloonBezierSimulation>>#debugDrawWide:
+Canvas>>#frameRectangle:width:colors:dashes:offset:
+GrafPort>>#frameRectBottom:height:
+GrafPort>>#frameOval:borderWidth:
+GrafPort>>#frameRectRight:width:
+Color class>>#colorPaletteForDepth:extent:
+JPEGHuffmanTable>>#makeDerivedTables
+SequenceableCollection>>#collect:from:to:

@@ -1,0 +1,34 @@
+SmallDictionary>>#includes:
+SmallDictionary>>#includesIdentity:
+FreeTypeFont>>#hasGlyphsForAll:
+OSEnvironment>>#includes:
+MetacelloMCProjectSpec>>#isPossibleBaseline
+WorldState>>#isStepping:selector:
+WorldState>>#checkIfUpdateNeeded
+WorldState>>#isStepping:
+Collection>>#includesAll:
+Collection>>#includesAny:
+Collection>>#identityIncludes:
+CompiledMethod>>#readsSlot:
+RBMessageNode>>#isInlineCase
+TestRunner>>#hasProgress
+MetaLink>>#checkForCompatibilityWith:
+Dictionary>>#includes:
+Dictionary>>#includesIdentity:
+Set>>#=
+DoubleLinkedList>>#includes:
+GLMSingleSpotterRequest class>>#substring:matches:caseSensitive:
+TClass>>#usesPoolVarNamed:
+WideCharacterSet>>#hasWideCharacters
+Timespan>>#includesAll:
+Timespan>>#includesAny:
+SharedPool class>>#hasBindingThatBeginsWith:
+PolygonMorph>>#containsPoint:
+GrowlMorph>>#is:saneWithRespectTo:
+MenuMorph>>#hasSubMenu:
+NewList>>#hasMultipledSelected
+SparseLargeTable>>#allDefaultValueSubtableAt:
+PNGReadWriter>>#understandsImageFormat
+String>>#isAllSeparators
+String>>#isAllAlphaNumerics
+String>>#endsWithAnyOf:

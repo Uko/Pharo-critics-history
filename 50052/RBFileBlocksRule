@@ -1,0 +1,33 @@
+RBSmalllintTestObject>>#fileBlocks
+RBRefactoryTestDataApp>>#fileBlocks
+TraitFileOutTest>>#testFileOutTrait
+TraitFileOutTest>>#testFileOutCategory
+MCRepositoryAuthorizationTest>>#testStoredCredentials
+MCRepositoryAuthorizationTest>>#testOverrideStoredCredentials
+FileStreamTest>>#testDetectFileDo
+NBExternalArrayTest>>#testExternalArray
+NBExternalArrayTest>>#testExternalCopy
+FileReferenceTest>>#testWriteStream
+FileReferenceTest>>#testReadStreamIfAbsent
+FileReferenceTest>>#testReadStream
+FileReferenceTest>>#testWriteStreamifPresent
+FileReferenceTest>>#testWriteStreamExists
+ChangeSet class>>#fileIntoNewChangeSet:
+SlotExampleTest>>#testPharoClassInstallerExample
+STCommandLineHandlerTest>>#testCommandLineHandlerCondition
+ChunkImportTestCase>>#testImportAClass
+ChunkImportTestCase>>#testImportAClassCategory
+ChunkImportTestCase>>#testImportAMethodWithSpacesInItsCategory
+ChunkImportTestCase>>#testImportAClassComment
+ChunkImportTestCase>>#testImportAMethod
+ChunkImportTestCase>>#testImportAClassCommentWithExclamationMarks
+ChunkImportTestCase>>#testImportAMethodWithNoTimestamp
+MorphTreeMorphTests>>#testMaintainingSelectionsOnUpdate
+MorphTreeMorphTests>>#testLeakingSelectionsOnUpdate
+MorphTreeMorphTests>>#testUpdatingSelectionsOnUpdateWithRemoval
+MorphTreeMorphTests>>#testLastClickedMorphSetUponUpdateList
+MorphTreeMorphTests>>#testUpdatingSelectionsOnUpdate
+Context class>>#trace:onFileNamed:
+FileSystem>>#copyFrom:to:
+FileSystem>>#copy:toReference:
+Semaphore>>#critical:

@@ -1,0 +1,5 @@
+MCModel2MTModelVisitor>>#visitMCVersion:
+MCWorkingCopy>>#versionInfo
+VersionnerToolBox>>#projectSpecFromRequiredProject:
+VSSaveProjectCommand>>#execute
+AbstractBinaryFileStream>>#next

@@ -1,0 +1,181 @@
+GroupWindowMorph>>#update:with:
+GLMMorphBrick>>#on:
+Trait class>>#named:uses:category:env:
+Process>>#longPrintOn:
+RBSmalllintTestObject>>#sendsDifferentSuper
+MultiByteBinaryOrTextStream>>#basicNextPut:
+MultiByteBinaryOrTextStream>>#basicNext
+MultiByteBinaryOrTextStream>>#basicNext:putAll:startingAt:
+MultiByteBinaryOrTextStream>>#basicPeek
+MultiByteBinaryOrTextStream>>#basicNext:
+MultiByteBinaryOrTextStream>>#basicNextPutAll:
+RBRefactoryTestDataApp>>#sendsDifferentSuper
+RFASTTranslator>>#emitMetaLinkInstead:
+SVColorSelectorMorph>>#basicColor:
+JobProgressMorph>>#initializeJob:
+GLMFoundationBrick>>#privateExtent:
+GLMFoundationBrick>>#themer
+MBConfigurationInfo>>#buildStringOrText
+MBConfigurationInfo>>#recalculateSilently
+PaginatedMorphTreeMorph>>#currentNodelist
+MBAbstractVersionInfo class>>#version:
+StrikeFontSet class>>#newFontArray:
+PasteUpMorph>>#viewBox:
+PasteUpMorph>>#mouseDown:
+WeakKeyDictionary>>#allAssociationsDo:
+TextMorph>>#basicKeyStroke:
+TextMorph>>#contents:wrappedTo:
+TextMorph>>#updateFromParagraph
+TextMorph>>#fit
+OSEnvironment>>#initializeWith:
+PluggableDialogWindow>>#useDefaultOKCancelButton
+PluggableDialogWindow>>#initialize
+CheckboxButtonMorph>>#borderWidth:
+Symbol>>#string:
+ParseNode>>#printOn:indent:
+GLMScrollPaneBrick>>#verticalScrollbar:
+GLMScrollPaneBrick>>#band:
+FLGlobalSendMock>>#initializeWith:
+CharacterBlock>>#stringIndex:text:topLeft:extent:
+Date>>#monthIndex
+PluggableListMorph>>#mouseMoveOnMultiple:
+KomitPackage class>>#package:
+ThisContextEyeElement>>#accessorCode
+HandMorph>>#restoreSavedPatchOn:
+RBRenameClassChange>>#=
+AlphaImageMorph>>#image:size:
+Decompiler>>#decompile:in:method:using:
+PluggableToggleButtonMorph>>#on:getState:action:label:icon:menu:
+Trait>>#fileOutOn:initializing:
+Collection>>#printNameOn:
+RubPluggableGetMenuPolicy>>#lookupShiftMenu
+ThumbnailMorph>>#drawMeOn:
+SortedCollection>>#add:
+AbstractWidgetModel>>#initialize
+AJBaseReg>>#initializeWithCode:name:
+MetacelloAtomicLoadDirective>>#finalizeLoad:
+SystemWindow>>#basicTaskThumbnailOfSize:
+SystemWindow>>#setBoundsWithFlex:
+SystemWindow>>#basicIsSticky
+FT2GlyphSlot class>>#fromFace:
+MBConfigurationInfo class>>#configurationClass:
+GLMPaneScroller>>#initializeTransform
+GLMPaneScroller>>#layoutWidgets
+GLMPaneScroller>>#resizeScrollBar
+RBMessageNode>>#replaceSourceWithMessageNode:
+ImageMorph>>#image:
+ImageMorph>>#form:
+ImageMorph>>#borderWidth:
+ImageMorph>>#borderStyle:
+Bag class>>#new:
+Date class>>#starting:
+KomitStagingArea class>>#currentFilteredBy:
+NOCContext>>#nextModel
+StringMorph>>#initWithContents:font:emphasis:
+MultiByteFileStream>>#basicPeek
+MultiByteFileStream>>#basicReadInto:startingAt:count:
+MultiByteFileStream>>#basicVerbatim:
+MultiByteFileStream>>#basicUpTo:
+MultiByteFileStream>>#basicNextInto:
+MultiByteFileStream>>#basicNextPutAll:
+MultiByteFileStream>>#basicNextPut:
+MultiByteFileStream>>#fileInEncodingName:
+MultiByteFileStream>>#basicSetToEnd
+MultiByteFileStream>>#basicNext:
+MultiByteFileStream>>#basicPosition
+MultiByteFileStream>>#detectLineEndConvention
+MultiByteFileStream>>#basicNext:into:
+MultiByteFileStream>>#basicNext:putAll:startingAt:
+MultiByteFileStream>>#basicSkip:
+MultiByteFileStream>>#basicPosition:
+RubHighlightSegmentMorph>>#registerTextArea
+LongTestCase class>>#allTestSelectors
+RGPackage>>#addMethod:
+RGPackage>>#definedClassNames
+RGPackage>>#removeMethod:
+CompiledMethod class>>#newFrom:
+MCHttpRepository>>#versionReaderForFileNamed:
+Metaclass>>#fileOutOn:initializing:
+Parser>>#init:notifying:failBlock:
+WeakSlot>>#write:to:
+WeakSlot>>#initialize:
+GLMInteractableBrick>>#handlesMouseOver:
+MetacelloPackageLoadDirective>>#spec:externalReference:loader:
+ZipDirectoryMember>>#initialize
+RubUnderlinedSegmentMorph>>#defaultUnderlineColor
+RubUnderlinedSegmentMorph>>#defaultBorderColor
+SelectionMorph>>#doneExtending
+SelectionMorph>>#setOtherSelection:
+Class>>#fileOutOn:initializing:
+ZdcSecureSocketStream>>#readEncryptedBytes:startingAt:count:
+ZdcSecureSocketStream>>#flushEncryptedBytes:startingAt:count:
+ZdcSecureSocketStream>>#fillEncryptedBytes:startingAt:count:
+RubAbstractTextArea>>#forceExtentTo:
+StartupPreferencesLoader class>>#default
+SortedCollection class>>#sortBlock:
+CharacterSetComplement class>>#of:
+MBAbstractPackageInfo class>>#named:packageName:spec:
+FreeTypeFace>>#newFaceFromFile:index:
+FreeTypeFace>>#hasStyleName
+FreeTypeFace>>#newFaceFromExternalMemory:index:
+FreeTypeFace>>#hasFamilyName
+MatrixTransform2x3>>#localBounds:toGlobal:
+MatrixTransform2x3>>#globalBounds:toLocal:
+Author class>>#uniqueInstance
+GTSpotterBreadcrumbSeparatorRenderer>>#render:on:
+MessageNode>>#sizeCodeForCase:value:
+MessageNode>>#emitCodeForIf:encoder:value:
+MessageNode>>#sizeCodeForIf:value:
+MessageNode>>#emitCodeForCase:encoder:value:
+CommandLineArguments>>#initializeWithArguments:
+MenuItemMorph>>#contents:withMarkers:inverse:
+Socket class>>#newTCP
+Socket class>>#newUDP
+Socket class>>#acceptFrom:
+SharedPool class>>#classBindingOf:
+TransformMorph>>#extent:
+MCDiffyVersion>>#initializeWithPackage:info:dependencies:baseInfo:patch:
+FinderClassNode>>#browse
+LargeInteger>>#digitAt:put:
+LargeInteger>>#digitAt:
+NBNativeFunction>>#initializeWithCode:fnSpec:
+RubTextScrollPane>>#vScrollbarValueWithoutAnnouncement:
+RubTextScrollPane>>#hScrollbarValueWithoutAnnouncement:
+TextIndent class>>#amount:
+PolygonMorph>>#arrowsContainPoint:
+PolygonMorph>>#vertices:color:borderWidth:borderColor:
+MetacelloFetchingMCSpecLoader>>#explicitLoadPackageSpecs:repositories:
+MetacelloFetchingMCSpecLoader>>#atomicLoadPackageSpecs:repositories:
+RelationSlot class>>#named:inverse:inClass:
+GroupboxMorph>>#replaceContentMorph:
+RubSegmentMorph>>#vertices:color:borderWidth:borderColor:
+Context class>>#newForMethod:
+Context class>>#newFromFrameSize:
+KomitDefinition class>>#definition:
+RemoteTempVectorNode>>#emitCodeForLoadFor:stack:encoder:
+RemoteTempVectorNode>>#sizeCodeForLoadFor:encoder:
+KomitClass class>>#trackedClass:forExtension:
+KomitClass class>>#trackedClass:
+FilteredMorphTreeModel>>#updateList
+RxsLookaround>>#initializePiece:
+DisplayScreen>>#setExtent:depth:
+DisplayScreen>>#fullBoundingBox
+DisplayScreen>>#copyFrom:
+DisplayScreen>>#fullscreen
+MBSpecInfo class>>#spec:
+ProcessLocalSlot>>#write:to:
+ProcessLocalSlot>>#initialize:
+PluggableTextAttribute class>>#evalBlock:
+AthensTextMorph>>#contents:wrappedTo:
+WriteStream>>#with:
+WriteStream>>#nextBytesPutAll:
+Heap class>>#new:
+KomitMethod class>>#method:
+EditableDropListMorph class>>#on:list:selected:changeSelected:useIndex:addToList:class:getEnabled:default:
+TextMorphForEditView>>#autoScrollView:
+TempVariableNode>>#name:index:type:scope:
+FLProxyThatBecomesItsContent>>#initializeWith:
+SyntaxErrorDebugger>>#release
+KomitterManager class>>#current
+FLIteratingCluster>>#printNameOn:
+String>>#alike:

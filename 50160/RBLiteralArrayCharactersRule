@@ -1,0 +1,28 @@
+StandardFonts class>>#fixSmallDejaVuPunctuationMarks
+RBSmalllintTestObject>>#literalArrayCharacters
+RubCodeSizeFeedback>>#textSize
+RBRefactoryTestDataApp>>#literalArrayCharacters
+ArrayTest>>#testFlattened
+GLMTreePresentationTest>>#testValidatePorts
+GLMTreePresentationTest>>#testValidateOn
+RunArrayTest>>#testRunLengthAt
+RunArrayTest>>#testRunsValues
+RunArrayTest>>#testFirst
+RunArrayTest>>#testLast
+RunArrayTest>>#testNewFrom
+RunArrayTest>>#testWithStartStopAndValueDo
+UnixResolver>>#xdgParseUserDirLine:
+WindowsStore>>#checkName:fixErrors:
+ScriptLoader class>>#latestVersionOf:location:
+SystemOrganizerTest>>#testThatExistingPackagenamesDoesNotContainIllegalCharacters
+ZnBase64Encoder class>>#initialize
+STONReader>>#parseEscapedCharacter
+ZnRequest>>#cookies
+RxsPredicate>>#bePunctuation
+GLMUpdateMorphicTest>>#testAnnouncerUnregistration
+StringTest>>#setUp
+LocaleID class>>#isoString:
+MethodPragmaTest>>#testCompileCharacter
+OrderedCollectionTest>>#testFlattened
+ZnUtils class>>#parseHttpDate:
+TEnumeratingTest>>#testFlattened

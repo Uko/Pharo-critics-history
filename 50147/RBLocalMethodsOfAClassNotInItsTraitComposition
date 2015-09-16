@@ -1,0 +1,7 @@
+StringMorph>>#rotationDegrees
+StringMorph>>#setDirectionFrom:
+StringMorph>>#heading
+StringMorph>>#rotationDegrees:
+StringMorph>>#forwardDirection:
+StringMorph>>#prepareForRotating
+StringMorph>>#forwardDirection

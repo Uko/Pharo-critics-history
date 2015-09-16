@@ -1,0 +1,421 @@
+GLMAbstractWizardStep>>#decrementNumberOfDisplay
+GLMAbstractWizardStep>>#incrementNumberOfDisplay
+CairoFontFace>>#synthesizeBold
+CairoFontFace>>#synthesizeBoldAndOblique
+CairoFontFace>>#synthesizeOblique
+OSWindowAttributes>>#initialize
+NativeBoostConstants class>>#currentPlatformId
+SmallDictionary>>#empty
+NBPointerArgumentsTests class>>#reset
+GLMLogger class>>#reset
+IncrementalSliderMorph>>#increment
+FLSingletonMock class>>#reset
+MTVersion>>#mcVersion
+RPackage>>#unregister
+RPackage>>#register
+FreeTypeFont>>#clearCachedMetrics
+MultiByteBinaryOrTextStream>>#binary
+MultiByteBinaryOrTextStream>>#text
+MultiByteBinaryOrTextStream>>#ascii
+HMAC>>#destroy
+MetacelloProjectSpecLoadConflict>>#versionString
+MetacelloProjectSpecLoadConflict>>#possibleVersions
+Abort>>#defaultAction
+PluggableTextFieldMorph>>#closeChooser
+PluggableTextFieldMorph>>#openChooser
+MCFileTreeWriter class>>#readerClass
+BitBltClipBugsTest>>#testDrawingWayOutside5
+BitBltClipBugsTest>>#testFillingWayOutside3
+BitBltClipBugsTest>>#testDrawingWayOutside6
+BitBltClipBugsTest>>#testDrawingWayOutside2
+BitBltClipBugsTest>>#testFillingWayOutside
+BitBltClipBugsTest>>#testFillingWayOutside2
+BitBltClipBugsTest>>#testDrawingWayOutside4
+BitBltClipBugsTest>>#testDrawingWayOutside
+BitBltClipBugsTest>>#testDrawingWayOutside3
+CatalogProvider>>#refresh
+SlotClassBuilderWarning>>#defaultAction
+MetacelloLoaderPolicy>>#resetCacheGofer
+ZnLimitedReadStream>>#binary
+ZnLimitedReadStream>>#reset
+ZnLimitedReadStream>>#ascii
+PasteUpMorph>>#removeModalWindow
+PasteUpMorph>>#useRoundedCorners
+AthensBalloonImagePaint>>#repeat
+TextMorph>>#select
+TextMorph>>#selectAll
+Transcripter>>#compose
+Transcripter>>#display
+Transcripter>>#clear
+Generator>>#close
+GTSpotterHeaderBrick>>#openSettingsBrowser
+InflateStream>>#close
+NativeBoost class>>#clearNativeCode
+AJOperand>>#clearId
+AJOperand>>#size
+LogicalFont>>#forceNotItalic
+LogicalFont>>#forceItalicOrOblique
+LogicalFont>>#forceBold
+LogicalFont>>#clearRealFont
+LogicalFont>>#forceNotBold
+KMComposedModifier>>#updateIdentifier
+SharedQueue>>#removeAll
+SharedQueue>>#flush
+NECSymbols class>>#resetCachedSymbols
+GLMDropListModel>>#resetData
+GLMEmptyPopupBrick>>#addContentBricks
+ZipArchiveMember>>#clearExtraFields
+MorphTreeMorph>>#enable
+MorphTreeMorph>>#disable
+WeakFinalizerItem>>#clear
+UITheme class>>#resetDefaultSettings
+UITheme class>>#resetAllDefaultSettings
+ProtocolClient>>#logProgressToTranscript
+ZnCharacterWriteStream>>#cr
+ZnCharacterWriteStream>>#flush
+ZnCharacterWriteStream>>#space
+ZnCharacterWriteStream>>#lf
+ZnCharacterWriteStream>>#tab
+ZnCharacterWriteStream>>#crlf
+ZnStreamingEntity>>#consumeContent
+NewListAdapter>>#value
+BaseStreamTest>>#baseStreamType
+GTSpotter class>>#showPreview
+GTSpotter class>>#dontShowPreview
+GTSpotter class>>#markOpened
+BlockNode>>#returnNilIfNoOther
+BlockNode>>#returnLast
+GTSpotterEventRecorderSettings class>>#reset
+AJInstructionDecoration>>#end
+AJInstructionDecoration>>#start
+Exit>>#defaultAction
+Exit>>#printMessage
+ExternalSemaphoreTable class>>#clearExternalObjects
+AlphaImageMorph>>#updateImage
+NOCDatedEntry>>#unlink
+NOCDatedEntry>>#now
+CacheStatistics>>#addMiss
+CacheStatistics>>#addHit
+ZnChunkedReadStream>>#binary
+ZnChunkedReadStream>>#reset
+StreamBugsTest>>#testReadWriteStreamNextNBug
+ZnResponse>>#setContentEncodingGzip
+ZnResponse>>#setTransferEncodingChunked
+Session class>>#reset
+PluggableToggleButtonMorph>>#bePressed
+TxStyle>>#removeAll
+GLMTreePresentation>>#rootsExpanded
+GLMTreePresentation>>#allExpanded
+MCPatchOperation>>#beNonConflict
+MCPatchOperation>>#clearChoice
+MCPatchOperation>>#beConflict
+MCPatchOperation>>#chooseNewer
+MCPatchOperation>>#chooseRemote
+MCPatchOperation>>#chooseOlder
+MCPatchOperation>>#chooseLocal
+CannotDecompileNativeBoostCalls>>#defaultAction
+FTTableMorph>>#beSingleSelection
+FTTableMorph>>#beMultipleSelection
+FTTableMorph>>#disableSearch
+FTTableMorph>>#denyDeselection
+FTTableMorph>>#enableSearch
+FTTableMorph>>#allowDeselection
+AJx87Register>>#influencingRegisters
+FreeTypeSettings>>#clearBitBltSubPixelAvailable
+FreeTypeSettings>>#clearForceNonSubPixelCount
+GTSpotterPreviewBrick>>#onThemerChanged
+OSTouchGestureNeedingThreshold class>>#initialize
+LimitingLineStreamWrapper>>#updatePosition
+LimitingLineStreamWrapper>>#skipThisLine
+GLMStringBrick>>#beBold
+GLMStringBrick>>#beRegular
+CompiledMethod>>#clearSignFlag
+CompiledMethod>>#setSignFlag
+CompiledMethod>>#clearFlag
+CompiledMethod>>#flushCache
+TextEditorTest>>#testSetSearchString
+TextEditorTest>>#testCursorEnd
+FreeTypeCache class>>#clearCurrent
+FreeTypeCache class>>#initialize
+MCRepositoryGroup>>#disableCache
+ChangesLog class>>#reset
+OSSDL2WindowHandle>>#title
+ImageMorph>>#withSnapshotBorder
+GTSpotterExceptionsTest class>>#reset
+ZnHeaders>>#clearContentType
+ZnHeaders>>#clearContentLength
+RPackageSet>>#unregister
+AbstractNautilusUI>>#updateCodePanel
+IconicButton>>#borderInset
+IconicButton>>#borderRaised
+IconicButton>>#shedSelvedge
+MIMEDocument>>#discardContents
+StringMorph>>#fitContents
+Nautilus class>>#resetGroups
+MultiByteFileStream>>#binary
+MultiByteFileStream>>#ascii
+Monitor>>#cleanup
+MemoryFileSystemFile>>#truncate
+LongTestCase class>>#runLongTestCases
+LongTestCase class>>#doNotRunLongTestCases
+EventManager>>#releaseActionMap
+SpecInterpreter class>>#hardResetBindings
+AthensDemoMorph>>#prevFigure
+AthensDemoMorph>>#nextFigure
+AthensDemoMorph>>#step
+ClassListNodeExample>>#browseItem
+ClassListNodeExample>>#inspectItem
+ClassListNodeExample>>#exploreItem
+MorphTreeNavigationBar>>#updateContents
+NOCModel>>#useUniqueTable
+NOCModel>>#addSelectors
+NOCModel>>#noNextModel
+NOCModel>>#contract
+NOCModel>>#expand
+RBSearchTest>>#buildSimpleLiteralSearch
+RBSearchTest>>#buildMethodArgumentSearch
+RBSearchTest>>#setUp
+RBSearchTest>>#buildArgumentSearch
+RBSearchTest>>#buildMessageSearch
+RBSearchTest>>#buildStatementSearch
+RBSearchTest>>#buildMethodTitleSearch
+RBSearchTest>>#buildSimpleVariableSearch
+RBSearchTest>>#buildMethodSearch
+TEnableOnHaloMenu>>#enabled
+FTPClient class>>#rawResponseCodes
+ASTCache class>>#reset
+RPackageTag>>#removeFromPackage
+RPackageTag>>#ensureSystemCategory
+MorphTreePager>>#nextPage
+MorphTreePager>>#previousPage
+RubGhostTextDisplayer>>#bold
+PluggableButtonMorph>>#beIconTop
+PluggableButtonMorph>>#performAction
+PluggableButtonMorph>>#beIconLeft
+PluggableButtonMorph>>#enable
+PluggableButtonMorph>>#beIconRight
+PluggableButtonMorph>>#beIconBottom
+PluggableButtonMorph>>#disable
+SDL2TouchStateMachine>>#initialize
+GLMCompositePresentation>>#clear
+Group>>#beReadOnly
+Locale>>#determineLocale
+AthensCairoPatternPaint>>#reflect
+AthensCairoPatternPaint>>#repeat
+AthensCairoPatternPaint>>#noRepeat
+Editor>>#userHasEdited
+GLMTextualPresentation>>#selectLine
+DockingBarToggleMenuItemMorph>>#updateLayoutInDockingBar
+DockingBarToggleMenuItemMorph>>#ownerChanged
+DockingBarMorph>>#adhereToLeft
+DockingBarMorph>>#adhereToRight
+DockingBarMorph>>#beFloating
+DockingBarMorph>>#adhereToBottom
+DockingBarMorph>>#adhereToTop
+LogicalFontManager class>>#unload
+MCNoChangesException>>#defaultAction
+ProgressBarMorph>>#increment
+ProgressBarMorph>>#decrement
+SimpleHierarchicalListMorph>>#collapseAll
+RubScrolledTextMorph>>#withFocusBorder
+RubScrolledTextMorph>>#withoutFocusBorder
+RubScrolledTextMorph>>#beReadOnly
+RubScrolledTextMorph>>#beEditable
+RubScrolledTextMorph>>#beForSmalltalkScripting
+GLMHorizontalLinearLayout class>>#reset
+GLMTransmission>>#ensureReplacePresentationsStrategy
+GLMTransmission>>#ensurePresentIfNoneStrategy
+AJx64RipRegister>>#index
+AJx64RipRegister>>#code
+NullStream>>#binary
+NullStream>>#contents
+NullStream>>#ascii
+ZnBivalentWriteStream>>#space
+ZnBivalentWriteStream>>#flush
+RubPluggableTextMorph>>#promptForCancel
+MorphTreeMorphSingleSelection>>#empty
+DiffMorph>>#showBoth
+TransferMorph>>#move
+VSCommitUnit>>#refresh
+GLMMorphicModel>>#announcer
+ClassTreeNodeExample>>#browseItem
+ClassTreeNodeExample>>#inspectItem
+ClassTreeNodeExample>>#exploreItem
+InteractiveResolver>>#flushLocalCache
+PackageMethodNodeExample>>#browseItem
+NOCCompletionTable>>#reset
+ChangesLog>>#recordStartupStamp
+FTSearchFunction>>#resetAndFocusOwner
+FTSearchFunction>>#accept
+GLMTreeMorphModel>>#toggleAmountToFilterBy
+GLMTreeMorphModel>>#updateRoots
+ZnServerSession>>#touch
+FLReplacementMock>>#dontIgnoreMe
+GLMPanePort>>#resetValue
+MetacelloProjectRegistration class>>#resetRegistry
+MetacelloProjectRegistration class>>#primeRegistryFromImage
+GLMListingPresentation>>#whiteRectangledTags
+GLMListingPresentation>>#grayRoundedTags
+RubEditingState>>#unselect
+TextAttribute>>#reset
+AssemblyManifest class>>#packageName
+ZnRequest>>#setAcceptEncodingGzip
+RWBinaryOrTextStream>>#binary
+RWBinaryOrTextStream>>#text
+RBTransformationRuleTest>>#resetResult
+OSTouchGestureFactory>>#deviceId
+OSTouchGestureFactory>>#eventHandler
+MorphTreeColumnButton>>#noMorePotentialDropTarget
+MorphTreeColumnButton>>#removeIcon
+MorphTreeColumnButton>>#asPotentialDropTarget
+GTSpotterGlobalShortcut class>>#openGlobalSpotter
+GTSpotterGlobalShortcut class>>#openGlobalSpotterDebug
+TextEmphasis>>#turnOff
+PackageClassNodeExample>>#browseItem
+GLMTextPresentation>>#forSmalltalk
+MczInstaller>>#recordVersionInfo
+Morph>>#toggleResistsRemoval
+Morph>>#unlockContents
+Morph>>#beSticky
+Morph>>#highlight
+Morph>>#beTransparent
+Morph>>#toggleLocked
+Morph>>#unlock
+Morph>>#beUnsticky
+Morph>>#lock
+NBFFICallout>>#useEmitCall
+PSMCPatchOperationWrapper>>#chooseLocal
+PSMCPatchOperationWrapper>>#chooseRemote
+RBProgramNode class>>#resetFormatter
+ZnBasicAuthenticator>>#removeAll
+EditingState>>#unselect
+ASTCache>>#reset
+TransformMorph>>#smoothingOn
+TransformMorph>>#smoothingOff
+RBToken>>#removePositions
+OSVMWindowHandle>>#initialize
+SettingTree>>#updateList
+ZnClient>>#resetCookies
+PackageAbstractNodeExample>>#browseItem
+PackageAbstractNodeExample>>#doubleClick
+PackageAbstractNodeExample>>#inspectItem
+PackageAbstractNodeExample>>#exploreItem
+TxScrollbarDecorator>>#sliderScrollBackward
+TxScrollbarDecorator>>#sliderScrollForward
+NBNativeFunction>>#uninstall
+GLMOriginPortReference>>#beActive
+GLMOriginPortReference>>#bePassive
+PolygonMorph>>#toggleOpenOrClosed
+HistoryIterator>>#reset
+MockFinalizerAction>>#finalize
+MockFinalizerAction>>#finalizeValues
+FLAnalyzer>>#useLightMappers
+Stream>>#flush
+MCMethodDefinition>>#load
+GLMAnnouncer>>#resetAnnouncer
+RubShoutStylerDecorator>>#beForSmalltalkScripting
+TextConverter class>>#initializeLatin1MapAndEncodings
+MBInfo>>#browseValidationResults
+AthensFontDescription>>#beBold
+AthensFontDescription>>#beNormal
+AthensFontDescription>>#beItalic
+AthensFontDescription>>#beOblique
+DialogItemsChooser>>#sendSelection
+GLMPresentation>>#useExplicitAllNil
+GLMPresentation>>#useExplicitNotNil
+GLMPresentation>>#useImplicitAllNil
+GLMPresentation>>#useImplicitNotNil
+AJCallInfo>>#disableCleanup
+JPEGReadStream>>#resetBitBuffer
+JPEGReadStream>>#reset
+CompiledMethodTrailer>>#setSourceBySelector
+GLMEvaluateSelection>>#makeSyncronous
+GLMEvaluateSelection>>#initialize
+GroupIcon class>>#reset
+MorphTreeMorphMultipleSelection>>#empty
+ReadStream>>#ascii
+NewValueHolder>>#valueChanged
+BorderedMorph>>#borderInset
+BorderedMorph>>#borderRaised
+BorderedMorph>>#useSquareCorners
+GLMTBlockTags>>#tagsFilterBlock
+GLMTBlockTags>>#tagsBlock
+FreeTypeFileInfoAbstract>>#extractAttributesFromNames
+GLMBrickLayoutProperties>>#markDirty
+GLMBrickLayoutProperties>>#markClean
+FileSystemResolver>>#flushCaches
+FileSystemResolver>>#flushLocalCache
+AbstractClassModification>>#checkSanity
+VTermOutputDriver>>#clear
+GTSpotterEventRecorder class>>#cleanUp
+GTSpotterEventRecorder class>>#reset
+FileDialogWindow>>#answerDirectory
+RubTextSegmentMorph>>#beExtendable
+RubTextSegmentMorph>>#beChangeable
+RPackageObsoleteTest>>#setNotRun
+DangerousClassNotifier class>>#enable
+DangerousClassNotifier class>>#disable
+DangerousClassNotifier class>>#initialize
+TextEntryDialogWindow>>#withDropListButton
+GLMAction>>#withSeparatorAfter
+GLMAction>>#withSeparatorBefore
+GLMTreeMorphNodeModel>>#expandParentPath
+MessageNotUnderstood>>#defaultAction
+MCCacheRepository>>#rescan
+TextStyle>>#rightFlush
+TextStyle>>#leftFlush
+TextStyle>>#centered
+TextStyle>>#justified
+WriteStream>>#next
+ChangeSet>>#removePostscript
+ChangeSet>>#editPostscript
+SparseLargeTable>>#zapDefaultOnlyEntries
+GLMVerticalLinearLayout class>>#reset
+DebugAction>>#withSeparatorAfter
+SystemSettingLauncher>>#launch
+FLPair>>#method2
+FLPair>>#methodWithTemp
+FLPair>>#method1
+EntryCompletion>>#closeChooser
+EntryCompletion>>#positionChooser
+MorphTreeModel>>#enable
+MorphTreeModel>>#beCheckList
+MorphTreeModel>>#disable
+StrikeFont class>>#setupDefaultFallbackFont
+FLBufferedWriteStream>>#flush
+ZnMessage>>#clearEntity
+ZnMessage>>#setConnectionKeepAlive
+ZnMessage>>#setConnectionClose
+GTSnippets class>>#reset
+SystemVersion>>#resetHighestUpdate
+GLMSmalltalkCodePresentation>>#updateVariableBindings
+UpdateStreamer>>#beVerbose
+UpdateStreamer>>#beSilent
+WaitfreeQueue>>#removeAll
+WaitfreeQueue>>#flush
+ZnBufferedWriteStream>>#space
+ZnBufferedWriteStream>>#tab
+ZnBufferedWriteStream>>#flush
+MCMcmReader>>#loadVersionInfo
+MCMcmReader>>#loadConfiguration
+GeneralScrollBar>>#showAlways
+GeneralScrollBar>>#showNever
+GeneralScrollBar>>#showWhenNeeded
+AJMMRegister>>#influencingRegisters
+SDL2TouchExample>>#osWindow
+SDL2TouchExample>>#initializeFromSurface
+TViewModel>>#announcer
+ZnServerSessionManager>>#cleanupInvalidSessions
+BalloonEngine class>>#resetBezierStats
+BalloonEngine class>>#printStats
+BalloonEngine class>>#printBezierStats
+BalloonEngine class>>#resetStats
+Year>>#daysInMonth
+FileSystemStore class>>#delimiter
+FileSystemStore class>>#separator
+SourceCodeFonts class>>#setSourceCodeFontsDefault
+SourceCodeFonts class>>#useSourceCode
+ZnEntityReader>>#binary
+ZnEntityReader>>#allowReadingUpToEnd
+ZnEntityReader>>#streaming
+HTTPProgress>>#beComplete

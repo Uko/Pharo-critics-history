@@ -1,0 +1,395 @@
+AthensCWArcSegment>>#accept:
+ClassTraitTest>>#testInitialization
+ClassTraitTest>>#testConflictsAliasesAndExclusions
+ClassTraitTest>>#testChanges
+NBExternalTypeValue>>#emitCopyUsingLoop:
+MCWorkingCopyBrowser>>#workingCopySearchAdd:
+NECPreferences class>>#currentController
+ProcessBrowser class>>#registerWellKnownProcesses
+InstructionStream>>#interpretNextSistaV1InstructionFor:
+TimeMeasuringTest>>#measure:
+CodeImporter class>>#chunksFromFileNamed:
+MTVersion>>#acceptVisitor:
+Locale class>>#initKnownLocales
+FLSerializationTest>>#resultOfSerializeAndMaterializeMethod:
+GTSpotterRecorderDiveOutEvent>>#accept:
+NBWndClassEx>>#initialize
+RubSmalltalkEditor>>#spawn
+RubSmalltalkEditor>>#prettyPrint
+RBSmalllintTestObject>>#uncommonMessageSend
+RBSmalllintTestObject>>#fileBlocks
+RBRefactoryTestDataApp>>#inlineFailed
+RBRefactoryTestDataApp>>#fileBlocks
+RBRefactoryTestDataApp>>#inlineComponent
+TraitPureBehaviorTest>>#testPropagationOfChangesInTraits
+TraitPureBehaviorTest>>#testChangeSuperclass
+TraitPureBehaviorTest>>#testRemovingMethods
+TraitPureBehaviorTest>>#testSuperSends
+TraitPureBehaviorTest>>#testPropagationOfChangesInTraitsToAliasMethodsWhenOriginalMethodIsExcluded
+TraitPureBehaviorTest>>#testPropagationOfChangesInTraitsToAliasMethods
+NBUInt32>>#pushAsValue:
+AthensLineSegment>>#accept:
+SocketStream class>>#finger:
+TraitFileOutTest>>#testRemovingMethods
+AbstractTool>>#createInstVarAccessorsOf:
+AbstractTool>>#browseVersionsFrom:
+AbstractTool>>#createInitializerWithInstVarsOf:
+AJCallArgument>>#accept:
+SlotBasicTest>>#testWithSharedVariable
+SUnitExtensionsTest>>#testNoExceptionWithNoMatchingString
+SUnitExtensionsTest>>#testNoExceptionWithMatchingString
+GTSpotterRecorderContextChangedEvent>>#accept:
+PasteUpMorph>>#defaultDesktopCommandKeyTriplets
+PasteUpMorph>>#keystrokeInWorld:
+GLMExamplesBrowser>>#exampleIn:
+TextMorph>>#handleKeystroke:
+TextMorph>>#reverseCurveDirection
+AthensBalloonPath>>#paintStrokeUsing:on:
+AJReleaseTemps>>#accept:
+TxAthensRenderingTest class>>#test
+NBExternalEnumTests>>#callbackAAA
+NBExternalEnumTests>>#testNotEnumMember
+NBExternalEnumTests>>#testEnumToInt
+NBExternalEnumTests>>#testEnumIdents
+AJData>>#accept:
+AthensPolygon>>#paintFillsUsing:on:
+NBFFIExternalUnionTests>>#testReturnUnionWithStructStruct
+NBFFIExternalUnionTests>>#testReturnUnion1Byte
+NBFFIExternalUnionTests>>#testReturnUnionUnionInt
+NBFFIExternalUnionTests>>#testReturnUnionWithStructInt
+NBFFIExternalUnionTests>>#testReturnUnion2Pointers
+NBFFIExternalUnionTests>>#testUnionWithUnion
+NBFFIExternalUnionTests>>#testReturnUnionUnionDouble
+MorphTreeMorph>>#selectItemsRequest:
+MorphTreeMorph>>#nodeExpandRequest:
+GLMFormBrick>>#asFormValue
+FileList>>#acceptDroppingMorph:event:inMorph:
+FileList>>#servicesFromSelectorSpecs:
+FileList>>#contents
+AJx86AssemblerTests>>#testAssembly1
+AJx86AssemblerTests>>#testFXCH
+AJx86AssemblerTests>>#setUpDataBytesAlign:
+AJx86AssemblerTests>>#testDataDouble
+AJx86AssemblerTests>>#testJumps
+AJx86AssemblerTests>>#testDataWord
+AJx86AssemblerTests>>#testStringOpMnemonics
+AJx86AssemblerTests>>#testMOVCMPSD
+RBLintRuleTest>>#runOnEnvironment:
+GlyphRenderer class>>#test
+TestCase>>#announce:
+DialogGroupManagerUI>>#newContentMorph
+GTSpotterRecorderActOnEvent>>#accept:
+ReflectiveMethod>>#installLink:
+ByteString>>#nbBeginsWithByteString:
+AJStackAlignmentTests>>#testJumps
+MCGitHubRepository>>#directoryDescription
+ArrayedCollection>>#writeOnGZIPByteStream:
+NBInt64>>#pushAsValue:
+AJInstructionDecoration>>#accept:
+TextURL>>#actOnClick:for:in:editor:
+NBNativeCodeGen>>#generatedCode
+TxModel>>#applyAttribute:to:
+NBPointerArgumentsTests>>#testEnumCase2ExternalAddress
+NBPointerArgumentsTests>>#testEnumDirectly
+NBPointerArgumentsTests>>#testEnumCase3ExternalAddress
+NBPointerArgumentsTests>>#testEnumCase4ExternalAddress
+NBPointerArgumentsTests>>#structValue:
+NBPointerArgumentsTests>>#testEnumCase1ExternalAddress
+NBPointerArgumentsTests>>#testEnumCase4ByteArray
+NBPointerArgumentsTests>>#testEnumCase2ByteArray
+NBPointerArgumentsTests>>#testEnumCase3ByteArray
+NBPointerArgumentsTests>>#testEnumCase1ByteArray
+NBBasicExamples class>>#returnInstVar:from:
+ChangeSet class>>#promptForDefaultChangeSetDirectoryIfNecessary
+MCCodeTool>>#browseVersions
+NBExternalString>>#coerceReturnValue:
+NBExternalString>>#prepareArgumentUsing:
+TraitMethodDescriptionTest>>#testConflictMethodCreation
+GTSpotterRecorderShowPreviewEvent>>#accept:
+TxSelectionChangeOperation>>#reversed
+BuilderManifestTest>>#testAddAllToDo
+BuilderManifestTest>>#testResetToDo
+BuilderManifestTest>>#testResetFalsePositive
+BuilderManifestTest>>#testAddAllFalsePositive
+ConfigurationOfRubric class>>#ensureMetacello
+Form class>>#unload
+Form class>>#initialize
+AthensCCWArcSegment>>#accept:
+ProcessBrowser>>#messageTally
+ProcessBrowser>>#explorePointers
+CompiledMethod>>#installLink:
+CodeSimulationTests>>#testDNU
+SystemWindow>>#labelHeight
+AthensCairoSurface class>>#testLockSurface:pitch:x:y:w:h:
+AthensCairoSurface class>>#initializeForNewSession
+AthensCairoSurface class>>#testGetSurfaceFormat:width:height:depth:isMSB:
+DatePrintFormatTester>>#assert:description:resumable:
+OSSDL2WindowHandle>>#setDraggableArea:
+OSSDL2WindowHandle>>#visitKeyUpEvent:
+OSSDL2WindowHandle>>#visitMouseMotionEvent:
+OSSDL2WindowHandle>>#visitKeyDownEvent:
+OSSDL2WindowHandle>>#visitWindowEvent:
+NativeBoost>>#generateCallgateCode
+NativeBoost>>#memCopy:to:size:
+TestRunner>>#excludeClassesNotUnderTestFrom:
+TestRunner>>#collectCoverageFor:
+AbstractEyeElement>>#explorePointers
+AbstractNautilusUI>>#mergeGroups
+TimeTest>>#testGeneralInquiries
+PSMCClassChangeWrapper>>#remoteChosen
+SlotExampleTest>>#testExampleSlotWithState
+SlotExampleTest>>#testAccessorInstanceVariableSlot
+RBTransformationRuleTest class>>#initializeAfterLoad1
+RBTransformationRuleTest class>>#rewrite:methods:name:
+AJCallCleanup>>#accept:
+StringMorph>>#launchEditor:
+SpecDebuggerStack>>#browseVersions
+GLMWhitespaceTheme class>>#importIcons:fromFolder:inClass:category:
+RBMoveInstVarToClassRefactoring>>#transform
+KeymapBuilderTest class>>#keymapEventBuilderClass
+HDCoverageReport>>#generatePackage:class:on:
+NBUTF8StringExample>>#prepareArgumentUsing:
+AJGeneratedCode>>#labels:
+OSSDL2MultiTouchDriver>>#visitFingerDownEvent:
+OSSDL2MultiTouchDriver>>#visitFingerUpEvent:
+OSSDL2MultiTouchDriver>>#visitFingerMotionEvent:
+AJJumpLabel>>#accept:
+MetacelloToolBox>>#baselineNamed:
+LazyListMorph>>#drawOnAthensCanvas:
+GLMFinder>>#passivelyFromPrevious:
+GLMFinder>>#fromPrevious:
+NBNativeFunctionGen>>#generateInstructions:
+NBNativeFunctionGen>>#prepareArguments
+NBNativeFunctionGen>>#epilogue
+MockLessonView>>#showTutorialNode:
+Parser>>#externalFunctionDeclaration
+Parser>>#externalType:
+BIConfigurableFormatter>>#traditionalBinaryPrecedenceArray:
+UnlimitedInstanceVariableSlotTest>>#testExampleIvarSlot
+GTSpotterRecorderHidePreviewEvent>>#accept:
+GLMMorphicTest>>#send:mouseDownWithShift:onItem:
+GLMMorphicTest>>#wait:until:evaluatesTo:
+ScriptLoader class>>#gofer
+TabBar>>#selectLastTab
+GTSpotterStackedLayout>>#layoutAllowedTop:
+GTSpotterStackedLayout>>#layoutAllowedBottom:
+NautilusUI class>>#initializeCache
+GLMAlertBrick>>#alert:
+GTSpotterRecorderSelectedCandidateChangedEvent>>#accept:
+WorkingCopyToolBar>>#setConfigButton
+WorkingCopyToolBar>>#setSliceButton
+ScriptLoader>>#doneApplyingChangesSilentlyIssues:preLoad:postLoad:
+ScriptLoader>>#gofer
+FinderUI>>#versionsButtonAction
+DualChangeSorterApplication class>>#menuCommandOn:
+SelectionMorph>>#undoMove:redo:owner:bounds:predecessor:
+AJx86InstructionDescription>>#emitcjmp:operand1:operand2:operand3:
+AJx86InstructionDescription>>#emitbswap:operand1:operand2:operand3:
+AJx86InstructionDescription>>#emitxchg:operand1:operand2:operand3:
+AJx86InstructionDescription>>#emitcall:operand1:operand2:operand3:
+AJx86InstructionDescription>>#emitjmp:operand1:operand2:operand3:
+AJRoutineStackManager>>#emitEpilogue:assembler:
+RingChunkImporter>>#removedMethod:with:
+AJx64AssemblerTests>>#testAssembly1
+AJx64AssemblerTests>>#testStringOps64Mnemonics
+AJx64AssemblerTests>>#testJumps
+AJx64AssemblerTests>>#testAssembly2
+AJx64AssemblerTests>>#testXorInvalid
+RubEditingState>>#addUndoRecord:
+RubAbstractTextArea>>#handleKeystroke:
+AthensInteractiveScene>>#eventHandledByScene:
+BehaviorTest>>#testCompile
+Context>>#doPrimitive:method:receiver:args:
+Context>>#copyTo:blocks:
+ChunkImportTestCase>>#testImportAMethod
+ChunkImportTestCase>>#testImportAMethodWithNoTimestamp
+GLMSingleSpotterRequest>>#handleWith:
+SelfEyeElement>>#customSubMenu:
+InterpolatedGradientFillStyle>>#computePixelRampOfSize:
+TAssertable>>#assert:description:resumable:
+NBInterpreterProxy>>#canUseDirectProxyFnAddress
+NBInterpreterProxy>>#gatedCallFn:
+NBInterpreterProxy>>#callFn:
+NBInterpreterProxy>>#canUseStackPointer
+PSMCPatchMorph>>#browseVersions
+RBTransformationRuleTest>>#superSends
+MetacelloPharoCommonPlatform>>#extractRepositoryFrom:to:
+MetacelloPharoCommonPlatform>>#downloadFile:to:
+MetacelloPlatform>>#ensureDirectoryExists:
+MetacelloPlatform>>#string:includesSubstring:
+MetacelloPlatform>>#suspendSystemUpdateEventsDuring:
+MetacelloPlatform>>#newVersionForWorkingCopy:
+MetacelloPlatform>>#parentDirectoryOf:
+MetacelloPlatform>>#directoryFromPath:relativeTo:
+GLMWizard>>#valueOf:
+GTSpotterRecorderDiveInElementEvent>>#accept:
+AthensCloseSegment>>#accept:
+NBUInt64>>#pushAsValue:
+CriticBrowser>>#methodAdded:
+KMDispatcherTestCase class>>#keymapEventBuilderClass
+GTSpotterRecorderCategorySelectedEvent>>#accept:
+AthensCairoCanvas>>#visitCubicSegment:
+AthensCairoCanvas>>#visitQuadSegment:
+Morph>>#showActions
+GTSpotterRecorderOpenEvent>>#accept:
+NBFFICallout>>#newCallInfo
+NBFFICallout>>#generateInstructions:
+NBFFICallout>>#generateCallToAddress:
+MenuRegistrationExample class>>#mostUsedToolsOn:
+InputEventSensor>>#processMenuEvent:
+OSSDL2AthensRenderer>>#updateAll
+WorldState class>>#mostUsedToolsOn:
+EditingState>>#addUndoRecord:
+AJJumpInstruction>>#accept:
+FreeTypeFontProvider>>#getWindowsFontFolderPath
+NBFFIExternalStructTests>>#testExternallyAllocatedStructure
+NBFFIExternalStructTests>>#testStructAccess
+NBFFIExternalStructTests>>#testReturnStruct1Byte
+NBFFIExternalStructTests>>#testNestedStructure
+NBFFIExternalStructTests>>#testReturnStruct9Bytes
+NBFFIExternalStructTests>>#testStructWithPointerAccess
+AJMem>>#emit32BitAbsoluteDisplacementModRM:code:
+AthensMoveSegment>>#accept:
+NBExternalAddressTests>>#testAddressAndStruct
+NBExternalAddressTests>>#testStructCopy
+NBExternalObjectType>>#coerceReturnValue:
+RubTextEditor>>#hiddenInfo
+RubTextEditor>>#lastParagraphStyle
+RubTextEditor>>#currentCharacterStyleOrNil
+RubTextEditor>>#currentParagraphStyle
+ZnDefaultServerDelegate>>#vmStats
+GLMWizardGenericStep>>#numberOfDisplay
+PolygonMorph>>#intersects:
+BalloonEngine>>#registerFills:
+GTSpotterRecorderSearchFinishedEvent>>#accept:
+ToolRegistry>>#openMonticelloBrowser
+ToolRegistry>>#openRecentChangesLog
+ToolRegistry>>#codeCompletionAround:textMorph:keyStroke:
+MCMethodDefinition>>#postloadOver:
+DynamicSpecExample>>#openOnInteger
+CairoFontMetricsProvider>>#getGlyphWidth:
+GLMPresentation>>#addSelectionOpenBrowserAction:
+GLMPresentation>>#addOpenBrowserAction:
+MetaLinkTest>>#testLinkOptionsDefault
+MetaLinkTest>>#testLinkOption
+ChangeSorterApplication>>#browseChangeSet
+CodeSearchingAcceptor>>#accept:notifying:
+ReCritic>>#fixAutomatically
+RubSegmentMorph>>#intersects:
+SmalltalkEditor>>#spawn
+CompiledMethodTrailer>>#sourceCode
+Pharo3Theme class>>#importIcons:fromFolder:inClass:category:
+CairoFreetypeFontRenderer>>#getGlyphWidth:
+MethodPragmaTest>>#testPrimitiveNamedErrorCode2
+MethodPragmaTest>>#testPrimitiveNamed2
+MethodPragmaTest>>#testPrimitiveIndexed1
+MethodPragmaTest>>#testPrimitiveIndexed2
+MethodPragmaTest>>#testPrimitiveNamed1
+MethodPragmaTest>>#testPrimitiveNamedErrorCode1
+Object>>#basicInspect
+Object>>#gtInspectorPresentationsIn:inContext:
+PharoCommonTools>>#changeSorterTool
+PharoCommonTools>>#messageListTool
+PharoCommonTools>>#versionBrowserTool
+GTSpotterRecorderExitAnnouncementEvent>>#accept:
+SHParserST80>>#isTokenExternalFunctionCallingConvention
+AthensCairoSDLSurface class>>#fromSDLSurface:
+NBExternalType>>#pushAsPointer:
+NBExternalType>>#coerceNilToNull:oop:doneLabel:
+NBExternalType>>#coerceReturnPointer:
+TxHighlightRenderer>>#shapes
+Pharo3DarkTheme class>>#importIcons:fromFolder:inClass:category:
+AthensEllipticalArcSegment>>#accept:
+AthensDemoMorph class>>#example
+GTSpotterRecorderDiveInCategoryEvent>>#accept:
+BooleanSlotTest>>#testExampleBooleanSlot
+AJRoutinePrologue>>#accept:
+NBExternalArray>>#emitCopyUsingLoop:
+MCFileTreeAbstractReader>>#packageProperties
+SpecPreDebugWindow>>#initializeStackPane
+RBBasicLintRuleTest class>>#variableAssignedLiteral
+RBBasicLintRuleTest class>>#tempsReadBeforeWritten
+RBBasicLintRuleTest class>>#utilityMethods
+RBBasicLintRuleTest class>>#threeElementPoint
+RBBasicLintRuleTest class>>#tempVarOverridesInstVar
+RBBasicLintRuleTest class>>#usesTrue
+RBBasicLintRuleTest class>>#stringConcatenation
+RBBasicLintRuleTest class>>#superSends
+RBBasicLintRuleTest class>>#onlyReadOrWritten
+RBBasicLintRuleTest class>>#collectionMessagesToExternalObject
+RBBasicLintRuleTest class>>#overridesSpecialMessage
+RBBasicLintRuleTest class>>#precedence
+RBBasicLintRuleTest class>>#usesAdd
+RBBasicLintRuleTest class>>#ifTrueReturns
+RBBasicLintRuleTest class>>#endTrueFalse
+RBBasicLintRuleTest class>>#longMethods
+RBBasicLintRuleTest class>>#toDo
+RBBasicLintRuleTest class>>#minMax
+RBBasicLintRuleTest class>>#equalsTrue
+RBBasicLintRuleTest class>>#ifTrueBlocks
+RBBasicLintRuleTest class>>#returnsBooleanAndOther
+RBBasicLintRuleTest class>>#sentNotImplementedInApplication
+RBBasicLintRuleTest class>>#classNameInSelector
+RBBasicLintRuleTest class>>#unreferencedVariables
+RBBasicLintRuleTest class>>#classNotReferenced
+RBBasicLintRuleTest class>>#missingSubclassResponsibility
+RBBasicLintRuleTest class>>#createMatcherFor:method:
+RBBasicLintRuleTest class>>#yourselfNotUsed
+RBBasicLintRuleTest class>>#instVarInSubclasses
+RBBasicLintRuleTest class>>#canCall:in:from:
+RBBasicLintRuleTest class>>#missingYourself
+TraitTest>>#testExplicitRequirementInClassAlwaysTakesPrecedence
+TraitTest>>#testExplicitRequirementDoesNotTakePrecedenceEvenWhenAddingTraits
+TraitTest>>#testAddAndRemoveMethodsInClassOrTrait
+TraitTest>>#testExplicitRequirementWithSuperclassImplementationAndAnotherTrait
+TraitTest>>#testExplicitRequirementWithSuperclassImplementation
+TraitTest>>#testAddAndRemoveMethodsFromSubtraits
+TraitTest>>#testRequirement
+TraitTest>>#testExplicitRequirementDoesNotTakePrecedenceInDeepHierarchy
+TraitTest>>#testExplicitRequirementTakesPrecedenceOverTraitImplementation
+TraitTest>>#testExplicitRequirement
+TraitTest>>#testExplicitRequirementWithSuperclassImplementatiosAlwaysReturnsTheCorrectValue
+NBCallbackCodeGen>>#memCopy:to:size:
+NBCallbackCodeGen>>#generateCallbackLeaveCodeFor:leaveAddr:
+Canvas>>#reset
+TextEditor>>#unapplyAttributesThat:fromWholeParagraph:
+TextEditor>>#hiddenInfo
+TextEditor>>#lastParagraphStyle
+TextEditor>>#currentParagraphStyle
+TextEditor>>#reverseSelection
+TextEditor>>#pluggableYellowButtonActivity:
+TextEditor>>#currentCharacterStyleOrNil
+ResumableTestFailureTestCase>>#errorTest
+NBCoreTests>>#testOptionParsing
+NBCoreTests>>#testPrimitive220
+NBCoreTests>>#return0Code
+SDL_Rect class>>#newX:y:w:h:
+SpecDebugger class>>#initialize
+ChangeSorterModel>>#buildSelectorDescriptionFor:class:selector:prettyPrint:showDiff:
+AthensParagraph>>#compose:style:from:in:
+AJx64InstructionDescription>>#emitcall:operand1:operand2:operand3:
+AJx64InstructionDescription>>#emitbswap:operand1:operand2:operand3:
+RubSmalltalkEditor class>>#compilerFor:
+MCRepositoryInspector>>#packageSelection:
+NBSTIndirectArgument>>#emitLoad:
+AJx86Instruction>>#emitSegmentPrefix:
+BlockClosure>>#timeProfile
+AthensCanvas>>#setMask:
+AthensCanvas>>#clearMask:
+GLMSpotterRequest>>#handleWith:
+SUnitTest>>#error
+SUnitTest>>#errorShouldntRaise
+AthensCubicSegment>>#accept:
+KMKeymapTest class>>#keymapEventBuilderClass
+NBFFICallbackType>>#coerceReturnValue:
+AthensDisplayScanner class>>#on:
+SystemNavigation>>#browseMessageList:name:autoSelect:refreshingBlockSelector:
+SyntaxErrorDebugger>>#release
+AJx86Assembler>>#reg:size:
+AJx86Assembler>>#reg16:
+AJx86Assembler>>#gccDisassemble:
+AJx86Assembler>>#reg32:
+AJx86Assembler>>#reg8:
+AJx86Assembler>>#writeCodeToFile:
+PluggableTextMorph>>#acceptBasic
+GLMPhlowListBrick class>>#example2

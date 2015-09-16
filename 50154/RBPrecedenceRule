@@ -1,0 +1,77 @@
+ZipEncoder>>#bitPosition
+InstructionStream>>#interpretNextV3PlusClosureInstructionFor:
+UTF8TextConverter>>#nextPut:toStream:
+RowLayout>>#minExtentOf:in:
+RowLayout>>#layout:in:
+RBSmalllintTestObject>>#precedence
+RBRefactoryTestDataApp>>#precedence
+TableLayout>>#minExtentVertical:
+TableLayout>>#layoutLeftToRight:in:
+TableLayout>>#layoutTopToBottom:in:
+TableLayout>>#minExtentHorizontal:
+SVColorSelectorMorph>>#selectedLocation
+RealEstateAgent class>>#strictlyStaggeredInitialFrameFor:initialExtent:world:
+RealEstateAgent class>>#standardWindowExtent
+InflateStream>>#bitPosition
+SourceFileArray>>#filePositionFromSourcePointer:
+AJx86AssemblerTests>>#testAssemblyMemBaseDisp2
+LineSegment>>#bezierClipInterval:
+LineSegment>>#bezierClipCurve:epsilon:
+LineSegment>>#valueAt:
+HandMorph>>#showMouseFocusEvent:
+HandMorph>>#showDebugEvent:
+Bezier2Segment class>>#makeEllipseSegments:
+Date class>>#easterDateFor:
+AthensCairoPathBuilder>>#curveVia:to:
+AthensPolygonTester>>#includesPoint:
+Float>>#hex
+Float>>#absPrintOn:base:digitCount:
+Base64MimeConverter class>>#mimeEncode:multiLine:
+Time class>>#benchmarkMillisecondClock
+RubTextLine>>#justifiedTabDeltaFor:
+SimpleHierarchicalListMorph>>#selectionIndex:
+Bitmap>>#encodeBytesOf:in:at:
+TxAthensLayoutStrategy>>#alignTab:
+DateAndTime class>>#year:month:day:hour:minute:second:nanoSecond:offset:
+ZipWriteStream>>#storedBlockSize
+GradientFillStyle>>#scaledAlphaMix:of:with:
+ComplexBorder>>#fillStyleForDirection:
+ComplexBorder>>#frameRectangle:on:
+ComplexBorder>>#framePolygon:on:
+PolygonMorph>>#changeInSlopes:of:
+PolygonMorph>>#lineSegmentsDo:
+PolygonMorph>>#closedCubicSlopesOf:
+PolygonMorph>>#naturalCubicSlopesOf:
+PolygonMorph>>#extent:
+PolygonMorph>>#changeOfChangesInSlopes:of:
+RubSegmentMorph>>#changeInSlopes:of:
+RubSegmentMorph>>#lineSegmentsDo:
+RubSegmentMorph>>#closedCubicSlopesOf:
+RubSegmentMorph>>#naturalCubicSlopesOf:
+RubSegmentMorph>>#changeOfChangesInSlopes:of:
+Point>>#triangleArea:with:
+CompiledMethodTrailer>>#qDecompress
+Bezier2Segment>>#tangentAtMid
+Bezier2Segment>>#curveFrom:to:
+Bezier2Segment>>#tangentAt:
+Bezier2Segment>>#from:to:withMidPoint:
+BalloonBezierSimulation>>#stepToFirstInt
+BalloonBezierSimulation>>#stepToFirst
+BalloonBezierSimulation>>#floatStepToFirstScanLineAt:in:
+BalloonBezierSimulation>>#intStepToFirstScanLineAt:in:
+Form>>#fadeImageVert:at:
+Form>>#zoomIn:orOutTo:at:vanishingPoint:
+SparseLargeTable>>#noCheckAt:
+SparseLargeTable>>#noCheckAt:put:
+PNGReadWriter>>#copyPixelsGray:at:by:
+PNGReadWriter>>#copyPixelsGray:
+TextLine>>#justifiedTabDeltaFor:
+Bezier3Segment class>>#makeEllipseSegments:count:
+Bezier3Segment class>>#makePieSegment:from:to:
+Bezier3Segment class>>#makeUnitPieSegmentWith:and:
+Bezier3Segment class>>#makePieSegments:from:to:
+HashedCollection class>>#sizeFor:
+FT2GlyphRenderer>>#loadSurfaceTransform
+CascadeNode>>#sizeCodeForValue:
+UnixEnvironment>>#environAt:
+Number class>>#readScaledDecimal:fractionPart:digits:base:sign:from:

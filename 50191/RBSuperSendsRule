@@ -1,0 +1,51 @@
+RBSmalllintTestObject>>#sendsDifferentSuper
+RBRefactoryTestDataApp>>#sendsDifferentSuper
+GLMFoundationBrick>>#themer
+PaginatedMorphTreeMorph>>#currentNodelist
+StrikeFontSet class>>#newFontArray:
+TextMorph>>#updateFromParagraph
+OSEnvironment>>#initializeWith:
+CheckboxButtonMorph>>#borderWidth:
+FLGlobalSendMock>>#initializeWith:
+CharacterBlock>>#stringIndex:text:topLeft:extent:
+RBRenameClassChange>>#=
+Decompiler>>#decompile:in:method:using:
+AbstractWidgetModel>>#initialize
+AJBaseReg>>#initializeWithCode:name:
+SystemWindow>>#setBoundsWithFlex:
+SystemWindow>>#basicIsSticky
+FT2GlyphSlot class>>#fromFace:
+Date class>>#starting:
+MultiByteFileStream>>#fileInEncodingName:
+MultiByteFileStream>>#basicSetToEnd
+MultiByteFileStream>>#basicSkip:
+MultiByteFileStream>>#basicVerbatim:
+MultiByteFileStream>>#basicPosition
+MultiByteFileStream>>#detectLineEndConvention
+MultiByteFileStream>>#basicPosition:
+MultiByteFileStream>>#basicNextInto:
+MultiByteFileStream>>#basicNext:into:
+RubHighlightSegmentMorph>>#registerTextArea
+LongTestCase class>>#allTestSelectors
+Parser>>#init:notifying:failBlock:
+MetacelloPackageLoadDirective>>#spec:externalReference:loader:
+SelectionMorph>>#doneExtending
+StartupPreferencesLoader class>>#default
+SortedCollection class>>#sortBlock:
+CharacterSetComplement class>>#of:
+GTSpotterBreadcrumbSeparatorRenderer>>#render:on:
+MCDiffyVersion>>#initializeWithPackage:info:dependencies:baseInfo:patch:
+LargeInteger>>#digitAt:put:
+LargeInteger>>#digitAt:
+NBNativeFunction>>#initializeWithCode:fnSpec:
+TextIndent class>>#amount:
+RelationSlot class>>#named:inverse:inClass:
+RemoteTempVectorNode>>#emitCodeForLoadFor:stack:encoder:
+RemoteTempVectorNode>>#sizeCodeForLoadFor:encoder:
+RxsLookaround>>#initializePiece:
+PluggableTextAttribute class>>#evalBlock:
+AthensTextMorph>>#contents:wrappedTo:
+EditableDropListMorph class>>#on:list:selected:changeSelected:useIndex:addToList:class:getEnabled:default:
+TextEditor>>#initWithMorph:
+TempVariableNode>>#name:index:type:scope:
+FLProxyThatBecomesItsContent>>#initializeWith:

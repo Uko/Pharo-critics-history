@@ -1,0 +1,55 @@
+GLMBrick>>#updateHeight
+GLMBrick>>#updateWidth
+RBSmalllintTestObject>>#emptyExceptionHandler
+GLMBrickGeometryTrait>>#updateHeight
+GLMBrickGeometryTrait>>#updateWidth
+MCWorkingCopyTest>>#merge:
+PharoSyntaxTutorialTest>>#testDivideTwoByZeroSignalsZeroDivide
+FT2Face>>#loadFields
+FT2Face>>#newFaceFromExternalMemory:index:
+MBConfigurationInfo>>#printOn:
+BMPReadWriter class>>#displayAllFrom:
+BMPReadWriter class>>#readAllFrom:
+VSRemoveCommand>>#execute
+HDTestReport>>#done
+HDTestReport>>#runCase:
+HDTestReport>>#serializeError:of:
+SystemReporter>>#reportVM:
+ZnMultiThreadedServer>>#closeSocketStream:
+TestCommandLineHandler>>#addPackagesMatching:to:
+GTSpotterEventRecorderSettings class>>#deletePreferences
+GTSpotterEventRecorderSettings class>>#savePreferences:
+PolymorphSystemSettings class>>#desktopBackgroundChanged
+CodeSimulationTests>>#testHaltWithHaltHandler
+CodeSimulationTests>>#testErrorWithErrorHandler
+MCCacheRepository class>>#defaultDirectory
+MCRepositoryGroup>>#repositoriesDo:
+MCMockRPackage class>>#initialize
+MorphicUIManager>>#openDebuggerOn:context:label:contents:fullView:
+MorphicUIManager>>#onFontsChanged
+VSReleaseDevelopmentVersionCommandTest>>#testResolveSymbolicVersionsIn
+SmalltalkImage>>#logStartupError:into:tryDebugger:
+SmalltalkImage>>#logStdErrorDuring:
+ZnManagingMultiThreadedServer>>#closeConnections
+MCMcdReader>>#loadPatch
+FT2MemoryFaceData>>#validate
+FileStream class>>#flushAndVoidStdioFiles
+MCVersion>>#allAvailableDependenciesDo:
+MCMczReader>>#loadDefinitions
+SocketStream>>#upToEnd
+ZnHTTPSTests>>#runningOnWindows
+FreeTypeExternalMemory>>#validate
+EditingState>>#focused:from:
+MTDependency>>#addDependency:
+ZnUrl>>#withRelativeReference:
+GTSpotterEventRecorder class>>#cleanUp
+FileDialogWindow>>#updateImagePreview
+FileDialogWindow>>#updateTextPreview
+RPackageWithDoTest>>#testDo2
+RPackageWithDoTest>>#testWithDoIsCorrectlyReinstallingDefaultEvenIfHalt
+RPackageWithDoTest>>#testDo
+RPackageWithDoTest>>#testDoC
+GTPlayBook>>#initialize
+MCWorkingCopy class>>#adoptVersionInfoFrom:
+ZnServerTests>>#runningOnWindows
+PluggableTextMorph>>#acceptBasic

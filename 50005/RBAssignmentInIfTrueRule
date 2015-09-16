@@ -1,0 +1,120 @@
+GoferVersionReference>>#parseName:
+NBNativeCodeGen class>>#getErrorFromJit:
+MCWorkingCopyBrowser>>#addMetacelloBaseline
+MCWorkingCopyBrowser>>#createVersionForBlessing:
+RxParser>>#branch
+RxParser>>#next
+ZipEncoder>>#privateSendBlock:with:with:with:
+ZipEncoder>>#on:
+DisplayScanner>>#cr
+DisplayScanner>>#displayLine:offset:leftInRun:
+RBSmalllintTestObject>>#assignmentInIfTrue
+RBRefactoryTestDataApp>>#assignmentInIfTrue
+TableLayout>>#computeCellArrangement:in:horizontal:target:
+TableLayout>>#indexForInserting:inList:horizontal:target:
+RubCharacterBlockScanner>>#cr
+RubCharacterBlockScanner>>#endOfRun
+Rectangle>>#intersect:ifNone:
+Rectangle>>#intersect:
+AthensSceneView>>#createSurface
+TxTextPosition>>#linePosition:
+RubEncryptedDisplayScanner>>#displayLine:offset:leftInRun:
+PasteUpMorph>>#mouseDown:
+SourceFileArray>>#changeRecordsFrom:className:isMeta:do:
+CornerGripMorph>>#targetPoint:
+AthensCurveFlattener>>#isFlatQuadBezier:y1:x2:y2:x3:y3:
+Categorizer>>#classify:under:suppressIfDefault:
+CharacterBlockScanner>>#cr
+MCClassDefinition>>#initializeWithName:superclassName:category:instVarNames:classVarNames:poolDictionaryNames:classInstVarNames:type:comment:commentStamp:
+MCClassDefinition>>#initializeWithName:superclassName:traitComposition:classTraitComposition:category:instVarNames:classVarNames:poolDictionaryNames:classInstVarNames:type:comment:commentStamp:
+Scanner>>#step
+SystemWindow class>>#windowMenuOn:
+GIFReadWriter>>#nextBits
+GIFReadWriter>>#readHeader
+MetacelloVersionNumber>>#hash
+TxBasicTextPosition>>#timesToMoveRightTo:
+FreeTypeSettings>>#glyphContrast:
+ThumbnailMorph>>#scaleFor:in:
+Form class>>#floodFillTolerance:
+AthensCubicBezier>>#recursiveSubDiv:level:
+IntegerArray>>#atAllPut:
+IntegerArray>>#at:put:
+PolymorphSystemSettings class>>#desktopBackgroundChanged
+SystemWindow>>#position:
+TBehavior>>#allInstVarNames
+ColorMap>>#pixelMap:
+ColorMap>>#mapPixel:
+TxAthensLayoutView>>#scrollBy:
+OSSDL2Driver>>#setupEventLoop
+Date class>>#readFrom:
+SmalltalkImage>>#handleStartupErrors:
+AthensCairoPathBuilder>>#arcTo:angle:cw:
+SpecDebuggerStack>>#columnsFor:
+TextDiffBuilder>>#lcsFor:and:
+Float>>#printPaddedWith:to:
+RubDisplayScanner>>#cr
+RubDisplayScanner>>#displayLine:offset:leftInRun:
+Parser>>#temporaries
+Parser>>#temporariesIn:
+Parser>>#braceExpression
+TClassDescription>>#newInstanceFrom:variable:size:map:
+TClassDescription>>#newInstanceFrom:variable:size:
+TClassDescription>>#printMethodChunk:withPreamble:on:moveSource:toFile:
+SpecRowLayout>>#manualFractionComputation
+SimpleHierarchicalListMorph>>#basicKeyPressed:
+RxCharSetParser>>#match:
+Bitmap>>#integerAt:put:
+Color>>#hue
+Color>>#pixelWordFor:filledWith:
+Color>>#duller
+MorphTreeListManager>>#basicKeyPressed:
+GLMTreeMorphModel>>#toggleAmountToFilterBy
+DelayMicrosecondScheduler>>#unscheduleDelay:
+Context>>#doPrimitive:method:receiver:args:
+DateAndTime class>>#readFrom:
+ZipWriteStream>>#encodeMatch:distance:
+MessageNode>>#printToDoOn:indent:
+KMKeymap>>#notifyCompleteMatchTo:buffer:
+Morph>>#privateAddAllMorphs:atIndex:
+ZipEncoderNode>>#computeHeight
+TabManager>>#addTabContents:at:delta:
+PragmaMenuAndShortcutRegistration>>#platform:
+RBDeprecateMethodRefactoring>>#formDeprecatedMethod
+NNavNavigation>>#bestNodeForSelection
+BMPReadWriter>>#read24BmpLine:into:startingAt:width:
+RubTextEditor>>#forwardDelete:
+RubTextEditor>>#changeEmphasisOrAlignment
+ZnUrl>>#scheme:
+String class>>#with:
+AthensCairoText>>#fontSlant:
+AthensCairoText>>#fontWeight:
+TxCharacterSpan>>#applyAttribute:from:to:
+NewList>>#basicKeyPressed:
+RubOpeningClosingDelimiterDecorator>>#positionOfOppositeDelimiter:startingAt:
+GLMPagerScrollSlidingBrick>>#mouseDown:
+Form>>#hackBits:
+Form>>#mapColors:to:
+Form>>#reducedPaletteOfSize:
+Form>>#readNativeResourceFrom:
+ZnUtils class>>#parseHttpDate:
+TextEditor>>#forwardDelete:
+TextEditor>>#changeEmphasisOrAlignment
+MorphTreeNodeMorph>>#drawLinesToFirstChildOn:
+PNGReadWriter>>#writeType6DataOn:
+PNGReadWriter>>#writePLTEChunkOn:
+BalloonBuffer>>#at:put:
+SpecColumnLayout>>#autoFractionComputation
+Color class>>#computeColormapFrom:to:
+Color class>>#computeRGBColorConvertingMap:to:keepSubPixelAA:
+Color class>>#maskingMap:
+Text>>#copyFrom:to:
+DelayMillisecondScheduler>>#unscheduleDelay:
+MCFileTreeRepository class>>#parseName:extension:
+GLMBasicExamples>>#actionsFor:
+AthensBezierConverter>>#isFlatBezier2_x1:y1:x2:y2:x3:y3:
+DeflateStream>>#deflateBlock
+DeflateStream>>#findMatch:lastLength:lastMatch:chainLength:goodMatch:
+MetacelloVersionConstructor>>#collectAllVersionsFromVersionImportPragmasInto:using:satisfiedPragmas:
+String>>#copyReplaceAll:with:asTokens:
+String>>#romanNumber
+Number class>>#readScaledDecimal:fractionPart:digits:base:sign:from:

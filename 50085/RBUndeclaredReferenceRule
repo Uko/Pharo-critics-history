@@ -1,0 +1,19 @@
+AbstractNautilusUI class>>#classesIconsCache
+AbstractNautilusUI class>>#initialize
+AbstractNautilusUI class>>#nextFocusKey
+AbstractNautilusUI class>>#classesIconsCache:
+AbstractNautilusUI class>>#resetClassesIconsCache
+AbstractNautilusUI class>>#groupsIconsCache:
+AbstractNautilusUI class>>#resetIconCaches
+AbstractNautilusUI class>>#groupsIconsCache
+AbstractNautilusUI class>>#previousFocusKey
+AbstractNautilusUI>>#groupIconFor:
+AbstractNautilusUI>>#okToChangeComment
+AbstractNautilusUI>>#classIconFor:
+AbstractNautilusUI>>#removeFromClassesIconsCache:
+AbstractNautilusUI>>#removeFromGroupsIconsCache:
+AbstractNautilusUI>>#runTestsOfClass:notifying:
+NautilusUI>>#runTestForAMethod:notifying:priority:
+NautilusUI>>#methodRemoved:
+NautilusUI>>#runTestForAMethodWithAnHalt:
+NautilusUI>>#methodModified:

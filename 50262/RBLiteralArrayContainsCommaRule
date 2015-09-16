@@ -1,0 +1,266 @@
+CairoFontFace>>#primSetSynthesizeEmphasis:
+NBWin32Hdc>>#moveToX:y:
+NBWin32Hdc>>#lineToX:y:
+NBWin32Hdc>>#rectangleLeft:top:right:bottom:
+WideString>>#nbStringHash:
+RBSmalllintTestObject>>#literalArrayContainsComma
+Win32Environment>>#getEnvSize:
+Win32Environment>>#setEnv:value:
+Win32Environment>>#getEnv:buffer:size:
+NBMacExternalHeapManager>>#mmapLength:prot:flags:into:
+NBMacExternalHeapManager>>#unmap:length:
+NBCPrinter class>>#printf:
+SDL_Renderer>>#copy:
+SDL_Renderer>>#copy:srcRect:dstRect:
+SDL_Renderer>>#drawColorR:g:b:a:
+SDL_Renderer>>#createTextureFormat:access:width:height:
+SDL_Renderer>>#fillRect:
+SDL_Renderer>>#noRenderTarget
+SDL_Renderer>>#drawPointX:y:
+SDL_Renderer>>#drawRect:
+SDL_Renderer>>#drawLineX1:y1:x2:y2:
+SDL_Renderer>>#noClipRect
+NBQSortCallback class>>#fnSpec
+TNBMemoryAccessors>>#nbUInt16AtOffset:
+TNBMemoryAccessors>>#nbUInt8AtOffset:put:
+TNBMemoryAccessors>>#nbFloat32AtOffset:put:
+TNBMemoryAccessors>>#nbFloat64AtOffset:put:
+TNBMemoryAccessors>>#nbInt16AtOffset:
+TNBMemoryAccessors>>#nbFloat64AtOffset:
+TNBMemoryAccessors>>#nbInt64AtOffset:put:
+TNBMemoryAccessors>>#nbUInt32AtOffset:put:
+TNBMemoryAccessors>>#nbInt8AtOffset:put:
+TNBMemoryAccessors>>#nbUInt8AtOffset:
+TNBMemoryAccessors>>#nbUInt64AtOffset:put:
+TNBMemoryAccessors>>#nbUInt64AtOffset:
+TNBMemoryAccessors>>#nbInt32AtOffset:
+TNBMemoryAccessors>>#nbUInt16AtOffset:put:
+TNBMemoryAccessors>>#nbInt32AtOffset:put:
+TNBMemoryAccessors>>#nbInt8AtOffset:
+TNBMemoryAccessors>>#nbUInt32AtOffset:
+TNBMemoryAccessors>>#nbInt64AtOffset:
+TNBMemoryAccessors>>#nbFloat32AtOffset:
+TNBMemoryAccessors>>#nbInt16AtOffset:put:
+ByteString>>#nbBeginsWithByteString:
+NBBasicExamples class>>#returnInstVar:from:
+NBBasicExamples class>>#swapDoubFirst:withSecond:
+NBBasicExamples class>>#returnInteger:minus:
+NBWin32Heap class>>#create:initialiSize:maximumSize:
+NBExtraRootsRegistry>>#primAtMem:put:
+NativeBoostWin32 class>>#primGetModuleFileName:with:
+NativeBoostWin32 class>>#realloc:newSize:
+NativeBoostWin32 class>>#getProcAddress:procName:
+AthensCairoSurface class>>#primImage:width:height:
+AthensCairoSurface class>>#createUnlockSurfaceFn
+AthensCairoSurface class>>#primImageFromData:width:height:pitch:
+AthensCairoSurface class>>#ioFindSurface:handle:
+AthensCairoSurface class>>#ioFindSurface:dispatch:handle:
+AthensCairoSurface class>>#createGetSurfaceFormatFn
+AthensCairoSurface class>>#ioRegisterSurface:dispatch:surfaceId:
+AthensCairoSurface class>>#testLockSurface:pitch:x:y:w:h:
+AthensCairoSurface class>>#testGetSurfaceFormat:width:height:depth:isMSB:
+AthensCairoSurface class>>#createLockSurfaceFn
+AthensCairoSurface class>>#createShowSurfaceFn
+AthensCairoSurface class>>#primWidth:height:
+NautilusMonticello class>>#packagesCommitsMenu:
+NautilusMonticello class>>#packagesChangesMenu:
+NautilusMonticello class>>#packagesOpenMenu:
+NBWin32Shell class>>#shellExecute:operation:file:parameters:directory:show:
+NBWin32Shell class>>#shellExecute:file:parameters:directory:show:
+NBWin32Shell class>>#shellAbout:application:other:icon:
+NativeBoost>>#bootstrapLoadModule:ofLength:into:
+NativeBoost>>#bootstrapLoadSymbol:ofLength:fromModule:into:
+NativeBoost>>#loadFunction:from:
+NativeBoost>>#loadModule:
+NativeBoost>>#memCopy:to:size:
+NativeBoost>>#ioLoadFunction:from:
+NativeBoost>>#bootstrapLoadFunction:from:into:
+NBFFICallbackTests>>#checkCallback:with:compare:
+NBFFICallbackTests>>#primStQSort:len:compare:
+NBFFICallbackTests>>#readByte:at:
+NBFFICallbackTests>>#createNativeCallback
+NBFFICallbackTests>>#primNativeQSort:compare:
+NBInterpreterProxy class>>#CogProxyFunctionsData
+AthensCairoPathBuilder>>#arcCenterX:centerY:radius:startAngle:endAngle:
+AthensCairoPathBuilder>>#curveViaX:Y:viaX:Y:toX:Y:
+AthensCairoPathBuilder>>#moveToX:Y:
+AthensCairoPathBuilder>>#lineToX:Y:
+AthensCairoPathBuilder>>#arcNegativeCenterX:centerY:radius:startAngle:endAngle:
+AthensCairoMatrix>>#setScaleX:Y:
+AthensCairoMatrix>>#translateX:Y:
+AthensCairoMatrix>>#setTranslateX:Y:
+AthensCairoMatrix>>#scaleX:Y:
+AthensCairoMatrix>>#initx:y:sx:sy:shx:shy:
+AthensCairoMatrix>>#primMultiplyBy:
+AthensCairoMatrix>>#setRotationInRadians:
+AthensCairoMatrix>>#primTransformX:Y:
+AthensCairoMatrix>>#rotateByRadians:
+CairoScaledFont class>>#primCreate:fontMatrix:userToDeviceMatrix:options:
+SDL_Texture>>#updateTextureRect:formBits:pitch:
+SDL_Texture>>#updateTexturePixels:pitch:
+SDL_Texture>>#updateTextureRect:pixels:pitch:
+CairoFontFace class>>#primFtFace:loadFlags:
+NBObjectFormat32Tests>>#getFloatPtrOffset:
+AthensCairoGradientPaint>>#primAddColorStopOffset:R:G:B:A:
+AthensCairoPatternPaint>>#maskOn:
+AthensCairoPatternPaint>>#primSetSourceOn:
+AthensCairoPatternPaint>>#setMatrix:
+AthensCairoPatternPaint>>#primSetExtend:
+NBBasicExamples>>#storeDouble:at:
+NBWin32Heap>>#zalloc:
+NBWin32Heap>>#realloc:mem:size:
+NBWin32Heap>>#sizeOf:
+NBWin32Heap>>#compact
+NBWin32Heap>>#free:
+NBWin32Heap>>#alloc:
+NativeBoostWin32>>#free:
+NativeBoostWin32>>#bootstrapAllocate:into:
+NativeBoostWin32>>#privCreateHeap:
+NativeBoostLinux32>>#bootstrapGetGlobalSymbolPointer:into:
+NBWin32Window class>>#createWindowExW:lpClassName:lpWindowName:dwStyle:x:y:width:height:hWndParent:hMenu:hInstance:lParam:
+NBWin32Window class>>#createWindowExA:lpClassName:lpWindowName:dwStyle:x:y:width:height:hWndParent:hMenu:hInstance:lParam:
+AthensCairoPDFSurface class>>#createPDF:width:height:
+NBUnixExternalHeapManager>>#mmapLength:prot:flags:into:
+NBUnixExternalHeapManager>>#unmap:length:
+SDL_Window>>#getSizeW:h:
+SDL_Window>>#toggleBorder:
+SDL_Window>>#setHitTest:
+SDL_Window>>#fullscreen:
+SDL_Window>>#createRenderer:flags:
+SDL_Window>>#title:
+SDL_Window>>#setPositionX:y:
+SDL_Window>>#setSizeW:h:
+SDL_Window>>#getPositionX:y:
+SDL_Window>>#getWMInfo:
+SDL_Window>>#icon:
+AthensCairoCanvas>>#text:extents:
+AthensCairoCanvas>>#setFontSize:
+AthensCairoCanvas>>#showGlyphs:size:
+AthensCairoCanvas>>#setPathMatrix:
+AthensCairoCanvas>>#primSetLineCap:
+AthensCairoCanvas>>#showText:
+AthensCairoCanvas>>#loadPath:
+AthensCairoCanvas>>#primResetDashes:
+AthensCairoCanvas>>#setScaledFont:
+AthensCairoCanvas>>#setAA:
+AthensCairoCanvas>>#moveToX:Y:
+AthensCairoCanvas>>#setPathMatrix
+AthensCairoCanvas>>#primSetLineWidth:
+AthensCairoCanvas>>#primSetLineJoin:
+AthensCairoCanvas>>#setSourceR:g:b:a:
+AthensCairoCanvas>>#setFontMatrix:
+AthensCairoCanvas>>#primGetCurrentPointX:Y:
+AthensCairoCanvas>>#rectangleX:y:width:height:
+MTDependantProjectTest>>#testEquals
+MTDependantProjectTest>>#referenceDependency
+NBExternalAddress>>#nbUInt16AtOffset:
+NBExternalAddress>>#byteAt:
+NBExternalAddress>>#nbUInt8AtOffset:put:
+NBExternalAddress>>#nbFloat32AtOffset:put:
+NBExternalAddress>>#nbFloat64AtOffset:put:
+NBExternalAddress>>#nbInt16AtOffset:
+NBExternalAddress>>#nbFloat64AtOffset:
+NBExternalAddress>>#nbInt64AtOffset:put:
+NBExternalAddress>>#nbUInt32AtOffset:put:
+NBExternalAddress>>#ulongAt:
+NBExternalAddress>>#nbInt8AtOffset:put:
+NBExternalAddress>>#nbUInt64AtOffset:
+NBExternalAddress>>#nbUInt8AtOffset:
+NBExternalAddress>>#nbUInt64AtOffset:put:
+NBExternalAddress>>#longAt:
+NBExternalAddress>>#nbInt32AtOffset:
+NBExternalAddress>>#nbUInt16AtOffset:put:
+NBExternalAddress>>#longAt:put:
+NBExternalAddress>>#byteAt:put:
+NBExternalAddress>>#ulongAt:put:
+NBExternalAddress>>#nbInt32AtOffset:put:
+NBExternalAddress>>#nbInt8AtOffset:
+NBExternalAddress>>#nbUInt32AtOffset:
+NBExternalAddress>>#nbInt64AtOffset:
+NBExternalAddress>>#nbFloat32AtOffset:
+NBExternalAddress>>#nbInt16AtOffset:put:
+NBFnSpecParserTest>>#testParserCallbacks
+NBFnSpecParserTest>>#testParseAnonFn
+NBFnSpecParserTest>>#testParseNamedFn
+AthensCairoText>>#primSetFontSize:on:
+AthensCairoText>>#primShowText:on:
+AthensCairoText>>#primSelectFont:slant:weight:on:
+NBFFICalloutTests>>#testBuildingFnSpecWithQueries
+NBFFICalloutTests>>#arraySize2:with:
+NBFFICalloutTests>>#testBuildingFnSpec
+NBFFICalloutTests>>#returnReceiver:arg2:
+NBFFIExternalValueTests>>#outputValueArg:value:
+NBFFIExternalValueTests>>#outputIntArg:value:
+NBFFIExternalValueTests>>#outputVoidArg:value:
+CairoFreetypeFontRenderer>>#convertString:len:ofFont:toGlyphs:numGlyphs:x:y:
+AthensQuartzSurface class>>#primImage:width:height:
+NBWin32Window>>#show
+NBWin32Window>>#getWindow:
+NBWin32Window>>#getWindowLongAtIndex:
+NBWin32Window>>#hide
+NBWin32Window>>#releaseDC:
+NBWin32Window>>#moveWindowX:y:width:height:
+NBWin32Window>>#setWindowText:
+NBWin32Window>>#getWindowRect:
+NBWin32Window>>#setWindowLong:index:newVale:
+NBWin32Window>>#getWindowText:buffer:bufferSize:
+NBWin32Window>>#getWindowLong:index:
+NBWndClassEx class>>#unregister:instance:
+NativeCodeTests>>#testArgumentOffsets
+CairoFontOptions>>#setHintMetrics:
+CairoFontOptions>>#setHintStyle:
+CairoFontOptions>>#setAA:
+CairoFontOptions>>#setSubpixelOrder:
+AthensCairoGradientPaint class>>#primCreateRadialXo:yo:radiuso:x1:y1:radius1:
+AthensCairoGradientPaint class>>#primCreateLinearX0:y0:x1:y1:
+NativeBoostMac32>>#bootstrapGetGlobalSymbolPointer:into:
+AthensCairoPaintMode>>#setOperator:
+AthensCairoSurface>>#writeToPng:
+AthensCairoStrokePaint>>#primSetLineJoinOn:
+AthensCairoStrokePaint>>#primSetDashesOn:lengths:count:offset:
+AthensCairoStrokePaint>>#primSetLineCapOn:
+AthensCairoStrokePaint>>#primSetLineWidthOn:
+AthensCairoTransform>>#translateX:Y:
+AthensCairoTransform>>#moveToX:Y:
+AthensCairoTransform>>#scaleX:Y:
+AthensCairoTransform>>#rotateByRadians:
+AthensCairoTransform>>#primTransformX:Y:
+ByteArray>>#nbLongAt:
+ByteArray>>#nbUInt16AtOffset:
+ByteArray>>#nbUInt8AtOffset:put:
+ByteArray>>#nbFloat32AtOffset:put:
+ByteArray>>#nbFloat64AtOffset:put:
+ByteArray>>#nbInt16AtOffset:
+ByteArray>>#nbFloat64AtOffset:
+ByteArray>>#nbInt64AtOffset:put:
+ByteArray>>#nbUInt32AtOffset:put:
+ByteArray>>#nbUInt64AtOffset:put:
+ByteArray>>#nbUInt8AtOffset:
+ByteArray>>#nbUInt64AtOffset:
+ByteArray>>#nbInt8AtOffset:put:
+ByteArray>>#nbInt32AtOffset:
+ByteArray>>#nbUInt16AtOffset:put:
+ByteArray>>#nbInt32AtOffset:put:
+ByteArray>>#nbInt8AtOffset:
+ByteArray>>#nbUInt32AtOffset:
+ByteArray>>#nbInt64AtOffset:
+ByteArray>>#nbUlongAt:
+ByteArray>>#nbLongAt:put:
+ByteArray>>#nbFloat32AtOffset:
+ByteArray>>#nbUlongAt:put:
+ByteArray>>#nbInt16AtOffset:put:
+UnixEnvironment>>#setEnv:value:
+MethodFinder>>#initialize
+SDL2 class>>#mouseState
+SDL2 class>>#glGetAttribute:into:
+SDL2 class>>#createRGBSurfaceFromPixels:width:height:depth:pitch:rmask:gmask:bmask:amask:
+SDL2 class>>#mouseStateX:y:
+SDL2 class>>#createCursor:mask:w:h:hotX:hotY:
+SDL2 class>>#glMakeCurrent:context:
+SDL2 class>>#glSetAttribute:value:
+SDL2 class>>#createWindow:x:y:width:height:flags:
+SDL_Joystick>>#getAxis:
+SDL_Joystick>>#getButton:
+CairoScaledFont>>#getExtents:
+CairoScaledFont>>#getExtentsOf:into:
+CairoScaledFont>>#getExtentsOfGlyphs:ofLength:into:
