@@ -36,6 +36,7 @@ process_image () {
     process_rule Pharo-${version}.image $rule
   done
 
+  touch ".done"
   cd $work_dir
 }
 
