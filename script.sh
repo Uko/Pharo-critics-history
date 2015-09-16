@@ -24,21 +24,26 @@ process_image () {
   version=${1:0:5}
   mkdir $version
   cd $version
-  wget "http://files.pharo.org/image/50/${1}"
-  unzip -qo $1
-  rm $1
 
-  rulesString=$($work_dir/pharo Pharo-$version.image --no-default-preferences eval '(RBCompositeLintRule allGoodRules leaves collect: #class) joinUsing: String space')
-  rulesString=${rulesString#\'}
-  rulesString=${rulesString%\'}
-  rules=($rulesString)
+  if [ ! -e ".done" ]
+  then
+    wget "http://files.pharo.org/image/50/${1}"
+    unzip -qo $1
+    rm $1
 
-  for rule in "${rules[@]}"
-  do
-    process_rule Pharo-${version}.image $rule
-  done
+    rulesString=$($work_dir/pharo Pharo-$version.image --no-default-preferences eval '(RBCompositeLintRule allGoodRules leaves collect: #class) joinUsing: String space')
+    rulesString=${rulesString#\'}
+    rulesString=${rulesString%\'}
+    rules=($rulesString)
 
-  touch ".done"
+    for rule in "${rules[@]}"
+    do
+      process_rule Pharo-${version}.image $rule
+    done
+
+    touch ".done"
+  fi
+
   cd $work_dir
 }
 
