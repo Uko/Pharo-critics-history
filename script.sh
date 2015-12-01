@@ -31,6 +31,8 @@ process_image () {
     unzip -qo $1
     rm $1
 
+    eval $work_dir/pharo Pharo-$version.image --no-default-preferences eval --save "Gofer it smalltalkhubUser: 'Pharo' project: 'Pharo50'; version: 'Refactoring-Critics-TheIntegrator.248'; load"
+
     rulesString=$($work_dir/pharo Pharo-$version.image --no-default-preferences eval '(RBCompositeLintRule allGoodRules leaves collect: #class) joinUsing: String space')
     rulesString=${rulesString#\'}
     rulesString=${rulesString%\'}
