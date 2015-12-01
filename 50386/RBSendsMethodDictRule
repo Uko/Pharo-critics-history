@@ -1,0 +1,81 @@
+OCBytecodeDecompilerTest>>#testDecompileBytecodeGeneratorTest
+OCBytecodeDecompilerTest>>#testDecompileBytecodeDecompilerTestClass
+OCBytecodeDecompilerTest>>#testDecompileIRBuilderTestClass
+ClassTraitTest>>#testChanges
+NBNativeCodeGen class>>#removeNativeCodeFrom:
+NBNativeCodeGen class>>#installNativeCode:into:
+FLCompiledMethodSerializationTest>>#useNotInstalled
+FLCompiledMethodSerializationTest>>#useDoIt
+AJx86Registers class>>#installRegisterAccessors
+BIInspector>>#selectorAndClassAreCorrect
+TraitPureBehaviorTest>>#testPropagationWhenTraitCompositionModifications
+TraitPureBehaviorTest>>#testClassesWithTraits
+TraitPureBehaviorTest>>#testOwnMethodsTakePrecedenceOverTraitsMethods
+TraitPureBehaviorTest>>#testTraitCompositionModifications
+TraitPureBehaviorTest>>#testPropagationOfChangesInTraitsToAliasMethodsWhenOriginalMethodIsExcluded
+TraitPureBehaviorTest>>#testPropagationOfChangesInTraits
+TraitDescription>>#noteChangesFrom:
+TraitDescription>>#applyChangesOfNewTraitCompositionReplacing:
+TraitDescription>>#printMethodChunk:on:
+AbstractTool>>#selectorFromPattern:withCaption:startingFrom:
+SugsMockContext>>#selectedMethod
+NBExternalArrayTest>>#testAccessors
+ReflectiveMethod>>#installCompiledMethod
+TraitCompositionTest>>#testClassMethodsTakePrecedenceOverTraitsMethods
+FLBasicSerializationTest>>#testMethodDictionary
+TraitBehavior>>#compiledMethodAt:ifPresent:ifAbsent:
+TraitBehavior>>#methodNamed:
+TraitBehavior>>#selectorsAndMethodsDo:
+TraitBehavior>>#selectorsDo:
+TraitBehavior>>#compiledMethodAt:
+TraitBehavior>>#compress
+TraitBehavior>>#basicAddSelector:withMethod:
+TraitBehavior>>#methodDictionary
+TraitBehavior>>#basicRemoveSelector:
+TraitBehavior>>#methodsDo:
+TraitBehavior>>#methods
+TraitBehavior>>#compiledMethodAt:ifAbsent:
+TraitBehavior>>#copyOfMethodDictionary
+TraitBehavior>>#selectors
+TraitBehavior>>#hasMethods
+TraitBehavior>>#includesSelector:
+Trait>>#copy
+ClassTrait>>#initializeFrom:
+ClassTrait>>#binding
+ClassTrait>>#assertConsistantCompositionsForNew:
+MethodContextTest>>#setUp
+AbstractNautilusUI>>#moveMethod:toTheClass:autoRemove:
+AbstractNautilusUI>>#copyMethod:toTheClass:
+ClassDescriptionTest>>#testMethods
+Nautilus class>>#fullOnClass:selector:
+Nautilus class>>#openOnClass:selector:
+Metaclass>>#initializeFrom:
+Metaclass>>#binding
+Metaclass>>#assertConsistantCompositionsForNew:
+NautilusUI class>>#initializeCache
+PharoClassInstaller>>#shallowCopyMethodsFrom:to:using:
+TestCoverage>>#uninstall
+TestCoverage>>#install
+MethodDictionaryTest>>#testAssociationAtNonexistantKeyExecutesFailBlock
+MethodDictionaryTest>>#testIdentityKeyAtExistantValueReturnsOkKey
+MethodDictionaryTest>>#testKeyAtExistantValueReturnsOkKey
+MethodDictionaryTest>>#testIdentityKeyAtExistantValueCopyReturnsFailBlock
+MethodDictionaryTest>>#testIdentityKeyAtNonExistantValueReturnsFailBlock
+MethodDictionaryTest>>#testKeyAtValueIfAbsentLocalyDefined
+MethodDictionaryTest>>#testKeyAtNonexistantValueExecutesFailBlock
+MethodDictionaryTest>>#testKeyAtExistantValueCopyReturnsOkKey
+MethodDictionaryTest>>#testGrowPreservesElements
+MethodDictionaryTest>>#testAtNonexistantKeyExecutesFailBlock
+MethodDictionaryTest>>#testAssociationsDoGoesOverEntireDictionary
+MethodDictionaryTest>>#testAssociationAtExistantKeyReturnsOkAssociation
+MethodDictionaryTest>>#testAtExistantKeyReturnsOkCompiledMethod
+MethodDictionaryTest>>#modifiedMethodDictionaryCopy
+MethodDictionaryTest>>#testBehaviorLocalyDefined
+Nautilus>>#setClass:selector:
+PragmaTest>>#setUp
+AthensTreeView class>>#example1
+NativeCodeTests>>#testMovableStuff
+NativeCodeTests>>#install:into:
+RBAddMethodChange>>#oldVersionTextToDisplay
+HDTestCoverage>>#uninstall
+HDTestCoverage>>#install

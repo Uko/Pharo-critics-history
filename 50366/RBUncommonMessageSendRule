@@ -1,0 +1,294 @@
+NBExternalTypeValue>>#emitWrite
+NBExternalTypeValue>>#emitRead
+NBExternalTypeValue>>#emitCopyUsingLoop:
+NBExternalTypeValue>>#emitCopy:
+WideString>>#nbStringHash:
+RBSmalllintTestObject>>#uncommonMessageSend
+NBUInt32>>#coerceOopToOperand:ifFailedJumpTo:
+NBUInt32>>#coerceReturnValue:
+NBMacExternalHeapManager>>#mmapLength:prot:flags:into:
+NBCPrinter class>>#printf:
+NBExternalHandle>>#value
+NBExternalHandle>>#value:
+NBExternalStructure>>#emitWrite:generator:
+NBExternalStructure>>#emitRead:generator:
+OSEnvironment>>#getEnv:
+OSEnvironment>>#unsetEnv:
+NBBufferWithOffsetType>>#pushAsValue:
+NativeBoost class>>#CLibrary
+NativeBoost class>>#VMModule
+NBExternalEnumTests>>#testNotEnumMember
+NBExternalEnumTests>>#testEnumIdents
+NBExternalEnumTests>>#primEnumToInt:
+NBExternalEnumTests>>#testEnumToInt
+NBExternalEnumTests>>#primIntToEnum:
+NBExternalEnumTests>>#primExecuteCallbackEnumReturn:
+NBExternalEnumTests>>#callbackAAA
+NBFloat64>>#pushValue:
+NBFloat64>>#pushAsValue:
+NBFFIExternalUnionTests>>#returnUnion1Byte
+NBFFIExternalUnionTests>>#return4Bytes:
+NBFFIExternalUnionTests>>#returnUnionWithStructChar:
+NBFFIExternalUnionTests>>#returnUnionUnionDouble:
+NBFFIExternalUnionTests>>#returnUnionWithStructStruct:
+NBFFIExternalUnionTests>>#returnUnionWithStructInt:
+AJx86AssemblerTests>>#testMovSxZx
+AJx86AssemblerTests>>#testFXCHST1
+AJx86AssemblerTests>>#testJMPRegister
+AJx86AssemblerTests>>#testStringOpMnemonics
+AJx86AssemblerTests>>#testAssemblyImmAddr
+TNBMemoryAccessors>>#nbUInt16AtOffset:
+TNBMemoryAccessors>>#nbUInt8AtOffset:put:
+TNBMemoryAccessors>>#nbFloat32AtOffset:put:
+TNBMemoryAccessors>>#nbFloat64AtOffset:put:
+TNBMemoryAccessors>>#nbInt16AtOffset:
+TNBMemoryAccessors>>#nbFloat64AtOffset:
+TNBMemoryAccessors>>#nbInt64AtOffset:put:
+TNBMemoryAccessors>>#nbUInt32AtOffset:put:
+TNBMemoryAccessors>>#nbInt8AtOffset:put:
+TNBMemoryAccessors>>#nbUInt8AtOffset:
+TNBMemoryAccessors>>#nbUInt64AtOffset:put:
+TNBMemoryAccessors>>#nbUInt64AtOffset:
+TNBMemoryAccessors>>#nbInt32AtOffset:
+TNBMemoryAccessors>>#nbUInt16AtOffset:put:
+TNBMemoryAccessors>>#nbInt32AtOffset:put:
+TNBMemoryAccessors>>#nbInt8AtOffset:
+TNBMemoryAccessors>>#nbUInt32AtOffset:
+TNBMemoryAccessors>>#nbInt64AtOffset:
+TNBMemoryAccessors>>#nbFloat32AtOffset:
+TNBMemoryAccessors>>#nbInt16AtOffset:put:
+ByteString>>#nbBeginsWithByteString:
+NBInt64>>#pushAsValue:
+NBCharacterType>>#coerceReturnValue:
+NBPointerArgumentsTests>>#primitiveEnum:case:
+NBPointerArgumentsTests>>#testEnumCase1ByteArray
+NBPointerArgumentsTests>>#testEnumDirectly
+NBPointerArgumentsTests>>#testEnumCase3ExternalAddress
+NBPointerArgumentsTests>>#testEnumCase4ExternalAddress
+NBPointerArgumentsTests>>#primitiveStruct:case:
+NBPointerArgumentsTests>>#testEnumCase4ByteArray
+NBPointerArgumentsTests>>#testEnumCase1ExternalAddress
+NBPointerArgumentsTests>>#primitiveInt:case:
+NBPointerArgumentsTests>>#primitiveArity2Struct:case:
+NBPointerArgumentsTests>>#testEnumCase2ByteArray
+NBPointerArgumentsTests>>#testEnumCase3ByteArray
+NBPointerArgumentsTests>>#testEnumCase2ExternalAddress
+NBBasicExamples class>>#returnInteger
+NBBasicExamples class>>#returnAsBit:
+NBBasicExamples class>>#returnMethodLiteral
+NBBasicExamples class>>#returnIntegerDirectOOP
+NBBasicExamples class>>#returnAddressOf:
+NBBasicExamples class>>#returnClassOf:
+NBBasicExamples class>>#nbGetEnv:
+NBBasicExamples class>>#returnInstVar:from:
+NBBasicExamples class>>#failIfNegative:
+NBBasicExamples class>>#returnNewArraySize3
+NBBasicExamples class>>#swapDoubFirst:withSecond:
+NBBasicExamples class>>#returnInteger:minus:
+NBExtraRootsRegistry>>#primAddGCRoot:
+NBExtraRootsRegistry>>#primAtMem:put:
+NBExtraRootsRegistry>>#emitOopAt:generator:
+CairoUTF8Converter>>#convertUnicode:
+CairoUTF8Converter>>#convertUnicode:conversionLabels:
+CairoUTF8Converter>>#store:accumulated:
+NBInterpreterProxyTest>>#primCheckStackPointer2
+NBInterpreterProxyTest>>#primCheckStackPointer
+AthensCairoSurface class>>#createLockSurfaceFn
+AthensCairoSurface class>>#createShowSurfaceFn
+AthensCairoSurface class>>#testLockSurface:pitch:x:y:w:h:
+AthensCairoSurface class>>#testGetSurfaceFormat:width:height:depth:isMSB:
+AthensCairoSurface class>>#createGetSurfaceFormatFn
+NBUInt16>>#coerceReturnValue:
+NBWin32Shell class>>#getEnvironmentVariable:
+NativeBoost>>#ulongAt:into:
+NBFFICallbackTests>>#primNativeQSort:compare:
+NBFFICallbackTests>>#primStQSort:len:compare:
+NBInterpreterProxy class>>#generateFunctions
+NBInterpreterProxy class>>#primFramePointerAddress
+NBInterpreterProxy class>>#primStackPointerAddress
+NBSTMethodArgument>>#emitLoad:
+NBSTMethodArgument>>#emitLoad:to:
+NBObjectFormat32Tests>>#getFloatPtrOffset:
+NBObjectFormat32Tests>>#pushFloat:
+NBObjectFormat32Tests>>#pushDouble:
+NBInt8>>#coerceReturnValue:
+NBInt16>>#coerceReturnValue:
+NBFFICallout class>>#cdecl:
+NBNativeFunctionGen>>#arg:
+NBFloatPtr>>#pushAsValue:
+WindowsResolver>>#temp
+NBBasicExamples>>#encodeToUTF8:
+NBBasicExamples>>#externalAddressValue:
+NBBasicExamples>>#readDoubleFrom:
+NBInt32>>#coerceOopToOperand:ifFailedJumpTo:
+SDL2Constants class>>#initializeMouse
+NativeBoostLinux32>>#bootstrapGetGlobalSymbolPointer:into:
+NBBool>>#coerceReturnValue:
+AJx86InstructionDescription>>#emitx87sti:operand1:operand2:operand3:
+AJRoutineStackManager>>#emitPrologue
+AJx64AssemblerTests>>#testMovZX
+AJx64AssemblerTests>>#testXor
+AJx64AssemblerTests>>#testMul
+AJx64AssemblerTests>>#testXorInvalid
+AJx64AssemblerTests>>#testBitTest
+AJx64AssemblerTests>>#testAssembly1
+AJx64AssemblerTests>>#testMovImmediate
+AJx64AssemblerTests>>#testStringOps64Mnemonics
+AJx64AssemblerTests>>#testAssembly2
+AJx64AssemblerTests>>#testPush
+AJx64AssemblerTests>>#testAssemblyMemBase
+AJx64AssemblerTests>>#testTest
+AJx64AssemblerTests>>#testPop
+AJx64AssemblerTests>>#testCall
+AJx64AssemblerTests>>#testXorFastCode
+AJx64AssemblerTests>>#testMovZxSxInvalid
+AJx64AssemblerTests>>#testMovMemory
+AJx64AssemblerTests>>#testNeg
+AJCdeclCallInfo>>#alignedCleanup
+AJCdeclCallInfo>>#normalCleanup
+AJCdeclCallInfo>>#emitAlignment
+NBExternalAddressType>>#createInstanceWithValue:generator:
+NBExternalAddressType>>#pushAsPointer:
+NBExternalAddressType>>#coerceReturnValue:
+NBExternalAddressType>>#pushAsValue:
+NBFFICalloutIndirectArgumentTests>>#returnOop5Of:
+NBFFICalloutIndirectArgumentTests>>#returnOopMinus1Of:
+NBFFICalloutIndirectArgumentTests>>#returnOop1Of:
+NBFFICalloutIndirectArgumentTests>>#primIsPointers:
+NBFFICalloutIndirectArgumentTests>>#returnOop0Of:
+NBFFICalloutIndirectArgumentTests>>#returnOop2Of:
+NBFFICalloutIndirectArgumentTests>>#returnOopMinus3Of:
+ZnFileUrlTests>>#testWindowsDriveNamesInFileUrl
+NBInterpreterProxy>>#positive64BitIntegerFor
+NBInterpreterProxy>>#specialObjectsArrayAt:
+NBInterpreterProxy>>#pushFloatOopAsFloat64:
+NBInterpreterProxy>>#specialSelectorAt:
+NBInterpreterProxy>>#verifyClassOf:is:
+NBInterpreterProxy>>#signed64BitIntegerFor
+NBInterpreterProxy>>#pushFloatOopAsFloat32:
+NBInterpreterProxy>>#varBytesFirstFieldOf:
+NBUnixExternalHeapManager>>#mmapLength:prot:flags:into:
+NBByteArrayPtr>>#pushAsValue:
+NBBootstrapUlong>>#coerceReturnValue:
+NBUInt64>>#readOop:generator:
+NBUInt64>>#pushAsValue:
+NBFFICallout>>#emitFailureHandler
+NBByteArraySize>>#pushAsValue:
+NBUInt8>>#coerceReturnValue:
+NBFFIExternalStructTests>>#returnStruct9Bytes
+NBFFIExternalStructTests>>#returnStructWithCallback:
+NBFFIExternalStructTests>>#returnStruct1Byte
+NBExternalEnumerationType>>#coerceOopToOperand:ifFailedJumpTo:
+NBExternalEnumerationType>>#coerceReturnValue:
+NBExternalEnumerationType>>#pushAsValue:
+NBExternalStructureType>>#fetchAddressFromData:gen:
+NBExternalStructureType>>#coerceReturnPointer:
+NBExternalStructureType>>#pushAsPointer:
+NBExternalStructureType>>#prepareReturnValue:for:
+NBExternalStructureType>>#readOop:generator:
+NBExternalStructureType>>#coerceReturnValue:
+NBExternalStructureType>>#fetchStructAddressFrom:gen:
+NBExternalStructureType>>#pushAsValue:
+NBExternalObjectType>>#pushAsPointer:
+NBExternalObjectType>>#coerceReturnValue:
+NBExternalObjectType>>#pushAsValue:
+TextConstants class>>#at:
+NBNativeFunction>>#emitCall:
+FileLocatorTest>>#testCPath
+NBSTIvarArgument>>#emitLoad:
+NBSTIvarArgument>>#emitLoad:to:
+NBExternalAddress>>#nbUInt16AtOffset:
+NBExternalAddress>>#byteAt:
+NBExternalAddress>>#nbUInt8AtOffset:put:
+NBExternalAddress>>#nbFloat32AtOffset:put:
+NBExternalAddress>>#nbFloat64AtOffset:put:
+NBExternalAddress>>#readString
+NBExternalAddress>>#nbInt16AtOffset:
+NBExternalAddress>>#nbFloat64AtOffset:
+NBExternalAddress>>#nbInt64AtOffset:put:
+NBExternalAddress>>#nbUInt32AtOffset:put:
+NBExternalAddress>>#ulongAt:
+NBExternalAddress>>#nbInt8AtOffset:put:
+NBExternalAddress>>#nbUInt8AtOffset:
+NBExternalAddress>>#nbUInt64AtOffset:
+NBExternalAddress>>#nbUInt64AtOffset:put:
+NBExternalAddress>>#longAt:
+NBExternalAddress>>#nbInt32AtOffset:
+NBExternalAddress>>#nbUInt16AtOffset:put:
+NBExternalAddress>>#longAt:put:
+NBExternalAddress>>#byteAt:put:
+NBExternalAddress>>#ulongAt:put:
+NBExternalAddress>>#nbInt32AtOffset:put:
+NBExternalAddress>>#nbInt8AtOffset:
+NBExternalAddress>>#nbUInt32AtOffset:
+NBExternalAddress>>#nbInt64AtOffset:
+NBExternalAddress>>#nbFloat32AtOffset:
+NBExternalAddress>>#nbInt16AtOffset:put:
+NBObjectFormat32 class>>#headerOf:
+NBFFICalloutTests>>#arraySize2:with:
+NBFFICalloutTests>>#passString:
+NBFFICalloutTests>>#returnParamUsingStackPtr:
+NBFFICalloutTests>>#arraySize:
+NBFFICalloutTests>>#nativeFailWithCode:
+NBMacShell class>>#run:
+NBFFIExternalValueTests>>#outputValueArg:value:
+NBFFIExternalValueTests>>#outputIntArg:value:
+NBFFIExternalValueTests>>#outputVoidArg:value:
+Object>>#nbOopHeader
+NativeCodeTests>>#createMoveTestCode
+NBExternalType>>#coerceReturnPointer:
+NBExternalType>>#pushAsPointer:
+NBExternalType>>#verifyClassOf:is:generator:
+NBExternalType>>#readOop:generator:
+NBExternalType>>#coerceNilToNull:oop:doneLabel:
+NativeBoostMac32>>#getEntryPointStackOffset
+NativeBoostMac32>>#VMModule
+NativeBoostMac32>>#bootstrapGetGlobalSymbolPointer:into:
+NBExternalArray>>#emitWrite
+NBExternalArray>>#emitCopyUsingLoop:
+NBExternalArray>>#emitRead
+NBExternalArray>>#emitCopy:
+NBExternalEnumFromPairsTest>>#primEnumToInt1:
+NBExternalEnumFromPairsTest>>#primExecuteCallbackEnumReturn1:
+NBCallbackCodeGen>>#saveExecutionState
+NBCallbackCodeGen>>#CFramePointerAddress
+NBCallbackCodeGen>>#restoreExecutionState
+NBCallbackCodeGen>>#enterSmalltalkExecutiveImplementation
+NBCallbackCodeGen>>#CStackPointerAddress
+NBCallbackCodeGen>>#reenterInterpreterAddress
+NBCallbackCodeGen>>#memCopy:to:size:
+NBCoreTests>>#testPrimitive220
+NBCoreTests>>#return0Code
+AthensParagraph>>#compose:style:from:in:
+NBBufferWithOffsetTests>>#readByte:
+NBSTIndirectArgument>>#emitLoad:
+NBSTIndirectArgument>>#emitLoad:to:
+NBFFICallbackType>>#coerceReturnValue:
+NBFFICallbackType>>#pushAsValue:
+ByteArray>>#nbLongAt:
+ByteArray>>#nbUInt16AtOffset:
+ByteArray>>#nbUInt8AtOffset:put:
+ByteArray>>#nbFloat32AtOffset:put:
+ByteArray>>#nbFloat64AtOffset:put:
+ByteArray>>#nbInt16AtOffset:
+ByteArray>>#nbFloat64AtOffset:
+ByteArray>>#nbInt64AtOffset:put:
+ByteArray>>#nbUInt32AtOffset:put:
+ByteArray>>#nbUInt64AtOffset:put:
+ByteArray>>#nbUInt8AtOffset:
+ByteArray>>#nbUInt64AtOffset:
+ByteArray>>#nbInt8AtOffset:put:
+ByteArray>>#nbInt32AtOffset:
+ByteArray>>#nbUInt16AtOffset:put:
+ByteArray>>#nbInt32AtOffset:put:
+ByteArray>>#nbInt8AtOffset:
+ByteArray>>#nbUInt32AtOffset:
+ByteArray>>#nbInt64AtOffset:
+ByteArray>>#nbUlongAt:
+ByteArray>>#nbLongAt:put:
+ByteArray>>#nbFloat32AtOffset:
+ByteArray>>#nbUlongAt:put:
+ByteArray>>#nbInt16AtOffset:put:
+UnixEnvironment>>#environ
+UnixEnvironment>>#setEnv:value:
+NBObjectFormat32>>#jumpTo:ifNotWordsOOP:

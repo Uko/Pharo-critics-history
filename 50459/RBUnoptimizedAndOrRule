@@ -1,0 +1,52 @@
+RBSmalllintTestObject>>#unoptimizedAndOr
+MBProjectInfo>>#buildStringOrText
+RubCharacterBlockScanner>>#characterBlockAtPoint:index:in:
+RubCharacterBlockScanner>>#endOfRun
+MorphTreeMorph>>#expand:to:
+MetacelloProjectSpec>>#hasNoLoadConflicts:
+PragmaMenuBuilder class>>#itemSortBlock
+CharacterBlockScanner>>#endOfRun
+CharacterBlockScanner>>#characterBlockAtPoint:index:in:
+TraitBehavior>>#dependentClasses
+AlphaImageMorph>>#layout:
+Integer>>#bitShift:
+MetacelloPharoPlatform>>#defaultPlatformAttributes
+ThumbnailMorph>>#drawMeOn:
+TBehavior>>#dependentClasses
+StringMorph>>#boundsForBalloon
+Latin1 class>>#nextPutValue:toStream:withShiftSequenceIfNeededForTextConverterState:
+GLMBoundPort>>#=
+RubTextLine>>#=
+SimpleHierarchicalListMorph>>#expand:to:
+DAAbstractItemDiff>>#canBeDisplay
+MCVersionSaved>>#=
+DAPackageCycleDetectorTest>>#testfindCycles
+GLMTreeMorphModel>>#roots
+IndexedSlot>>#=
+MetacelloPharoCommonPlatform>>#defaultPlatformAttributes
+JPEGReadWriter>>#okToIgnoreMarker:
+SettingTree>>#itemSortBlock
+RubTextEditor>>#shiftEnclose:
+RubTextEditor>>#addTypeInUndoRecord
+RubTextEditor>>#replace:with:and:
+RubTextEditor>>#enclose:
+MetacelloGenericProjectSpec>>#hasNoLoadConflicts:
+Behavior>>#dependentClasses
+NautilusUI>>#showHierarchy:
+MetacelloMCBaselineOfProjectSpec>>#hasConflictWithConfiguration:
+Point>>#to:intersects:to:
+MenuMorph>>#wantsToBeDroppedInto:
+NewList>>#specialKeyPressed:
+NewListRenderer>>#mouseUp:
+StrikeFont>>#widthOf:
+TextEditor>>#addTypeInUndoRecord
+TextEditor>>#replace:with:and:
+TextEditor>>#enclose:
+TextLine>>#=
+SugsAbstractContext>>#hasOneStatement
+Unicode class>>#isUnifiedKanji:
+SystemNavigation>>#allReferencesToPool:
+SystemNavigation>>#instanceSideMethodsWithNilKeyInLastLiteral
+ClassTestCase>>#repeatedMethodsThatDoNotAccessInstanceVariablesBetween:and:
+Symbol class>>#possibleSelectorsFor:
+String>>#isLegalInstVarName

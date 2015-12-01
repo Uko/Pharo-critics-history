@@ -1,0 +1,12 @@
+RBSmalllintTestObject>>#usesTrue
+KernelClassesFilter>>#kernelClassesToExclude
+DiffModel class>>#exampleWithOptions
+ClassTest>>#testOrdersMetaClassAfterItsClassInstance
+SHTextStylerST80>>#addLinkAttributesFor:in:to:
+RubSHTextStylerST80>>#addLinkAttributesFor:in:to:
+FalseTest>>#testNew
+MCDataStream class>>#initializeTypeMap
+NECInstVarTypeGuesserTest>>#testConstantBoolean
+NECContextTest>>#testReceiverConstant
+SHRange>>#asType
+TrueTest>>#testNew
