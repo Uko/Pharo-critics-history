@@ -1,1272 +1,1273 @@
-LegacyWeakSubscription>>#makeStrong
-OCBytecodeDecompilerTest>>#remoteTemp
-OCBytecodeDecompilerTest>>#remoteTempNested
-CharacterSetComplement>>#removeAll
-GTInspectorPresentationFilter>>#openListChooseLabeled:forInspector:with:select:format:actionSelector:
-TaskbarMorph class>>#maximumButtons:
-TaskbarMorph class>>#reset
-GoferVersionReference>>#compare:using:
-RxsPredicate class>>#forNamedClass:
-RxsPredicate class>>#forEscapedLetter:
-GLMBrick>>#drawOn:
-GLMBrick>>#ownerThatIsA:
-RubFindReplaceDialogWindow>>#defaultButton
-RubFindReplaceDialogWindow>>#findTextFieldMorph
-StandardFonts class>>#printStandardSystemFonts
-StandardFonts class>>#setFontsFromSpec:
-StandardFonts class>>#getCurrentFontsSpec
-StandardFonts class>>#setAllStandardFontsTo:
-StandardFonts class>>#setDefaultFonts:
-NNavDirectionChild class>>#askForNodeSelectionFrom:
-TaskListMorph>>#newPreviewMorph
-NBNativeCodeGen class>>#generateCode:andRetry:
-RBRefactoringChangeTests>>#undoTestFor:
-RBRefactoringChangeTests>>#universalTestFor:
-RBRefactoringChangeTests>>#testPerformAddRemoveClassMethod
-RBRefactoringChangeTests>>#testAddTraitPattern
-RBRefactoringChangeTests>>#testAddMetaclassPattern
-RBRefactoringChangeTests>>#testAddClassTraitPattern
-RBRefactoringChangeTests>>#testAddClassPattern
-KMKeyCombination>>#=
-MCWorkingCopyBrowser>>#addMetacelloConfiguration
-MCWorkingCopyBrowser>>#editRepository
-MCWorkingCopyBrowser>>#editScript:
-RxParser>>#ifSpecial:then:
-ProcessBrowser class>>#suspendProcess:
-ProcessBrowser class>>#menuProcessList:
-TextFontChange>>#dominates:
-ChangeList>>#changes:file:
-ChangeList>>#selectConflicts:
-PharoIssueTest>>#testSlice
-SemaphoreTest>>#testInCriticalWait
-SemaphoreTest>>#testAfterCriticalWait
-DisplayScanner>>#displayLine:offset:leftInRun:
-TreeModel class>>#example
-TreeModel class>>#exampleWithCustomColumnsAndNodes
-TreeModel class>>#exampleWithCustomColumnsAndNodesAndChildren
-MCMczInstallerTest>>#assertDict:matchesInfo:
-IncrementalSliderMorph>>#updateEnabled
-IncrementalSliderMorph>>#value
-IncrementalSliderMorph>>#value:
-RFCondition>>#reifications
-ScaledDecimal>>#adaptToFraction:andSend:
-ScaledDecimal>>#adaptToInteger:andSend:
-BooleanFilter>>#shouldDisplay:
-DictionaryTest>>#assertNonDuplicatedContents:whenConvertedTo:
-GLMMorphBrick>>#on:
-StrikeFontSet>>#bonk:with:at:
-FLSerializationTest>>#tearDownInstanceVariables
-Trait class>>#named:uses:category:env:
-PluggableTabBarMorph>>#performActiveTabAction
-GLMMorphicRubricTextRenderer>>#actOnTextEditorRequest:
-RubSmalltalkEditor>>#debug:
-RubSmalltalkEditor>>#modelCurrentSelectedClass
-RubSmalltalkEditor>>#evaluate:andDo:
-RubSmalltalkEditor>>#tally:
-RowLayout>>#layout:in:
-RBSmalllintTestObject>>#collectionMessagesToExternalObject
-RBSmalllintTestObject>>#badMessage
-RBSmalllintTestObject>>#codeCruftLeftInMethods
-GLMListPresentationTest>>#testChildren
-FontChooser>>#selectedFont
-FontChooser>>#unemphasizedSelectedFont
-FontChooser>>#apply
-FontChooser>>#setStyleValuesFrom:
-FontChooser>>#setPointSizeListFrom:
-FontChooser>>#selectedFontIndex
-MetacelloProjectSpecForLoad>>#performCurrentVersionTestAgainst:operator:targetVersionStatus:using:
-RBRefactoryTestDataApp>>#collectionMessagesToExternalObject
-RBRefactoryTestDataApp>>#cruft
-RBRefactoryTestDataApp>>#badMessage
-LabelMorph>>#updateEnabled
-LabelMorph>>#updateText
-ThemeIcons>>#iconNamed:ifNone:
-ThemeIcons>>#spotterForIconsFor:
-ThemeIcons>>#initializeIcons
-ThemeIcons>>#gtInspectorIconsIn:
-ThemeIcons>>#exportAllIconsAsGif
-ThemeIcons>>#exportAllIconsAsPNG
-ThemeIcons>>#createIconMethodsFromFile:directory:
-DropListMorph>>#updateEnabled
-DropListMorph>>#wrapItem:index:
-DropListMorph>>#getCurrentSelection
-DropListMorph>>#listSelectionIndex:
-DropListMorph>>#updateList
-DropListMorph>>#getCurrentSelectionIndex
-TraitDescription>>#forceNewFrom:
-TraitDescription>>#newInstanceFrom:variable:size:map:
-TraitDescription>>#classComment:stamp:
-MCWorkingCopyTest>>#testNaming
-RubCharacterBlockScanner>>#characterBlockAtPoint:index:in:
-TextColor class>>#scanFrom:
-PharoSyntaxTutorialTest>>#testLessonAtReturnsCorrespondingLesson
-PharoSyntaxTutorialTest>>#testEachSelectorReturnsALesson
-PharoSyntaxTutorialTest>>#testEachSelectorExists
-VSCommitBrowser>>#configure
-OCKeyedSet>>#addAll:
-RPackageOrganizer>>#systemCategoryRemovedActionFrom:
-RxMatchOptimizer>>#determineTestMethod
-RxMatchOptimizer>>#nonMethodPredicateTester
-RxMatchOptimizer>>#conditionTester
-RxMatchOptimizer>>#methodPredicateTester
-AssignmentNode>>#toDoIncrement:
-AssignmentNode>>#variable:value:from:
-STCommandLineHandler>>#handleError:
-STCommandLineHandler>>#handleError:reference:
-TestResult>>#updateResultsInHistory
-AbstractTool>>#compileANewClassFrom:notifying:startingFrom:
-FilterTest>>#setUp
-Finder>>#testObjects:strings:
-Rectangle>>#withSide:setTo:
-Rectangle>>#pointAtSideOrCorner:
-GTSpotterStepsBreadcrumb>>#onStepAdded:
-AthensSceneView>>#createSurface
-PluggableTextFieldMorph>>#acceptTextInModel
-PluggableTextFieldMorph>>#getText
-RBClassRegexRefactoring>>#transform
-PluggableMultiColumnListMorph>>#getListSize
-PluggableMultiColumnListMorph>>#getListRow:
-FloatTest>>#testNaNCompare
-RealEstateAgent class>>#initialFrameFor:initialExtent:world:
-RealEstateAgent class>>#strictlyStaggeredInitialFrameFor:initialExtent:world:
-SlotBasicTest>>#testSwitchClassSlotAndMigrate
-SlotBasicTest>>#testAddClassSlotAndMigrate
-SlotBasicTest>>#testWithClassSlots
-SlotBasicTest>>#testRemoveClassSlotAndMigrate
-KMShortcutTest>>#testCreation
-DictionaryValueHolder>>#doesNotUnderstand:
-ReleaseTest>>#testAllClassPoolBindingAreClassVariables
-ReleaseTest>>#testAllGlobalBindingAreGlobalVariables
-FileSystemHandleTest>>#testWriteStream
-ZnLimitedReadStream>>#collectionSpecies
-GLMPortIdentifierTest>>#testAssociationAsOriginIdentifier
-GLMPortIdentifierTest>>#testSymbolAsOriginIdentifier
-GLMPortIdentifierTest>>#testSymbolAsTargetIdentifier
-GLMPortIdentifierTest>>#testAssociationAsTargetIdentifier
-TabExample>>#freshListTab
-NBExternalStructure>>#printOn:
-RubEncryptedDisplayScanner>>#displayLine:offset:leftInRun:
-PasteUpMorph>>#modelWakeUp
-PasteUpMorph>>#addMorphs:
-PasteUpMorph>>#acceptDroppingMorph:event:
-NewListModel class>>#exampleWithMenu
-EnvironmentChooser>>#chooseNewEnvironment
-GLMExamplesBrowser>>#exampleBrowserForPragma:in:
-OCCompiledMethodIntegrityTests>>#testPragmas
-TextMorph>>#changeEmphasis:
-TextMorph>>#ownerChanged
-TextMorph>>#text:textStyle:
-TextMorph>>#text:textStyle:wrap:color:predecessor:successor:
-TextMorph>>#changeAlignment:
-Symbol>>#glamourValueWithArgs:
-Symbol>>#cull:
-Symbol>>#value:
-RunArray>>#=
-RunArray>>#,
-ZnSingleThreadedServer>>#closeDelegate
-InflateStream>>#pastEndRead
-HowToMakeYourOwnTutorialTest>>#testLessonAtReturnsCorrespondingLesson
-HowToMakeYourOwnTutorialTest>>#testEachSelectorReturnsALesson
-HowToMakeYourOwnTutorialTest>>#testEachSelectorExists
-NBExternalEnumTests>>#testCallbackEnumFromInt
-NBExternalEnumTests>>#testCallbackAAA
-NBExternalEnumTests>>#primExecuteCallbackEnumReturn:
-DialogWindow>>#defaultButton
-DialogWindow>>#acceptTextMorphs
-DialogWindow>>#defaultFocusMorph
-GLMBrowserTest>>#testStatusbarTransmissions
-GLMBrowserTest>>#testStatusbarTransmissionsTriggered
-GLMBrowserTest>>#testCompositeInTheParentPane
-Bag>>#=
-ArrayTest>>#assertSameContents:whenConvertedTo:
-ArrayTest>>#assertNonDuplicatedContents:whenConvertedTo:
-ArrayTest>>#accessValuePutIn
-ArrayTest>>#accessValuePutInOn:
-MBBaselineInfoTest>>#testCopyBaseline
-MetacelloMCVersionValidator>>#validateCleanLoadAndTestsForVersion:loads:
-MCScriptDefinition class>>#from:
-AbstractNautilusUI class>>#sourceCodeMenu:
-AbstractNautilusUI class>>#shiftedSourceCodeMenu:
-KMComposedModifier>>#=
-MetacelloMCProjectSpec>>#compareRelativeCurrentVersion:targetVersionStatus:using:
-MetacelloMCProjectSpec>>#determineCurrentVersionForLoad
-ParseNode>>#nodePrintOn:indent:
-RGMethodDefinitionTest>>#testClassNameSelectorIsMetaSide
-CustomHelp class>>#edit:
-ConfigurationOfVersionnerTestXMLParserTemplate class>>#ensureMetacello
-FloatArrayTest>>#assertNonDuplicatedContents:whenConvertedTo:
-RBVariableEnvironment>>#numberVariables
-RBVariableEnvironment>>#isEmpty
-RBVariableEnvironment>>#storeOn:
-RBVariableEnvironment>>#instanceVariableSelectorsFor:
-SystemDictionary>>#poolUsers
-SystemDictionary>>#fillCaches
-SystemDictionary>>#declare:from:
-GLMEmptyPopupBrick>>#foundationBrick
-ColorChooserMorph>>#updateEnabled
-ColorChooserMorph>>#chooseColor
-PluggableThreePhaseButtonMorph>>#updatePressedImage
-PluggableThreePhaseButtonMorph>>#updateOnImage
-PluggableThreePhaseButtonMorph>>#updateOffImage
-PluggableThreePhaseButtonMorph>>#updateState
-HDTestReport>>#runCase:
-SourceFileArray>>#close
-FileReferenceTest>>#testTempFilePrefixSuffix
-SystemReporter>>#updateReport
-SystemReporter>>#categoryAt:put:
-MCScriptDefinition>>#installScript:
-FLBlockClosureSerializationTest>>#testBlockClosureChangeDifferentBytecodes
-FLBlockClosureSerializationTest>>#testBlockClosureChangeSameBytecodes
-FLBlockClosureSerializationTest>>#testBlockClosureRemoved
-NECContext>>#createModel
-MorphTreeMorph>>#enabled:
-MorphTreeMorph>>#doubleClickSelector:
-FileList>>#setSortSelector:
-FileList>>#isDirectoryList:
-FileList>>#perform:orSendTo:
-AJx86AssemblerTests>>#testAssembly3
-MetacelloProjectSpec>>#compareVersions:usingOperator:
-GLMPaneTest>>#testDefaultPresentations
-GLMPaneTest>>#testDefaultCompositePresentation
-StackLayout>>#layout:in:
-TestCase>>#cleanUpInstanceVariables
-TestCase>>#openDebuggerOnFailingTestMethod
-TestCase>>#performTest
-IntervalTest>>#assertNonDuplicatedContents:whenConvertedTo:
-PluggableListMorph>>#resetListSelectionSilently
-PluggableListMorph>>#acceptDroppingMorph:event:
-PluggableListMorph>>#startDragExtended:
-PluggableListMorph>>#listSelectionAt:put:
-PluggableListMorph>>#listSelectionAt:
-PluggableListMorph>>#wantsDroppedMorph:event:
-PluggableListMorph>>#getListItem:
-PluggableListMorph>>#mouseDownOnMultiple:forRow:
-PluggableListMorph>>#wrapItem:index:
-PluggableListMorph>>#getListSize
-PluggableListMorph>>#doubleClick:
-PluggableListMorph>>#separatorAfterARow:
-PluggableListMorph>>#updateEnabled
-PluggableListMorph>>#modifierKeyPressed:
-PluggableListMorph>>#getCurrentSelectionIndex
-PluggableListMorph>>#backgroundColorFor:
-PluggableListMorph>>#changeModelSelection:
-PluggableListMorph>>#getList
-RubSmalltalkCodeMode>>#shoutAboutToStyle:
-ByteString>>#replaceFrom:to:with:startingAt:
-ByteString>>#at:put:
-HookGenerator>>#setupTable
-HookGenerator>>#initForNode:
-HookGenerator>>#reificationsFor:
-TraitCompositionTest>>#testSum
-TraitCompositionTest>>#testCompositionFromArray
-TraitCompositionTest>>#testSumWithParenthesis
-TraitCompositionTest>>#testEmptyTrait
-ScaledDecimalTest>>#testReadFrom
-ScaledDecimalTest>>#testScaleExtension
-ScaledDecimalTest>>#testCoercion
-SearchMorph>>#listSelectionIndex:
-SearchMorph>>#contentChanged:
-SearchMorph>>#keystrokeAction:
-MCMethodDefinitionTest>>#testLoadAndUnload
-PluggableCanvas>>#fillRectangle:basicFillStyle:
-PluggableCanvas>>#fillOval:fillStyle:borderWidth:borderColor:
-OCArrayLiteralTest>>#testByteArrayEmpty
-OCArrayLiteralTest>>#testByteArrayBase
-OCArrayLiteralTest>>#testByteArrayRange
-OCArrayLiteralTest>>#testByteArrayWithinArray
-OCArrayLiteralTest>>#testByteArrayLong
-MetacelloToolBox class>>#helpTopicFor:
-MetacelloToolBox class>>#defaultTopic:for:
-MetacelloToolBox class>>#validatePlatformLoad:for:
-MetacelloToolBox class>>#validatePlatformLoad:for:version:
-ToggleIconicButton>>#getStatus
-HandMorph>>#showTemporaryCursor:hotSpotOffset:
-MCGitHubRepository>>#hasNoLoadConflicts:
-NewListAdapter>>#getMenu:
-NewListAdapter>>#iconMaxSize
-NewListAdapter>>#setIndexesFromModel
-NewListAdapter>>#allowToSelect
-NewListAdapter>>#draggedItemAtIndex:
-NewListAdapter>>#acceptDroppingMorph:atIndex:event:inMorph:
-NewListAdapter>>#getRawItemAt:
-NewListAdapter>>#getListSize
-NewListAdapter>>#separatorAfter:at:
-NewListAdapter>>#setIndexFromModel
-NewListAdapter>>#getItems
-NewListAdapter>>#getHeaderTitle
-NewListAdapter>>#wantsDroppedMorph:event:inMorph:
-MCTool>>#performButtonAction:enabled:
-MCTool>>#findTextMorph:
-MCTool>>#findListMorph:
-ZnUserAgentSessionTests>>#testAccessors
-CharacterBlockScanner>>#characterBlockAtPoint:index:in:
-FLBasicSerializationTest>>#testExecuteAfterMaterialization
-MethodNode>>#selectorNode
-BlockNode>>#ifHasRemoteTempNodeEnsureInitializationStatementExists:
-MBCommand>>#checkUserInRepository:
-MBCommand>>#browseVersionHistory
-TraitBehavior>>#literalScannedAs:notifying:
-TraitBehavior>>#adoptInstance:
-TraitBehavior>>#allInstances
-TraitBehavior>>#spaceUsed
-TraitBehavior>>#allInstancesDo:
-TraitBehavior>>#storeLiteral:on:
-OCDecompilerConstructor>>#codeMessage:selector:arguments:
-LayoutFrame>>#fromArray:
-AlphaImageMorph>>#updateImage
-GLMTabulatorMorphicTest>>#testStatusbar
-Encoder>>#tempNames
-Number>>#adaptToString:andSend:
-Number>>#adaptToCollection:andSend:
-Number>>#adaptToFloat:andSend:
-Number>>#adaptToFloat:andCompare:
-Number>>#adaptToPoint:andSend:
-KMTarget>>#realTarget
-ComposableModel>>#show
-ComposableModel>>#retrieveSpec:
-ComposableModel>>#instantiateModels:
-ComposableModel>>#gtInspectorModelNestingIn:
-ComposableModel>>#defaultSpec
-ComposableModel>>#initializePresenter
-ComposableModel>>#hide
-ComposableModel>>#ensureExtentFor:
-GLMScriptingTest>>#testReferences
-GLMScriptingTest>>#testSimpleTransmission
-GLMScriptingTest>>#testConditionalPresentation
-GLMScriptingTest>>#testPublishingToOutsideFinder
-KMPragmaKeymapBuilder>>#collectRegistrations
-SystemNavigationTest>>#testIsMessageSentInSystemAnswersMethodReference
-RubTextComposer>>#composeLinesFrom:to:delta:into:priorLines:atY:textStyle:text:container:
-CodeHolder>>#inheritanceButtonColor
-CodeHolder>>#buttonWithSelector:
-CodeHolder>>#sendQuery:to:
-CodeHolder>>#useSelector:orGetSelectorAndSendQuery:to:
-CodeHolder>>#codePaneProvenanceIndex:
-CodeHolder>>#refreshAnnotation
-CodeHolder>>#decorateForInheritance
-SlotIntegrationTest>>#testSmallIntegerLayout
-SlotIntegrationTest>>#testSlotScopeParallelism
-SlotIntegrationTest>>#testCompiledMethodLayout
-NBNativeCodeGen>>#generatedCode
-NBNativeCodeGen>>#parseOptions:
-Integer>>#adaptToFraction:andSend:
-Integer>>#digitLogic:op:length:
-Duration>>#printHumanReadableOn:
-MTProjectBFSIteratorTest>>#testNext
-TabLabelMorph>>#font:
-RBVariableNode>>#=
-RBTransformationRule>>#result
-TxModel>>#postCopy
-Decompiler>>#popIntoTemporaryVariable:
-Decompiler>>#sawClosureBytecode
-Decompiler>>#convertToDoLoop
-MCClassDefinition>>#selectVariables:
-MCClassDefinition>>#storeDataOn:
-OCCaseOfTest>>#testCaseOfValue
-OCCaseOfTest>>#testCaseOfEffect
-MetacelloMCVersionSpec>>#isPartiallyCurrentAgainst:
-PopupChoiceDialogWindow>>#newChoicesMorph
-Scanner>>#scanToken
-GTSpotterEventRecorderSettings>>#dictionary
-GTSpotterEventRecorderSettings>>#dictionary:
-ChangeSet class>>#newChangesFromStream:named:
-GLMNewScriptingTest>>#testStartTabulator
-GLMNewScriptingTest>>#testSimpleTransmission
-GLMNewScriptingTest>>#testBundleTransmission
-GLMNewScriptingTest>>#testBuildingNestedComposites
-Trait>>#fileOutPool:onFileStream:
-Trait>>#obsolete
-SortedCollectionTest>>#assertNonDuplicatedContents:whenConvertedTo:
-PluggableSliderMorph>>#updateEnabled
-PluggableSliderMorph>>#updateLabel
-PluggableSliderMorph>>#updateValue
-PluggableSliderMorph>>#setValue:
-MCPatchOperation>>#summary
-UnmodifiedField>>#migrateAt:to:from:
-TxFontAttribute class>>#defaultValue
-SystemWindow class>>#windowMenuOn:
-SystemWindow class>>#windowsIn:satisfying:
-RxmSpecial>>#matchAgainst:
-MessageTally>>#spyEvery:onProcess:forMilliseconds:
-MBAddRepositoryCommand>>#newRepository
-BalloonMorph class>>#getBestLocation:for:corner:
-MetacelloVersionNumber>>#hash
-MetacelloPharoPlatform>>#defaultPlatformAttributes
-EventManagerTest>>#testRemoveActionsWithReceiver
-RBSendsUnknownMessageToGlobalRule>>#initialize
-ConfigurationOfVersionnerTestXMLWriter class>>#ensureMetacello
-RBConjunctiveCondition>>#errorStringFor:
-TxBasicTextPosition>>#=
-Collection>>#adaptToCollection:andSend:
-Collection>>#adaptToString:andSend:
-Collection>>#adaptToNumber:andSend:
-Collection>>#adaptToPoint:andSend:
-ThumbnailMorph>>#actualViewee
-ThumbnailMorph>>#formOrMorphToView
-ZnMessageBenchmark class>>#bench:
-FormCanvas>>#setClearColor:
-FormCanvas>>#setPaintColor:
-FormCanvas>>#fillRectangle:basicFillStyle:
-FormCanvas>>#setFillColor:
-FormCanvas>>#fillOval:fillStyle:borderWidth:borderColor:
-MetacelloAbstractVersionConstructor>>#evaluatePragma:
-SimpleServiceEntry>>#performExtraFor:
-SimpleServiceEntry>>#performServiceFor:
-ProtoObjectTest>>#testIfNotNilIfNil
-ProtoObjectTest>>#testIfNotNil
-ProtoObjectTest>>#testIfNilIfNotNil
-ProtoObjectTest>>#testIfNil
-MCReader class>>#isAbstract
-GLMCompositePresentationTest>>#testCreateTabulator
-GLMCompositePresentationTest>>#testCreateFinder
-GTExample>>#result
-Continuation>>#restoreValues
-Continuation>>#initializeFromContext:
-MorphicModel>>#releaseCachedState
-FLGlobalSendCluster>>#materializeInstanceWith:
-GLMDynamicMorphicTest>>#testUpdate
-GLMDynamicMorphicTest>>#testSurroundingPanel
-ProcessBrowser>>#processListKey:from:
-ProcessBrowser>>#signalSemaphore
-FileContentsBrowser>>#didCodeChangeElsewhere
-ZnMultiPartFormDataEntity>>#parse:boundary:binary:
-PolymorphSystemSettings class>>#desktopBackgroundChanged
-SugsAbstractContext class>>#contextFor:
-CompiledMethod>>#putSource:inFile:withPreamble:
-CompiledMethod>>#setSourcePointer:
-CompiledMethod>>#embeddSourceInTrailer
-CodeSimulationTests>>#methodWithHalt
-PragmaSetting>>#settingReceiver
-IdentifierChooserMorph>>#newChoicesMorph
-IdentifierChooserMorph>>#switchToOtherColumn:
-IdentifierChooserMorph>>#selectNextItem
-IdentifierChooserMorph>>#selectPreviousItem
-SystemWindow>>#titleAndPaneText
-SystemWindow>>#setUpdatablePanesFrom:
-SystemWindow>>#reframePanesAdjoining:along:to:
-SystemWindow>>#aboutTitle
-SystemWindow>>#model:
-SystemWindow>>#hasUnacceptedEdits
-SystemWindow>>#removeEdgeGrips
-SystemWindow>>#initialExtent
-SystemWindow>>#modalLockTo:
-SystemWindow>>#activate
-SystemWindow>>#labelHeight
-RxmPredicate>>#bePerformNot:
-RxmPredicate>>#bePerform:
-MCRepositoryGroup>>#removeHTTPRepositoryLocationNamed:
-TxTextStyler>>#pickFontWithEmphasis:
-TaskbarTask>>#activate
-TBehavior>>#literalScannedAs:notifying:
-TBehavior>>#adoptInstance:
-TBehavior>>#allInstances
-TBehavior>>#spaceUsed
-TBehavior>>#allInstancesDo:
-TBehavior>>#storeLiteral:on:
-MultiCanvas>>#contentsOfArea:into:
-MultiCanvas>>#apply:
-ColorPresenterMorph>>#updateColor
-UIManager>>#interactiveParserFor:
-RBRefactoryVariableChange>>#primitiveExecute
-RBMessageNode>>#toDoFromWhileWithInit:
-VersionnerProjectPanel>>#initializeGroupsWidget
-MetacelloSpec>>#doItBlock:
-MetacelloSpec>>#mergeSpec:
-MethodContextTest>>#testActivateReturnValue
-MethodContextTest>>#testSetUp
-MethodContextTest>>#testMethodContext
-RubCharacterScanner>>#widthOf:inFont:
-TestRunner>>#classAt:put:
-TestRunner>>#runFailures
-TestRunner>>#categoryAt:put:
-TestRunner>>#runErrors
-AbstractEyeElement>>#errorSubMenu:
-AbstractEyeElement>>#errorWhileAccessing:do:
-NECVarTypeGuesser class>>#getClassFromTypeSuggestingName:
-DialogWindowModel>>#buildWithSpecLayout:
-ExceptionTester>>#runTest:
-SlotMigrationTest>>#testAddSlotAndMigrate
-SlotMigrationTest>>#testRemoveTestSlot
-SlotMigrationTest>>#testRemoveSlotAndMigrate
-SlotMigrationTest>>#testSwitchSlotsAndMigrate
-SlotMigrationTest>>#testAddTestSlot
-SlotMigrationTest>>#testShiftSlotAndMigrate
-SlotMigrationTest>>#testAddSlotPropagateAndMigrate
-RPackageSet>>#collectFromAllPackages:
-RPackageSet>>#collectFromAllPackages:with:
-MetaLink>>#hasReifiedCondition
-AbstractNautilusUI>>#runExampleMethod:
-AbstractNautilusUI>>#runScriptMethod:
-AbstractNautilusUI>>#wantsDroppedMorph:event:inMorph:
-AbstractNautilusUI>>#runClassInitializeMethod:
-AbstractNautilusUI>>#dragTransferTypeForMorph:
-AbstractNautilusUI>>#dragPassengersFor:inMorph:
-SmalltalkImage>>#send:toClassesNamedIn:with:
-SmalltalkImage>>#logStartupError:into:tryDebugger:
-SmalltalkImage>>#recreateSpecialObjectsArray
-SmalltalkImage>>#forceChangesToDisk
-ObjectTest>>#testBecome
-ObjectTest>>#testBecomeForward
-GLMCompositePresentationMorphicTest>>#testFinder
-GLMCompositePresentationMorphicTest>>#compositePanel
-GLMCompositePresentationMorphicTest>>#testTabsLastActivePresentation
-GLMCompositePresentationMorphicTest>>#compositeTabGroup
-OCDecompiler>>#popIntoTemporaryVariable:
-OCDecompiler>>#convertToDoLoop
-ClassDescriptionTest>>#testOrganization
-PseudoClass>>#exists
-PseudoClass>>#stampAt:
-GLMBundleTransmissionTest>>#testPorts
-SettingTreeBuilder>>#systemsettings
-WorldModel class>>#setUpWorld
-GTSimpleMethodsBrowser>>#updateOuterPaneFrom:for:
-GTSimpleMethodsBrowser>>#evaluationAction
-StringMorph>>#changeEmphasis
-StringMorph>>#boundsForBalloon
-HaloMorph>>#doDup:with:
-GoferApiTest>>#testConstraintReference
-GoferApiTest>>#testInitialRepositories
-GoferApiTest>>#testVersionReference
-GoferApiTest>>#testHttpRepository
-GoferApiTest>>#testDirectoryRepository
-GoferApiTest>>#testSubDirectoryRepository
-GoferApiTest>>#testPackageReference
-HistoryIteratorTest>>#testGroupedUndo2
-Float>>#adaptToInteger:andSend:
-Float>>#adaptToFraction:andCompare:
-Float>>#gtInspectorFloatIn:
-Float>>#adaptToInteger:andCompare:
-Float>>#adaptToFraction:andSend:
-ExpanderTitleMorph>>#titleText
-ExpanderTitleMorph>>#font:
-ExpanderTitleMorph>>#font
-ExpanderTitleMorph>>#titleText:
-ToggleMenuItemMorph>>#mouseLeave:
-ToggleMenuItemMorph>>#icon
-ToggleMenuItemMorph>>#isEnabled
-ToggleMenuItemMorph>>#mouseEnter:
-CheckboxMorph>>#isSelected
-CheckboxMorph>>#updateLabel
-CheckboxMorph>>#updateEnabled
-CheckboxMorph>>#toggleSelected
-Nautilus class>>#historyMaxSize:
-HDCoverageReport>>#addTestsIn:to:
-SHTextStylerST80 class>>#attributeArrayForColor:emphasis:font:
-SHTextStylerST80 class>>#unload
-SHTextStylerST80 class>>#initialize
-GLMBrickStructureTrait>>#ownerThatIsA:
-GLMPane>>#withAllPanes
-GLMPane>>#withAllPresentations
-ProtoObject>>#instVarsInclude:
-ProtoObject>>#pointsTo:
-ProtoObject>>#pointersToExcept:
-GLMRubricExample>>#iconProvider
-PragmaMenuBuilder>>#collectRegistrations
-PluggableMorphListMorph>>#getList
-SHTextStylerST80>>#unstyledTextFrom:
-TextComposer>>#multiComposeLinesFrom:to:delta:into:priorLines:atY:textStyle:text:container:wantsColumnBreaks:
-TextComposer>>#composeLinesFrom:to:delta:into:priorLines:atY:textStyle:text:container:wantsColumnBreaks:
-Dictionary>>#declareVariable:from:
-FLMigrationTest>>#testClassAndVariableRename
-FLMigrationTest>>#testVariableRename
-FLMigrationTest>>#testVariableInsertion
-FLMigrationTest>>#testChangeInSuperclass
-FLMigrationTest>>#testSuperclassChange
-FLMigrationTest>>#testClassRename
-FLMigrationTest>>#testVariableRemoved
-FLMigrationTest>>#testVariableOrderChange
-HaloMorph class>>#haloSpecFromArray:
-HaloMorph class>>#installHaloTheme:
-Model>>#hasUnacceptedEdits
-FilePackage>>#fileInFrom:
-GLMBrowser>>#resolveDestinationPort:
-AthensDemoMorph>>#render
-FreeTypeCacheTest>>#testSetMaximumSize
-FreeTypeCacheTest>>#testNormalPutGet
-FreeTypeCacheTest>>#testRemoveAllForType
-FreeTypeCacheTest>>#testSetMaximumSizeShrink
-FreeTypeCacheTest>>#testRemoveAll
-FreeTypeCacheTest>>#testMaximumSizeRespectedOnPut
-FreeTypeCacheTest>>#validateCollections:
-FreeTypeCacheTest>>#testFailedGet
-FreeTypeCacheTest>>#testMaximumSizeRespectedOnIfAbsentPut
-FreeTypeCacheTest>>#testNormalPutGetWidth
-FreeTypeCacheTest>>#testNormalGetIfAbsentPut
-FreeTypeCacheTest>>#testNormalPutGetTwice
-FreeTypeCacheTest>>#testRemoveAllForFont
-FreeTypeCacheTest>>#testNormalGetIfAbsentPutTwiceIntoNonEmptyCache
-FreeTypeCacheTest>>#testPutSameElementTwice
-FreeTypeCacheTest>>#testSetMaximumSizeGrow
-FreeTypeCacheTest>>#testSetMaximumSizeUnbounded
-FreeTypeCacheTest>>#testInstanceInitialization
-FreeTypeCacheTest>>#testNormalGetIfAbsentPutTwice
-FreeTypeCacheTest>>#validateSizes:
-PropertySlotTest>>#testRemovePropertySlot
-PropertySlotTest>>#testCreateClassWithPropertySlot
-PropertySlotTest>>#testCreateClassWithTwoPropertySlots
-PropertySlotTest>>#testRemovePropertySlot2
-PropertySlotTest>>#testCreateClassWithPropertySlotAddSecond
-MorphTreeNavigationBar>>#buttonLabel:actionSelector:arguments:getEnabled:help:
-CollectionValueHolder>>#doesNotUnderstand:
-Slot>>#spotterAccessesFor:
-CompiledMethod class>>#newInstanceFrom:variable:size:map:
-GLMFlexiblePresentationTest>>#testDefault
-STCommandLineHandlerTest>>#testLoadSourceFiles
-TraitAlias class>>#assertValidAliasDefinition:
-CharacterSet>>#add:
-RBRenameInstanceVariableChange>>#copyOldValuesToNewVariable
-FreeTypeCacheEntry>>#=
-ListModel>>#clickOnSelectedItem
-ShiftedField>>#migrateAt:to:from:
-NBNativeFunctionGen>>#generateInstructions:
-MCHttpRepository>>#writeStreamForFileNamed:replace:do:
-TutorialPlayerTestTutorialAccessor>>#testDefaultsToSmalltalkSyntaxTutorial
-DebugSession>>#isTestObject:
-AdditionalMethodState>>#copyWithout:
-AdditionalMethodState>>#copyWith:
-AdditionalMethodState>>#hasAtLeastTheSamePropertiesAs:
-ModifiedField>>#migrateAt:to:from:
-ScrollBar>>#step
-RubDisplayScanner>>#displayLine:offset:leftInRun:
-PluggableButtonMorph>>#getMenu:
-PluggableButtonMorph>>#update:
-PluggableButtonMorph>>#changed
-PluggableButtonMorph>>#fillStyleToUse
-PluggableButtonMorph>>#borderStyleToUse
-PluggableButtonMorph>>#performAction:
-PluggableButtonMorph>>#getModelState
-IRBuilderTest>>#testPushSelf
-IRBuilderTest>>#testPushClosureCopyOneCopiedTemp
-IRBuilderTest>>#testDup
-IRBuilderTest>>#testLiteralBoolean
-IRBuilderTest>>#testInstVar
-IRBuilderTest>>#testLiteralFloat
-IRBuilderTest>>#testStoreIntoVariable
-IRBuilderTest>>#testPushNewArray
-IRBuilderTest>>#testLiteralArray
-IRBuilderTest>>#testPushConsArray
-IRBuilderTest>>#testLiteralVariableClassVariable
-IRBuilderTest>>#testStorePopIntoVariable
-IRBuilderTest>>#testPushClosureCopyNoCopiedArg
-IRBuilderTest>>#testPushClosureCopyNoCopiedArgNamed
-IRBuilderTest>>#testJumpBackTo
-IRBuilderTest>>#testPushTempArgument
-IRBuilderTest>>#testPopTop
-IRBuilderTest>>#testReturnInstVar
-IRBuilderTest>>#testPushConsArray2
-IRBuilderTest>>#testRemoteTemp
-IRBuilderTest>>#testRemoteTempShadowed
-IRBuilderTest>>#testLiteralSymbol
-IRBuilderTest>>#testLiteralVariableClass
-IRBuilderTest>>#testRemoteTempNested
-IRBuilderTest>>#testPushClosureCopyNoCopied
-IRBuilderTest>>#testLiteralVariableGlobale
-IRBuilderTest>>#testLiteralInteger
-IRBuilderTest>>#testSendSuper
-IRBuilderTest>>#testJumpAheadToIf
-IRBuilderTest>>#testJumpAheadTo
-IRBuilderTest>>#testReturnTop
-IRBuilderTest>>#testStorePopIvar
-IRBuilderTest>>#testLiteralNil
-IRBuilderTest>>#testPushTempTemp
-IRBuilderTest>>#testBuildMethod
-IRBuilderTest>>#testPushClosureCopyOneCopiedArg
-IRBuilderTest>>#testStoreIvar
-IRBuilderTest>>#testPushClosureCopyOneCopiedTempArg
-IRBuilderTest>>#testPushClosureCopyOneCopied
-IRBuilderTest>>#testLiteralString
-IRBuilderTest>>#testLiteralCharacter
-IRBuilderTest>>#testPushThisContext
-IRBuilderTest>>#testStoreTemp
-TextAnchorTest>>#testMorphInline
-GLMExplicitBrowserCopyTest>>#testTrasmissions
-SugsSuggestionFactory class>>#collectCommandsFrom:
-HelpBrowser>>#shoutAboutToStyle:
-GLMBoundPort>>#=
-Set>>#=
-ProcessTest>>#testFork
-ProcessTest>>#testNewProcess
-ProcessTest>>#testNewProcessWith
-TestCaseTest>>#testAnnouncement
-GLMListMorphicTest>>#testTextBackgroundColor
-Compiler>>#evaluate:in:to:notifying:ifFail:logged:
-OrderedDictionaryTest>>#assertSelector:enumerates:and:from:
-OrderedDictionaryTest>>#assertIsDictionary:includesAll:
-OrderedDictionaryTest>>#assertSelector:collects:from:
-OrderedDictionaryTest>>#assertSelector:enumerates:from:
-OrderedDictionaryTest>>#assertIsDictionary:withAssociations:
-BooleanSlot>>#calculateOffset:
-LinkedListTest>>#testCreateAs
-LinkedListTest>>#assertNonDuplicatedContents:whenConvertedTo:
-AnnotationRequest>>#getAnnotations
-PanelMorph>>#checkSplitters
-PanelMorph>>#interactionState:
-DockingBarMorph>>#updatePosition
-DockingBarMorph>>#addLine
-GLMMorphicTest>>#findLast:in:
-GLMMorphicTest>>#find:in:
-GLMMorphicTest>>#findWherePresentationIs:in:
-DateAndTime>>#-
-TClassDescription>>#forceNewFrom:
-TClassDescription>>#newInstanceFrom:variable:size:map:
-TClassDescription>>#classComment:stamp:
-ScriptLoader class>>#releaseMenu
-TxTextAdapter>>#setSelectionFromModel:
-TxTextAdapter>>#pendingText:
-TxTextAdapter>>#getText
-ZnMimeType class>>#commonMimeTypes
-OCBytecodeGeneratorTest>>#testClosureExample
-OCBytecodeGeneratorTest>>#testExample
-OCBytecodeGeneratorTest>>#testExample2
-CRC>>#run
-ListDialogWindow>>#getList:
-RubScrolledTextMorph>>#acceptTextInModel
-SimpleHierarchicalListMorph>>#update:
-SimpleHierarchicalListMorph>>#addMorphsTo:from:allowSorting:withExpandedItems:atLevel:
-SimpleHierarchicalListMorph>>#getCurrentSelectionItem
-SimpleHierarchicalListMorph>>#getList
-SimpleHierarchicalListMorph>>#addSubmorphsAfter:fromCollection:allowSorting:
-SimpleHierarchicalListMorph>>#setSelectedMorph:
-SimpleHierarchicalListMorph>>#keyStroke:
-GLMTransmission>>#whenKindOf:
-GLMMorphicExamplesTest>>#testSmoke
-GTSpotterStepTest>>#assertDiveIn:
-FileStream class>>#writeSourceCodeFrom:baseName:isSt:
-GTSpotter>>#spotterForMetacelloConfigurationsFor:
-GTSpotter>>#fileReferencesBy:inContext:usingFilter:
-KMCategory>>#buildKeymapOnMethod:
-SetTest>>#assertNonDuplicatedContents:whenConvertedTo:
-OpalCompiler>>#evaluate
-FileLocator>>#doesNotUnderstand:
-ZnBivalentWriteStream class>>#on:
-TEmptySequenceableTest>>#accessValuePutIn
-TEmptySequenceableTest>>#accessValuePutInOn:
-ConfigurationOfVersionnerTestBitmapCharacterSet class>>#ensureMetacello
-ZnBivalentWriteStream>>#next:putAll:startingAt:
-AbstractCategoryWidget>>#wantsDroppedMorph:event:inMorph:
-AbstractCategoryWidget>>#dragPassengersFor:inMorph:
-RubPluggableTextMorph>>#updateEnabled
-RubPluggableTextMorph>>#hasUnacceptedEdits:
-TheManifestBuilder>>#dateOf:forSelector:
-TheManifestBuilder>>#toDoOf:version:
-TheManifestBuilder>>#addAllItem:selector:
-TheManifestBuilder>>#removeObsoleteFalsePositiveOf:
-TheManifestBuilder>>#hasFalsePositiveOf:version:
-TheManifestBuilder>>#falsePositiveOf:version:
-TheManifestBuilder>>#hasTruePositiveOf:version:
-TheManifestBuilder>>#truePositiveOf:version:
-TheManifestBuilder>>#hasToDoOf:version:
-TheManifestBuilder>>#removeAllItem:selector:
-UndefinedObjectTest>>#testIfNotNilIfNil
-UndefinedObjectTest>>#testIfNilIfNotNil
-UndefinedObjectTest>>#testIfNil
-ScriptLoader>>#setToRepositoriesPassword:to:
-ScriptLoader>>#cleanRepositories
-ScriptLoader>>#verifyNewUpdate
-VSUnloadUnit>>#execute
-SelectionMorph>>#borderWidthForItems:
-SelectionMorph>>#borderWidth:
-SelectionMorph>>#selectSubmorphsOf:
-SelectionMorph>>#borderColorForItems:
-SelectionMorph>>#addHandlesTo:box:
-StringHolder>>#offerMenuFrom:shifted:
-StringHolder>>#codeTextMorph
-LazyTabGroupTest>>#testPageChangedAnnouncement
-GTSpotterEventRecorderTest>>#assertAnnouncement:
-GTSpotterEventRecorderTest>>#assertVersion:
-GTSpotterEventRecorderTest>>#materializePragmaVersion:
-OCPragmaTest>>#testCdecl
-OCPragmaTest>>#testApicall
-OCPragmaTest>>#testCdeclNoModule
-GLMLinearLayout>>#layoutFloating:in:
-GLMLinearLayout>>#isFloating:
-MethodDictionaryTest>>#testBehaviorLocalyDefined
-Character class>>#constantNameFor:
-GLMDynamicPresentationTest>>#testDefaultPresentation
-WeakMessageSend>>#value:value:
-WeakMessageSend>>#value
-WeakMessageSend>>#value:value:value:
-WeakMessageSend>>#value:
-Class>>#fileOutPool:onFileStream:
-Class>>#copy
-Class>>#definitionForNautilusWithSlots
-Class>>#obsolete
-MorphTreeListManager>>#keyStroke:
-MorphTreeListManager>>#autoMultiSelect:
-ChangesLog>>#forceChangesToDisk
-TClass>>#fileOutPool:onFileStream:
-TClass>>#obsolete
-FLIgnoredVariablesTest>>#testTwoIgnoredVariables
-FLIgnoredVariablesTest>>#testIgnoredValueIsNotMaterialized
-FLIgnoredVariablesTest>>#testAllVariablesIgnored
-FLIgnoredVariablesTest>>#testOneIgnoredVariable
-GLMTreeMorphModel>>#wantsDroppedMorph:event:inMorph:
-ScrollPane>>#getMenu:
-RubCompositionScanner>>#composeFrom:inRectangle:firstLine:leftSide:rightSide:
-SmalltalkEditingState>>#chosenSelector:for:
-HelpIcons class>>#iconNamed:
-RelationSlot>>#checkValue:
-RelationSlot>>#linkUp
-TxTextEditorMorph class>>#buildTextEditorKeymapsOn:
-RubPlainTextMode>>#changeEmphasis:
-RubPlainTextMode>>#changeAlignment:
-BecomeTest>>#testBecomeForward
-BecomeTest>>#testBecomeHash
-BecomeTest>>#testBecomeForwardHash
-BecomeTest>>#testBecomeIdentityHash
-BecomeTest>>#testBecome
-BecomeTest>>#testBecomeForwardIdentityHash
-IndexedSlot>>#read:
-IndexedSlot>>#write:to:
-MBConfigurationRootTest>>#test0020BasicConfigurationLoad
-PluggableListItemWrapper>>#sendToModel:
-AJx64AssemblerTests>>#testHighByteRegistersInvalid
-AJx64AssemblerTests>>#testAssembly3
-AJx64AssemblerTests>>#testByteRegs4through7
-MenuCapturingMorph>>#step
-ClassOrganization>>#comment:
-MessageSend>>#value:value:
-MessageSend>>#value
-MessageSend>>#value:value:value:
-MessageSend>>#value:
-SystemAnnouncer class>>#restoreAllNotifications
-RubAbstractTextArea>>#primarySelection
-VTermOutputDriver class>>#printText:
-MetacelloProjectRefTutorialConfig class>>#ensureMetacello
-MFClassA>>#method
-TextColor>>#writeScanOn:
-StartupPreferencesLoader class>>#example3
-Context>>#completeCallee:
-Context>>#popIntoReceiverVariable:
-Context>>#pushReceiverVariable:
-Context>>#instVarAt:put:
-Context>>#storeIntoReceiverVariable:
-Context>>#runUntilErrorOrReturnFrom:
-EditorFindReplaceDialogWindow>>#defaultButton
-EditorFindReplaceDialogWindow>>#findTextFieldMorph
-ProportionalSplitterMorph>>#siblingSplitters
-Timespan>>#-
-Timespan>>#includes:
-Timespan>>#to:
-ZnDigestAuthenticator class>>#md5Hash:
-Delay class>>#delaySchedulerClass:
-UndefinedObject>>#haltIfNil
-MetacelloPharoCommonPlatform>>#defaultPlatformAttributes
-MetacelloPlatform>>#useStackCacheDuring:defaultDictionary:
-MetacelloPlatform>>#confirm:
-MetacelloPlatform>>#authorName
-SettingDeclaration>>#localInputWidgetSelector
-SettingDeclaration>>#realValue:
-SettingDeclaration>>#realValue
-SettingDeclaration>>#inputWidgetSelectorInClass:
-SettingDeclaration>>#inputWidget
-SettingDeclaration>>#startupAction
-SettingDeclaration>>#exportSettingAction
-SettingDeclaration>>#hasEditableList
-SettingDeclaration>>#defaultIcon
-FreeTypeCache>>#sizeOf:
-MetacelloCommonMCSpecLoader>>#retryingResolvePackageSpecReferences:gofer:
-MorphicAlarm>>#value:
-AthensWrappedWorldDisplay>>#doesNotUnderstand:
-MorphTreeColumnButton>>#wantsDroppedMorph:event:
-ConfigurationOf class>>#ensureMetacello:
-AJInstruction>>#insert:
-Exception class>>#handles:
-ZnByteEncoder class>>#initializeByteTextConverters
-GTSpotterGlobalShortcut class>>#openGlobalSpotter
-Nautilus>>#=
-InstanceVariableEyeElement>>#save:
-Cursor class>>#resizeForEdge:
-MorphicTreeAdapter>>#doesNotUnderstand:
-PluggableIconListMorph>>#getList
-PluggableIconListMorph>>#getListItem:
-StandardSystemFontsTest>>#assert:familyName:pointSize:
-LogicalFontManager>>#bestFontFor:whenFindingAlternativeIgnoreAll:
-MczInstaller>>#useNewChangeSetDuring:
-MessageNode>>#sizeCodeForEffect:
-MessageNode>>#printOn:indent:
-MessageNode>>#transformCase:
-MessageNode>>#emitCodeForValue:encoder:
-MessageNode>>#transform:
-MessageNode>>#transformToDo:
-MessageNode>>#emitCodeForEffect:encoder:
-MessageNode>>#printToDoOn:indent:
-MessageNode>>#sizeCodeForValue:
-MorphExtension>>#inspectElement
-SpecInterpreter>>#retrieveSpecFrom:selector:
-SpecInterpreter>>#interpretASpec:selector:
-SpecInterpreter>>#returnInterpretationOf:
-Morph>>#borderColor:
-Morph>>#handlerForBlueButtonDown:
-Morph>>#submorphNamed:ifNone:
-Morph>>#ownerThatIsA:
-Morph>>#adhereToEdge:
-Morph>>#brickThemer
-Morph>>#findA:
-Morph>>#showActions
-Morph>>#topPasteUp
-Morph>>#addWorldHandlesTo:box:
-Morph>>#layoutInBounds:
-Morph>>#color:
-Morph>>#addHandlesTo:box:
-Morph>>#changeColorTarget:selector:originalColor:hand:
-Morph>>#findDeeplyA:
-Morph>>#okayToRotateEasily
-MCFileTreeVersionInfoWriter>>#writeVersionInfo:
-JPEGReadWriter>>#parseNextMarker
-NBFFICallout>>#requestor:
-NBFFICallout>>#aliasForType:
-NBFFICallout>>#generateInstructions:
-Workspace>>#okToChange
-Workspace>>#setContent:
-Workspace>>#codeTextMorph
-Workspace>>#hasUnacceptedEdits
-MenuItemMorph>>#deselectItem
-MenuItemMorph>>#contents:withMarkers:inverse:
-MenuItemMorph>>#invokeWithEvent:
-ExpanderMorph>>#fixLayout
-MFClassB>>#method3
-AlignmentMorph class>>#columnPrototype
-GTSpotterEventRecorderTest class>>#instancesForAllEvents
-GTInspectorExamplesTest>>#checkAllPresentationsOf:
-SimpleEditor>>#dispatchOn:
-BlockClosureTest>>#testSetUp
-ToOneRelationSlot>>#writeInverse:to:
-WideString class>>#from:
-WideString class>>#fromString:
-AbstractTutorial>>#lessonAt:
-AbstractTutorial>>#lessons
-FileSystemResolverTest>>#assertOriginResolves:
-KMNamedCharKeyCombination class>>#ifSpecialKey:do:
-KMNamedCharKeyCombination class>>#newSpecialKeys
-FontSet class>>#installAsTextStyle
-RBParseTreeEnvironment>>#selectionIntervalFor:
-MorphicWindowAdapter>>#aboutTitle
-MorphicWindowAdapter>>#title
-FileSystemTest>>#testChildrenAt
-FileSystemTest>>#testEntriesAt
-BagTest>>#assertNonDuplicatedContents:whenConvertedTo:
-RubLipsumWithSegmentsExample>>#iconProvider
-SymbolicBytecodeBuilder>>#pushConstant:
-InputEventSensor class>>#installEventSensorFramework:
-MCConfigurationBrowser>>#addRepository
-MCConfigurationBrowser>>#checkRepositories
-AbstractClassWidget>>#wantsDroppedMorph:event:inMorph:
-AbstractClassWidget>>#dragPassengersFor:inMorph:
-MorphEventSubscription>>#notify:from:
-SymbolTest>>#assertNonDuplicatedContents:whenConvertedTo:
-RubTextEditor>>#changeEmphasis:
-RubTextEditor>>#changeEmphasis
-RubTextEditor>>#changeAlignment
-RubTextEditor>>#performCmdActionsWith:shifted:return:
-RubTextEditor>>#changeEmphasisOrAlignment
-RubTextEditor>>#saveContentsInFile
-GradientFillStyle>>#changeColorSelector:hand:morph:originalColor:
-GLMAnnouncementPropagationTest>>#testSimpleEmptyPane
-GLMAnnouncementPropagationTest>>#testPropagationDuringCircularDependencies
-GLMAnnouncementPropagationTest>>#testEntityPropogationAnnouncements
-FileLocatorTest>>#testCPath
-FileLocatorTest>>#testFileSystem
-MetacelloGofer>>#basicReferencesIn:
-ZnDefaultServerDelegate>>#handleRequest:
-ZnResourceMetaUtils class>>#encodePercent:safeSet:encoder:
-CalendarMorph>>#mouseUp:
-RBParserTest>>#testIsA
-TConvertTest>>#assertNonDuplicatedContents:whenConvertedTo:
-PolygonMorph>>#mouseDown:
-PolygonMorph>>#nudgeForLabel:
-MCTraitDefinition>>#=
-MethodDictionary>>#compact
-MethodDictionary>>#grow
-MCDataStream>>#nextPut:
-MCDataStream>>#next
-TTutorialTest>>#testLessonAtReturnsCorrespondingLesson
-TTutorialTest>>#testEachSelectorReturnsALesson
-TTutorialTest>>#testEachSelectorExists
-MorphTreeColumn>>#itemStringGetter:
-MorphTreeColumn>>#itemMorphGetter:
-MorphTreeColumn>>#nodeStringGetter:
-MorphTreeColumn>>#rowMorphGetterBlock
-ZnByteStringBecameWideString>>#becomeForward
-WikiStyleHelpBuilder>>#build
-GLMFinderTest>>#testPanesHaveDifferentRegistries
-Behavior>>#literalScannedAs:notifying:
-Behavior>>#adoptInstance:
-Behavior>>#allInstances
-Behavior>>#spaceUsed
-Behavior>>#allInstancesDo:
-Behavior>>#storeLiteral:on:
-EmbeddedMenuMorph>>#allSiblingItems
-EmbeddedMenuMorph>>#moveSelectionDown:event:
-EmbeddedMenuMorph>>#selectItem:event:
-WindowModel>>#aboutTitle
-MBInfo>>#commands
-GLMNestedBrowserTest>>#testInnerTransmissions
-GroupboxMorph>>#contentFromModel
-NautilusUI>>#categoriesMenu:shifted:
-NautilusUI>>#elementsMenu:shifted:
-DialogItemsChooser>>#sendSelection
-Fraction>>#adaptToInteger:andSend:
-GLMPresentation>>#withAllPanes
-GLMPresentation>>#whenKindOf:
-GLMPresentation>>#withAllPresentations
-TextStyle class>>#named:
-TextStyle class>>#actualTextStyles
-TextStyle class>>#knownTextStyles
-CustomHelpHelpBuilder>>#createTopicFrom:
-IRSequence>>#absorbConstantConditionalJumps:
-StringTest>>#assertNonDuplicatedContents:whenConvertedTo:
-AbstractWidget>>#dragTransferTypeForMorph:
-FinderExampleClassNode>>#displayString
-AthensCairoText>>#weightFrom:
-AthensCairoText>>#slantFrom:
-SettingTokenFilter>>#keepSettingDeclaration:
-PluggableTreeMorph>>#acceptDroppingMorph:event:
-PluggableTreeMorph>>#balloonTextForNode:
-PluggableTreeMorph>>#wantsDroppedMorph:event:
-PluggableTreeMorph>>#setSelectedMorph:
-PluggableTreeMorph>>#contentsOfNode:
-PluggableTreeMorph>>#iconOfNode:
-PluggableTreeMorph>>#printNode:
-PluggableTreeMorph>>#hasNodeContents:
-PluggableTreeMorph>>#wantsDroppedNode:on:
-PluggableTreeMorph>>#dropNode:on:
-PluggableTreeMorph>>#update:
-MCClassDefinitionTest>>#testLoadAndUnload
-Browser>>#defineTrait:notifying:
-Browser>>#dragPassengerFor:inMorph:
-Browser>>#defineClass:notifying:
-Browser>>#wantsDroppedMorph:event:inMorph:
-Browser>>#dragTransferTypeForMorph:
-Browser>>#setClass:selector:
-ZnBase64Encoder>>#lineEndConvention:
-PluggableTabButtonMorph>>#update:
-MethodMapTests>>#testThisContextSourceNode
-MethodMapTests>>#testMethodSourceNodeAtPC
-MethodMapTests>>#testThisContextSourceNodeInInlinedMessage
-SmalltalkEditor>>#modelCurrentSelectedClass
-SmalltalkEditor>>#tallySelection
-SmalltalkEditor>>#debugIt
-SmalltalkEditor>>#evaluateSelectionAndDo:
-SmallInteger>>#quo:
-SmallInteger>>#/
-Point>>#adaptToString:andSend:
-Point>>#adaptToNumber:andSend:
-Point>>#adaptToCollection:andSend:
-GLMExpanderTest>>#testPresentations
-CompiledMethodTrailer>>#method:
-CompiledMethodTrailer>>#encode
-NBFFICalloutTests>>#asNBExternalType:
-MenuMorph>>#setTitleParametersFor:
-MenuMorph>>#lastItem
-MenuMorph>>#deleteIfPopUp
-MenuMorph>>#addLine
-MenuMorph>>#removeStayUpBox
-MenuMorph>>#popUpAt:forHand:in:allowKeyboard:
-MenuMorph>>#displayFiltered:
-MenuMorph>>#selectMoreItem:
-MenuMorph>>#moveSelectionDown:event:
-MenuMorph>>#addUpdating:target:selector:argumentList:
-MenuMorph>>#addStayUpIcons
-MenuMorph>>#hasItems
-MenuMorph>>#items
-ZnMessageBenchmarkTests>>#testRequests
-ZnMessageBenchmarkTests>>#testResponses
-AbstractMethodWidget>>#dragPassengersFor:inMorph:
-FLVariablesMapping>>#referencesOf:do:
-FLVariablesMapping>>#materializeReferencesOf:with:
-MCPackage>>#snapshot
-MCPackage>>#silentSnapshot
-NewList>>#mouseDownOnItemAt:event:
-NewList>>#clickOnSelectedItem
-NewList>>#mouseUpOnItemAt:event:
-Context class>>#allInstancesDo:
-EyeAbstractInspector>>#diveInto:
-RangeSettingDeclaration>>#realValue:
-Tab>>#softRetrieveMorph
-ZnClientTests>>#testIfFailNonExistingHost
-ZnClientTests>>#testIfFailNotFound
-ZnClientTests>>#testIfFailWrongType
-BorderedMorph>>#removeCornerGrips
-BorderedMorph>>#splitters
-BorderedMorph>>#borderStyle
-MCSnapshotBrowserTest>>#morphsOfClass:
-NBTestResources>>#setUp
-Object>>#gtInspectorActions
-Object>>#isThisEverCalled
-Object>>#veryDeepCopyWith:
-Object>>#instVarNamed:
-Object>>#perform:orSendTo:
-Object>>#spotterProcessorsFor:pragma:
-Object>>#copyTwoLevel
-Object>>#deepCopy
-Object>>#storeDataOn:
-Object>>#caseOf:
-Object>>#readDataFrom:size:
-Object>>#subObjectsToInspect
-Object>>#copyFrom:
-Object>>#gtInspectorPresentationsIn:inContext:
-Object>>#longPrintOn:
-Object>>#pointsOnlyWeaklyTo:
-Object>>#copySameFrom:
-Object>>#spotterPreviewIn:inContext:
-Object>>#instVarNamed:put:
-Object>>#shallowCopy
-Object>>#storeOn:
-Object>>#longPrintOn:limitedTo:indent:
-FileSystemResolver>>#resolve:
-MetacelloProject>>#spotterForVersionsFor:
-PackageTreeModel>>#helpTextFor:
-RBPatternVariableNode>>#match:inContext:
-OCASTTranslator>>#visitMessageNode:
-OCASTTranslator>>#initialize
-GLMCompositePresentationAsStartMorphicTest>>#testSimpleOpen
-MorphicEventHandler>>#veryDeepFixupWith:
-FileDialogWindow>>#ok
-SimpleButtonMorph>>#label
-DeepCopier>>#warnInstanceVariableNotCopiedIn:selector:
-OrderedCollectionTest>>#assertNonDuplicatedContents:whenConvertedTo:
-OrderedCollectionTest>>#accessValuePutIn
-OrderedCollectionTest>>#accessValuePutInOn:
-DangerousClassNotifier class>>#shouldNotBeRedefined:
-KMUntypeableSingleKeyCombination class>>#ifSpecialKey:do:
-KMUntypeableSingleKeyCombination class>>#newSpecialKeys
-SlReporter>>#send:
-UpdatingMenuItemMorph>>#updateIcon
-UpdatingMenuItemMorph>>#updateBalloonText
-UpdatingMenuItemMorph>>#contents
-UpdatingMenuItemMorph>>#balloonText
-UpdatingMenuItemMorph>>#icon
-UpdatingMenuItemMorph>>#updateSubMenu
-UpdatingMenuItemMorph>>#updateContents
-CompositionScanner>>#composeFrom:inRectangle:firstLine:leftSide:rightSide:
-KMDispatcher>>#attachCategory:onProperty:
-BooleanSlotTest>>#testExampleBooleanSlot
-BooleanSlotTest>>#testExampleTwoBooleanSlots
-RBCompositeLintRuleTest class>>#ruleFor:protocol:
-TextStyle>>#=
-Form>>#storeResourceOn:
-Form>>#readNativeResourceFrom:
-Form>>#unhibernate
-Form>>#hibernate
-MouseClickState>>#drag:
-MouseClickState>>#click
-MouseClickState>>#doubleClick
-MouseClickState>>#doubleClickTimeout
-SpecPreDebugWindow>>#setFocusOrderForActions:
-SpecPreDebugWindow>>#createNotifierPaneWidgets
-TextMorphForFieldView>>#localHandleKeystroke:
-ExampleBuilderMorph>>#openModal:
-WorldMorph>>#taskList
-WorldMorph>>#acceptDroppingMorph:event:
-StrikeFont>>#bonk:with:
-ChangeSet>>#fileOutOn:
-RBParser>>#patchNegativeLiteral
-TextMorphForEditView>>#mouseDown:
-GTSpotterCategoryTitleBrick>>#onLayoutEvent:
-SlReportMessage>>#metadata:
-HeapTest>>#assertNonDuplicatedContents:whenConvertedTo:
-ConfigurationOfZincHTTPComponents class>>#ensureMetacello
-TextEditor>>#performCmdActionsWith:shifted:return:
-TextEditor>>#changeEmphasis
-TextEditor>>#evaluateSelectionAndDo:
-TextEditor>>#changeAlignment
-TextEditor>>#saveContentsInFile
-TextEditor>>#raiseContextMenu:
-TextEditor>>#performCmdActionsWith:shifted:
-TextEditor>>#changeEmphasisOrAlignment
-TextEditor>>#findAndSelectPreviousOccurenceOf:
-TextEditor>>#changeEmphasis:
-Slider>>#setValue:
-MorphTreeNodeMorph>>#highlight
-MorphTreeNodeMorph>>#unhighlight
-WordArray>>#*
-WordArray>>#-
-WordArray>>#/
-WordArray>>#+
-ClassDescription>>#forceNewFrom:
-ClassDescription>>#newInstanceFrom:variable:size:map:
-ClassDescription>>#classComment:stamp:
-GLMMorphic class>>#isImageMorph:
-GLMMorphic class>>#isAlignmentMorph:
-ClassHierarchyTest class>>#fixSlotScope
-DebugAction>>#execute
-PNGReadWriter>>#processNonInterlaced
-PNGReadWriter>>#copyPixels:
-PNGReadWriter>>#filterScanline:count:
-PNGReadWriter>>#copyPixels:at:by:
-SystemSettingLauncher>>#launch
-MetacelloVersionValidator>>#validateProject:
-MetacelloVersionValidator>>#validateProjectCreationFrom:onError:
-MetacelloVersionValidator>>#validateDoIts:versionString:errorMessage:
-Color class>>#colorFrom:
-EditableDropListMorph>>#content:
-GLMSmalltalkCodeMorphicTest>>#testDefault
-SpecDebugger class>>#closeAllDebuggers
-SpecDebugger class>>#informExistingDebugger:label:
-SpecDebugger class>>#initialize
-SugsAbstractContext>>#selectedNodeText
-Text>>#fontNumberAt:
-Text>>#setString:setRunsChecking:
-Text>>#alignmentAt:ifAbsent:
-ZnCookie>>#writeExtraAttributesOn:
-ZnCookie>>#=
-KeyedTree>>#merge:
-KeyedTree>>#subtrees
-KeyedTree>>#putFormattedTextOn:level:indentString:
-KeyedTree>>#postCopy
-KeyedTree>>#putFormattedTextOn:withDescriptions:level:indentString:
-IntegerTest>>#testLowBit
-RubSmalltalkEditor class>>#compilerFor:
-ListItemWrapper>>#sendSettingMessageTo:
-MorphTreeModel>>#wrapItem:
-StrikeFont class>>#familyNames
-StrikeFont class>>#setupDefaultFallbackFont
-FLBufferedWriteStream>>#initializeStream:
-FLHeaderSerializationTest>>#testPostMaterializationActions
-FLHeaderSerializationTest>>#testPreMaterializationActions
-RxsContextCondition>>#dispatchTo:
-MetacelloVersion>>#gtInspectorPackagesIn:
-MCVersionInfoWriter>>#writeVersionInfo:
-MetacelloScriptExecutor>>#execute:
-Association>>#tail
-Association>>#head
-ImageCleaner>>#cleanUpMethods
-ImageCleaner>>#cleanUpForRelease
-GLMBasicExamples>>#morphIcons
-GLMBasicExamples>>#compoundTaggedTree
-ZnBufferedWriteStream>>#flushBuffer
-MessageBrowser class>>#openMessageList:name:autoSelect:refreshingBlockSelector:
-SequenceableCollection>>#hasEqualElements:
-MetacelloTutorialConfig class>>#ensureMetacello
-Object class>>#readFrom:
-FLProxyThatBecomesItsContent>>#fuelAfterMaterialization
-SystemNavigation>>#allSentMessages
-SystemNavigation>>#allObjectsDo:
-IRBytecodeGenerator>>#addLastLiteral:
-MCVersionTest>>#assert:orders:as:unresolved:
-MCVersionTest>>#assert:orders:as:
-MetacelloVersionConstructor>>#defaultSymbolicVersionResolverBlock:
-TextAndTextStreamTest>>#testRunArrayInvariant
-SpecDebuggerDynamicToolbar>>#setFocusOrderForActions:
-GLMWrapperTest>>#testPresentationsAreInstalled
-MethodFinder>>#findMessage
-MethodFinder>>#load:
-StandardWindow>>#isFullscreen
-StandardWindow>>#noteNewOwner:
-String>>#adaptToCollection:andSend:
-String>>#adaptToString:andSend:
-String>>#adaptToNumber:andSend:
-String>>#adaptToPoint:andSend:
-MCDefinition>>#=
-MCDefinition>>#isRevisionOf:
-PluggableTextMorph>>#updateEnabled
-PluggableTextMorph>>#hasUnacceptedEdits:
-PluggableTextMorph>>#selectionInterval:
-PluggableTextMorph>>#okToStyle
-PluggableTextMorph>>#acceptTextInModelBasic
-PluggableTextMorph>>#acceptBasic
-PluggableTextMorph>>#acceptTextInModel
-PluggableTextMorph>>#update:
-ZnEntityReader>>#readFrom:usingType:andLength:
-BorderStyle class>>#borderStyleForSymbol:
+LegacyWeakSubscription>>#makeStrong [Announcements-Core]
+OCBytecodeDecompilerTest>>#remoteTemp [OpalCompiler-Tests]
+OCBytecodeDecompilerTest>>#remoteTempNested [OpalCompiler-Tests]
+CharacterSetComplement>>#removeAll [Collections-Support]
+GTInspectorPresentationFilter>>#openListChooseLabeled:forInspector:with:select:format:actionSelector: [GT-Inspector]
+TaskbarMorph class>>#maximumButtons: [Morphic-Widgets-Taskbar]
+TaskbarMorph class>>#reset [Morphic-Widgets-Taskbar]
+GoferVersionReference>>#compare:using: [Metacello-MC]
+RxsPredicate class>>#forNamedClass: [Regex-Core]
+RxsPredicate class>>#forEscapedLetter: [Regex-Core]
+GLMBrick>>#drawOn: [Glamour-Morphic-Brick]
+GLMBrick>>#ownerThatIsA: [Glamour-Morphic-Brick]
+RubFindReplaceDialogWindow>>#defaultButton [Rubric]
+RubFindReplaceDialogWindow>>#findTextFieldMorph [Rubric]
+StandardFonts class>>#printStandardSystemFonts [Graphics-Fonts]
+StandardFonts class>>#setFontsFromSpec: [Graphics-Fonts]
+StandardFonts class>>#getCurrentFontsSpec [Graphics-Fonts]
+StandardFonts class>>#setAllStandardFontsTo: [Graphics-Fonts]
+StandardFonts class>>#setDefaultFonts: [Graphics-Fonts]
+NNavDirectionChild class>>#askForNodeSelectionFrom: [NodeNavigation]
+TaskListMorph>>#newPreviewMorph [Morphic-Widgets-Taskbar]
+NBNativeCodeGen class>>#generateCode:andRetry: [NativeBoost-Core]
+RBRefactoringChangeTests>>#undoTestFor: [Refactoring-Tests-Changes]
+RBRefactoringChangeTests>>#universalTestFor: [Refactoring-Tests-Changes]
+RBRefactoringChangeTests>>#testPerformAddRemoveClassMethod [Refactoring-Tests-Changes]
+RBRefactoringChangeTests>>#testAddTraitPattern [Refactoring-Tests-Changes]
+RBRefactoringChangeTests>>#testAddMetaclassPattern [Refactoring-Tests-Changes]
+RBRefactoringChangeTests>>#testAddClassTraitPattern [Refactoring-Tests-Changes]
+RBRefactoringChangeTests>>#testAddClassPattern [Refactoring-Tests-Changes]
+KMKeyCombination>>#= [Keymapping-KeyCombinations]
+MCWorkingCopyBrowser>>#addMetacelloConfiguration [MonticelloGUI]
+MCWorkingCopyBrowser>>#editRepository [MonticelloGUI]
+MCWorkingCopyBrowser>>#editScript: [MonticelloGUI]
+RxParser>>#ifSpecial:then: [Regex-Core]
+ProcessBrowser class>>#suspendProcess: [Tool-ProcessBrowser]
+ProcessBrowser class>>#menuProcessList: [Tool-ProcessBrowser]
+TextFontChange>>#dominates: [Text-Core]
+ChangeList>>#changes:file: [Tool-Changes]
+ChangeList>>#selectConflicts: [Tool-Changes]
+PharoIssueTest>>#testSlice [IssueTracking-Tests]
+SemaphoreTest>>#testInCriticalWait [KernelTests]
+SemaphoreTest>>#testAfterCriticalWait [KernelTests]
+DisplayScanner>>#displayLine:offset:leftInRun: [Text-Scanning]
+TreeModel class>>#example [Spec-Core]
+TreeModel class>>#exampleWithCustomColumnsAndNodes [Spec-Core]
+TreeModel class>>#exampleWithCustomColumnsAndNodesAndChildren [Spec-Core]
+MCMczInstallerTest>>#assertDict:matchesInfo: [Monticello-Tests]
+IncrementalSliderMorph>>#updateEnabled [Morphic-Widgets-Scrolling]
+IncrementalSliderMorph>>#value [Morphic-Widgets-Scrolling]
+IncrementalSliderMorph>>#value: [Morphic-Widgets-Scrolling]
+RFCondition>>#reifications [Reflectivity]
+ScaledDecimal>>#adaptToFraction:andSend: [Kernel]
+ScaledDecimal>>#adaptToInteger:andSend: [Kernel]
+BooleanFilter>>#shouldDisplay: [DebuggerFilters]
+DictionaryTest>>#assertNonDuplicatedContents:whenConvertedTo: [CollectionsTests]
+GLMMorphBrick>>#on: [Glamour-Morphic-Brick]
+StrikeFontSet>>#bonk:with:at: [Graphics-Fonts]
+FLSerializationTest>>#tearDownInstanceVariables [FuelTests]
+Trait class>>#named:uses:category:env: [Traits]
+PluggableTabBarMorph>>#performActiveTabAction [Morphic-Widgets-Pluggable]
+GLMMorphicRubricTextRenderer>>#actOnTextEditorRequest: [Glamour-Morphic-Renderer]
+RubSmalltalkEditor>>#debug: [Rubric]
+RubSmalltalkEditor>>#modelCurrentSelectedClass [Rubric]
+RubSmalltalkEditor>>#evaluate:andDo: [Rubric]
+RubSmalltalkEditor>>#tally: [Rubric]
+RowLayout>>#layout:in: [Morphic-Base]
+RBSmalllintTestObject>>#collectionMessagesToExternalObject [Refactoring-Tests-Critics]
+RBSmalllintTestObject>>#badMessage [Refactoring-Tests-Critics]
+RBSmalllintTestObject>>#codeCruftLeftInMethods [Refactoring-Tests-Critics]
+GLMListPresentationTest>>#testChildren [Glamour-Tests-Core]
+FontChooser>>#selectedFont [FontChooser]
+FontChooser>>#unemphasizedSelectedFont [FontChooser]
+FontChooser>>#apply [FontChooser]
+FontChooser>>#setStyleValuesFrom: [FontChooser]
+FontChooser>>#setPointSizeListFrom: [FontChooser]
+FontChooser>>#selectedFontIndex [FontChooser]
+MetacelloProjectSpecForLoad>>#performCurrentVersionTestAgainst:operator:targetVersionStatus:using: [Metacello-Core]
+RBRefactoryTestDataApp>>#collectionMessagesToExternalObject [Refactoring-Tests-Core]
+RBRefactoryTestDataApp>>#cruft [Refactoring-Tests-Core]
+RBRefactoryTestDataApp>>#badMessage [Refactoring-Tests-Core]
+LabelMorph>>#updateEnabled [Morphic-Widgets-Basic]
+LabelMorph>>#updateText [Morphic-Widgets-Basic]
+ThemeIcons>>#iconNamed:ifNone: [Polymorph-Widgets]
+ThemeIcons>>#spotterForIconsFor: [GT-SpotterExtensions-Core]
+ThemeIcons>>#initializeIcons [Polymorph-Widgets]
+ThemeIcons>>#gtInspectorIconsIn: [GT-InspectorExtensions-Core]
+ThemeIcons>>#exportAllIconsAsGif [Polymorph-Widgets]
+ThemeIcons>>#exportAllIconsAsPNG [Polymorph-Widgets]
+ThemeIcons>>#createIconMethodsFromFile:directory: [Polymorph-Widgets]
+DropListMorph>>#updateEnabled [Polymorph-Widgets]
+DropListMorph>>#wrapItem:index: [Polymorph-Widgets]
+DropListMorph>>#getCurrentSelection [Polymorph-Widgets]
+DropListMorph>>#listSelectionIndex: [Polymorph-Widgets]
+DropListMorph>>#updateList [Polymorph-Widgets]
+DropListMorph>>#getCurrentSelectionIndex [Polymorph-Widgets]
+TraitDescription>>#forceNewFrom: [Traits]
+TraitDescription>>#newInstanceFrom:variable:size:map: [Traits]
+TraitDescription>>#classComment:stamp: [Traits]
+MCWorkingCopyTest>>#testNaming [Monticello-Tests]
+RubCharacterBlockScanner>>#characterBlockAtPoint:index:in: [Rubric]
+TextColor class>>#scanFrom: [Text-Core]
+PharoSyntaxTutorialTest>>#testLessonAtReturnsCorrespondingLesson [ProfStef-Tests]
+PharoSyntaxTutorialTest>>#testEachSelectorReturnsALesson [ProfStef-Tests]
+PharoSyntaxTutorialTest>>#testEachSelectorExists [ProfStef-Tests]
+VSCommitBrowser>>#configure [Versionner-Commit]
+OCKeyedSet>>#addAll: [OpalCompiler-Core]
+RPackageOrganizer>>#systemCategoryRemovedActionFrom: [RPackage-SystemIntegration]
+RxMatchOptimizer>>#determineTestMethod [Regex-Core]
+RxMatchOptimizer>>#nonMethodPredicateTester [Regex-Core]
+RxMatchOptimizer>>#conditionTester [Regex-Core]
+RxMatchOptimizer>>#methodPredicateTester [Regex-Core]
+AssignmentNode>>#toDoIncrement: [Compiler]
+AssignmentNode>>#variable:value:from: [Compiler]
+STCommandLineHandler>>#handleError: [CodeImport]
+STCommandLineHandler>>#handleError:reference: [CodeImport]
+TestResult>>#updateResultsInHistory [SUnit-Core]
+AbstractTool>>#compileANewClassFrom:notifying:startingFrom: [Tool-Base]
+FilterTest>>#setUp [Debugger-Tests]
+Finder>>#testObjects:strings: [Tool-Finder]
+Rectangle>>#withSide:setTo: [Kernel]
+Rectangle>>#pointAtSideOrCorner: [Kernel]
+GTSpotterStepsBreadcrumb>>#onStepAdded: [GT-Spotter]
+AthensSceneView>>#createSurface [Athens-Morphic]
+PluggableTextFieldMorph>>#acceptTextInModel [Morphic-Widgets-Pluggable]
+PluggableTextFieldMorph>>#getText [Morphic-Widgets-Pluggable]
+RBClassRegexRefactoring>>#transform [Refactoring-Core]
+PluggableMultiColumnListMorph>>#getListSize [Morphic-Widgets-Pluggable]
+PluggableMultiColumnListMorph>>#getListRow: [Morphic-Widgets-Pluggable]
+FloatTest>>#testNaNCompare [KernelTests]
+RealEstateAgent class>>#initialFrameFor:initialExtent:world: [Morphic-Core]
+RealEstateAgent class>>#strictlyStaggeredInitialFrameFor:initialExtent:world: [Morphic-Core]
+SlotBasicTest>>#testSwitchClassSlotAndMigrate [Slot-Tests]
+SlotBasicTest>>#testAddClassSlotAndMigrate [Slot-Tests]
+SlotBasicTest>>#testWithClassSlots [Slot-Tests]
+SlotBasicTest>>#testRemoveClassSlotAndMigrate [Slot-Tests]
+KMShortcutTest>>#testCreation [Keymapping-Tests]
+DictionaryValueHolder>>#doesNotUnderstand: [NewValueHolder]
+ReleaseTest>>#testAllClassPoolBindingAreClassVariables [ReleaseTests]
+ReleaseTest>>#testAllGlobalBindingAreGlobalVariables [ReleaseTests]
+FileSystemHandleTest>>#testWriteStream [FileSystem-Tests-Core]
+ZnLimitedReadStream>>#collectionSpecies [Zinc-HTTP]
+GLMPortIdentifierTest>>#testAssociationAsOriginIdentifier [Glamour-Tests-Core]
+GLMPortIdentifierTest>>#testSymbolAsOriginIdentifier [Glamour-Tests-Core]
+GLMPortIdentifierTest>>#testSymbolAsTargetIdentifier [Glamour-Tests-Core]
+GLMPortIdentifierTest>>#testAssociationAsTargetIdentifier [Glamour-Tests-Core]
+TabExample>>#freshListTab [Morphic-Widgets-Tabs]
+NBExternalStructure>>#printOn: [NativeBoost-Core]
+RubEncryptedDisplayScanner>>#displayLine:offset:leftInRun: [Rubric]
+PasteUpMorph>>#modelWakeUp [Morphic-Base]
+PasteUpMorph>>#addMorphs: [Morphic-Core]
+PasteUpMorph>>#acceptDroppingMorph:event: [Morphic-Base]
+NewListModel class>>#exampleWithMenu [Spec-Core]
+EnvironmentChooser>>#chooseNewEnvironment [NautilusRefactoring]
+GLMExamplesBrowser>>#exampleBrowserForPragma:in: [Glamour-Examples]
+OCCompiledMethodIntegrityTests>>#testPragmas [OpalCompiler-Tests]
+TextMorph>>#changeEmphasis: [Morphic-Base]
+TextMorph>>#ownerChanged [Morphic-Base]
+TextMorph>>#text:textStyle: [Morphic-Base]
+TextMorph>>#text:textStyle:wrap:color:predecessor:successor: [Morphic-Base]
+TextMorph>>#changeAlignment: [Morphic-Base]
+Symbol>>#glamourValueWithArgs: [Glamour-Helpers]
+Symbol>>#cull: [Collections-Strings]
+Symbol>>#value: [Collections-Strings]
+RunArray>>#= [Text-Core]
+RunArray>>#, [Text-Core]
+ZnSingleThreadedServer>>#closeDelegate [Zinc-HTTP]
+InflateStream>>#pastEndRead [Compression]
+HowToMakeYourOwnTutorialTest>>#testLessonAtReturnsCorrespondingLesson [ProfStef-Tests]
+HowToMakeYourOwnTutorialTest>>#testEachSelectorReturnsALesson [ProfStef-Tests]
+HowToMakeYourOwnTutorialTest>>#testEachSelectorExists [ProfStef-Tests]
+NBExternalEnumTests>>#testCallbackEnumFromInt [NativeBoost-Tests]
+NBExternalEnumTests>>#testCallbackAAA [NativeBoost-Tests]
+NBExternalEnumTests>>#primExecuteCallbackEnumReturn: [NativeBoost-Tests]
+DialogWindow>>#defaultButton [Morphic-Widgets-Windows]
+DialogWindow>>#acceptTextMorphs [Morphic-Widgets-Windows]
+DialogWindow>>#defaultFocusMorph [Morphic-Widgets-Windows]
+GLMBrowserTest>>#testStatusbarTransmissions [Glamour-Tests-Core]
+GLMBrowserTest>>#testStatusbarTransmissionsTriggered [Glamour-Tests-Core]
+GLMBrowserTest>>#testCompositeInTheParentPane [Glamour-Tests-Core]
+Bag>>#= [Collections-Unordered]
+ArrayTest>>#assertSameContents:whenConvertedTo: [CollectionsTests]
+ArrayTest>>#assertNonDuplicatedContents:whenConvertedTo: [CollectionsTests]
+ArrayTest>>#accessValuePutIn [CollectionsTests]
+ArrayTest>>#accessValuePutInOn: [CollectionsTests]
+MBBaselineInfoTest>>#testCopyBaseline [Versionner-Tests-Core-Model]
+MetacelloMCVersionValidator>>#validateCleanLoadAndTestsForVersion:loads: [Metacello-MC]
+MCScriptDefinition class>>#from: [Monticello]
+AbstractNautilusUI class>>#sourceCodeMenu: [Nautilus]
+AbstractNautilusUI class>>#shiftedSourceCodeMenu: [Nautilus]
+KMComposedModifier>>#= [Keymapping-KeyCombinations]
+MetacelloMCProjectSpec>>#compareRelativeCurrentVersion:targetVersionStatus:using: [Metacello-MC]
+MetacelloMCProjectSpec>>#determineCurrentVersionForLoad [Metacello-MC]
+ParseNode>>#nodePrintOn:indent: [Compiler]
+RGMethodDefinitionTest>>#testClassNameSelectorIsMetaSide [Ring-Tests-Kernel]
+CustomHelp class>>#edit: [HelpSystem-Core]
+ConfigurationOfVersionnerTestXMLParserTemplate class>>#ensureMetacello [Versionner-Tests-Resources]
+FloatArrayTest>>#assertNonDuplicatedContents:whenConvertedTo: [CollectionsTests]
+RBVariableEnvironment>>#numberVariables [Refactoring-Environment]
+RBVariableEnvironment>>#isEmpty [Refactoring-Environment]
+RBVariableEnvironment>>#storeOn: [Refactoring-Environment]
+RBVariableEnvironment>>#instanceVariableSelectorsFor: [Refactoring-Environment]
+SystemDictionary>>#poolUsers [System-Support]
+SystemDictionary>>#fillCaches [System-Support]
+SystemDictionary>>#declare:from: [Slot]
+GLMEmptyPopupBrick>>#foundationBrick [Glamour-Morphic-Brick]
+ColorChooserMorph>>#updateEnabled [Morphic-Widgets-ColorPicker]
+ColorChooserMorph>>#chooseColor [Morphic-Widgets-ColorPicker]
+PluggableThreePhaseButtonMorph>>#updatePressedImage [Morphic-Widgets-Basic]
+PluggableThreePhaseButtonMorph>>#updateOnImage [Morphic-Widgets-Basic]
+PluggableThreePhaseButtonMorph>>#updateOffImage [Morphic-Widgets-Basic]
+PluggableThreePhaseButtonMorph>>#updateState [Morphic-Widgets-Basic]
+HDTestReport>>#runCase: [HudsonBuildTools20]
+SourceFileArray>>#close [Files]
+FileReferenceTest>>#testTempFilePrefixSuffix [FileSystem-Tests-Core]
+SystemReporter>>#updateReport [Tool-SystemReporter]
+SystemReporter>>#categoryAt:put: [Tool-SystemReporter]
+MCScriptDefinition>>#installScript: [Monticello]
+FLBlockClosureSerializationTest>>#testBlockClosureChangeDifferentBytecodes [FuelTests]
+FLBlockClosureSerializationTest>>#testBlockClosureChangeSameBytecodes [FuelTests]
+FLBlockClosureSerializationTest>>#testBlockClosureRemoved [FuelTests]
+NECContext>>#createModel [NECompletion]
+MorphTreeMorph>>#enabled: [Morphic-Widgets-Tree]
+MorphTreeMorph>>#doubleClickSelector: [Morphic-Widgets-Tree]
+FileList>>#setSortSelector: [Tool-FileList]
+FileList>>#isDirectoryList: [Tool-FileList]
+FileList>>#perform:orSendTo: [Tool-FileList]
+AJx86AssemblerTests>>#testAssembly3 [AsmJit-Tests]
+MetacelloProjectSpec>>#compareVersions:usingOperator: [Metacello-Core]
+GLMPaneTest>>#testDefaultPresentations [Glamour-Tests-Core]
+GLMPaneTest>>#testDefaultCompositePresentation [Glamour-Tests-Core]
+StackLayout>>#layout:in: [Morphic-Base]
+TestCase>>#cleanUpInstanceVariables [SUnit-Core]
+TestCase>>#openDebuggerOnFailingTestMethod [SUnit-Core]
+TestCase>>#performTest [SUnit-Core]
+IntervalTest>>#assertNonDuplicatedContents:whenConvertedTo: [CollectionsTests]
+PluggableListMorph>>#resetListSelectionSilently [Morphic-Widgets-Pluggable]
+PluggableListMorph>>#acceptDroppingMorph:event: [Morphic-Widgets-Pluggable]
+PluggableListMorph>>#startDragExtended: [Morphic-Widgets-Pluggable]
+PluggableListMorph>>#listSelectionAt:put: [Morphic-Widgets-Pluggable]
+PluggableListMorph>>#listSelectionAt: [Morphic-Widgets-Pluggable]
+PluggableListMorph>>#wantsDroppedMorph:event: [Morphic-Widgets-Pluggable]
+PluggableListMorph>>#getListItem: [Morphic-Widgets-Pluggable]
+PluggableListMorph>>#mouseDownOnMultiple:forRow: [Morphic-Widgets-Pluggable]
+PluggableListMorph>>#wrapItem:index: [Morphic-Widgets-Pluggable]
+PluggableListMorph>>#getListSize [Morphic-Widgets-Pluggable]
+PluggableListMorph>>#doubleClick: [Morphic-Widgets-Pluggable]
+PluggableListMorph>>#separatorAfterARow: [Morphic-Widgets-Pluggable]
+PluggableListMorph>>#updateEnabled [Morphic-Widgets-Pluggable]
+PluggableListMorph>>#modifierKeyPressed: [Morphic-Widgets-Pluggable]
+PluggableListMorph>>#getCurrentSelectionIndex [Morphic-Widgets-Pluggable]
+PluggableListMorph>>#backgroundColorFor: [Morphic-Widgets-Pluggable]
+PluggableListMorph>>#changeModelSelection: [Morphic-Widgets-Pluggable]
+PluggableListMorph>>#getList [Morphic-Widgets-Pluggable]
+RubSmalltalkCodeMode>>#shoutAboutToStyle: [Rubric]
+ByteString>>#replaceFrom:to:with:startingAt: [Collections-Strings]
+ByteString>>#at:put: [Collections-Strings]
+HookGenerator>>#setupTable [Reflectivity]
+HookGenerator>>#initForNode: [Reflectivity]
+HookGenerator>>#reificationsFor: [Reflectivity]
+TraitCompositionTest>>#testSum [Tests]
+TraitCompositionTest>>#testCompositionFromArray [Tests]
+TraitCompositionTest>>#testSumWithParenthesis [Tests]
+TraitCompositionTest>>#testEmptyTrait [Tests]
+ScaledDecimalTest>>#testReadFrom [KernelTests]
+ScaledDecimalTest>>#testScaleExtension [KernelTests]
+ScaledDecimalTest>>#testCoercion [KernelTests]
+SearchMorph>>#listSelectionIndex: [Polymorph-Widgets]
+SearchMorph>>#contentChanged: [Polymorph-Widgets]
+SearchMorph>>#keystrokeAction: [Polymorph-Widgets]
+MCMethodDefinitionTest>>#testLoadAndUnload [Monticello-Tests]
+PluggableCanvas>>#fillRectangle:basicFillStyle: [Graphics-Canvas]
+PluggableCanvas>>#fillOval:fillStyle:borderWidth:borderColor: [Graphics-Canvas]
+OCArrayLiteralTest>>#testByteArrayEmpty [OpalCompiler-Tests]
+OCArrayLiteralTest>>#testByteArrayBase [OpalCompiler-Tests]
+OCArrayLiteralTest>>#testByteArrayRange [OpalCompiler-Tests]
+OCArrayLiteralTest>>#testByteArrayWithinArray [OpalCompiler-Tests]
+OCArrayLiteralTest>>#testByteArrayLong [OpalCompiler-Tests]
+MetacelloToolBox class>>#helpTopicFor: [Metacello-ToolBox]
+MetacelloToolBox class>>#defaultTopic:for: [Metacello-ToolBox]
+MetacelloToolBox class>>#validatePlatformLoad:for: [Metacello-ToolBox]
+MetacelloToolBox class>>#validatePlatformLoad:for:version: [Metacello-ToolBox]
+ToggleIconicButton>>#getStatus [NautilusCommon]
+HandMorph>>#showTemporaryCursor:hotSpotOffset: [Morphic-Core]
+MCGitHubRepository>>#hasNoLoadConflicts: [Metacello-GitHub]
+NewListAdapter>>#getMenu: [Morphic-Widgets-NewList]
+NewListAdapter>>#iconMaxSize [Morphic-Widgets-NewList]
+NewListAdapter>>#setIndexesFromModel [Morphic-Widgets-NewList]
+NewListAdapter>>#allowToSelect [Morphic-Widgets-NewList]
+NewListAdapter>>#draggedItemAtIndex: [Morphic-Widgets-NewList]
+NewListAdapter>>#acceptDroppingMorph:atIndex:event:inMorph: [Morphic-Widgets-NewList]
+NewListAdapter>>#getRawItemAt: [Morphic-Widgets-NewList]
+NewListAdapter>>#getListSize [Morphic-Widgets-NewList]
+NewListAdapter>>#separatorAfter:at: [Morphic-Widgets-NewList]
+NewListAdapter>>#setIndexFromModel [Morphic-Widgets-NewList]
+NewListAdapter>>#getItems [Morphic-Widgets-NewList]
+NewListAdapter>>#getHeaderTitle [Morphic-Widgets-NewList]
+NewListAdapter>>#wantsDroppedMorph:event:inMorph: [Morphic-Widgets-NewList]
+MCTool>>#performButtonAction:enabled: [MonticelloGUI]
+MCTool>>#findTextMorph: [MonticelloGUI]
+MCTool>>#findListMorph: [MonticelloGUI]
+ZnUserAgentSessionTests>>#testAccessors [Zinc-Tests]
+CharacterBlockScanner>>#characterBlockAtPoint:index:in: [Text-Scanning]
+FLBasicSerializationTest>>#testExecuteAfterMaterialization [FuelTests]
+MethodNode>>#selectorNode [Compiler]
+BlockNode>>#ifHasRemoteTempNodeEnsureInitializationStatementExists: [Compiler]
+MBCommand>>#checkUserInRepository: [Versionner-Core-Commands]
+MBCommand>>#browseVersionHistory [Versionner-Core-Commands]
+TraitBehavior>>#literalScannedAs:notifying: [Traits]
+TraitBehavior>>#adoptInstance: [Traits]
+TraitBehavior>>#allInstances [Traits]
+TraitBehavior>>#spaceUsed [Traits]
+TraitBehavior>>#allInstancesDo: [Traits]
+TraitBehavior>>#storeLiteral:on: [Traits]
+OCDecompilerConstructor>>#codeMessage:selector:arguments: [OpalDecompiler]
+LayoutFrame>>#fromArray: [Morphic-Base]
+AlphaImageMorph>>#updateImage [Morphic-Base]
+GLMTabulatorMorphicTest>>#testStatusbar [Glamour-Tests-Morphic]
+Encoder>>#tempNames [Compiler]
+Number>>#adaptToString:andSend: [Kernel]
+Number>>#adaptToCollection:andSend: [Kernel]
+Number>>#adaptToFloat:andSend: [Kernel]
+Number>>#adaptToFloat:andCompare: [Kernel]
+Number>>#adaptToPoint:andSend: [Kernel]
+KMTarget>>#realTarget [Keymapping-Core]
+ComposableModel>>#show [Spec-Core]
+ComposableModel>>#retrieveSpec: [Spec-Core]
+ComposableModel>>#instantiateModels: [Spec-Core]
+ComposableModel>>#gtInspectorModelNestingIn: [GT-InspectorExtensions-Core]
+ComposableModel>>#defaultSpec [Spec-Core]
+ComposableModel>>#initializePresenter [Spec-Core]
+ComposableModel>>#hide [Spec-Core]
+ComposableModel>>#ensureExtentFor: [Spec-Core]
+GLMScriptingTest>>#testReferences [Glamour-Tests-Core]
+GLMScriptingTest>>#testSimpleTransmission [Glamour-Tests-Core]
+GLMScriptingTest>>#testConditionalPresentation [Glamour-Tests-Core]
+GLMScriptingTest>>#testPublishingToOutsideFinder [Glamour-Tests-Core]
+KMPragmaKeymapBuilder>>#collectRegistrations [Keymapping-Pragmas]
+SystemNavigationTest>>#testIsMessageSentInSystemAnswersMethodReference [Tests]
+RubTextComposer>>#composeLinesFrom:to:delta:into:priorLines:atY:textStyle:text:container: [Rubric]
+CodeHolder>>#inheritanceButtonColor [Tool-Browser-Old]
+CodeHolder>>#buttonWithSelector: [Tool-Browser-Old]
+CodeHolder>>#sendQuery:to: [Tool-Browser-Old]
+CodeHolder>>#useSelector:orGetSelectorAndSendQuery:to: [Tool-Browser-Old]
+CodeHolder>>#codePaneProvenanceIndex: [Tool-Browser-Old]
+CodeHolder>>#refreshAnnotation [Tool-Browser-Old]
+CodeHolder>>#decorateForInheritance [Tool-Browser-Old]
+SlotIntegrationTest>>#testSmallIntegerLayout [Slot-Tests]
+SlotIntegrationTest>>#testSlotScopeParallelism [Slot-Tests]
+SlotIntegrationTest>>#testCompiledMethodLayout [Slot-Tests]
+NBNativeCodeGen>>#generatedCode [NativeBoost-Core]
+NBNativeCodeGen>>#parseOptions: [NativeBoost-Core]
+Integer>>#adaptToFraction:andSend: [Kernel]
+Integer>>#digitLogic:op:length: [Kernel]
+Duration>>#printHumanReadableOn: [Kernel]
+MTProjectBFSIteratorTest>>#testNext [Versionner-Tests-Core-DependenciesModel]
+TabLabelMorph>>#font: [Polymorph-Widgets]
+RBVariableNode>>#= [AST-Core]
+RBTransformationRule>>#result [Refactoring-Critics]
+TxModel>>#postCopy [TxText-Model]
+Decompiler>>#popIntoTemporaryVariable: [Compiler]
+Decompiler>>#sawClosureBytecode [Compiler]
+Decompiler>>#convertToDoLoop [Compiler]
+MCClassDefinition>>#selectVariables: [Monticello]
+MCClassDefinition>>#storeDataOn: [Monticello]
+OCCaseOfTest>>#testCaseOfValue [OpalCompiler-Tests]
+OCCaseOfTest>>#testCaseOfEffect [OpalCompiler-Tests]
+MetacelloMCVersionSpec>>#isPartiallyCurrentAgainst: [Metacello-MC]
+PopupChoiceDialogWindow>>#newChoicesMorph [Polymorph-Widgets]
+Scanner>>#scanToken [Compiler]
+GTSpotterEventRecorderSettings>>#dictionary [GT-Spotter-EventRecorder]
+GTSpotterEventRecorderSettings>>#dictionary: [GT-Spotter-EventRecorder]
+ChangeSet class>>#newChangesFromStream:named: [System-Changes]
+GLMNewScriptingTest>>#testStartTabulator [Glamour-Tests-Core]
+GLMNewScriptingTest>>#testSimpleTransmission [Glamour-Tests-Core]
+GLMNewScriptingTest>>#testBundleTransmission [Glamour-Tests-Core]
+GLMNewScriptingTest>>#testBuildingNestedComposites [Glamour-Tests-Core]
+Trait>>#fileOutPool:onFileStream: [Traits]
+Trait>>#obsolete [Traits]
+SortedCollectionTest>>#assertNonDuplicatedContents:whenConvertedTo: [CollectionsTests]
+PluggableSliderMorph>>#updateEnabled [Morphic-Widgets-Scrolling]
+PluggableSliderMorph>>#updateLabel [Morphic-Widgets-Scrolling]
+PluggableSliderMorph>>#updateValue [Morphic-Widgets-Scrolling]
+PluggableSliderMorph>>#setValue: [Morphic-Widgets-Scrolling]
+MCPatchOperation>>#summary [Monticello]
+UnmodifiedField>>#migrateAt:to:from: [Slot]
+TxFontAttribute class>>#defaultValue [TxText-Model]
+SystemWindow class>>#windowMenuOn: [Morphic-Widgets-Windows]
+SystemWindow class>>#windowsIn:satisfying: [Morphic-Widgets-Windows]
+RxmSpecial>>#matchAgainst: [Regex-Core]
+MessageTally>>#spyEvery:onProcess:forMilliseconds: [Tool-Profilers]
+MBAddRepositoryCommand>>#newRepository [Versionner-Core-Commands]
+BalloonMorph class>>#getBestLocation:for:corner: [Morphic-Base]
+MetacelloVersionNumber>>#hash [Metacello-Core]
+MetacelloPharoPlatform>>#defaultPlatformAttributes [Metacello-Platform]
+EventManagerTest>>#testRemoveActionsWithReceiver [Tests]
+RBSendsUnknownMessageToGlobalRule>>#initialize [Refactoring-Critics]
+ConfigurationOfVersionnerTestXMLWriter class>>#ensureMetacello [Versionner-Tests-Resources]
+RBConjunctiveCondition>>#errorStringFor: [Refactoring-Core]
+TxBasicTextPosition>>#= [TxText-Model]
+Collection>>#adaptToCollection:andSend: [Collections-Abstract]
+Collection>>#adaptToString:andSend: [Collections-Abstract]
+Collection>>#adaptToNumber:andSend: [Collections-Abstract]
+Collection>>#adaptToPoint:andSend: [Collections-Abstract]
+ThumbnailMorph>>#actualViewee [Morphic-Base]
+ThumbnailMorph>>#formOrMorphToView [Morphic-Base]
+ZnMessageBenchmark class>>#bench: [Zinc-Tests]
+FormCanvas>>#setClearColor: [Graphics-Canvas]
+FormCanvas>>#setPaintColor: [Graphics-Canvas]
+FormCanvas>>#fillRectangle:basicFillStyle: [Graphics-Canvas]
+FormCanvas>>#setFillColor: [Graphics-Canvas]
+FormCanvas>>#fillOval:fillStyle:borderWidth:borderColor: [Graphics-Canvas]
+MetacelloAbstractVersionConstructor>>#evaluatePragma: [Metacello-Core]
+SimpleServiceEntry>>#performExtraFor: [System-FileRegistry]
+SimpleServiceEntry>>#performServiceFor: [System-FileRegistry]
+ProtoObjectTest>>#testIfNotNilIfNil [KernelTests]
+ProtoObjectTest>>#testIfNotNil [KernelTests]
+ProtoObjectTest>>#testIfNilIfNotNil [KernelTests]
+ProtoObjectTest>>#testIfNil [KernelTests]
+MCReader class>>#isAbstract [Monticello]
+GLMCompositePresentationTest>>#testCreateTabulator [Glamour-Tests-Core]
+GLMCompositePresentationTest>>#testCreateFinder [Glamour-Tests-Core]
+GTExample>>#result [GT-Inspector]
+Continuation>>#restoreValues [Kernel]
+Continuation>>#initializeFromContext: [Kernel]
+MorphicModel>>#releaseCachedState [Morphic-Base]
+FLGlobalSendCluster>>#materializeInstanceWith: [Fuel]
+GLMDynamicMorphicTest>>#testUpdate [Glamour-Tests-Morphic]
+GLMDynamicMorphicTest>>#testSurroundingPanel [Glamour-Tests-Morphic]
+ProcessBrowser>>#processListKey:from: [Tool-ProcessBrowser]
+ProcessBrowser>>#signalSemaphore [Tool-ProcessBrowser]
+FileContentsBrowser>>#didCodeChangeElsewhere [Tool-FilePackageBrowser]
+ZnMultiPartFormDataEntity>>#parse:boundary:binary: [Zinc-HTTP]
+PolymorphSystemSettings class>>#desktopBackgroundChanged [Settings-Polymorph]
+SugsAbstractContext class>>#contextFor: [SmartSuggestions]
+CompiledMethod>>#putSource:inFile:withPreamble: [Kernel]
+CompiledMethod>>#setSourcePointer: [Kernel]
+CompiledMethod>>#embeddSourceInTrailer [Kernel]
+CodeSimulationTests>>#methodWithHalt [KernelTests]
+PragmaSetting>>#settingReceiver [System-Settings]
+IdentifierChooserMorph>>#newChoicesMorph [Polymorph-Widgets]
+IdentifierChooserMorph>>#switchToOtherColumn: [Polymorph-Widgets]
+IdentifierChooserMorph>>#selectNextItem [Polymorph-Widgets]
+IdentifierChooserMorph>>#selectPreviousItem [Polymorph-Widgets]
+SystemWindow>>#titleAndPaneText [Morphic-Widgets-Windows]
+SystemWindow>>#setUpdatablePanesFrom: [Morphic-Widgets-Windows]
+SystemWindow>>#reframePanesAdjoining:along:to: [Morphic-Widgets-Windows]
+SystemWindow>>#aboutTitle [Polymorph-Widgets]
+SystemWindow>>#model: [Polymorph-Widgets]
+SystemWindow>>#hasUnacceptedEdits [Morphic-Widgets-Windows]
+SystemWindow>>#removeEdgeGrips [Polymorph-Widgets]
+SystemWindow>>#initialExtent [Morphic-Widgets-Windows]
+SystemWindow>>#modalLockTo: [Polymorph-Widgets]
+SystemWindow>>#activate [Polymorph-Widgets]
+SystemWindow>>#labelHeight [Polymorph-Widgets]
+RBCompositeLintRule>>#basicCheck: [Refactoring-Critics]
+RxmPredicate>>#bePerformNot: [Regex-Core]
+RxmPredicate>>#bePerform: [Regex-Core]
+MCRepositoryGroup>>#removeHTTPRepositoryLocationNamed: [Monticello]
+TxTextStyler>>#pickFontWithEmphasis: [TxText-Styler]
+TaskbarTask>>#activate [Morphic-Widgets-Taskbar]
+TBehavior>>#literalScannedAs:notifying: [Traits]
+TBehavior>>#adoptInstance: [Traits]
+TBehavior>>#allInstances [Traits]
+TBehavior>>#spaceUsed [Traits]
+TBehavior>>#allInstancesDo: [Traits]
+TBehavior>>#storeLiteral:on: [Traits]
+MultiCanvas>>#contentsOfArea:into: [Graphics-Canvas]
+MultiCanvas>>#apply: [Graphics-Canvas]
+ColorPresenterMorph>>#updateColor [Morphic-Widgets-ColorPicker]
+UIManager>>#interactiveParserFor: [UIManager]
+RBRefactoryVariableChange>>#primitiveExecute [Refactoring-Changes]
+RBMessageNode>>#toDoFromWhileWithInit: [OpalDecompiler]
+VersionnerProjectPanel>>#initializeGroupsWidget [Versionner-Spec-Browser]
+MetacelloSpec>>#doItBlock: [Metacello-Core]
+MetacelloSpec>>#mergeSpec: [Metacello-Core]
+MethodContextTest>>#testActivateReturnValue [KernelTests]
+MethodContextTest>>#testSetUp [KernelTests]
+MethodContextTest>>#testMethodContext [KernelTests]
+RubCharacterScanner>>#widthOf:inFont: [Rubric]
+TestRunner>>#classAt:put: [SUnit-UI]
+TestRunner>>#runFailures [SUnit-UI]
+TestRunner>>#categoryAt:put: [SUnit-UI]
+TestRunner>>#runErrors [SUnit-UI]
+AbstractEyeElement>>#errorSubMenu: [Spec-Inspector]
+AbstractEyeElement>>#errorWhileAccessing:do: [Spec-Inspector]
+NECVarTypeGuesser class>>#getClassFromTypeSuggestingName: [NECompletion]
+DialogWindowModel>>#buildWithSpecLayout: [Spec-Core]
+ExceptionTester>>#runTest: [KernelTests]
+SlotMigrationTest>>#testAddSlotAndMigrate [Slot-Tests]
+SlotMigrationTest>>#testRemoveTestSlot [Slot-Tests]
+SlotMigrationTest>>#testRemoveSlotAndMigrate [Slot-Tests]
+SlotMigrationTest>>#testSwitchSlotsAndMigrate [Slot-Tests]
+SlotMigrationTest>>#testAddTestSlot [Slot-Tests]
+SlotMigrationTest>>#testShiftSlotAndMigrate [Slot-Tests]
+SlotMigrationTest>>#testAddSlotPropagateAndMigrate [Slot-Tests]
+RPackageSet>>#collectFromAllPackages: [RPackage-Core]
+RPackageSet>>#collectFromAllPackages:with: [RPackage-Core]
+MetaLink>>#hasReifiedCondition [Reflectivity]
+AbstractNautilusUI>>#runExampleMethod: [Nautilus]
+AbstractNautilusUI>>#runScriptMethod: [Nautilus]
+AbstractNautilusUI>>#wantsDroppedMorph:event:inMorph: [Nautilus]
+AbstractNautilusUI>>#runClassInitializeMethod: [Nautilus]
+AbstractNautilusUI>>#dragTransferTypeForMorph: [Nautilus]
+AbstractNautilusUI>>#dragPassengersFor:inMorph: [Nautilus]
+SmalltalkImage>>#send:toClassesNamedIn:with: [System-Support]
+SmalltalkImage>>#logStartupError:into:tryDebugger: [System-Support]
+SmalltalkImage>>#recreateSpecialObjectsArray [System-Support]
+SmalltalkImage>>#forceChangesToDisk [System-Support]
+ObjectTest>>#testBecome [KernelTests]
+ObjectTest>>#testBecomeForward [KernelTests]
+GLMCompositePresentationMorphicTest>>#testFinder [Glamour-Tests-Morphic]
+GLMCompositePresentationMorphicTest>>#compositePanel [Glamour-Tests-Morphic]
+GLMCompositePresentationMorphicTest>>#testTabsLastActivePresentation [Glamour-Tests-Morphic]
+GLMCompositePresentationMorphicTest>>#compositeTabGroup [Glamour-Tests-Morphic]
+OCDecompiler>>#popIntoTemporaryVariable: [OpalDecompiler]
+OCDecompiler>>#convertToDoLoop [OpalDecompiler]
+ClassDescriptionTest>>#testOrganization [KernelTests]
+PseudoClass>>#exists [System-FilePackage]
+PseudoClass>>#stampAt: [System-FilePackage]
+GLMBundleTransmissionTest>>#testPorts [Glamour-Tests-Core]
+SettingTreeBuilder>>#systemsettings [System-Settings]
+WorldModel class>>#setUpWorld [Spec-MorphicAdapters]
+GTSimpleMethodsBrowser>>#updateOuterPaneFrom:for: [GT-Inspector]
+GTSimpleMethodsBrowser>>#evaluationAction [GT-Inspector]
+StringMorph>>#changeEmphasis [Morphic-Base]
+StringMorph>>#boundsForBalloon [Morphic-Base]
+HaloMorph>>#doDup:with: [Morphic-Base]
+GoferApiTest>>#testConstraintReference [Gofer-Tests]
+GoferApiTest>>#testInitialRepositories [Gofer-Tests]
+GoferApiTest>>#testVersionReference [Gofer-Tests]
+GoferApiTest>>#testHttpRepository [Gofer-Tests]
+GoferApiTest>>#testDirectoryRepository [Gofer-Tests]
+GoferApiTest>>#testSubDirectoryRepository [Gofer-Tests]
+GoferApiTest>>#testPackageReference [Gofer-Tests]
+HistoryIteratorTest>>#testGroupedUndo2 [System-History-Tests]
+Float>>#adaptToInteger:andSend: [Kernel]
+Float>>#adaptToFraction:andCompare: [Kernel]
+Float>>#gtInspectorFloatIn: [GT-InspectorExtensions-Core]
+Float>>#adaptToInteger:andCompare: [Kernel]
+Float>>#adaptToFraction:andSend: [Kernel]
+ExpanderTitleMorph>>#titleText [Polymorph-Widgets]
+ExpanderTitleMorph>>#font: [Polymorph-Widgets]
+ExpanderTitleMorph>>#font [Polymorph-Widgets]
+ExpanderTitleMorph>>#titleText: [Polymorph-Widgets]
+ToggleMenuItemMorph>>#mouseLeave: [Morphic-Base]
+ToggleMenuItemMorph>>#icon [Morphic-Base]
+ToggleMenuItemMorph>>#isEnabled [Morphic-Base]
+ToggleMenuItemMorph>>#mouseEnter: [Morphic-Base]
+CheckboxMorph>>#isSelected [Morphic-Widgets-Basic]
+CheckboxMorph>>#updateLabel [Morphic-Widgets-Basic]
+CheckboxMorph>>#updateEnabled [Morphic-Widgets-Basic]
+CheckboxMorph>>#toggleSelected [Morphic-Widgets-Basic]
+Nautilus class>>#historyMaxSize: [Nautilus]
+HDCoverageReport>>#addTestsIn:to: [HudsonBuildTools20]
+SHTextStylerST80 class>>#attributeArrayForColor:emphasis:font: [Shout]
+SHTextStylerST80 class>>#unload [Shout]
+SHTextStylerST80 class>>#initialize [Shout]
+GLMBrickStructureTrait>>#ownerThatIsA: [Glamour-Morphic-Brick]
+GLMPane>>#withAllPanes [Glamour-Core]
+GLMPane>>#withAllPresentations [Glamour-Core]
+ProtoObject>>#instVarsInclude: [Kernel]
+ProtoObject>>#pointsTo: [Kernel]
+ProtoObject>>#pointersToExcept: [Kernel]
+GLMRubricExample>>#iconProvider [Glamour-Rubric-Presentations]
+PragmaMenuBuilder>>#collectRegistrations [MenuRegistration]
+PluggableMorphListMorph>>#getList [Morphic-Widgets-Pluggable]
+SHTextStylerST80>>#unstyledTextFrom: [Shout]
+TextComposer>>#multiComposeLinesFrom:to:delta:into:priorLines:atY:textStyle:text:container:wantsColumnBreaks: [Morphic-Base]
+TextComposer>>#composeLinesFrom:to:delta:into:priorLines:atY:textStyle:text:container:wantsColumnBreaks: [Morphic-Base]
+Dictionary>>#declareVariable:from: [Slot]
+FLMigrationTest>>#testClassAndVariableRename [FuelTests]
+FLMigrationTest>>#testVariableRename [FuelTests]
+FLMigrationTest>>#testVariableInsertion [FuelTests]
+FLMigrationTest>>#testChangeInSuperclass [FuelTests]
+FLMigrationTest>>#testSuperclassChange [FuelTests]
+FLMigrationTest>>#testClassRename [FuelTests]
+FLMigrationTest>>#testVariableRemoved [FuelTests]
+FLMigrationTest>>#testVariableOrderChange [FuelTests]
+HaloMorph class>>#haloSpecFromArray: [Morphic-Base]
+HaloMorph class>>#installHaloTheme: [Morphic-Base]
+Model>>#hasUnacceptedEdits [System-Support]
+FilePackage>>#fileInFrom: [System-FilePackage]
+GLMBrowser>>#resolveDestinationPort: [Glamour-Core]
+AthensDemoMorph>>#render [Athens-Examples]
+FreeTypeCacheTest>>#testSetMaximumSize [FreeTypeTests]
+FreeTypeCacheTest>>#testNormalPutGet [FreeTypeTests]
+FreeTypeCacheTest>>#testRemoveAllForType [FreeTypeTests]
+FreeTypeCacheTest>>#testSetMaximumSizeShrink [FreeTypeTests]
+FreeTypeCacheTest>>#testRemoveAll [FreeTypeTests]
+FreeTypeCacheTest>>#testMaximumSizeRespectedOnPut [FreeTypeTests]
+FreeTypeCacheTest>>#validateCollections: [FreeTypeTests]
+FreeTypeCacheTest>>#testFailedGet [FreeTypeTests]
+FreeTypeCacheTest>>#testMaximumSizeRespectedOnIfAbsentPut [FreeTypeTests]
+FreeTypeCacheTest>>#testNormalPutGetWidth [FreeTypeTests]
+FreeTypeCacheTest>>#testNormalGetIfAbsentPut [FreeTypeTests]
+FreeTypeCacheTest>>#testNormalPutGetTwice [FreeTypeTests]
+FreeTypeCacheTest>>#testRemoveAllForFont [FreeTypeTests]
+FreeTypeCacheTest>>#testNormalGetIfAbsentPutTwiceIntoNonEmptyCache [FreeTypeTests]
+FreeTypeCacheTest>>#testPutSameElementTwice [FreeTypeTests]
+FreeTypeCacheTest>>#testSetMaximumSizeGrow [FreeTypeTests]
+FreeTypeCacheTest>>#testSetMaximumSizeUnbounded [FreeTypeTests]
+FreeTypeCacheTest>>#testInstanceInitialization [FreeTypeTests]
+FreeTypeCacheTest>>#testNormalGetIfAbsentPutTwice [FreeTypeTests]
+FreeTypeCacheTest>>#validateSizes: [FreeTypeTests]
+PropertySlotTest>>#testRemovePropertySlot [Slot-Tests]
+PropertySlotTest>>#testCreateClassWithPropertySlot [Slot-Tests]
+PropertySlotTest>>#testCreateClassWithTwoPropertySlots [Slot-Tests]
+PropertySlotTest>>#testRemovePropertySlot2 [Slot-Tests]
+PropertySlotTest>>#testCreateClassWithPropertySlotAddSecond [Slot-Tests]
+MorphTreeNavigationBar>>#buttonLabel:actionSelector:arguments:getEnabled:help: [Morphic-Widgets-Tree]
+CollectionValueHolder>>#doesNotUnderstand: [NewValueHolder]
+Slot>>#spotterAccessesFor: [GT-SpotterExtensions-Core]
+CompiledMethod class>>#newInstanceFrom:variable:size:map: [Kernel]
+GLMFlexiblePresentationTest>>#testDefault [Glamour-Tests-Core]
+STCommandLineHandlerTest>>#testLoadSourceFiles [Tests]
+TraitAlias class>>#assertValidAliasDefinition: [Traits]
+CharacterSet>>#add: [Collections-Support]
+RBRenameInstanceVariableChange>>#copyOldValuesToNewVariable [Refactoring-Changes]
+FreeTypeCacheEntry>>#= [FreeType]
+ListModel>>#clickOnSelectedItem [Spec-Core]
+ShiftedField>>#migrateAt:to:from: [Slot]
+NBNativeFunctionGen>>#generateInstructions: [NativeBoost-Core]
+MCHttpRepository>>#writeStreamForFileNamed:replace:do: [Monticello]
+TutorialPlayerTestTutorialAccessor>>#testDefaultsToSmalltalkSyntaxTutorial [ProfStef-Tests]
+DebugSession>>#isTestObject: [DebuggerModel]
+AdditionalMethodState>>#copyWithout: [Kernel]
+AdditionalMethodState>>#copyWith: [Kernel]
+AdditionalMethodState>>#hasAtLeastTheSamePropertiesAs: [Kernel]
+ModifiedField>>#migrateAt:to:from: [Slot]
+ScrollBar>>#step [Morphic-Widgets-Scrolling]
+RubDisplayScanner>>#displayLine:offset:leftInRun: [Rubric]
+PluggableButtonMorph>>#getMenu: [Morphic-Widgets-Basic]
+PluggableButtonMorph>>#update: [Morphic-Widgets-Basic]
+PluggableButtonMorph>>#changed [Morphic-Widgets-Basic]
+PluggableButtonMorph>>#fillStyleToUse [Morphic-Widgets-Basic]
+PluggableButtonMorph>>#borderStyleToUse [Morphic-Widgets-Basic]
+PluggableButtonMorph>>#performAction: [Morphic-Widgets-Basic]
+PluggableButtonMorph>>#getModelState [Morphic-Widgets-Basic]
+IRBuilderTest>>#testPushSelf [OpalCompiler-Tests]
+IRBuilderTest>>#testPushClosureCopyOneCopiedTemp [OpalCompiler-Tests]
+IRBuilderTest>>#testDup [OpalCompiler-Tests]
+IRBuilderTest>>#testLiteralBoolean [OpalCompiler-Tests]
+IRBuilderTest>>#testInstVar [OpalCompiler-Tests]
+IRBuilderTest>>#testLiteralFloat [OpalCompiler-Tests]
+IRBuilderTest>>#testStoreIntoVariable [OpalCompiler-Tests]
+IRBuilderTest>>#testPushNewArray [OpalCompiler-Tests]
+IRBuilderTest>>#testLiteralArray [OpalCompiler-Tests]
+IRBuilderTest>>#testPushConsArray [OpalCompiler-Tests]
+IRBuilderTest>>#testLiteralVariableClassVariable [OpalCompiler-Tests]
+IRBuilderTest>>#testStorePopIntoVariable [OpalCompiler-Tests]
+IRBuilderTest>>#testPushClosureCopyNoCopiedArg [OpalCompiler-Tests]
+IRBuilderTest>>#testPushClosureCopyNoCopiedArgNamed [OpalCompiler-Tests]
+IRBuilderTest>>#testJumpBackTo [OpalCompiler-Tests]
+IRBuilderTest>>#testPushTempArgument [OpalCompiler-Tests]
+IRBuilderTest>>#testPopTop [OpalCompiler-Tests]
+IRBuilderTest>>#testReturnInstVar [OpalCompiler-Tests]
+IRBuilderTest>>#testPushConsArray2 [OpalCompiler-Tests]
+IRBuilderTest>>#testRemoteTemp [OpalCompiler-Tests]
+IRBuilderTest>>#testRemoteTempShadowed [OpalCompiler-Tests]
+IRBuilderTest>>#testLiteralSymbol [OpalCompiler-Tests]
+IRBuilderTest>>#testLiteralVariableClass [OpalCompiler-Tests]
+IRBuilderTest>>#testRemoteTempNested [OpalCompiler-Tests]
+IRBuilderTest>>#testPushClosureCopyNoCopied [OpalCompiler-Tests]
+IRBuilderTest>>#testLiteralVariableGlobale [OpalCompiler-Tests]
+IRBuilderTest>>#testLiteralInteger [OpalCompiler-Tests]
+IRBuilderTest>>#testSendSuper [OpalCompiler-Tests]
+IRBuilderTest>>#testJumpAheadToIf [OpalCompiler-Tests]
+IRBuilderTest>>#testJumpAheadTo [OpalCompiler-Tests]
+IRBuilderTest>>#testReturnTop [OpalCompiler-Tests]
+IRBuilderTest>>#testStorePopIvar [OpalCompiler-Tests]
+IRBuilderTest>>#testLiteralNil [OpalCompiler-Tests]
+IRBuilderTest>>#testPushTempTemp [OpalCompiler-Tests]
+IRBuilderTest>>#testBuildMethod [OpalCompiler-Tests]
+IRBuilderTest>>#testPushClosureCopyOneCopiedArg [OpalCompiler-Tests]
+IRBuilderTest>>#testStoreIvar [OpalCompiler-Tests]
+IRBuilderTest>>#testPushClosureCopyOneCopiedTempArg [OpalCompiler-Tests]
+IRBuilderTest>>#testPushClosureCopyOneCopied [OpalCompiler-Tests]
+IRBuilderTest>>#testLiteralString [OpalCompiler-Tests]
+IRBuilderTest>>#testLiteralCharacter [OpalCompiler-Tests]
+IRBuilderTest>>#testPushThisContext [OpalCompiler-Tests]
+IRBuilderTest>>#testStoreTemp [OpalCompiler-Tests]
+TextAnchorTest>>#testMorphInline [MorphicTests]
+GLMExplicitBrowserCopyTest>>#testTrasmissions [Glamour-Tests-Core]
+SugsSuggestionFactory class>>#collectCommandsFrom: [SmartSuggestions]
+HelpBrowser>>#shoutAboutToStyle: [Shout]
+GLMBoundPort>>#= [Glamour-Core]
+Set>>#= [Collections-Unordered]
+ProcessTest>>#testFork [KernelTests]
+ProcessTest>>#testNewProcess [KernelTests]
+ProcessTest>>#testNewProcessWith [KernelTests]
+TestCaseTest>>#testAnnouncement [SUnit-Tests]
+GLMListMorphicTest>>#testTextBackgroundColor [Glamour-Tests-Morphic]
+Compiler>>#evaluate:in:to:notifying:ifFail:logged: [Compiler]
+OrderedDictionaryTest>>#assertSelector:enumerates:and:from: [CollectionsTests]
+OrderedDictionaryTest>>#assertIsDictionary:includesAll: [CollectionsTests]
+OrderedDictionaryTest>>#assertSelector:collects:from: [CollectionsTests]
+OrderedDictionaryTest>>#assertSelector:enumerates:from: [CollectionsTests]
+OrderedDictionaryTest>>#assertIsDictionary:withAssociations: [CollectionsTests]
+BooleanSlot>>#calculateOffset: [Slot]
+LinkedListTest>>#testCreateAs [CollectionsTests]
+LinkedListTest>>#assertNonDuplicatedContents:whenConvertedTo: [CollectionsTests]
+AnnotationRequest>>#getAnnotations [NautilusCommon]
+PanelMorph>>#checkSplitters [Morphic-Widgets-Windows]
+PanelMorph>>#interactionState: [Morphic-Widgets-Windows]
+DockingBarMorph>>#updatePosition [Morphic-Widgets-Extra]
+DockingBarMorph>>#addLine [Morphic-Widgets-Extra]
+GLMMorphicTest>>#findLast:in: [Glamour-Tests-Morphic]
+GLMMorphicTest>>#find:in: [Glamour-Tests-Morphic]
+GLMMorphicTest>>#findWherePresentationIs:in: [Glamour-Tests-Morphic]
+DateAndTime>>#- [Kernel]
+TClassDescription>>#forceNewFrom: [Traits]
+TClassDescription>>#newInstanceFrom:variable:size:map: [Traits]
+TClassDescription>>#classComment:stamp: [Traits]
+ScriptLoader class>>#releaseMenu [ScriptLoader50]
+TxTextAdapter>>#setSelectionFromModel: [TxText-Athens]
+TxTextAdapter>>#pendingText: [TxText-Athens]
+TxTextAdapter>>#getText [TxText-Athens]
+ZnMimeType class>>#commonMimeTypes [Zinc-Resource-Meta-Core]
+OCBytecodeGeneratorTest>>#testClosureExample [OpalCompiler-Tests]
+OCBytecodeGeneratorTest>>#testExample [OpalCompiler-Tests]
+OCBytecodeGeneratorTest>>#testExample2 [OpalCompiler-Tests]
+CRC>>#run [System-Hashing]
+ListDialogWindow>>#getList: [Polymorph-Widgets]
+RubScrolledTextMorph>>#acceptTextInModel [Rubric]
+SimpleHierarchicalListMorph>>#update: [Morphic-Widgets-List]
+SimpleHierarchicalListMorph>>#addMorphsTo:from:allowSorting:withExpandedItems:atLevel: [Morphic-Widgets-List]
+SimpleHierarchicalListMorph>>#getCurrentSelectionItem [Morphic-Widgets-List]
+SimpleHierarchicalListMorph>>#getList [Morphic-Widgets-List]
+SimpleHierarchicalListMorph>>#addSubmorphsAfter:fromCollection:allowSorting: [Morphic-Widgets-List]
+SimpleHierarchicalListMorph>>#setSelectedMorph: [Morphic-Widgets-List]
+SimpleHierarchicalListMorph>>#keyStroke: [Morphic-Widgets-List]
+GLMTransmission>>#whenKindOf: [Glamour-Core]
+GLMMorphicExamplesTest>>#testSmoke [Glamour-Tests-Morphic]
+GTSpotterStepTest>>#assertDiveIn: [GT-Tests-Spotter]
+FileStream class>>#writeSourceCodeFrom:baseName:isSt: [Files]
+GTSpotter>>#spotterForMetacelloConfigurationsFor: [GT-SpotterExtensions-Core]
+GTSpotter>>#fileReferencesBy:inContext:usingFilter: [GT-SpotterExtensions-Core]
+KMCategory>>#buildKeymapOnMethod: [Keymapping-Core]
+SetTest>>#assertNonDuplicatedContents:whenConvertedTo: [CollectionsTests]
+OpalCompiler>>#evaluate [OpalCompiler-Core]
+FileLocator>>#doesNotUnderstand: [FileSystem-Core]
+ZnBivalentWriteStream class>>#on: [Zinc-HTTP]
+TEmptySequenceableTest>>#accessValuePutIn [CollectionsTests]
+TEmptySequenceableTest>>#accessValuePutInOn: [CollectionsTests]
+ConfigurationOfVersionnerTestBitmapCharacterSet class>>#ensureMetacello [Versionner-Tests-Resources]
+ZnBivalentWriteStream>>#next:putAll:startingAt: [Zinc-HTTP]
+AbstractCategoryWidget>>#wantsDroppedMorph:event:inMorph: [Nautilus]
+AbstractCategoryWidget>>#dragPassengersFor:inMorph: [Nautilus]
+RubPluggableTextMorph>>#updateEnabled [Rubric]
+RubPluggableTextMorph>>#hasUnacceptedEdits: [Rubric]
+TheManifestBuilder>>#dateOf:forSelector: [Manifest-Core]
+TheManifestBuilder>>#toDoOf:version: [Manifest-Core]
+TheManifestBuilder>>#addAllItem:selector: [Manifest-Core]
+TheManifestBuilder>>#removeObsoleteFalsePositiveOf: [Manifest-Core]
+TheManifestBuilder>>#hasFalsePositiveOf:version: [Manifest-Core]
+TheManifestBuilder>>#falsePositiveOf:version: [Manifest-Core]
+TheManifestBuilder>>#hasTruePositiveOf:version: [Manifest-Core]
+TheManifestBuilder>>#truePositiveOf:version: [Manifest-Core]
+TheManifestBuilder>>#hasToDoOf:version: [Manifest-Core]
+TheManifestBuilder>>#removeAllItem:selector: [Manifest-Core]
+UndefinedObjectTest>>#testIfNotNilIfNil [KernelTests]
+UndefinedObjectTest>>#testIfNilIfNotNil [KernelTests]
+UndefinedObjectTest>>#testIfNil [KernelTests]
+ScriptLoader>>#setToRepositoriesPassword:to: [ScriptLoader50]
+ScriptLoader>>#cleanRepositories [ScriptLoader50]
+ScriptLoader>>#verifyNewUpdate [ScriptLoader50]
+VSUnloadUnit>>#execute [Versionner-Commit]
+SelectionMorph>>#borderWidthForItems: [Morphic-Base]
+SelectionMorph>>#borderWidth: [Morphic-Base]
+SelectionMorph>>#selectSubmorphsOf: [Morphic-Base]
+SelectionMorph>>#borderColorForItems: [Morphic-Base]
+SelectionMorph>>#addHandlesTo:box: [Morphic-Base]
+StringHolder>>#offerMenuFrom:shifted: [Tool-Browser-Old]
+StringHolder>>#codeTextMorph [Tool-Browser-Old]
+LazyTabGroupTest>>#testPageChangedAnnouncement [Glamour-Tests-Morphic]
+GTSpotterEventRecorderTest>>#assertAnnouncement: [GT-Spotter-EventRecorder]
+GTSpotterEventRecorderTest>>#assertVersion: [GT-Spotter-EventRecorder]
+GTSpotterEventRecorderTest>>#materializePragmaVersion: [GT-Spotter-EventRecorder]
+OCPragmaTest>>#testCdecl [OpalCompiler-Tests]
+OCPragmaTest>>#testApicall [OpalCompiler-Tests]
+OCPragmaTest>>#testCdeclNoModule [OpalCompiler-Tests]
+GLMLinearLayout>>#layoutFloating:in: [Glamour-Morphic-Brick]
+GLMLinearLayout>>#isFloating: [Glamour-Morphic-Brick]
+MethodDictionaryTest>>#testBehaviorLocalyDefined [KernelTests]
+Character class>>#constantNameFor: [Kernel]
+GLMDynamicPresentationTest>>#testDefaultPresentation [Glamour-Tests-Core]
+WeakMessageSend>>#value:value: [Kernel]
+WeakMessageSend>>#value [Kernel]
+WeakMessageSend>>#value:value:value: [Kernel]
+WeakMessageSend>>#value: [Kernel]
+Class>>#fileOutPool:onFileStream: [Traits]
+Class>>#copy [Kernel]
+Class>>#definitionForNautilusWithSlots [Nautilus]
+Class>>#obsolete [Traits]
+MorphTreeListManager>>#keyStroke: [Morphic-Widgets-Tree]
+MorphTreeListManager>>#autoMultiSelect: [Morphic-Widgets-Tree]
+ChangesLog>>#forceChangesToDisk [System-Support]
+TClass>>#fileOutPool:onFileStream: [Traits]
+TClass>>#obsolete [Traits]
+FLIgnoredVariablesTest>>#testTwoIgnoredVariables [FuelTests]
+FLIgnoredVariablesTest>>#testIgnoredValueIsNotMaterialized [FuelTests]
+FLIgnoredVariablesTest>>#testAllVariablesIgnored [FuelTests]
+FLIgnoredVariablesTest>>#testOneIgnoredVariable [FuelTests]
+GLMTreeMorphModel>>#wantsDroppedMorph:event:inMorph: [Glamour-Morphic-Widgets]
+ScrollPane>>#getMenu: [Morphic-Widgets-Scrolling]
+RubCompositionScanner>>#composeFrom:inRectangle:firstLine:leftSide:rightSide: [Rubric]
+SmalltalkEditingState>>#chosenSelector:for: [Text-Edition]
+HelpIcons class>>#iconNamed: [HelpSystem-Core]
+RelationSlot>>#checkValue: [Slot]
+RelationSlot>>#linkUp [Slot]
+TxTextEditorMorph class>>#buildTextEditorKeymapsOn: [TxText-Athens]
+RubPlainTextMode>>#changeEmphasis: [Rubric]
+RubPlainTextMode>>#changeAlignment: [Rubric]
+BecomeTest>>#testBecomeForward [Tests]
+BecomeTest>>#testBecomeHash [Tests]
+BecomeTest>>#testBecomeForwardHash [Tests]
+BecomeTest>>#testBecomeIdentityHash [Tests]
+BecomeTest>>#testBecome [Tests]
+BecomeTest>>#testBecomeForwardIdentityHash [Tests]
+IndexedSlot>>#read: [Slot]
+IndexedSlot>>#write:to: [Slot]
+MBConfigurationRootTest>>#test0020BasicConfigurationLoad [Versionner-Tests-Core-Model]
+PluggableListItemWrapper>>#sendToModel: [Morphic-Widgets-List]
+AJx64AssemblerTests>>#testHighByteRegistersInvalid [AsmJit-Tests]
+AJx64AssemblerTests>>#testAssembly3 [AsmJit-Tests]
+AJx64AssemblerTests>>#testByteRegs4through7 [AsmJit-Tests]
+MenuCapturingMorph>>#step [SUnit-UITesting]
+ClassOrganization>>#comment: [Kernel]
+MessageSend>>#value:value: [Kernel]
+MessageSend>>#value [Kernel]
+MessageSend>>#value:value:value: [Kernel]
+MessageSend>>#value: [Kernel]
+SystemAnnouncer class>>#restoreAllNotifications [System-Announcements]
+RubAbstractTextArea>>#primarySelection [Rubric]
+VTermOutputDriver class>>#printText: [System-CommandLine]
+MetacelloProjectRefTutorialConfig class>>#ensureMetacello [Metacello-Tutorial]
+MFClassA>>#method [Manifest-Resources-Tests]
+TextColor>>#writeScanOn: [Text-Core]
+StartupPreferencesLoader class>>#example3 [StartupPreferences]
+Context>>#completeCallee: [Kernel]
+Context>>#popIntoReceiverVariable: [Kernel]
+Context>>#pushReceiverVariable: [Kernel]
+Context>>#instVarAt:put: [Kernel]
+Context>>#storeIntoReceiverVariable: [Kernel]
+Context>>#runUntilErrorOrReturnFrom: [Kernel]
+EditorFindReplaceDialogWindow>>#defaultButton [Text-Edition]
+EditorFindReplaceDialogWindow>>#findTextFieldMorph [Text-Edition]
+ProportionalSplitterMorph>>#siblingSplitters [Morphic-Widgets-Windows]
+Timespan>>#- [Kernel]
+Timespan>>#includes: [Kernel]
+Timespan>>#to: [Kernel]
+ZnDigestAuthenticator class>>#md5Hash: [Zinc-HTTP]
+Delay class>>#delaySchedulerClass: [Kernel]
+UndefinedObject>>#haltIfNil [Kernel]
+MetacelloPharoCommonPlatform>>#defaultPlatformAttributes [Metacello-PharoCommonPlatform]
+MetacelloPlatform>>#useStackCacheDuring:defaultDictionary: [Metacello-Core]
+MetacelloPlatform>>#confirm: [Metacello-Core]
+MetacelloPlatform>>#authorName [Metacello-Core]
+SettingDeclaration>>#localInputWidgetSelector [System-Settings]
+SettingDeclaration>>#realValue: [System-Settings]
+SettingDeclaration>>#realValue [System-Settings]
+SettingDeclaration>>#inputWidgetSelectorInClass: [System-Settings]
+SettingDeclaration>>#inputWidget [System-Settings]
+SettingDeclaration>>#startupAction [StartupPreferences]
+SettingDeclaration>>#exportSettingAction [StartupPreferences]
+SettingDeclaration>>#hasEditableList [System-Settings]
+SettingDeclaration>>#defaultIcon [System-Settings]
+FreeTypeCache>>#sizeOf: [FreeType]
+MetacelloCommonMCSpecLoader>>#retryingResolvePackageSpecReferences:gofer: [Metacello-MC]
+MorphicAlarm>>#value: [Morphic-Base]
+AthensWrappedWorldDisplay>>#doesNotUnderstand: [Athens-Morphic]
+MorphTreeColumnButton>>#wantsDroppedMorph:event: [Morphic-Widgets-Tree]
+ConfigurationOf class>>#ensureMetacello: [Metacello-Base]
+AJInstruction>>#insert: [AsmJit-Instructions]
+Exception class>>#handles: [Kernel]
+ZnByteEncoder class>>#initializeByteTextConverters [Zinc-Character-Encoding-Core]
+GTSpotterGlobalShortcut class>>#openGlobalSpotter [GT-Spotter]
+Nautilus>>#= [Nautilus]
+InstanceVariableEyeElement>>#save: [Spec-Inspector]
+Cursor class>>#resizeForEdge: [Graphics-Display Objects]
+MorphicTreeAdapter>>#doesNotUnderstand: [Spec-MorphicAdapters]
+PluggableIconListMorph>>#getList [Morphic-Widgets-Pluggable]
+PluggableIconListMorph>>#getListItem: [Morphic-Widgets-Pluggable]
+StandardSystemFontsTest>>#assert:familyName:pointSize: [Graphics-Fonts-Tests]
+LogicalFontManager>>#bestFontFor:whenFindingAlternativeIgnoreAll: [FontInfrastructure]
+MczInstaller>>#useNewChangeSetDuring: [System-Installers]
+MessageNode>>#sizeCodeForEffect: [Compiler]
+MessageNode>>#printOn:indent: [Compiler]
+MessageNode>>#transformCase: [Compiler]
+MessageNode>>#emitCodeForValue:encoder: [Compiler]
+MessageNode>>#transform: [Compiler]
+MessageNode>>#transformToDo: [Compiler]
+MessageNode>>#emitCodeForEffect:encoder: [Compiler]
+MessageNode>>#printToDoOn:indent: [Compiler]
+MessageNode>>#sizeCodeForValue: [Compiler]
+MorphExtension>>#inspectElement [Morphic-Core]
+SpecInterpreter>>#retrieveSpecFrom:selector: [Spec-Core]
+SpecInterpreter>>#interpretASpec:selector: [Spec-Core]
+SpecInterpreter>>#returnInterpretationOf: [Spec-Core]
+Morph>>#borderColor: [Morphic-Base]
+Morph>>#handlerForBlueButtonDown: [Morphic-Core]
+Morph>>#submorphNamed:ifNone: [Morphic-Core]
+Morph>>#ownerThatIsA: [Morphic-Core]
+Morph>>#adhereToEdge: [Morphic-Core]
+Morph>>#brickThemer [Glamour-Morphic-Brick]
+Morph>>#findA: [Morphic-Core]
+Morph>>#showActions [Morphic-Core]
+Morph>>#topPasteUp [Morphic-Core]
+Morph>>#addWorldHandlesTo:box: [Morphic-Base]
+Morph>>#layoutInBounds: [Polymorph-Widgets]
+Morph>>#color: [Morphic-Core]
+Morph>>#addHandlesTo:box: [Morphic-Base]
+Morph>>#changeColorTarget:selector:originalColor:hand: [Morphic-Core]
+Morph>>#findDeeplyA: [Morphic-Core]
+Morph>>#okayToRotateEasily [Morphic-Core]
+MCFileTreeVersionInfoWriter>>#writeVersionInfo: [MonticelloFileTree-Core]
+JPEGReadWriter>>#parseNextMarker [Graphics-Files]
+NBFFICallout>>#requestor: [NativeBoost-Core]
+NBFFICallout>>#aliasForType: [NativeBoost-Core]
+NBFFICallout>>#generateInstructions: [NativeBoost-Core]
+Workspace>>#okToChange [Tool-Workspace]
+Workspace>>#setContent: [Tool-Workspace]
+Workspace>>#codeTextMorph [Tool-Workspace]
+Workspace>>#hasUnacceptedEdits [SUnit-UITesting]
+MenuItemMorph>>#deselectItem [Morphic-Base]
+MenuItemMorph>>#contents:withMarkers:inverse: [Morphic-Base]
+MenuItemMorph>>#invokeWithEvent: [Morphic-Base]
+ExpanderMorph>>#fixLayout [Polymorph-Widgets]
+MFClassB>>#method3 [Manifest-Resources-Tests]
+AlignmentMorph class>>#columnPrototype [Morphic-Base]
+GTSpotterEventRecorderTest class>>#instancesForAllEvents [GT-Spotter-EventRecorder]
+GTInspectorExamplesTest>>#checkAllPresentationsOf: [GT-Tests-Inspector]
+SimpleEditor>>#dispatchOn: [Text-Edition]
+BlockClosureTest>>#testSetUp [KernelTests]
+ToOneRelationSlot>>#writeInverse:to: [Slot]
+WideString class>>#from: [Collections-Strings]
+WideString class>>#fromString: [Collections-Strings]
+AbstractTutorial>>#lessonAt: [ProfStef-Core]
+AbstractTutorial>>#lessons [ProfStef-Core]
+FileSystemResolverTest>>#assertOriginResolves: [FileSystem-Tests-Core]
+KMNamedCharKeyCombination class>>#ifSpecialKey:do: [Keymapping-KeyCombinations]
+KMNamedCharKeyCombination class>>#newSpecialKeys [Keymapping-KeyCombinations]
+FontSet class>>#installAsTextStyle [Graphics-Fonts]
+RBParseTreeEnvironment>>#selectionIntervalFor: [Refactoring-Critics]
+MorphicWindowAdapter>>#aboutTitle [Spec-MorphicAdapters]
+MorphicWindowAdapter>>#title [Spec-MorphicAdapters]
+FileSystemTest>>#testChildrenAt [FileSystem-Tests-Core]
+FileSystemTest>>#testEntriesAt [FileSystem-Tests-Core]
+BagTest>>#assertNonDuplicatedContents:whenConvertedTo: [CollectionsTests]
+RubLipsumWithSegmentsExample>>#iconProvider [Rubric]
+SymbolicBytecodeBuilder>>#pushConstant: [Kernel]
+InputEventSensor class>>#installEventSensorFramework: [System-VMEvents]
+MCConfigurationBrowser>>#addRepository [MonticelloGUI]
+MCConfigurationBrowser>>#checkRepositories [MonticelloGUI]
+AbstractClassWidget>>#wantsDroppedMorph:event:inMorph: [Nautilus]
+AbstractClassWidget>>#dragPassengersFor:inMorph: [Nautilus]
+MorphEventSubscription>>#notify:from: [Morphic-Base]
+SymbolTest>>#assertNonDuplicatedContents:whenConvertedTo: [CollectionsTests]
+RubTextEditor>>#changeEmphasis: [Rubric]
+RubTextEditor>>#changeEmphasis [Rubric]
+RubTextEditor>>#changeAlignment [Rubric]
+RubTextEditor>>#performCmdActionsWith:shifted:return: [Rubric]
+RubTextEditor>>#changeEmphasisOrAlignment [Rubric]
+RubTextEditor>>#saveContentsInFile [Rubric]
+GradientFillStyle>>#changeColorSelector:hand:morph:originalColor: [Morphic-Base]
+GLMAnnouncementPropagationTest>>#testSimpleEmptyPane [Glamour-Tests-Core]
+GLMAnnouncementPropagationTest>>#testPropagationDuringCircularDependencies [Glamour-Tests-Core]
+GLMAnnouncementPropagationTest>>#testEntityPropogationAnnouncements [Glamour-Tests-Core]
+FileLocatorTest>>#testCPath [FileSystem-Tests-Core]
+FileLocatorTest>>#testFileSystem [FileSystem-Tests-Core]
+MetacelloGofer>>#basicReferencesIn: [Metacello-MC]
+ZnDefaultServerDelegate>>#handleRequest: [Zinc-HTTP]
+ZnResourceMetaUtils class>>#encodePercent:safeSet:encoder: [Zinc-Resource-Meta-Core]
+CalendarMorph>>#mouseUp: [Morphic-Widgets-Extra]
+RBParserTest>>#testIsA [AST-Tests-Core]
+TConvertTest>>#assertNonDuplicatedContents:whenConvertedTo: [CollectionsTests]
+PolygonMorph>>#mouseDown: [Morphic-Base]
+PolygonMorph>>#nudgeForLabel: [Morphic-Base]
+MCTraitDefinition>>#= [Monticello]
+MethodDictionary>>#compact [Kernel]
+MethodDictionary>>#grow [Kernel]
+MCDataStream>>#nextPut: [Monticello]
+MCDataStream>>#next [Monticello]
+TTutorialTest>>#testLessonAtReturnsCorrespondingLesson [ProfStef-Tests]
+TTutorialTest>>#testEachSelectorReturnsALesson [ProfStef-Tests]
+TTutorialTest>>#testEachSelectorExists [ProfStef-Tests]
+MorphTreeColumn>>#itemStringGetter: [Morphic-Widgets-Tree]
+MorphTreeColumn>>#itemMorphGetter: [Morphic-Widgets-Tree]
+MorphTreeColumn>>#nodeStringGetter: [Morphic-Widgets-Tree]
+MorphTreeColumn>>#rowMorphGetterBlock [Morphic-Widgets-Tree]
+ZnByteStringBecameWideString>>#becomeForward [Zinc-Character-Encoding-Core]
+WikiStyleHelpBuilder>>#build [HelpSystem-Core]
+GLMFinderTest>>#testPanesHaveDifferentRegistries [Glamour-Tests-Core]
+Behavior>>#literalScannedAs:notifying: [Traits]
+Behavior>>#adoptInstance: [Traits]
+Behavior>>#allInstances [Traits]
+Behavior>>#spaceUsed [Traits]
+Behavior>>#allInstancesDo: [Traits]
+Behavior>>#storeLiteral:on: [Traits]
+EmbeddedMenuMorph>>#allSiblingItems [Morphic-Base]
+EmbeddedMenuMorph>>#moveSelectionDown:event: [Morphic-Base]
+EmbeddedMenuMorph>>#selectItem:event: [Morphic-Base]
+WindowModel>>#aboutTitle [Spec-Core]
+MBInfo>>#commands [Versionner-Core-Model]
+GLMNestedBrowserTest>>#testInnerTransmissions [Glamour-Tests-Core]
+GroupboxMorph>>#contentFromModel [Polymorph-Widgets]
+NautilusUI>>#categoriesMenu:shifted: [Nautilus]
+NautilusUI>>#elementsMenu:shifted: [Nautilus]
+DialogItemsChooser>>#sendSelection [Tool-Finder]
+Fraction>>#adaptToInteger:andSend: [Kernel]
+GLMPresentation>>#withAllPanes [Glamour-Core]
+GLMPresentation>>#whenKindOf: [Glamour-Core]
+GLMPresentation>>#withAllPresentations [Glamour-Core]
+TextStyle class>>#named: [Text-Core]
+TextStyle class>>#actualTextStyles [Text-Core]
+TextStyle class>>#knownTextStyles [Text-Core]
+CustomHelpHelpBuilder>>#createTopicFrom: [HelpSystem-Core]
+IRSequence>>#absorbConstantConditionalJumps: [OpalCompiler-Core]
+StringTest>>#assertNonDuplicatedContents:whenConvertedTo: [CollectionsTests]
+AbstractWidget>>#dragTransferTypeForMorph: [Nautilus]
+FinderExampleClassNode>>#displayString [Tool-Finder]
+AthensCairoText>>#weightFrom: [Athens-Cairo]
+AthensCairoText>>#slantFrom: [Athens-Cairo]
+SettingTokenFilter>>#keepSettingDeclaration: [System-Settings]
+PluggableTreeMorph>>#acceptDroppingMorph:event: [Morphic-Widgets-Pluggable]
+PluggableTreeMorph>>#balloonTextForNode: [Morphic-Widgets-Pluggable]
+PluggableTreeMorph>>#wantsDroppedMorph:event: [Morphic-Widgets-Pluggable]
+PluggableTreeMorph>>#setSelectedMorph: [Morphic-Widgets-Pluggable]
+PluggableTreeMorph>>#contentsOfNode: [Morphic-Widgets-Pluggable]
+PluggableTreeMorph>>#iconOfNode: [Morphic-Widgets-Pluggable]
+PluggableTreeMorph>>#printNode: [Morphic-Widgets-Pluggable]
+PluggableTreeMorph>>#hasNodeContents: [Morphic-Widgets-Pluggable]
+PluggableTreeMorph>>#wantsDroppedNode:on: [Morphic-Widgets-Pluggable]
+PluggableTreeMorph>>#dropNode:on: [Morphic-Widgets-Pluggable]
+PluggableTreeMorph>>#update: [Morphic-Widgets-Pluggable]
+MCClassDefinitionTest>>#testLoadAndUnload [Monticello-Tests]
+Browser>>#defineTrait:notifying: [Tool-Browser-Old]
+Browser>>#dragPassengerFor:inMorph: [Tool-Browser-Old]
+Browser>>#defineClass:notifying: [Tool-Browser-Old]
+Browser>>#wantsDroppedMorph:event:inMorph: [Tool-Browser-Old]
+Browser>>#dragTransferTypeForMorph: [Tool-Browser-Old]
+Browser>>#setClass:selector: [Tool-Browser-Old]
+ZnBase64Encoder>>#lineEndConvention: [Zinc-Character-Encoding-Core]
+PluggableTabButtonMorph>>#update: [Morphic-Widgets-Pluggable]
+MethodMapTests>>#testThisContextSourceNode [OpalCompiler-Tests]
+MethodMapTests>>#testMethodSourceNodeAtPC [OpalCompiler-Tests]
+MethodMapTests>>#testThisContextSourceNodeInInlinedMessage [OpalCompiler-Tests]
+SmalltalkEditor>>#modelCurrentSelectedClass [Text-Edition]
+SmalltalkEditor>>#tallySelection [Text-Edition]
+SmalltalkEditor>>#debugIt [Text-Edition]
+SmalltalkEditor>>#evaluateSelectionAndDo: [Text-Edition]
+SmallInteger>>#quo: [Kernel]
+SmallInteger>>#/ [Kernel]
+Point>>#adaptToString:andSend: [Kernel]
+Point>>#adaptToNumber:andSend: [Kernel]
+Point>>#adaptToCollection:andSend: [Kernel]
+GLMExpanderTest>>#testPresentations [Glamour-Tests-Core]
+CompiledMethodTrailer>>#method: [Kernel]
+CompiledMethodTrailer>>#encode [Kernel]
+NBFFICalloutTests>>#asNBExternalType: [NativeBoost-Tests]
+MenuMorph>>#setTitleParametersFor: [Morphic-Base]
+MenuMorph>>#lastItem [Morphic-Base]
+MenuMorph>>#deleteIfPopUp [Morphic-Base]
+MenuMorph>>#addLine [Morphic-Base]
+MenuMorph>>#removeStayUpBox [Morphic-Base]
+MenuMorph>>#popUpAt:forHand:in:allowKeyboard: [Morphic-Base]
+MenuMorph>>#displayFiltered: [Morphic-Base]
+MenuMorph>>#selectMoreItem: [Morphic-Base]
+MenuMorph>>#moveSelectionDown:event: [Morphic-Base]
+MenuMorph>>#addUpdating:target:selector:argumentList: [Morphic-Base]
+MenuMorph>>#addStayUpIcons [Morphic-Base]
+MenuMorph>>#hasItems [Morphic-Base]
+MenuMorph>>#items [Morphic-Base]
+ZnMessageBenchmarkTests>>#testRequests [Zinc-Tests]
+ZnMessageBenchmarkTests>>#testResponses [Zinc-Tests]
+AbstractMethodWidget>>#dragPassengersFor:inMorph: [Nautilus]
+FLVariablesMapping>>#referencesOf:do: [Fuel]
+FLVariablesMapping>>#materializeReferencesOf:with: [Fuel]
+MCPackage>>#snapshot [Monticello]
+MCPackage>>#silentSnapshot [Komitter]
+NewList>>#mouseDownOnItemAt:event: [Morphic-Widgets-NewList]
+NewList>>#clickOnSelectedItem [Morphic-Widgets-NewList]
+NewList>>#mouseUpOnItemAt:event: [Morphic-Widgets-NewList]
+Context class>>#allInstancesDo: [Kernel]
+EyeAbstractInspector>>#diveInto: [Spec-Inspector]
+RangeSettingDeclaration>>#realValue: [System-Settings]
+Tab>>#softRetrieveMorph [Morphic-Widgets-Tabs]
+ZnClientTests>>#testIfFailNonExistingHost [Zinc-Tests]
+ZnClientTests>>#testIfFailNotFound [Zinc-Tests]
+ZnClientTests>>#testIfFailWrongType [Zinc-Tests]
+BorderedMorph>>#removeCornerGrips [Morphic-Base]
+BorderedMorph>>#splitters [Morphic-Base]
+BorderedMorph>>#borderStyle [Morphic-Core]
+MCSnapshotBrowserTest>>#morphsOfClass: [Monticello-Tests]
+NBTestResources>>#setUp [NativeBoost-Tests]
+Object>>#gtInspectorActions [GT-Inspector]
+Object>>#isThisEverCalled [Kernel]
+Object>>#veryDeepCopyWith: [Kernel]
+Object>>#instVarNamed: [Kernel]
+Object>>#perform:orSendTo: [Kernel]
+Object>>#spotterProcessorsFor:pragma: [GT-Spotter]
+Object>>#copyTwoLevel [Tool-Finder]
+Object>>#deepCopy [Kernel]
+Object>>#storeDataOn: [Monticello]
+Object>>#caseOf: [Kernel]
+Object>>#readDataFrom:size: [Monticello]
+Object>>#subObjectsToInspect [Spec-Tools]
+Object>>#copyFrom: [Kernel]
+Object>>#gtInspectorPresentationsIn:inContext: [GT-Inspector]
+Object>>#longPrintOn: [Kernel]
+Object>>#pointsOnlyWeaklyTo: [Kernel]
+Object>>#copySameFrom: [Kernel]
+Object>>#spotterPreviewIn:inContext: [GT-Spotter]
+Object>>#instVarNamed:put: [Kernel]
+Object>>#shallowCopy [Kernel]
+Object>>#storeOn: [Kernel]
+Object>>#longPrintOn:limitedTo:indent: [Kernel]
+FileSystemResolver>>#resolve: [FileSystem-Core]
+MetacelloProject>>#spotterForVersionsFor: [GT-SpotterExtensions-Core]
+PackageTreeModel>>#helpTextFor: [Nautilus]
+RBPatternVariableNode>>#match:inContext: [AST-Core]
+OCASTTranslator>>#visitMessageNode: [OpalCompiler-Core]
+OCASTTranslator>>#initialize [OpalCompiler-Core]
+GLMCompositePresentationAsStartMorphicTest>>#testSimpleOpen [Glamour-Tests-Morphic]
+MorphicEventHandler>>#veryDeepFixupWith: [Morphic-Base]
+FileDialogWindow>>#ok [Tool-FileList]
+SimpleButtonMorph>>#label [Morphic-Widgets-Basic]
+DeepCopier>>#warnInstanceVariableNotCopiedIn:selector: [Kernel]
+OrderedCollectionTest>>#assertNonDuplicatedContents:whenConvertedTo: [CollectionsTests]
+OrderedCollectionTest>>#accessValuePutIn [CollectionsTests]
+OrderedCollectionTest>>#accessValuePutInOn: [CollectionsTests]
+DangerousClassNotifier class>>#shouldNotBeRedefined: [Slot]
+KMUntypeableSingleKeyCombination class>>#ifSpecialKey:do: [Keymapping-KeyCombinations]
+KMUntypeableSingleKeyCombination class>>#newSpecialKeys [Keymapping-KeyCombinations]
+SlReporter>>#send: [ShoreLine-Report-Core]
+UpdatingMenuItemMorph>>#updateIcon [Morphic-Base]
+UpdatingMenuItemMorph>>#updateBalloonText [Morphic-Base]
+UpdatingMenuItemMorph>>#contents [Morphic-Base]
+UpdatingMenuItemMorph>>#balloonText [Morphic-Base]
+UpdatingMenuItemMorph>>#icon [Morphic-Base]
+UpdatingMenuItemMorph>>#updateSubMenu [Morphic-Base]
+UpdatingMenuItemMorph>>#updateContents [Morphic-Base]
+CompositionScanner>>#composeFrom:inRectangle:firstLine:leftSide:rightSide: [Text-Scanning]
+KMDispatcher>>#attachCategory:onProperty: [Keymapping-Core]
+BooleanSlotTest>>#testExampleBooleanSlot [Slot-Tests]
+BooleanSlotTest>>#testExampleTwoBooleanSlots [Slot-Tests]
+RBCompositeLintRuleTest class>>#ruleFor:protocol: [Refactoring-Tests-Core]
+TextStyle>>#= [Text-Core]
+Form>>#storeResourceOn: [Graphics-Display Objects]
+Form>>#readNativeResourceFrom: [Graphics-Files]
+Form>>#unhibernate [Graphics-Display Objects]
+Form>>#hibernate [Graphics-Display Objects]
+MouseClickState>>#drag: [Morphic-Base]
+MouseClickState>>#click [Morphic-Base]
+MouseClickState>>#doubleClick [Morphic-Base]
+MouseClickState>>#doubleClickTimeout [Morphic-Base]
+SpecPreDebugWindow>>#setFocusOrderForActions: [Spec-Debugger]
+SpecPreDebugWindow>>#createNotifierPaneWidgets [Spec-Debugger]
+TextMorphForFieldView>>#localHandleKeystroke: [Polymorph-Widgets]
+ExampleBuilderMorph>>#openModal: [Morphic-Examples]
+WorldMorph>>#taskList [Morphic-Widgets-Taskbar]
+WorldMorph>>#acceptDroppingMorph:event: [Morphic-Base]
+StrikeFont>>#bonk:with: [Graphics-Fonts]
+ChangeSet>>#fileOutOn: [System-Changes]
+RBParser>>#patchNegativeLiteral [AST-Core]
+TextMorphForEditView>>#mouseDown: [Morphic-Base]
+GTSpotterCategoryTitleBrick>>#onLayoutEvent: [GT-Spotter]
+SlReportMessage>>#metadata: [ShoreLine-Report-Core]
+HeapTest>>#assertNonDuplicatedContents:whenConvertedTo: [CollectionsTests]
+ConfigurationOfZincHTTPComponents class>>#ensureMetacello [ConfigurationOfZincHTTPComponents]
+TextEditor>>#performCmdActionsWith:shifted:return: [Text-Edition]
+TextEditor>>#changeEmphasis [Text-Edition]
+TextEditor>>#evaluateSelectionAndDo: [Text-Edition]
+TextEditor>>#changeAlignment [Text-Edition]
+TextEditor>>#saveContentsInFile [Text-Edition]
+TextEditor>>#raiseContextMenu: [Text-Edition]
+TextEditor>>#performCmdActionsWith:shifted: [Text-Edition]
+TextEditor>>#changeEmphasisOrAlignment [Text-Edition]
+TextEditor>>#findAndSelectPreviousOccurenceOf: [Text-Edition]
+TextEditor>>#changeEmphasis: [Text-Edition]
+Slider>>#setValue: [Morphic-Widgets-Scrolling]
+MorphTreeNodeMorph>>#highlight [Morphic-Widgets-Tree]
+MorphTreeNodeMorph>>#unhighlight [Morphic-Widgets-Tree]
+WordArray>>#* [Collections-Arithmetic]
+WordArray>>#- [Collections-Arithmetic]
+WordArray>>#/ [Collections-Arithmetic]
+WordArray>>#+ [Collections-Arithmetic]
+ClassDescription>>#forceNewFrom: [Traits]
+ClassDescription>>#newInstanceFrom:variable:size:map: [Traits]
+ClassDescription>>#classComment:stamp: [Traits]
+GLMMorphic class>>#isImageMorph: [Glamour-Morphic-Widgets]
+GLMMorphic class>>#isAlignmentMorph: [Glamour-Morphic-Widgets]
+ClassHierarchyTest class>>#fixSlotScope [KernelTests]
+DebugAction>>#execute [DebuggerActions]
+PNGReadWriter>>#processNonInterlaced [Graphics-Files]
+PNGReadWriter>>#copyPixels: [Graphics-Files]
+PNGReadWriter>>#filterScanline:count: [Graphics-Files]
+PNGReadWriter>>#copyPixels:at:by: [Graphics-Files]
+SystemSettingLauncher>>#launch [System-Settings]
+MetacelloVersionValidator>>#validateProject: [Metacello-Core]
+MetacelloVersionValidator>>#validateProjectCreationFrom:onError: [Metacello-Core]
+MetacelloVersionValidator>>#validateDoIts:versionString:errorMessage: [Metacello-Core]
+Color class>>#colorFrom: [Graphics-Primitives]
+EditableDropListMorph>>#content: [Polymorph-Widgets]
+GLMSmalltalkCodeMorphicTest>>#testDefault [Glamour-Tests-Morphic]
+SpecDebugger class>>#closeAllDebuggers [Spec-Debugger]
+SpecDebugger class>>#informExistingDebugger:label: [Spec-Debugger]
+SpecDebugger class>>#initialize [Spec-Debugger]
+SugsAbstractContext>>#selectedNodeText [SmartSuggestions]
+Text>>#fontNumberAt: [Text-Core]
+Text>>#setString:setRunsChecking: [Text-Core]
+Text>>#alignmentAt:ifAbsent: [Text-Core]
+ZnCookie>>#writeExtraAttributesOn: [Zinc-HTTP]
+ZnCookie>>#= [Zinc-HTTP]
+KeyedTree>>#merge: [Collections-Unordered]
+KeyedTree>>#subtrees [Collections-Unordered]
+KeyedTree>>#putFormattedTextOn:level:indentString: [Collections-Unordered]
+KeyedTree>>#postCopy [Collections-Unordered]
+KeyedTree>>#putFormattedTextOn:withDescriptions:level:indentString: [Collections-Unordered]
+IntegerTest>>#testLowBit [KernelTests]
+RubSmalltalkEditor class>>#compilerFor: [Rubric]
+ListItemWrapper>>#sendSettingMessageTo: [Morphic-Widgets-List]
+MorphTreeModel>>#wrapItem: [Morphic-Widgets-Tree]
+StrikeFont class>>#familyNames [Graphics-Fonts]
+StrikeFont class>>#setupDefaultFallbackFont [Graphics-Fonts]
+FLBufferedWriteStream>>#initializeStream: [Fuel]
+FLHeaderSerializationTest>>#testPostMaterializationActions [FuelTests]
+FLHeaderSerializationTest>>#testPreMaterializationActions [FuelTests]
+RxsContextCondition>>#dispatchTo: [Regex-Core]
+MetacelloVersion>>#gtInspectorPackagesIn: [GT-InspectorExtensions-Core]
+MCVersionInfoWriter>>#writeVersionInfo: [Monticello]
+MetacelloScriptExecutor>>#execute: [Metacello-Core]
+Association>>#tail [Morphic-Base]
+Association>>#head [Morphic-Base]
+ImageCleaner>>#cleanUpMethods [Tool-ImageCleaner]
+ImageCleaner>>#cleanUpForRelease [Tool-ImageCleaner]
+GLMBasicExamples>>#morphIcons [Glamour-Examples]
+GLMBasicExamples>>#compoundTaggedTree [Glamour-Examples]
+ZnBufferedWriteStream>>#flushBuffer [Zinc-Character-Encoding-Core]
+MessageBrowser class>>#openMessageList:name:autoSelect:refreshingBlockSelector: [Spec-Tools]
+SequenceableCollection>>#hasEqualElements: [Collections-Abstract]
+MetacelloTutorialConfig class>>#ensureMetacello [Metacello-Tutorial]
+Object class>>#readFrom: [Kernel]
+FLProxyThatBecomesItsContent>>#fuelAfterMaterialization [FuelTests]
+SystemNavigation>>#allSentMessages [System-Support]
+SystemNavigation>>#allObjectsDo: [System-Support]
+IRBytecodeGenerator>>#addLastLiteral: [OpalCompiler-Core]
+MCVersionTest>>#assert:orders:as:unresolved: [Monticello-Tests]
+MCVersionTest>>#assert:orders:as: [Monticello-Tests]
+MetacelloVersionConstructor>>#defaultSymbolicVersionResolverBlock: [Metacello-Core]
+TextAndTextStreamTest>>#testRunArrayInvariant [Text-Tests]
+SpecDebuggerDynamicToolbar>>#setFocusOrderForActions: [Spec-Debugger]
+GLMWrapperTest>>#testPresentationsAreInstalled [Glamour-Tests-Core]
+MethodFinder>>#findMessage [Tool-Finder]
+MethodFinder>>#load: [Tool-Finder]
+StandardWindow>>#isFullscreen [Morphic-Widgets-Windows]
+StandardWindow>>#noteNewOwner: [Morphic-Widgets-Windows]
+String>>#adaptToCollection:andSend: [Collections-Strings]
+String>>#adaptToString:andSend: [Collections-Strings]
+String>>#adaptToNumber:andSend: [Collections-Strings]
+String>>#adaptToPoint:andSend: [Collections-Strings]
+MCDefinition>>#= [Monticello]
+MCDefinition>>#isRevisionOf: [Monticello]
+PluggableTextMorph>>#updateEnabled [Morphic-Widgets-Pluggable]
+PluggableTextMorph>>#hasUnacceptedEdits: [Morphic-Widgets-Pluggable]
+PluggableTextMorph>>#selectionInterval: [Morphic-Widgets-Pluggable]
+PluggableTextMorph>>#okToStyle [Morphic-Widgets-Pluggable]
+PluggableTextMorph>>#acceptTextInModelBasic [Morphic-Widgets-Pluggable]
+PluggableTextMorph>>#acceptBasic [Morphic-Widgets-Pluggable]
+PluggableTextMorph>>#acceptTextInModel [Morphic-Widgets-Pluggable]
+PluggableTextMorph>>#update: [Morphic-Widgets-Pluggable]
+ZnEntityReader>>#readFrom:usingType:andLength: [Zinc-HTTP]
+BorderStyle class>>#borderStyleForSymbol: [Morphic-Core]

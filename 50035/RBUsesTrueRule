@@ -1,12 +1,12 @@
-RBSmalllintTestObject>>#usesTrue
-KernelClassesFilter>>#kernelClassesToExclude
-DiffModel class>>#exampleWithOptions
-ClassTest>>#testOrdersMetaClassAfterItsClassInstance
-SHTextStylerST80>>#addLinkAttributesFor:in:to:
-RubSHTextStylerST80>>#addLinkAttributesFor:in:to:
-FalseTest>>#testNew
-MCDataStream class>>#initialize
-NECInstVarTypeGuesserTest>>#testConstantBoolean
-NECContextTest>>#testReceiverConstant
-SHRange>>#asType
-TrueTest>>#testNew
+RBSmalllintTestObject>>#usesTrue [Refactoring-Tests-Critics]
+KernelClassesFilter>>#kernelClassesToExclude [DebuggerFilters]
+DiffModel class>>#exampleWithOptions [Spec-Core]
+ClassTest>>#testOrdersMetaClassAfterItsClassInstance [KernelTests]
+SHTextStylerST80>>#addLinkAttributesFor:in:to: [Shout]
+RubSHTextStylerST80>>#addLinkAttributesFor:in:to: [Rubric]
+FalseTest>>#testNew [KernelTests]
+MCDataStream class>>#initialize [Monticello]
+NECInstVarTypeGuesserTest>>#testConstantBoolean [NECompletion-Tests]
+NECContextTest>>#testReceiverConstant [NECompletion-Tests]
+SHRange>>#asType [Shout]
+TrueTest>>#testNew [KernelTests]

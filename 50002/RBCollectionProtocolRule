@@ -1,233 +1,233 @@
-DynamicGroup>>#methodRemoved:
-DynamicGroup>>#classRemoved:
-ComposableModel class>>#apiMethods
-MCSubDirectoryRepository>>#findFullNameForWriting:
-MCWorkingCopyBrowser>>#addMetacelloBaseline
-SystemOrganizer>>#fileOutCategory:on:initializing:
-DictionaryTest>>#testPrintOnDelimiter
-DictionaryTest>>#testPrintOn
-DictionaryTest>>#testPrintElementsOn
-DictionaryTest>>#testAsCommaStringMore
-DictionaryTest>>#test0FixtureOccurrencesTest
-DictionaryTest>>#testDo
-DictionaryTest>>#testPrintOnDelimiterLast
-GLMRubricSmalltalkTextModel>>#appendVariableBinding:
-RPackage>>#methods
-RPackage>>#extensionMethods
-OCClosureCompilerTest>>#testInlineBlockCollectionLR2
-MetacelloVersionNumber class>>#fromString:
-MCVersionSorter>>#registerStepChildrenOf:seen:
-RBSmalllintTestObject>>#collectionProtocol
-RBRefactoryTestDataApp>>#collectionProtocol
-TraitDescription>>#classesThatImplementAllOf:
-OCKeyedSet>>#addAll:
-TestResult>>#updateResultsInHistory
-AbstractTool>>#browseUnusedMethodsOf:
-AbstractTool>>#addPackagesAsGroup:named:
-AbstractTool>>#addPackagesAsGroup:
-AbstractTool>>#selectorFromPattern:withCaption:startingFrom:
-RBBrowserEnvironment>>#asSystemNavigationEnvironment
-Finder>>#constructDictionaryWithPragmaSearch:
-Finder>>#pragmaSearch:
-RGContainer>>#loadPackagesFromImage
-FreeTypeFontFamily>>#addSimulatedMembers
-Array>>#generateSpec
-UndeclaredVariable>>#openMenuIn:
-RBClassEnvironment>>#withClassesFixedForNautilus
-TApplyingOnClassSide>>#noteNewBaseTraitCompositionApplied:
-ArrayTest>>#testDo2
-ArrayTest>>#testDo
-MetacelloMCVersionValidator>>#validateVersionTests:
-OCUndeclaredVariableWarning>>#openMenuIn:
-TraitComposition>>#methodDescriptionsForSelector:
-TraitComposition>>#addCompositionOnLeft:
-MBMonticelloPackagesResource>>#setUpPackageClassDefs:methodDefs:named:ancestors:
-MorphTreeMorph>>#addMorphsAfter:fromCollection:
-MorphTreeMorph>>#buildTopHeader
-Categorizer>>#changeFromCategorySpecs:
-MCVersionInfo>>#allAncestorsTo:
-IntervalTest>>#test0FixtureOccurrencesTest
-MCFileRepositoryInspector>>#packageListUpdate
-MCFileRepositoryInspector>>#refresh
-MetacelloToolBox class>>#modifyDevelopmentVersionIn:imports:requiredProjects:packages:description:
-TestCommandLineHandler>>#addPackagesMatchingGlob:to:
-TestCommandLineHandler>>#addPackagesMatchingRegex:to:
-MBCommand>>#configurationReferencesFrom:
-TraitBehavior>>#selectSubclasses:
-TraitBehavior>>#selectSuperclasses:
-Encoder>>#tempNodes
-CodeHolder>>#optionalButtonRow
-StartupPreferencesHandler>>#lookInFolder:forFilesMatching:
-MetacelloMCVersionSpec>>#packageSpecsInLoadOrderForMap:
-MultistateButtonMorph>>#fillStyles
-Trait>>#sharing:
-SortedCollectionTest>>#testDo2
-SortedCollectionTest>>#test0FixtureOccurrencesTest
-Collection>>#intersection:
-Collection>>#addAll:
-Collection>>#fillFrom:with:
-Collection>>#select:
-Collection>>#collect:
-Collection>>#groupedBy:
-MetacelloAbstractVersionConstructor>>#setFor:do:
-SortedCollection>>#addAll:
-EyeBagInspector>>#addVariableFields:
-TOccurrencesTest>>#test0FixtureOccurrencesTest
-GLMPresentStrategy>>#addPresentation:
-ClassTrait>>#noteNewBaseTraitCompositionApplied:
-OCAbstractMethodScope>>#allTemps
-OCAbstractMethodScope>>#localTemps
-TBehavior>>#selectSubclasses:
-TBehavior>>#selectSuperclasses:
-MetacelloAbstractConstructor>>#extractPragmas:for:into:
-TestRunner>>#addDeclaredPackagesUnderTestTo:
-TestRunner>>#addMethodsUnderTestIn:to:
-MCFrontier>>#remove:
-TAsStringCommaAndDelimiterTest>>#testAsCommaStringMore
-PseudoClass>>#fileOutMethods:on:
-KMStorage>>#addAll:
-HDCoverageReport>>#addTestsIn:to:
-Loader>>#diffPackages
-TestSuite>>#defaultResources
-MCFileTreeStCypressWriter>>#writeDefinitions:
-MCFileTreeStCypressWriter>>#fileNameMapFor:
-TOccurrencesForMultiplinessTest>>#test0FixtureOccurrencesTest
-Metaclass>>#noteNewBaseTraitCompositionApplied:
-MCThreeWayMerger>>#addBaseSnapshot:
-SpecLayout>>#computeSplitters
-SpecLayout>>#computeNotSplitterWidget:
-SugsSuggestionFactory class>>#collectCommandsFrom:
-Set>>#intersection:
-LinkedListTest>>#testPrintOnDelimiter
-LinkedListTest>>#testPrintOnDelimiterLast
-LinkedListTest>>#testPrintOn
-LinkedListTest>>#testPrintElementsOn
-LinkedListTest>>#test0FixtureOccurrencesTest
-ZipEncoderTree>>#buildTree:maxDepth:
-TClassDescription>>#classesThatImplementAllOf:
-GoferFetch>>#initializeOn:
-SimpleHierarchicalListMorph>>#addSubmorphsAfter:fromCollection:allowSorting:
-SimpleHierarchicalListMorph>>#addMorphsTo:from:allowSorting:withExpandedItems:atLevel:
-GTSpotterStepTest>>#implementors:inPackages:
-GTSpotterStepTest>>#senders:inPackages:
-SetTest>>#testPrintOnDelimiter
-SetTest>>#testPrintOn
-SetTest>>#testPrintElementsOn
-SetTest>>#testAsCommaStringMore
-SetTest>>#test0FixtureOccurrencesTest
-SetTest>>#testPrintOnDelimiterLast
-GTSpotterStackedLayout>>#gatherStacked:
-EyeInspector>>#addVariableFields:
-EyeInspector>>#addInstancesVariable:
-ScriptLoader>>#buildConfigurationMapFor:
-DoubleLinkedList>>#select:
-DoubleLinkedList>>#collect:
-DoubleLinkedList>>#addAll:
-DoubleLinkedList>>#reject:
-StringHolder>>#browseUnusedMethods
-Class>>#sharing:
-TClass>>#sharing:
-ConfigurationGenerator>>#addMetacelloBaseline
-MetacelloProjectRegistration class>>#configurationClasses
-RBNamespace>>#privateReferencesTo:
-FreeTypeCache>>#removeAllForFont:
-FreeTypeCache>>#removeAllForType:
-Nautilus>>#initialize
-GLMUpdateAction>>#registerInPresentation
-MessageNode>>#analyseTempsWithin:rootNode:assignmentPools:
-Morph>>#removeAllMorphsIn:
-GTSpotterCandidatesList>>#addAllCandidates:in:
-WeakOrderedCollectionTest>>#testWeakOrderedCollectionSomeGarbageCollected
-WeakOrderedCollectionTest>>#testWeakOrderedCollectionAllGarbageCollected
-ZnClient>>#receiveCookies
-GTSpotterIterator>>#select:as:
-GTSpotterIterator>>#collect:as:
-GTSpotterIterator>>#reject:as:
-BagTest>>#testPrintOnDelimiter
-BagTest>>#testPrintOn
-BagTest>>#testPrintElementsOn
-BagTest>>#testAsCommaStringMore
-BagTest>>#test0FixtureOccurrencesTest
-BagTest>>#testPrintOnDelimiterLast
-WeakSetTest>>#testDontGrowWhenUnecessary
-IRMethod>>#allInstructionsMatching:
-IRMethod>>#predecessorsOf:
-IRMethod>>#allInstructions
-SymbolTest>>#test0FixtureOccurrencesTest
-RBParserTest>>#testIsA
-Behavior>>#selectSubclasses:
-Behavior>>#selectSuperclasses:
-RBSendsDeprecatedMethodToGlobalRule>>#initialize
-NautilusUI>>#methodsInARestrictedEnvironment:forCategory:in:
-CustomHelpHelpBuilder>>#createTopicFrom:
-IRSequence>>#splitAfter:
-IRSequence>>#addInstructions:
-IRSequence>>#absorbJumpToSingleInstr:
-IRSequence>>#instructionsForDecompiling
-StringTest>>#test0FixtureOccurrencesTest
-MCDependencySorter>>#addAll:
-EyeCollectionInspector>>#addVariableFields:
-MenuMorph>>#allItems
-MCPackage>>#silentSnapshot
-RBImplementedNotSentRule>>#literals
-MetacelloSemanticVersionNumber class>>#fromString:forPattern:
-TDictionaryEnumeratingTest>>#testDo
-SpaceTally>>#preAllocateResultsFor:
-SpaceTally>>#printSpaceAnalysis:on:
-OrderedCollectionTest>>#test0FixtureOccurrencesTest
-MCFileTreeAbstractReader>>#loadDependencies
-SpecPreDebugWindow>>#setFocusOrderForActions:
-SpecPreDebugWindow>>#dynamicLayoutForActions:
-MCAncestry>>#breadthFirstAncestorsDo:
-TPrintTest>>#testPrintOnDelimiter
-TPrintTest>>#testPrintOn
-TPrintTest>>#testPrintElementsOn
-TPrintTest>>#testPrintOnDelimiterLast
-KeymapBrowser>>#collectAllShortcuts
-MetacelloToolBoxConstructor>>#methodSection:inEvaluationOrder:do:
-HeapTest>>#setUp
-HeapTest>>#test1
-HeapTest>>#test0FixtureOccurrencesTest
-HeapTest>>#testDo
-MorphTreeNodeMorph>>#buildRowMorph
-ClassDescription>>#classesThatImplementAllOf:
-GLMMorphic class>>#morphElement:
-GLMMorphicValidatorRenderer>>#render:
-MetacelloMCVersion>>#packageAndProjectNamesToLoad:loader:
-MBAddConfigurationCommand>>#collectPackages:andProjects:pattern:repository:
-GLMMorphicSpotter>>#newListMorphs
-EyeDictionaryInspector>>#addVariableFields:
-DynamicClassGroup>>#classRemoved:
-LinkedList>>#copyWithout:
-LinkedList>>#select:
-SystemNavigation>>#allAccessesTo:from:
-SystemNavigation>>#allStoresInto:of:
-SystemNavigation>>#allUnreferencedClassVariablesOf:
-SystemNavigation>>#browseClassVarRefs:
-SystemNavigation>>#allLocalCallsOn:ofClass:
-SystemNavigation>>#allSendersOf:
-SystemNavigation>>#allCallsOn:from:
-SystemNavigation>>#chooseInstVarFrom:thenDo:
-PluggableMenuSpec>>#addToMenuModel:
-MetacelloMemberListSpec>>#collect:
-MetacelloMemberListSpec>>#select:
-MCDefinitionIndex>>#addAll:
-SpecDebuggerDynamicToolbar>>#setFocusOrderForActions:
-SpecDebuggerDynamicToolbar>>#dynamicLayoutForActions:
-MethodFinder>>#initialize3
-MethodFinder>>#constMult
-MethodFinder>>#constLinear
-MethodFinder>>#initialize2
-MethodFinder>>#initialize
-MethodFinder>>#constDiv
-MethodFinder>>#constEquiv
-MethodFinder>>#constPlus
-MethodFinder>>#constUsingData1Value
-MethodFinder>>#simpleSearch
-Morph class>>#morphsUnknownToTheirOwners
-SortHierarchically class>>#sortNodes:
-LayoutClassScope>>#visibleSlots
-LayoutClassScope>>#allVisibleSlots
-LayoutClassScope>>#slots
-TIncludesForIdentityCollectionsTest>>#testIncludesAllOfForIdentityCollections
-TIncludesForIdentityCollectionsTest>>#testIncludesAnyOfForIdentityCollections
+DynamicGroup>>#methodRemoved: [GroupManager]
+DynamicGroup>>#classRemoved: [GroupManager]
+ComposableModel class>>#apiMethods [Spec-Core]
+MCSubDirectoryRepository>>#findFullNameForWriting: [Monticello]
+MCWorkingCopyBrowser>>#addMetacelloBaseline [MonticelloGUI]
+SystemOrganizer>>#fileOutCategory:on:initializing: [System-Support]
+DictionaryTest>>#testPrintOnDelimiter [CollectionsTests]
+DictionaryTest>>#testPrintOn [CollectionsTests]
+DictionaryTest>>#testPrintElementsOn [CollectionsTests]
+DictionaryTest>>#testAsCommaStringMore [CollectionsTests]
+DictionaryTest>>#test0FixtureOccurrencesTest [CollectionsTests]
+DictionaryTest>>#testDo [CollectionsTests]
+DictionaryTest>>#testPrintOnDelimiterLast [CollectionsTests]
+GLMRubricSmalltalkTextModel>>#appendVariableBinding: [Glamour-Morphic-Widgets]
+RPackage>>#methods [RPackage-Core]
+RPackage>>#extensionMethods [RPackage-Core]
+OCClosureCompilerTest>>#testInlineBlockCollectionLR2 [OpalCompiler-Tests]
+MetacelloVersionNumber class>>#fromString: [Metacello-Core]
+MCVersionSorter>>#registerStepChildrenOf:seen: [Monticello]
+RBSmalllintTestObject>>#collectionProtocol [Refactoring-Tests-Critics]
+RBRefactoryTestDataApp>>#collectionProtocol [Refactoring-Tests-Core]
+TraitDescription>>#classesThatImplementAllOf: [Traits]
+OCKeyedSet>>#addAll: [OpalCompiler-Core]
+TestResult>>#updateResultsInHistory [SUnit-Core]
+AbstractTool>>#browseUnusedMethodsOf: [Tool-Base]
+AbstractTool>>#addPackagesAsGroup:named: [Tool-Base]
+AbstractTool>>#addPackagesAsGroup: [Tool-Base]
+AbstractTool>>#selectorFromPattern:withCaption:startingFrom: [Tool-Base]
+RBBrowserEnvironment>>#asSystemNavigationEnvironment [NautilusCommon]
+Finder>>#constructDictionaryWithPragmaSearch: [Tool-Finder]
+Finder>>#pragmaSearch: [Tool-Finder]
+RGContainer>>#loadPackagesFromImage [Ring-Core-Containers]
+FreeTypeFontFamily>>#addSimulatedMembers [FreeType]
+Array>>#generateSpec [Spec-Core]
+UndeclaredVariable>>#openMenuIn: [Compiler]
+RBClassEnvironment>>#withClassesFixedForNautilus [GT-SpotterExtensions-Core]
+TApplyingOnClassSide>>#noteNewBaseTraitCompositionApplied: [Traits]
+ArrayTest>>#testDo2 [CollectionsTests]
+ArrayTest>>#testDo [CollectionsTests]
+MetacelloMCVersionValidator>>#validateVersionTests: [Metacello-MC]
+OCUndeclaredVariableWarning>>#openMenuIn: [OpalCompiler-Core]
+TraitComposition>>#methodDescriptionsForSelector: [Traits]
+TraitComposition>>#addCompositionOnLeft: [Traits]
+MBMonticelloPackagesResource>>#setUpPackageClassDefs:methodDefs:named:ancestors: [Versionner-Tests-Resources]
+MorphTreeMorph>>#addMorphsAfter:fromCollection: [Morphic-Widgets-Tree]
+MorphTreeMorph>>#buildTopHeader [Morphic-Widgets-Tree]
+Categorizer>>#changeFromCategorySpecs: [Kernel]
+MCVersionInfo>>#allAncestorsTo: [GT-SpotterExtensions-Core]
+IntervalTest>>#test0FixtureOccurrencesTest [CollectionsTests]
+MCFileRepositoryInspector>>#packageListUpdate [MonticelloGUI]
+MCFileRepositoryInspector>>#refresh [MonticelloGUI]
+MetacelloToolBox class>>#modifyDevelopmentVersionIn:imports:requiredProjects:packages:description: [Metacello-ToolBox]
+TestCommandLineHandler>>#addPackagesMatchingGlob:to: [HudsonBuildTools20]
+TestCommandLineHandler>>#addPackagesMatchingRegex:to: [HudsonBuildTools20]
+MBCommand>>#configurationReferencesFrom: [Versionner-Core-Commands]
+TraitBehavior>>#selectSubclasses: [Traits]
+TraitBehavior>>#selectSuperclasses: [Traits]
+Encoder>>#tempNodes [Compiler]
+CodeHolder>>#optionalButtonRow [Tool-Browser-Old]
+StartupPreferencesHandler>>#lookInFolder:forFilesMatching: [StartupPreferences]
+MetacelloMCVersionSpec>>#packageSpecsInLoadOrderForMap: [Metacello-MC]
+MultistateButtonMorph>>#fillStyles [Morphic-Widgets-Basic]
+Trait>>#sharing: [Traits]
+SortedCollectionTest>>#testDo2 [CollectionsTests]
+SortedCollectionTest>>#test0FixtureOccurrencesTest [CollectionsTests]
+Collection>>#intersection: [Collections-Abstract]
+Collection>>#addAll: [Collections-Abstract]
+Collection>>#fillFrom:with: [Collections-Abstract]
+Collection>>#select: [Collections-Abstract]
+Collection>>#collect: [Collections-Abstract]
+Collection>>#groupedBy: [Collections-Abstract]
+MetacelloAbstractVersionConstructor>>#setFor:do: [Metacello-Core]
+SortedCollection>>#addAll: [Collections-Sequenceable]
+EyeBagInspector>>#addVariableFields: [Spec-Inspector]
+TOccurrencesTest>>#test0FixtureOccurrencesTest [CollectionsTests]
+GLMPresentStrategy>>#addPresentation: [Glamour-Core]
+ClassTrait>>#noteNewBaseTraitCompositionApplied: [Traits]
+OCAbstractMethodScope>>#allTemps [OpalCompiler-Core]
+OCAbstractMethodScope>>#localTemps [OpalCompiler-Core]
+TBehavior>>#selectSubclasses: [Traits]
+TBehavior>>#selectSuperclasses: [Traits]
+MetacelloAbstractConstructor>>#extractPragmas:for:into: [Metacello-Core]
+TestRunner>>#addDeclaredPackagesUnderTestTo: [SUnit-UI]
+TestRunner>>#addMethodsUnderTestIn:to: [SUnit-UI]
+MCFrontier>>#remove: [Monticello]
+TAsStringCommaAndDelimiterTest>>#testAsCommaStringMore [CollectionsTests]
+PseudoClass>>#fileOutMethods:on: [System-FilePackage]
+KMStorage>>#addAll: [Keymapping-Core]
+HDCoverageReport>>#addTestsIn:to: [HudsonBuildTools20]
+Loader>>#diffPackages [ScriptLoader50]
+TestSuite>>#defaultResources [SUnit-Core]
+MCFileTreeStCypressWriter>>#writeDefinitions: [MonticelloFileTree-Core]
+MCFileTreeStCypressWriter>>#fileNameMapFor: [MonticelloFileTree-Core]
+TOccurrencesForMultiplinessTest>>#test0FixtureOccurrencesTest [CollectionsTests]
+Metaclass>>#noteNewBaseTraitCompositionApplied: [Traits]
+MCThreeWayMerger>>#addBaseSnapshot: [Monticello]
+SpecLayout>>#computeSplitters [Spec-Layout]
+SpecLayout>>#computeNotSplitterWidget: [Spec-Layout]
+SugsSuggestionFactory class>>#collectCommandsFrom: [SmartSuggestions]
+Set>>#intersection: [Collections-Unordered]
+LinkedListTest>>#testPrintOnDelimiter [CollectionsTests]
+LinkedListTest>>#testPrintOnDelimiterLast [CollectionsTests]
+LinkedListTest>>#testPrintOn [CollectionsTests]
+LinkedListTest>>#testPrintElementsOn [CollectionsTests]
+LinkedListTest>>#test0FixtureOccurrencesTest [CollectionsTests]
+ZipEncoderTree>>#buildTree:maxDepth: [Compression]
+TClassDescription>>#classesThatImplementAllOf: [Traits]
+GoferFetch>>#initializeOn: [Gofer-Core]
+SimpleHierarchicalListMorph>>#addSubmorphsAfter:fromCollection:allowSorting: [Morphic-Widgets-List]
+SimpleHierarchicalListMorph>>#addMorphsTo:from:allowSorting:withExpandedItems:atLevel: [Morphic-Widgets-List]
+GTSpotterStepTest>>#implementors:inPackages: [GT-Tests-Spotter]
+GTSpotterStepTest>>#senders:inPackages: [GT-Tests-Spotter]
+SetTest>>#testPrintOnDelimiter [CollectionsTests]
+SetTest>>#testPrintOn [CollectionsTests]
+SetTest>>#testPrintElementsOn [CollectionsTests]
+SetTest>>#testAsCommaStringMore [CollectionsTests]
+SetTest>>#test0FixtureOccurrencesTest [CollectionsTests]
+SetTest>>#testPrintOnDelimiterLast [CollectionsTests]
+GTSpotterStackedLayout>>#gatherStacked: [GT-Spotter]
+EyeInspector>>#addVariableFields: [Spec-Inspector]
+EyeInspector>>#addInstancesVariable: [Spec-Inspector]
+ScriptLoader>>#buildConfigurationMapFor: [ScriptLoader50]
+DoubleLinkedList>>#select: [System-Caching]
+DoubleLinkedList>>#collect: [System-Caching]
+DoubleLinkedList>>#addAll: [System-Caching]
+DoubleLinkedList>>#reject: [System-Caching]
+StringHolder>>#browseUnusedMethods [Tool-Browser-Old]
+Class>>#sharing: [Traits]
+TClass>>#sharing: [Traits]
+ConfigurationGenerator>>#addMetacelloBaseline [Spec-Tools]
+MetacelloProjectRegistration class>>#configurationClasses [Metacello-Core]
+RBNamespace>>#privateReferencesTo: [Refactoring-Core]
+FreeTypeCache>>#removeAllForFont: [FreeType]
+FreeTypeCache>>#removeAllForType: [FreeType]
+Nautilus>>#initialize [Nautilus]
+GLMUpdateAction>>#registerInPresentation [Glamour-Core]
+MessageNode>>#analyseTempsWithin:rootNode:assignmentPools: [Compiler]
+Morph>>#removeAllMorphsIn: [Morphic-Core]
+GTSpotterCandidatesList>>#addAllCandidates:in: [GT-Spotter]
+WeakOrderedCollectionTest>>#testWeakOrderedCollectionSomeGarbageCollected [CollectionsTests]
+WeakOrderedCollectionTest>>#testWeakOrderedCollectionAllGarbageCollected [CollectionsTests]
+ZnClient>>#receiveCookies [Zinc-HTTP]
+GTSpotterIterator>>#select:as: [GT-Spotter]
+GTSpotterIterator>>#collect:as: [GT-Spotter]
+GTSpotterIterator>>#reject:as: [GT-Spotter]
+BagTest>>#testPrintOnDelimiter [CollectionsTests]
+BagTest>>#testPrintOn [CollectionsTests]
+BagTest>>#testPrintElementsOn [CollectionsTests]
+BagTest>>#testAsCommaStringMore [CollectionsTests]
+BagTest>>#test0FixtureOccurrencesTest [CollectionsTests]
+BagTest>>#testPrintOnDelimiterLast [CollectionsTests]
+WeakSetTest>>#testDontGrowWhenUnecessary [CollectionsTests]
+IRMethod>>#allInstructionsMatching: [OpalCompiler-Core]
+IRMethod>>#predecessorsOf: [OpalCompiler-Core]
+IRMethod>>#allInstructions [OpalCompiler-Core]
+SymbolTest>>#test0FixtureOccurrencesTest [CollectionsTests]
+RBParserTest>>#testIsA [AST-Tests-Core]
+Behavior>>#selectSubclasses: [Traits]
+Behavior>>#selectSuperclasses: [Traits]
+RBSendsDeprecatedMethodToGlobalRule>>#initialize [Refactoring-Critics]
+NautilusUI>>#methodsInARestrictedEnvironment:forCategory:in: [Nautilus]
+CustomHelpHelpBuilder>>#createTopicFrom: [HelpSystem-Core]
+IRSequence>>#splitAfter: [OpalCompiler-Core]
+IRSequence>>#addInstructions: [OpalCompiler-Core]
+IRSequence>>#absorbJumpToSingleInstr: [OpalCompiler-Core]
+IRSequence>>#instructionsForDecompiling [OpalCompiler-Core]
+StringTest>>#test0FixtureOccurrencesTest [CollectionsTests]
+MCDependencySorter>>#addAll: [Monticello]
+EyeCollectionInspector>>#addVariableFields: [Spec-Inspector]
+MenuMorph>>#allItems [GT-SpotterExtensions-Core]
+MCPackage>>#silentSnapshot [Komitter]
+RBImplementedNotSentRule>>#literals [Refactoring-Critics]
+MetacelloSemanticVersionNumber class>>#fromString:forPattern: [Metacello-Core]
+TDictionaryEnumeratingTest>>#testDo [CollectionsTests]
+SpaceTally>>#preAllocateResultsFor: [Tool-Profilers]
+SpaceTally>>#printSpaceAnalysis:on: [Tool-Profilers]
+OrderedCollectionTest>>#test0FixtureOccurrencesTest [CollectionsTests]
+MCFileTreeAbstractReader>>#loadDependencies [MonticelloFileTree-Core]
+SpecPreDebugWindow>>#setFocusOrderForActions: [Spec-Debugger]
+SpecPreDebugWindow>>#dynamicLayoutForActions: [Spec-Debugger]
+MCAncestry>>#breadthFirstAncestorsDo: [Monticello]
+TPrintTest>>#testPrintOnDelimiter [CollectionsTests]
+TPrintTest>>#testPrintOn [CollectionsTests]
+TPrintTest>>#testPrintElementsOn [CollectionsTests]
+TPrintTest>>#testPrintOnDelimiterLast [CollectionsTests]
+KeymapBrowser>>#collectAllShortcuts [Spec-Tools]
+MetacelloToolBoxConstructor>>#methodSection:inEvaluationOrder:do: [Metacello-Core]
+HeapTest>>#setUp [CollectionsTests]
+HeapTest>>#test1 [CollectionsTests]
+HeapTest>>#test0FixtureOccurrencesTest [CollectionsTests]
+HeapTest>>#testDo [CollectionsTests]
+MorphTreeNodeMorph>>#buildRowMorph [Morphic-Widgets-Tree]
+ClassDescription>>#classesThatImplementAllOf: [Traits]
+GLMMorphic class>>#morphElement: [Glamour-Morphic-Widgets]
+GLMMorphicValidatorRenderer>>#render: [Glamour-Morphic-Renderer]
+MetacelloMCVersion>>#packageAndProjectNamesToLoad:loader: [Metacello-MC]
+MBAddConfigurationCommand>>#collectPackages:andProjects:pattern:repository: [Versionner-Core-Commands]
+GLMMorphicSpotter>>#newListMorphs [Glamour-Morphic-Renderer]
+EyeDictionaryInspector>>#addVariableFields: [Spec-Inspector]
+DynamicClassGroup>>#classRemoved: [GroupManager]
+LinkedList>>#copyWithout: [Collections-Sequenceable]
+LinkedList>>#select: [Collections-Sequenceable]
+SystemNavigation>>#allAccessesTo:from: [System-Support]
+SystemNavigation>>#allStoresInto:of: [System-Support]
+SystemNavigation>>#allUnreferencedClassVariablesOf: [System-Support]
+SystemNavigation>>#browseClassVarRefs: [Tool-Base]
+SystemNavigation>>#allLocalCallsOn:ofClass: [System-Support]
+SystemNavigation>>#allSendersOf: [System-Support]
+SystemNavigation>>#allCallsOn:from: [System-Support]
+SystemNavigation>>#chooseInstVarFrom:thenDo: [Tool-Base]
+PluggableMenuSpec>>#addToMenuModel: [Spec-Core]
+MetacelloMemberListSpec>>#collect: [Metacello-Core]
+MetacelloMemberListSpec>>#select: [Metacello-Core]
+MCDefinitionIndex>>#addAll: [Monticello]
+SpecDebuggerDynamicToolbar>>#setFocusOrderForActions: [Spec-Debugger]
+SpecDebuggerDynamicToolbar>>#dynamicLayoutForActions: [Spec-Debugger]
+MethodFinder>>#initialize3 [Tool-Finder]
+MethodFinder>>#constMult [Tool-Finder]
+MethodFinder>>#constLinear [Tool-Finder]
+MethodFinder>>#initialize2 [Tool-Finder]
+MethodFinder>>#initialize [Tool-Finder]
+MethodFinder>>#constDiv [Tool-Finder]
+MethodFinder>>#constEquiv [Tool-Finder]
+MethodFinder>>#constPlus [Tool-Finder]
+MethodFinder>>#constUsingData1Value [Tool-Finder]
+MethodFinder>>#simpleSearch [Tool-Finder]
+Morph class>>#morphsUnknownToTheirOwners [Morphic-Core]
+SortHierarchically class>>#sortNodes: [Nautilus]
+LayoutClassScope>>#visibleSlots [Slot]
+LayoutClassScope>>#allVisibleSlots [Slot]
+LayoutClassScope>>#slots [Slot]
+TIncludesForIdentityCollectionsTest>>#testIncludesAllOfForIdentityCollections [CollectionsTests]
+TIncludesForIdentityCollectionsTest>>#testIncludesAnyOfForIdentityCollections [CollectionsTests]

@@ -1,47 +1,47 @@
-MulticolumnLazyListMorph>>#hUnadjustedScrollRange
-OCClosureTests>>#testWhileModificationAfter
-StrikeFontSet>>#displayString:on:from:to:at:kern:from:baselineY:
-RBSmalllintTestObject>>#whileTrue
-RBRefactoryTestDataApp>>#whileTrue
-Categorizer>>#stringForFileOut
-Categorizer>>#basicRemoveElement:
-Number>>#to:do:
-Integer>>#digitCompare:
-Integer>>#montgomeryRaisedTo:times:modulo:mInvModB:
-Integer>>#slidingLeftRightRaisedTo:modulo:
-Integer>>#timesRepeat:
-GIFReadWriter>>#readBitData
-DigitalSignatureAlgorithm>>#generateQandP
-RubCharacterScanner>>#basicScanCharactersFrom:to:in:rightX:stopConditions:kern:
-RubCharacterScanner>>#scanMultiCharactersFrom:to:in:rightX:stopConditions:kern:
-RubCharacterScanner>>#scanJapaneseCharactersFrom:to:in:rightX:stopConditions:kern:
-AthensPolygonTester>>#includesPoint:
-LazyListMorph>>#hUnadjustedScrollRange
-Time class>>#benchmarkMillisecondClock
-Time class>>#benchmarkPrimitiveResponseDelay
-PanelMorph>>#checkMorphsRightOrBottomFrom:
-PanelMorph>>#checkMorphsLeftOrTopFrom:
-PanelMorph>>#checkMorphsLeftOrTopFrom:size:
-RBAbstractClass>>#allSubclasses
-JPEGReadWriter>>#decodeBlockInto:component:dcTable:acTable:
-OrderedCollection>>#removeDuplicates
-OrderedCollection>>#find:
-CharacterScanner>>#basicScanByteCharactersFrom:to:in:rightX:
-CharacterScanner>>#scanKernableMultibyteCharactersFrom:to:in:rightX:
-CharacterScanner>>#scanMultibyteCharactersFrom:to:in:rightX:
-CharacterScanner>>#scanKernableByteCharactersFrom:to:in:rightX:
-CharacterScanner>>#scanJapaneseCharactersFrom:to:in:rightX:
-SmallInteger>>#printOn:base:length:padded:
-MorphicEventDispatcher>>#dispatchDropEvent:with:
-MorphicEventDispatcher>>#dispatchMouseDown:with:
-MorphicEventDispatcher>>#dispatchDefault:with:
-Object>>#shallowCopy
-Object>>#copyTwoLevel
-Object>>#deepCopy
-GrafPort>>#frameOval:borderWidth:
-GrafPort>>#fillOval:
-RubParagraph>>#lastNonBlankCharacterBlockInLine:
-RubParagraph>>#firstNonBlankCharacterBlockInLine:
-RGBehaviorDefinition>>#allSubclasses
-String>>#isLiteralSymbol
-String>>#findCloseParenthesisFor:
+MulticolumnLazyListMorph>>#hUnadjustedScrollRange [Morphic-Widgets-Pluggable]
+OCClosureTests>>#testWhileModificationAfter [OpalCompiler-Tests]
+StrikeFontSet>>#displayString:on:from:to:at:kern:from:baselineY: [Graphics-Fonts]
+RBSmalllintTestObject>>#whileTrue [Refactoring-Tests-Critics]
+RBRefactoryTestDataApp>>#whileTrue [Refactoring-Tests-Core]
+Categorizer>>#stringForFileOut [Kernel]
+Categorizer>>#basicRemoveElement: [Kernel]
+Number>>#to:do: [Kernel]
+Integer>>#digitCompare: [Kernel]
+Integer>>#montgomeryRaisedTo:times:modulo:mInvModB: [Kernel]
+Integer>>#slidingLeftRightRaisedTo:modulo: [Kernel]
+Integer>>#timesRepeat: [Kernel]
+GIFReadWriter>>#readBitData [Graphics-Files]
+DigitalSignatureAlgorithm>>#generateQandP [System-Hashing]
+RubCharacterScanner>>#basicScanCharactersFrom:to:in:rightX:stopConditions:kern: [Rubric]
+RubCharacterScanner>>#scanMultiCharactersFrom:to:in:rightX:stopConditions:kern: [Rubric]
+RubCharacterScanner>>#scanJapaneseCharactersFrom:to:in:rightX:stopConditions:kern: [Rubric]
+AthensPolygonTester>>#includesPoint: [Athens-Core]
+LazyListMorph>>#hUnadjustedScrollRange [Morphic-Widgets-Pluggable]
+Time class>>#benchmarkMillisecondClock [Kernel]
+Time class>>#benchmarkPrimitiveResponseDelay [Kernel]
+PanelMorph>>#checkMorphsRightOrBottomFrom: [Morphic-Widgets-Windows]
+PanelMorph>>#checkMorphsLeftOrTopFrom: [Morphic-Widgets-Windows]
+PanelMorph>>#checkMorphsLeftOrTopFrom:size: [Morphic-Widgets-Windows]
+RBAbstractClass>>#allSubclasses [Refactoring-Core]
+JPEGReadWriter>>#decodeBlockInto:component:dcTable:acTable: [Graphics-Files]
+OrderedCollection>>#removeDuplicates [GroupManager]
+OrderedCollection>>#find: [Collections-Sequenceable]
+CharacterScanner>>#basicScanByteCharactersFrom:to:in:rightX: [Text-Scanning]
+CharacterScanner>>#scanKernableMultibyteCharactersFrom:to:in:rightX: [Text-Scanning]
+CharacterScanner>>#scanMultibyteCharactersFrom:to:in:rightX: [Text-Scanning]
+CharacterScanner>>#scanKernableByteCharactersFrom:to:in:rightX: [Text-Scanning]
+CharacterScanner>>#scanJapaneseCharactersFrom:to:in:rightX: [Multilingual-OtherLanguages]
+SmallInteger>>#printOn:base:length:padded: [Kernel]
+MorphicEventDispatcher>>#dispatchDropEvent:with: [Morphic-Core]
+MorphicEventDispatcher>>#dispatchMouseDown:with: [Morphic-Core]
+MorphicEventDispatcher>>#dispatchDefault:with: [Morphic-Core]
+Object>>#shallowCopy [Kernel]
+Object>>#copyTwoLevel [Tool-Finder]
+Object>>#deepCopy [Kernel]
+GrafPort>>#frameOval:borderWidth: [Graphics-Primitives]
+GrafPort>>#fillOval: [Graphics-Primitives]
+RubParagraph>>#lastNonBlankCharacterBlockInLine: [Rubric]
+RubParagraph>>#firstNonBlankCharacterBlockInLine: [Rubric]
+RGBehaviorDefinition>>#allSubclasses [Ring-Core-Kernel]
+String>>#isLiteralSymbol [Collections-Strings]
+String>>#findCloseParenthesisFor: [Collections-Strings]

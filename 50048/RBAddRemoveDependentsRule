@@ -1,19 +1,19 @@
-MCSliceMaker
-DeepCopier
-MCFileRepositoryInspector
-TabGroupMorph
-CodeAnnotationMorph
-PSMCMergeMorph
-MorphicMenuAdapter
-FileList
-SpecInterpreter
-DiffChangeMorph
-MorphTreeNodeModel
-GroupWindowMorph
-TxTextAdapter
-MorphicTabAdapter
-Model
-DiffMorph
-DropListMorph
-AbstractAdapter
-RubPluggableTextMorph
+DiffChangeMorph [Tool-Diff]
+TxTextAdapter [TxText-Athens]
+DropListMorph [Polymorph-Widgets]
+MCSliceMaker [MonticelloGUI]
+Model [System-Support]
+MorphicTabAdapter [Spec-MorphicAdapters]
+MorphicMenuAdapter [Spec-MorphicAdapters]
+MorphTreeNodeModel [Morphic-Widgets-Tree]
+FileList [Tool-FileList]
+SpecInterpreter [Spec-Core]
+RubPluggableTextMorph [Rubric]
+TabGroupMorph [Polymorph-Widgets]
+PSMCMergeMorph [Tool-Diff]
+MCFileRepositoryInspector [MonticelloGUI]
+DeepCopier [Kernel]
+CodeAnnotationMorph [Tool-Browser-Old]
+DiffMorph [Tool-Diff]
+GroupWindowMorph [Morphic-Widgets-Windows]
+AbstractAdapter [Spec-Core]

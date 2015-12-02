@@ -1,9 +1,0 @@
-Integer class>>#basicNew
-Float>>#basicAt:put:
-Float>>#basicAt:
-CompiledMethod class>>#basicNew
-SmallInteger class>>#basicNew
-Context>>#basicAt:put:
-Context>>#basicSize
-Context>>#basicAt:
-SmallInteger>>#identityHash

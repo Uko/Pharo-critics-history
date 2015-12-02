@@ -1,45 +1,45 @@
-DelayExperimentalSpinScheduler>>#schedule:
-DelayExperimentalSpinScheduler>>#unschedule:
-FileSystemStore>>#isDirectory:
-FileSystemStore>>#isSymlink:
-FileSystemStore>>#exists:
-FileSystemStore>>#isWritable:
-RBSmalllintTestObject>>#returnsBooleanAndOther
-RBRefactoryTestDataApp>>#returnsBooleanAndOther
-Transcripter>>#confirm:
-ScheduleTest>>#testDateAndTimes
-MTModelComparator>>#is:equalsTo:
-SearchMorph>>#keystrokeAction:
-Encoder>>#evaluateShadowingInteractivelyOf:
-Encoder>>#evaluateShadowingNotInteractivelyOf:
-RubTextComposer>>#composeEachRectangleIn:
-Decompiler>>#checkForClosureCopy:arguments:
-Trait>>#setName:andRegisterInCategory:environment:
-ProcessBrowser>>#startCPUWatcher
-FileContentsBrowser>>#removeMessage
-MorphicUIManager>>#inform:
-OCDecompiler>>#checkForClosureCopy:arguments:
-TextComposer>>#composeEachRectangleIn:
-TxBasicSpan>>#<
-PluggableTextAttribute>>#actOnClick:for:in:editor:
-ListDialogWindow>>#searchKeystroke:
-Class>>#setName:andRegisterInCategory:environment:
-TClass>>#setName:andRegisterInCategory:environment:
-CommandLineUIManager>>#inform:
-NECController>>#smartCharacterWithEvent:
-NECController>>#smartInputWithEvent:
-MczInstaller>>#install
-RubTextEditor>>#changeAlignment
-RubTextEditor>>#performCmdActionsWith:shifted:return:
-RubTextEditor>>#dispatchEnterOn:return:
-Browser>>#contents:notifying:
-Browser>>#alphabetizeSystemCategories
-FinderNode>>#keyStroke:
-TextEditor>>#changeAlignment
-TextEditor>>#performCmdActionsWith:shifted:return:
-TextEditor>>#dispatchEnterOn:return:
-PNGReadWriter>>#doPass:
-MetacelloPackageSpec>>#compareCurrentVersion:targetVersionStatus:using:
-StartupUIManager>>#inform:
-PluggableTextMorph>>#doIt
-PluggableTextMorph>>#acceptTextInModel
+DelayExperimentalSpinScheduler>>#schedule: [Kernel]
+DelayExperimentalSpinScheduler>>#unschedule: [Kernel]
+FileSystemStore>>#isDirectory: [FileSystem-Core]
+FileSystemStore>>#isSymlink: [FileSystem-Core]
+FileSystemStore>>#exists: [FileSystem-Core]
+FileSystemStore>>#isWritable: [FileSystem-Core]
+RBSmalllintTestObject>>#returnsBooleanAndOther [Refactoring-Tests-Critics]
+RBRefactoryTestDataApp>>#returnsBooleanAndOther [Refactoring-Tests-Core]
+Transcripter>>#confirm: [EmergencyEvaluator]
+ScheduleTest>>#testDateAndTimes [KernelTests]
+MTModelComparator>>#is:equalsTo: [Versionner-Core-DependenciesModel]
+SearchMorph>>#keystrokeAction: [Polymorph-Widgets]
+Encoder>>#evaluateShadowingInteractivelyOf: [Compiler]
+Encoder>>#evaluateShadowingNotInteractivelyOf: [Compiler]
+RubTextComposer>>#composeEachRectangleIn: [Rubric]
+Decompiler>>#checkForClosureCopy:arguments: [Compiler]
+Trait>>#setName:andRegisterInCategory:environment: [Traits]
+ProcessBrowser>>#startCPUWatcher [Tool-ProcessBrowser]
+FileContentsBrowser>>#removeMessage [Tool-FilePackageBrowser]
+MorphicUIManager>>#inform: [Polymorph-Widgets]
+OCDecompiler>>#checkForClosureCopy:arguments: [OpalDecompiler]
+TextComposer>>#composeEachRectangleIn: [Morphic-Base]
+TxBasicSpan>>#< [TxText-Model]
+PluggableTextAttribute>>#actOnClick:for:in:editor: [Text-Core]
+ListDialogWindow>>#searchKeystroke: [Polymorph-Widgets]
+Class>>#setName:andRegisterInCategory:environment: [Traits]
+TClass>>#setName:andRegisterInCategory:environment: [Traits]
+CommandLineUIManager>>#inform: [UIManager]
+NECController>>#smartCharacterWithEvent: [NECompletion]
+NECController>>#smartInputWithEvent: [NECompletion]
+MczInstaller>>#install [System-Installers]
+RubTextEditor>>#changeAlignment [Rubric]
+RubTextEditor>>#performCmdActionsWith:shifted:return: [Rubric]
+RubTextEditor>>#dispatchEnterOn:return: [Rubric]
+Browser>>#contents:notifying: [Tool-Browser-Old]
+Browser>>#alphabetizeSystemCategories [Tool-Browser-Old]
+FinderNode>>#keyStroke: [Tool-Finder]
+TextEditor>>#changeAlignment [Text-Edition]
+TextEditor>>#performCmdActionsWith:shifted:return: [Text-Edition]
+TextEditor>>#dispatchEnterOn:return: [Text-Edition]
+PNGReadWriter>>#doPass: [Graphics-Files]
+MetacelloPackageSpec>>#compareCurrentVersion:targetVersionStatus:using: [Metacello-MC]
+StartupUIManager>>#inform: [UIManager]
+PluggableTextMorph>>#doIt [Morphic-Widgets-Pluggable]
+PluggableTextMorph>>#acceptTextInModel [Morphic-Widgets-Pluggable]

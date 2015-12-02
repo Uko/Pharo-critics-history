@@ -1,78 +1,78 @@
-OCBytecodeDecompilerTest>>#testDecompileBytecodeGeneratorTest
-OCBytecodeDecompilerTest>>#testDecompileBytecodeDecompilerTestClass
-OCBytecodeDecompilerTest>>#testDecompileIRBuilderTestClass
-ClassTraitTest>>#testChanges
-NBNativeCodeGen class>>#removeNativeCodeFrom:
-NBNativeCodeGen class>>#installNativeCode:into:
-FLCompiledMethodSerializationTest>>#useNotInstalled
-FLCompiledMethodSerializationTest>>#useDoIt
-AJx86Registers class>>#installRegisterAccessors
-TraitPureBehaviorTest>>#testPropagationWhenTraitCompositionModifications
-TraitPureBehaviorTest>>#testClassesWithTraits
-TraitPureBehaviorTest>>#testOwnMethodsTakePrecedenceOverTraitsMethods
-TraitPureBehaviorTest>>#testTraitCompositionModifications
-TraitPureBehaviorTest>>#testPropagationOfChangesInTraitsToAliasMethodsWhenOriginalMethodIsExcluded
-TraitPureBehaviorTest>>#testPropagationOfChangesInTraits
-TraitDescription>>#noteChangesFrom:
-TraitDescription>>#applyChangesOfNewTraitCompositionReplacing:
-TraitDescription>>#printMethodChunk:withPreamble:on:moveSource:toFile:
-AbstractTool>>#selectorFromPattern:withCaption:startingFrom:
-SugsMockContext>>#selectedMethod
-NBExternalArrayTest>>#testAccessors
-TraitCompositionTest>>#testClassMethodsTakePrecedenceOverTraitsMethods
-FLBasicSerializationTest>>#testMethodDictionary
-TraitBehavior>>#compiledMethodAt:ifPresent:ifAbsent:
-TraitBehavior>>#methodNamed:
-TraitBehavior>>#selectorsAndMethodsDo:
-TraitBehavior>>#selectorsDo:
-TraitBehavior>>#compiledMethodAt:
-TraitBehavior>>#compress
-TraitBehavior>>#basicAddSelector:withMethod:
-TraitBehavior>>#methodDictionary
-TraitBehavior>>#basicRemoveSelector:
-TraitBehavior>>#methodsDo:
-TraitBehavior>>#methods
-TraitBehavior>>#compiledMethodAt:ifAbsent:
-TraitBehavior>>#copyOfMethodDictionary
-TraitBehavior>>#selectors
-TraitBehavior>>#hasMethods
-TraitBehavior>>#includesSelector:
-Trait>>#copy
-ClassTrait>>#initializeFrom:
-ClassTrait>>#binding
-ClassTrait>>#assertConsistantCompositionsForNew:
-MethodContextTest>>#setUp
-AbstractNautilusUI>>#moveMethod:toTheClass:autoRemove:
-AbstractNautilusUI>>#copyMethod:toTheClass:
-ClassDescriptionTest>>#testMethods
-Nautilus class>>#fullOnClass:selector:
-Metaclass>>#initializeFrom:
-Metaclass>>#binding
-Metaclass>>#assertConsistantCompositionsForNew:
-NautilusUI class>>#initializeCache
-PharoClassInstaller>>#shallowCopyMethodsFrom:to:using:
-TestCoverage>>#uninstall
-TestCoverage>>#install
-MethodDictionaryTest>>#testAssociationAtNonexistantKeyExecutesFailBlock
-MethodDictionaryTest>>#testIdentityKeyAtExistantValueReturnsOkKey
-MethodDictionaryTest>>#testKeyAtExistantValueReturnsOkKey
-MethodDictionaryTest>>#testIdentityKeyAtExistantValueCopyReturnsFailBlock
-MethodDictionaryTest>>#testIdentityKeyAtNonExistantValueReturnsFailBlock
-MethodDictionaryTest>>#testKeyAtValueIfAbsentLocalyDefined
-MethodDictionaryTest>>#testKeyAtNonexistantValueExecutesFailBlock
-MethodDictionaryTest>>#testKeyAtExistantValueCopyReturnsOkKey
-MethodDictionaryTest>>#testGrowPreservesElements
-MethodDictionaryTest>>#testAtNonexistantKeyExecutesFailBlock
-MethodDictionaryTest>>#testAssociationsDoGoesOverEntireDictionary
-MethodDictionaryTest>>#testAssociationAtExistantKeyReturnsOkAssociation
-MethodDictionaryTest>>#testAtExistantKeyReturnsOkCompiledMethod
-MethodDictionaryTest>>#modifiedMethodDictionaryCopy
-MethodDictionaryTest>>#testBehaviorLocalyDefined
-Nautilus>>#setClass:selector:
-PragmaTest>>#setUp
-AthensTreeView class>>#example1
-NativeCodeTests>>#testMovableStuff
-NativeCodeTests>>#install:into:
-RBAddMethodChange>>#oldVersionTextToDisplay
-HDTestCoverage>>#uninstall
-HDTestCoverage>>#install
+OCBytecodeDecompilerTest>>#testDecompileBytecodeGeneratorTest [OpalCompiler-Tests]
+OCBytecodeDecompilerTest>>#testDecompileBytecodeDecompilerTestClass [OpalCompiler-Tests]
+OCBytecodeDecompilerTest>>#testDecompileIRBuilderTestClass [OpalCompiler-Tests]
+ClassTraitTest>>#testChanges [Tests]
+NBNativeCodeGen class>>#removeNativeCodeFrom: [NativeBoost-Core]
+NBNativeCodeGen class>>#installNativeCode:into: [NativeBoost-Core]
+FLCompiledMethodSerializationTest>>#useNotInstalled [FuelTests]
+FLCompiledMethodSerializationTest>>#useDoIt [FuelTests]
+AJx86Registers class>>#installRegisterAccessors [AsmJit-x86]
+TraitPureBehaviorTest>>#testPropagationWhenTraitCompositionModifications [Tests]
+TraitPureBehaviorTest>>#testClassesWithTraits [Tests]
+TraitPureBehaviorTest>>#testOwnMethodsTakePrecedenceOverTraitsMethods [Tests]
+TraitPureBehaviorTest>>#testTraitCompositionModifications [Tests]
+TraitPureBehaviorTest>>#testPropagationOfChangesInTraitsToAliasMethodsWhenOriginalMethodIsExcluded [Tests]
+TraitPureBehaviorTest>>#testPropagationOfChangesInTraits [Tests]
+TraitDescription>>#noteChangesFrom: [Traits]
+TraitDescription>>#applyChangesOfNewTraitCompositionReplacing: [Traits]
+TraitDescription>>#printMethodChunk:withPreamble:on:moveSource:toFile: [Traits]
+AbstractTool>>#selectorFromPattern:withCaption:startingFrom: [Tool-Base]
+SugsMockContext>>#selectedMethod [SmartSuggestions-Tests]
+NBExternalArrayTest>>#testAccessors [NativeBoost-Tests]
+TraitCompositionTest>>#testClassMethodsTakePrecedenceOverTraitsMethods [Tests]
+FLBasicSerializationTest>>#testMethodDictionary [FuelTests]
+TraitBehavior>>#compiledMethodAt:ifPresent:ifAbsent: [Traits]
+TraitBehavior>>#methodNamed: [Ring-Core-Kernel]
+TraitBehavior>>#selectorsAndMethodsDo: [Traits]
+TraitBehavior>>#selectorsDo: [Traits]
+TraitBehavior>>#compiledMethodAt: [Traits]
+TraitBehavior>>#compress [Traits]
+TraitBehavior>>#basicAddSelector:withMethod: [Traits]
+TraitBehavior>>#methodDictionary [Traits]
+TraitBehavior>>#basicRemoveSelector: [Traits]
+TraitBehavior>>#methodsDo: [Traits]
+TraitBehavior>>#methods [Traits]
+TraitBehavior>>#compiledMethodAt:ifAbsent: [Traits]
+TraitBehavior>>#copyOfMethodDictionary [Traits]
+TraitBehavior>>#selectors [Traits]
+TraitBehavior>>#hasMethods [Traits]
+TraitBehavior>>#includesSelector: [Traits]
+Trait>>#copy [Traits]
+ClassTrait>>#initializeFrom: [Traits]
+ClassTrait>>#binding [Traits]
+ClassTrait>>#assertConsistantCompositionsForNew: [Traits]
+MethodContextTest>>#setUp [KernelTests]
+AbstractNautilusUI>>#moveMethod:toTheClass:autoRemove: [Nautilus]
+AbstractNautilusUI>>#copyMethod:toTheClass: [Nautilus]
+ClassDescriptionTest>>#testMethods [KernelTests]
+Nautilus class>>#fullOnClass:selector: [Nautilus]
+Metaclass>>#initializeFrom: [Traits]
+Metaclass>>#binding [Traits]
+Metaclass>>#assertConsistantCompositionsForNew: [Traits]
+NautilusUI class>>#initializeCache [Nautilus]
+PharoClassInstaller>>#shallowCopyMethodsFrom:to:using: [Slot]
+TestCoverage>>#uninstall [SUnit-UI]
+TestCoverage>>#install [SUnit-UI]
+MethodDictionaryTest>>#testAssociationAtNonexistantKeyExecutesFailBlock [KernelTests]
+MethodDictionaryTest>>#testIdentityKeyAtExistantValueReturnsOkKey [KernelTests]
+MethodDictionaryTest>>#testKeyAtExistantValueReturnsOkKey [KernelTests]
+MethodDictionaryTest>>#testIdentityKeyAtExistantValueCopyReturnsFailBlock [KernelTests]
+MethodDictionaryTest>>#testIdentityKeyAtNonExistantValueReturnsFailBlock [KernelTests]
+MethodDictionaryTest>>#testKeyAtValueIfAbsentLocalyDefined [KernelTests]
+MethodDictionaryTest>>#testKeyAtNonexistantValueExecutesFailBlock [KernelTests]
+MethodDictionaryTest>>#testKeyAtExistantValueCopyReturnsOkKey [KernelTests]
+MethodDictionaryTest>>#testGrowPreservesElements [KernelTests]
+MethodDictionaryTest>>#testAtNonexistantKeyExecutesFailBlock [KernelTests]
+MethodDictionaryTest>>#testAssociationsDoGoesOverEntireDictionary [KernelTests]
+MethodDictionaryTest>>#testAssociationAtExistantKeyReturnsOkAssociation [KernelTests]
+MethodDictionaryTest>>#testAtExistantKeyReturnsOkCompiledMethod [KernelTests]
+MethodDictionaryTest>>#modifiedMethodDictionaryCopy [KernelTests]
+MethodDictionaryTest>>#testBehaviorLocalyDefined [KernelTests]
+Nautilus>>#setClass:selector: [Nautilus]
+PragmaTest>>#setUp [KernelTests]
+AthensTreeView class>>#example1 [Athens-Examples]
+NativeCodeTests>>#testMovableStuff [NativeBoost-Tests]
+NativeCodeTests>>#install:into: [NativeBoost-Tests]
+RBAddMethodChange>>#oldVersionTextToDisplay [NautilusRefactoring]
+HDTestCoverage>>#uninstall [HudsonBuildTools20]
+HDTestCoverage>>#install [HudsonBuildTools20]

@@ -1,17 +1,17 @@
-RubExtraSelectionDecorator>>#computeSecondarySelectionShapesFrom:to:
-RBSmalllintTestObject>>#collectSelectNotUsed
-RBRefactoryTestDataApp>>#collectSelectNotUsed
-FilterTest>>#setUp
-MBConfigurationInfo>>#versions
-ScheduleTest>>#testExampleFromSwikiPage
-GLMTablePresentation>>#computeTagsFilterFor:
-GLMTablePresentation>>#computeTagsFor:
-RubSegmentIconMenuItemMorph>>#select:
-GLMCheckboxBrick>>#select:
-MCFileTreeRepository>>#goferVersionFrom:
-GLMBrick class>>#scalePatchForm:size:
-MetacelloNullRecordingMCSpecLoader>>#loadedRepositories
-GLMActionButtonBrick>>#select:
-RPackageWithDoTest>>#info
-RPackageWithDoTest>>#testInvariant
-MatrixTest>>#testCollectCreatesANewMatrix
+RubExtraSelectionDecorator>>#computeSecondarySelectionShapesFrom:to: [Rubric]
+RBSmalllintTestObject>>#collectSelectNotUsed [Refactoring-Tests-Critics]
+RBRefactoryTestDataApp>>#collectSelectNotUsed [Refactoring-Tests-Core]
+FilterTest>>#setUp [Debugger-Tests]
+MBConfigurationInfo>>#versions [Versionner-Core-Model]
+ScheduleTest>>#testExampleFromSwikiPage [KernelTests]
+GLMTablePresentation>>#computeTagsFilterFor: [Glamour-Presentations]
+GLMTablePresentation>>#computeTagsFor: [Glamour-Presentations]
+RubSegmentIconMenuItemMorph>>#select: [Rubric]
+GLMCheckboxBrick>>#select: [Glamour-Morphic-Brick]
+MCFileTreeRepository>>#goferVersionFrom: [Gofer-Core]
+GLMBrick class>>#scalePatchForm:size: [Glamour-Morphic-Brick]
+MetacelloNullRecordingMCSpecLoader>>#loadedRepositories [Metacello-MC]
+GLMActionButtonBrick>>#select: [Glamour-Morphic-Brick]
+RPackageWithDoTest>>#info [RPackage-Tests]
+RPackageWithDoTest>>#testInvariant [RPackage-Tests]
+MatrixTest>>#testCollectCreatesANewMatrix [CollectionsTests]

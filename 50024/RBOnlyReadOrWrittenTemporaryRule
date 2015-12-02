@@ -1,503 +1,502 @@
-MetacelloLoadingMCSpecLoader>>#goferCommitPackageUsing:commitMessage:
-MetacelloLoadingMCSpecLoader>>#goferCommitBranchPackage:using:commitMessage:
-OCBytecodeDecompilerTest>>#testWhileTrue
-OCBytecodeDecompilerTest>>#pushClosureCopyNoCopied
-GLMBrick>>#privateAddBrickFirst:
-GLMBrick>>#privateRemoveBrick:
-AthensSurfaceExamples class>>#example3
-AthensSurfaceExamples class>>#exampleStrokeRect
-MulticolumnLazyListMorph>>#athensDisplay:atRow:on:
-NBNativeCodeGen class>>#generateCode:andRetry:
-NBNativeCodeGen class>>#handleFailureIn:nativeCode:
-RPackageCategorySynchronisationTest>>#testRenameCategoryAlsoRenameAllExtensionProtocols
-RBRefactoringChangeTests>>#testPerformAddRemoveMethodInteractively
-RBRefactoringChangeTests>>#testPerformAddRemoveClassMethod
-RBRefactoringChangeTests>>#testPerformAddRemoveMethod
-AthensTextRenderer>>#render:lines:on:
-GLMExpanderLabelNodeModel>>#elementColumn
-DisplayScanner>>#displayLine:offset:leftInRun:
-AJx86Registers class>>#installRegisterAccessors
-AthensBalloonEngine>>#drawImage:transform:
-DictionaryTest>>#testAsStringOnDelimiterMore
-DictionaryTest>>#testAsCommaStringMore
-DictionaryTest>>#testAsStringOnDelimiterLastMore
-DictionaryTest>>#test0FixtureOccurrencesForMultiplinessTest
-MultiByteFileStreamTest>>#testLineEndingsWith:
-MetacelloVersionSpec>>#configMethodOn:last:indent:
-AthensBezier3Scene>>#renderOn:
-RubSmalltalkEditor>>#referencesToIt
-RubSmalltalkEditor>>#internalCallToBrowseIt
-RBSmalllintTestObject>>#onlyReadOrWrittenTemporary
-MBProjectInfo>>#buildStringOrText
-MBProjectInfo>>#currentVersion
-MBProjectInfo>>#interestedInPackageNamed:
-RubCodeSizeFeedback>>#backgroundColor
-GLMPagerModel>>#popPane:
-RBRefactoryTestDataApp>>#literalArrayWithTrueFalseOrNil2
-MCWorkingCopyTest>>#testAncestorMerge
-MCWorkingCopyTest>>#testMergeIntoImageWithNoChanges
-MCWorkingCopyTest>>#testSelectiveBackport
-SizeInMemoryTest>>#testSizeInMemoryLargeInstances
-OCOpalExamples>>#optimizedBlockReadInBlock
-OCOpalExamples>>#exampleSuper
-OCOpalExamples>>#exampleAndOr2
-OCOpalExamples>>#noRemoteReadNestedBlocks
-OCOpalExamples>>#nestedBlocksRemoteInBlockCase1
-OCOpalExamples>>#noRemoteMethodTemp
-OCOpalExamples>>#singleRemoteReadNestedBlocks
-OCOpalExamples>>#exampleSelf
-OCOpalExamples>>#exampleThisContext
-OCOpalExamples>>#singleRemoteTempVar
-OCOpalExamples>>#noRemoteBlockArgument
-OCOpalExamples>>#noRemoteReadInBlock
-OCOpalExamples>>#noRemoteBlockTemp
-OCOpalExamples>>#nestedBlocksRemoteInBlockCase2
-OCOpalExamples>>#exampleAndOr
-OCOpalExamples>>#writtenAfterClosedOver
-OCOpalExamples>>#singleRemoteTempVarWrittenAfterClosedOver
-MBConfigurationRoot>>#categoryModified:
-RGMonticelloTest>>#testConvertingMCMethodDefinition
-RPackageOrganizer>>#systemClassRenamedActionFrom:
-RPackageOrganizer>>#systemTraitDefinitionModifiedActionFrom:
-RPackageOrganizer>>#systemClassRemovedActionFrom:
-RPackageOrganizer>>#systemMethodRemovedActionFrom:
-MethodMapExamples>>#exampleTempNamedTempVector2
-MethodMapExamples>>#exampleTempNamedTempVector
-MethodMapExamples>>#exampleTempNamedTempCopyingNestedBlockPROBLEM
-MethodMapExamples>>#exampleTempNamedCopying
-MethodMapExamples>>#exampleTempNamedPutTempVector2
-MethodMapExamples>>#exampleTempNamedPutTempVector
-MethodMapExamples>>#exampleTempNamedPutCopying2
-MethodMapExamples>>#exampleTempNamedTempVectorNestedBlock
-MethodMapExamples>>#exampleTempNamedCopying2
-MethodMapExamples>>#exampleTempNamedTempCopyingNestedBlock
-MethodMapExamples>>#exampleSimpleTemp
-MethodMapExamples>>#exampleTempNamedPutCopying
-MetacelloStackCacheTestCase>>#cacheNil
-MetacelloStackCacheTestCase>>#testClearCache
-AthensCanvasWrapper>>#isVisibleDebug:
-GTSpotterCandidatesListTest>>#testPreviousA1A2EmptyCategory
-GTSpotterCandidatesListTest>>#testNextA1A2EmptyCategory
-GTSpotterCandidatesListTest>>#testPreviousA1Category
-GTSpotterCandidatesListTest>>#testPreviousA1A2Category
-GTSpotterCandidatesListTest>>#testNextA1Category
-GTSpotterCandidatesListTest>>#testNextA1A2Category
-RGSliceTest>>#testNestingContainers
-MBConfigurationInfo>>#buildStringOrText
-KMShortcutTest>>#testComplexChainMatches
-MessageTallyTest>>#testTallySends
-ReleaseTest>>#assertValidLintRule:
-NBExternalHandle>>#value:
-MBPackageInfoTest>>#testIsDirty
-PasteUpMorph>>#mouseDown:
-WeakKeyDictionary>>#valuesDo:
-TextMorph>>#handleKeystroke:
-SimulateMouseSpecification>>#testSimulateRightClick
-TSequencedConcatenationTest>>#testStreamContents
-TSequencedConcatenationTest>>#testStreamContentsProtocol
-NBFFICallback class>>#installCallbackCode
-GLMPresentationTest>>#testCopyTheTransformation
-ConfigurationCommandLineHandler>>#loadConfigurationNames
-RPackageIncrementalTest>>#testRemoveClassAfterMethods
-RPackageIncrementalTest>>#testRemoveClassRemovesExtensions
-RPackageIncrementalTest>>#testAddClassAfterMethods
-RPackageIncrementalTest>>#testPrivateClassRegisterUnregister
-RPackageIncrementalTest>>#tearDown
-RPackageIncrementalTest>>#testRemoveExtensionMethodRemovesExtensionsFromRPackage
-RPackageIncrementalTest>>#testAddClassAfterMethodsAtMetaclassToo
-RPackageIncrementalTest>>#testMethodAddition
-TPutTest>>#testAtLastPut
-ZipArchiveTest>>#testFilePermissions
-ArrayTest>>#testAtLastPut
-ArrayTest>>#testAsStringOnDelimiterLastMore
-ArrayTest>>#testStreamContents
-ArrayTest>>#test0FixtureOccurrencesForMultiplinessTest
-ArrayTest>>#testAsStringOnDelimiterMore
-ArrayTest>>#testStreamContentsProtocol
-ArrayTest>>#testIndexOfSubCollectionStartingAtIfAbsent
-MetacelloMCVersionValidator>>#validateProjectVersionLoad:loads:
-FontChooser class>>#openWithWindowTitle:for:setSelector:getSelector:
-MetacelloMCProjectSpec>>#allPackagesLoaded:
-MetacelloMCProjectSpec>>#determineCurrentVersionForLoad
-FloatArrayTest>>#testIndexOfSubCollectionStartingAtIfAbsent
-FloatArrayTest>>#testAsStringOnDelimiterLastMore
-FloatArrayTest>>#testStreamContents
-FloatArrayTest>>#testAsStringOnDelimiterMore
-FloatArrayTest>>#testStreamContentsProtocol
-FloatArrayTest>>#testAtLastPut
-HistoryNodeTest>>#testTwoConsecutiveCloseGroup
-HistoryNodeTest>>#testTwoGroups
-FileReferenceTest>>#testDeleteAll
-FileReferenceTest>>#testWriteStreamDoExists
-FileReferenceTest>>#testHasFiles
-FileReferenceTest>>#testDeleteAllChildren
-FileReferenceTest>>#testHasChildren
-FileReferenceTest>>#testWriteStreamDoifPresent
-FileReferenceTest>>#testHasDirectories
-FileReferenceTest>>#testRename
-FileReferenceTest>>#testWriteStreamDo
-ZipArchiveMember>>#extractToFileNamed:inDirectory:
-ZnUrlTests>>#testReferenceResolution
-MBMonticelloPackagesResource>>#project
-MBMonticelloPackagesResource>>#setUpConfigurationOfMBFooIssue117
-FileReference>>#macTypeAndCreator
-TIdentityAddTest>>#testIdentityAdd
-KMKeymapTest>>#testExecute
-AJx86AssemblerTests>>#testDataBytesAlignQuad
-AJx86AssemblerTests>>#testDataBytes
-AJx86AssemblerTests>>#testDataBytesAlignDouble
-AJx86AssemblerTests>>#testDataDouble
-AJx86AssemblerTests>>#testDataWord
-AJx86AssemblerTests>>#testDataBytesAlignWord
-MetacelloProjectSpec>>#hasNonVersionStringField
-IntervalTest>>#testAsStringOnDelimiterLastMore
-IntervalTest>>#testStreamContents
-IntervalTest>>#testAsStringOnDelimiterMore
-IntervalTest>>#testStreamContentsProtocol
-IntervalTest>>#testIndexOfSubCollectionStartingAtIfAbsent
-ListComposableModelTest>>#testWhenListChangedOldContents
-AJStackAlignmentTests>>#testJumps
-GLMWhitespaceTheme>>#newFocusIndicatorMorphFor:
-ObsoleteTest>>#testTraitObsolete
-ObsoleteTest>>#testClassObsolete
-MetacelloToolBox class>>#defaultTopic:for:
-MetacelloToolBox class>>#saveModifiedDevelopmentPackages:for:description:
-MethodNode>>#generateWithSource
-FileDialogWindowTest>>#testIssue6406
-DosTimestampTest>>#testFromDateAndTime
-DosTimestampTest>>#testAsDateAndTime
-GLMTabulatorMorphicTest>>#testMultipleInitialSelection
-IdentityBagTest>>#testIdentityAdd
-DiskStore>>#rename:to:
-TIndexAccess>>#testIndexOfSubCollectionStartingAtIfAbsent
-Exception>>#outer
-RPackageOrganizerTest>>#testFullRegistration
-RPackageMonticelloSynchronisationTest>>#testUnregisterMCPackageKeepsRPackage
-RPackageMonticelloSynchronisationTest>>#testUnloadMCPackageRemovesRPackage
-VSSetDescriptionCommand>>#executeWithMessage:
-ZnRequestTests>>#testCookiesWriting
-TAsStringCommaAndDelimiterSequenceableTest>>#testAsStringOnDelimiterMore
-TAsStringCommaAndDelimiterSequenceableTest>>#testAsStringOnDelimiterLastMore
-Decompiler>>#statementsTo:
-UTF16TextConverter>>#charFromStream:withFirst:
-SortedCollectionTest>>#testAsStringOnDelimiterLastMore
-SortedCollectionTest>>#testRemoveAllFoundIn
-SortedCollectionTest>>#test0FixtureOccurrencesForMultiplinessTest
-SortedCollectionTest>>#testAsStringOnDelimiterMore
-SortedCollectionTest>>#testIndexOfSubCollectionStartingAtIfAbsent
-ClassHierarchyTest>>#testSubclasses
-NBFinalizationRegistry>>#freeItemsDo:
-NBFinalizationRegistry>>#getFreeItem
-NBExtraRootsRegistry>>#primAtMem:put:
-MetacelloRepositoriesSpec>>#configMethodCascadeOn:indent:
-MCSnapshotTest>>#testInstanceReuse
-OCBytecodeDecompilerExamplesTest>>#testExampleThisContext
-CairoUTF8Converter>>#store:accumulated:
-NBInterpreterProxyTest>>#primCheckStackPointer2
-NBInterpreterProxyTest>>#primCheckStackPointer
-RubSelectorChooserMorph>>#drawCommonPrefixAreasOn:
-NBExternalLibraryWrapper class>>#createMethodFor:
-WindowsStore>>#checkName:fixErrors:
-AthensCairoSurface class>>#createGetSurfaceFormatFn
-AthensCairoSurface class>>#createLockSurfaceFn
-TRemoveTest>>#testRemoveAll
-TRemoveTest>>#testRemoveAllFoundIn
-DatePrintFormatTester>>#assert:description:resumable:
-VersionnerProjectPanel>>#config:
-TestRunner>>#generateDefaultFileOutResultsName
-TestRunner>>#fileOutResults
-WindowAnnouncementTest>>#testResizing
-WindowAnnouncementTest>>#testWindowCreation
-TAsStringCommaAndDelimiterTest>>#testAsStringOnDelimiterMore
-TAsStringCommaAndDelimiterTest>>#testAsCommaStringMore
-TAsStringCommaAndDelimiterTest>>#testAsStringOnDelimiterLastMore
-RPackageClassesSynchronisationTest>>#testRenameClassUpdateMetaclassDefinedSelectorsInTheParentPackage
-RPackageClassesSynchronisationTest>>#testRenameClassUpdateMetaclassExtensionSelectorsInTheExtendingPackages
-RPackageClassesSynchronisationTest>>#testRenameClassUpdateClassExtensionSelectorsInTheExtendingPackages
-RPackageClassesSynchronisationTest>>#testRemoveClassUnregisterTheClassExtensionMethodsFromTheCorrespondingPackage
-RPackageClassesSynchronisationTest>>#testRenameClassUpdateClassDefinedInTheParentPackage
-RPackageClassesSynchronisationTest>>#testRecategorizeClassUnregisterTheClassMethodsFromTheOldPackage
-RPackageClassesSynchronisationTest>>#testReorganizeClassByAddingExtensionProtocol
-RPackageClassesSynchronisationTest>>#testRecategorizeClassWithMetaClassMethodsRegisterAllClassMethodsInTheNewPackage
-RPackageClassesSynchronisationTest>>#testRenameClassUpdateClassDefinedSelectorsInTheParentPackage
-RPackageClassesSynchronisationTest>>#testReorganizeClassByAddingNewProtocolDoesNothing
-RPackageClassesSynchronisationTest>>#testRecategorizeClassUpdateTheOrganizerMappings
-RPackageClassesSynchronisationTest>>#testRenameClassUpdateOrganizerClassPackageMapping
-RPackageClassesSynchronisationTest>>#testRenameClassUpdateOrganizerClassExtendingPackagesMapping
-RPackageClassesSynchronisationTest>>#testRecategorizeClassUnregisterTheClassFromTheOldPackage
-RPackageClassesSynchronisationTest>>#testRemoveClassUpdateTheOrganizerMappings
-RPackageClassesSynchronisationTest>>#testRecategorizeClassRegisterTheClassMethodsInTheNewPackage
-AthensCairoPathBuilder>>#calcCenter:end:angle:
-StringMorph>>#drawOnAthensCanvas:
-RPackageExtensionMethodsSynchronisationTest>>#testAddMethodInExtensionCategoryNotExistingCreateANewPackageAndInstallsMethodInIt
-RPackageExtensionMethodsSynchronisationTest>>#testModifyMethodByChangingCode
-RPackageExtensionMethodsSynchronisationTest>>#testRemoveExtensionMethodDoesNotRemoveExtendingPackage
-RPackageExtensionMethodsSynchronisationTest>>#testRemoveAllExtensionMethodsFromMetaAndInstanceSideUpdateOrganizerExtensionsMapping
-RPackageExtensionMethodsSynchronisationTest>>#testAddMethodInExtensionCategoryNotExistingCreateANewPackage
-RPackageExtensionMethodsSynchronisationTest>>#testRemoveAllExtensionMethodsRemoveTheClassFromExtendedClasses
-RPackageExtensionMethodsSynchronisationTest>>#testRemoveExtensionMethodRemoveMethodFromItsPackage
-GLMTextMorphicTest>>#testResettingTheSelection
-HDCoverageReport>>#generatePackage:method:on:
-GLMBrickStructureTrait>>#privateAddBrickFirst:
-GLMBrickStructureTrait>>#privateRemoveBrick:
-WeakRegistryTest>>#testVileFinalizer
-ProtoObject>>#pointersToExcept:
-MetacelloScriptEngine>>#lookupProjectSpecFor:
-AthensDemoMorph>>#figure9:
-AthensDemoMorph>>#figure2:
-AthensDemoMorph>>#figure6:
-AthensDemoMorph>>#figure10:
-AthensDemoMorph>>#figure3:
-AthensDemoMorph>>#figure8:
-MetacelloToolBox>>#updateVersionMethodForVersion:projectAttributes:updateProjects:updatePackages:versionSpecsDo:
-MetacelloToolBox>>#commitMethod
-MetacelloToolBox>>#editVersionSpecsForImport:projectAttributes:active:fullVersionSpec:updateProjects:updatePackages:visited:updated:
-MetacelloToolBox>>#buildMapFrom:for:
-MCFileTreeStCypressWriter>>#writeDefinitions:
-MCFileTreeStCypressWriter>>#fileNameMapFor:
-ByteSymbolTest>>#testNewFrom
-ByteSymbolTest>>#testAs
-ByteSymbolTest>>#testReadFromString
-TOccurrencesForMultiplinessTest>>#test0FixtureOccurrencesForMultiplinessTest
-LazyListMorph>>#athensDisplay:atRow:on:
-FLHookedSubstitutionTest>>#testAvoidRecursion
-FLHookedSubstitutionTest>>#testSubstituteByItself
-ScrollBar>>#glmAnimateValue:duration:
-OCClosureCompilerTest class>>#methodWithCopiedTemps
-ProcessTest>>#testSchedulingIsFirstComeFirstServed
-ProcessTest>>#testHighPriorityOverridesWaitTime
-ProcessTest>>#testForkAtHigherPriority
-GLMListMorphicTest>>#testTextBackgroundColor
-LinkedListTest>>#testRemoveAllFoundIn
-LinkedListTest>>#testAsStringOnDelimiterMore
-LinkedListTest>>#testAsStringOnDelimiterLastMore
-LinkedListTest>>#testIndexOfSubCollectionStartingAtIfAbsent
-DateTest>>#testReadFrom
-DateTest>>#testPrintFormat
-SetTest>>#testAsStringOnDelimiterMore
-SetTest>>#testAsCommaStringMore
-SetTest>>#testAsStringOnDelimiterLastMore
-SetTest>>#testRemoveAllFoundIn
-GLMApproximateScrollbarBrick>>#calculateScrollbarTopOffset
-ChangeSorterApplication class>>#messageListMenu:
-ChangeSorterApplication class>>#classListMenu:
-ScriptLoader>>#deletePackage:
-ScriptLoader>>#saveImageForRunningTests
-ScriptLoader>>#addPackage:
-RPackageMethodsSynchronisationTest>>#testAddMethodInClassicCategoryAddMethodToTheParentPackageOfItsTrait
-RPackageMethodsSynchronisationTest>>#testModifyMethodByMovingFromClassicCategoryToClassicCategoryDoesNothing
-RPackageMethodsSynchronisationTest>>#testAddMethodInClassicCategoryAddMethodToTheParentPackageOfItsClass
-BalloonLineSimulation>>#stepToFirstScanLineAt:in:
-GLMMorphicDashboardRenderer>>#renderPane:inUI:from:
-GLMMorphicDashboardRenderer>>#render:
-MethodDictionaryTest>>#testIdentityKeyAtNonExistantValueReturnsFailBlock
-MethodDictionaryTest>>#testKeyAtNonexistantValueExecutesFailBlock
-MethodDictionaryTest>>#testGrowPreservesElements
-MetacelloConfigurationResource>>#setUpConfigurationOfProjectIssue154
-MetacelloConfigurationResource>>#project
-CompiledMethodTest>>#testPerformCanExecutelongMethodWithTemps
-CompiledMethodTest>>#testPerformInSuperclassCanExecutelongMethodWithTemps
-CompiledMethodTest>>#testIsDeprecated
-SmalltalkEditingState>>#querySymbolFrom:
-MBConfigurationRootTest>>#test0031ConfigurationInfoChanged
-MBConfigurationRootTest>>#test0021ConfigurationInfoCreated
-MBConfigurationRootTest>>#test0081BasicVersionLoad
-MBConfigurationRootTest>>#test0091PackageMismatch
-MBConfigurationRootTest>>#test0120ConfigPackageSave
-MBConfigurationRootTest>>#test0030BasicVersionLoad
-AJCdeclCallInfo>>#emitAlignmentIfNeeded
-RubAbstractTextArea>>#minExtent
-MFClassA>>#method
-HDLintReport>>#generateClass:source:on:
-ProcessTerminateBug>>#testUnwindFromActiveProcess
-RxMatcher>>#currentState
-RxMatcher>>#matchesOnStream:do:
-TAssertable>>#assert:description:resumable:
-ZnRequest>>#basicAuthentication
-EditorFindReplaceDialogWindow>>#update:
-MetacelloPharoCommonPlatform>>#downloadFile:to:
-GLMWizard>>#updatePane
-GLMWizard>>#updateWhenPrevious
-GLMWizard>>#updateWhenNext
-GLMWizard>>#notifyAndSetAsCurrentPane:
-ZnDigestAuthenticator>>#isRequestAuthenticated:
-FLUserGuidesTest>>#testFileShortcuts
-FLUserGuidesTest>>#testPluggableSubstitution
-FLUserGuidesTest>>#testShowingProgressBar
-FLUserGuidesTest>>#testMemoryStream
-FLUserGuidesTest>>#testGZip
-AthensTextComposer>>#scan:for:
-SHMethodEditingMode>>#open
-MetacelloCoreSymbolicVersionTest>>#testBleedingEdgeMethod
-MetacelloCoreSymbolicVersionTest>>#testBasicStableVersion
-MetacelloCoreSymbolicVersionTest>>#testStableVersionMethod
-MetacelloCoreSymbolicVersionTest>>#testBasicBleedingEdgeVersion
-EvaluateCommandLineHandler>>#evaluate:
-AJx86JumpInstruction>>#emitCode:
-Morph>>#returnToOldResizingStrategy:
-MFClassB>>#method2
-MFClassB>>#method3
-BlockClosureTest>>#testOnForkErrorOnSeparateProcess
-RubMethodEditingExample>>#open
-FreeTypeFontProvider>>#updateFromSystem
-NECTestClass>>#testIt:
-RBDeprecateMethodRefactoring>>#transform
-OCASTCheckerTest>>#testExampleSuper
-OCASTCheckerTest>>#testNoRemoteBlockTemp
-OCASTCheckerTest>>#testOptimizedBlocksAndSameNameTemps
-OCASTCheckerTest>>#testExampleSelf
-OCASTCheckerTest>>#testNoRemoteMethodTemp
-OCASTCheckerTest>>#testSingleRemoteDifferentBlocksSameArgumentName
-OCASTCheckerTest>>#testInstanceVar
-OCASTCheckerTest>>#testSingleRemoteMethodArgument
-OCASTCheckerTest>>#testNoRemoteBlockReturn
-OCASTCheckerTest>>#testExamplePrimitiveErrorCode
-OCASTCheckerTest>>#testNoRemoteBlockArgument
-OCASTCheckerTest>>#testExampleThisContext
-OCASTCheckerTest>>#testDoubleRemoteAnidatedBlocks
-SelectorChooserMorph>>#drawCommonPrefixAreasOn:
-BagTest>>#testAsStringOnDelimiterLastMore
-BagTest>>#testRemoveAllFoundIn
-BagTest>>#testAsCommaStringMore
-BagTest>>#test0FixtureOccurrencesForMultiplinessTest
-BagTest>>#testAsStringOnDelimiterMore
-NBExternalEnumerationType>>#coerceReturnValue:
-GLMPortTest>>#testTransientValue
-MBCopyBaselineCommand>>#copyBaselineWithNumber:
-GLMSimpleRubricExample>>#presentation
-BMPReadWriter>>#readHeader
-SymbolTest>>#testIndexOfSubCollectionStartingAtIfAbsent
-SymbolTest>>#testAsStringOnDelimiterLastMore
-SymbolTest>>#testStreamContents
-SymbolTest>>#test0FixtureOccurrencesForMultiplinessTest
-SymbolTest>>#testAsStringOnDelimiterMore
-SymbolTest>>#testUncapitalized
-SymbolTest>>#testStreamContentsProtocol
-RubTextEditor>>#changeEmphasis
-RubTextEditor>>#dispatchCommandOn:return:
-RubTextEditor>>#correctFrom:to:with:
-RubTextEditor>>#addDeleteSelectionUndoRecord
-RubTextEditor>>#exchangeWith:
-RBFutureDeprecationWarningRule>>#checkMethod:
-TutorialPlayerTestWithMockTutorial>>#setUp
-RPackageTraitSynchronisationTest>>#testRemoveTraitMethodOverridenByClassDoesRemoveMethodFromClassPackage
-MetacelloPackagesSpec>>#applyIncludesTo:for:firstTime:
-TxHighlightRendererTest>>#testNoHighlightIfOutOfView
-GLMFinderTest>>#testUnregisterAnnouncementsWhenRemovingPane
-RBSendsDeprecatedMethodToGlobalRule>>#initialize
-Base64MimeConverterTest>>#testDecodeMimeHeader
-NautilusUI>>#updateOnClassSelection
-NewVersionBrowser class>>#versionsBrowserListMenu:
-PlatformResolverTest>>#testCache
-TextStyle class>>#defaultFamilyNames
-StringTest>>#testAtLastPut
-StringTest>>#testAsStringOnDelimiterLastMore
-StringTest>>#testStreamContents
-StringTest>>#test0FixtureOccurrencesForMultiplinessTest
-StringTest>>#testUnescapePercentsWithTextEncoding
-StringTest>>#testAsStringOnDelimiterMore
-StringTest>>#testStreamContentsProtocol
-StringTest>>#testIndexOfSubCollectionStartingAtIfAbsent
-RubSegmentMorph>>#drawBorderOn:usingEnds:
-MethodMapTests>>#testBlockWithTempsSourceNode
-SmalltalkEditor>>#referencesToIt
-SmalltalkEditor>>#internalCallToBrowseIt
-OCContextTempMappingTest>>#testAccessingVariablesInOptimizedBlock2
-OCContextTempMappingTest>>#testAccessingVariablesInOptimizedBlock
-OCContextTempMappingTest>>#testAccessingVariablesInBlock
-OCContextTempMappingTest>>#testAccessingTempsVectorInBlock
-OCContextTempMappingTest>>#testAccessingTempsVectorInBlock3
-NewList>>#itemAtIndex:
-VGTigerDemo>>#runDemo
-ZnClientTests>>#testIfModifiedSinceNotModified
-ZnClientTests>>#testRedirectWithCustomHeader
-Object>>#split:
-MetacelloProject>>#version:
-SimpleGridExample>>#treeMorph
-MetacelloSemanticVersionNumber class>>#fromString:forPattern:
-RPackageMCSynchronisationTest>>#testNotRepackagedAnnouncementWhenModifyMethodByMovingInSameExtensionCategory
-RPackageMCSynchronisationTest>>#testNotRepackagedAnnouncementWhenMovingClassicCategories
-RPackageMCSynchronisationTest>>#testRepackagedAnnouncementWhenModifyMethodByMovingFromDifferentExtensionCategories
-DeepCopier>>#checkBasicClasses
-OrderedCollectionTest>>#testAtLastPut
-OrderedCollectionTest>>#testAsStringOnDelimiterLastMore
-OrderedCollectionTest>>#testStreamContents
-OrderedCollectionTest>>#testRemoveAllFoundIn
-OrderedCollectionTest>>#test0FixtureOccurrencesForMultiplinessTest
-OrderedCollectionTest>>#testAsStringOnDelimiterMore
-OrderedCollectionTest>>#testStreamContentsProtocol
-OrderedCollectionTest>>#testIndexOfSubCollectionStartingAtIfAbsent
-NumberParser>>#nextInteger
-RPackageObsoleteTest>>#testMethodPackageOfRemovedClass
-KMDispatcher>>#dispatch:
-MBPackageInfo>>#versions
-MCFileTreeAbstractReader>>#definitionFromFile:inDirectory:
-MetacelloToolBoxConstructor>>#extractSymbolicVersionSpecsFor:
-HeapTest>>#testRemoveAll
-HeapTest>>#test0FixtureOccurrencesForMultiplinessTest
-HeapTest>>#testRemoveAllFoundIn
-TextEditor>>#addTypeInUndoRecord
-TextEditor>>#changeEmphasis
-TextEditor>>#dispatchCommandOn:return:
-TextEditor>>#mouseUp:
-TextEditor>>#unapplyAttribute:
-TextEditor>>#addDeleteSelectionUndoRecord
-TextEditor>>#crWithIndent:
-TextEditor>>#replace:with:and:
-TextEditor>>#dispatchOn:
-TextEditor>>#correctFrom:to:with:
-NBCoreTests>>#nonExistedPrim:
-FLPair>>#methodWithTemp
-MetacelloMCVersion>>#executeLoadFromArray:
-RubParagraph>>#selectionRectsFrom:to:
-VersionnerProjectPackagesPanel>>#removeSelectedPackage
-MetacelloPackageSpec>>#currentPackageLoaded:notLoaded:using:
-MetacelloPackageSpec>>#mergeSpec:
-OCASTClosureAnalyzerTest>>#testSingleRemoteReadNestedBlocks
-OCASTClosureAnalyzerTest>>#testOptimizedBlockWriteInNestedBlockCase2
-OCASTClosureAnalyzerTest>>#testOptimizedBlockWriteInNestedBlockCase4
-OCASTClosureAnalyzerTest>>#testWrittenAfterClosedOver
-OCASTClosureAnalyzerTest>>#testOptimizedBlockWrittenAfterClosedOverCase1
-OCASTClosureAnalyzerTest>>#testExampleSimpleBlockNested
-OCASTClosureAnalyzerTest>>#testOptimizedBlockWrittenAfterClosedOverCase2
-OCASTClosureAnalyzerTest>>#testOptimizedBlockWriteInNestedBlockCase3
-OCASTClosureAnalyzerTest>>#testSingleRemoteDifferentBlocksSameArgumentName
-OCASTClosureAnalyzerTest>>#testDoubleRemoteAnidatedBlocks
-OCASTClosureAnalyzerTest>>#testExampleBlockArgument
-OCASTClosureAnalyzerTest>>#testOptimizedBlockWriteInBlock
-OCASTClosureAnalyzerTest>>#testNestedBlocksRemoteInBlockCase2
-OCASTClosureAnalyzerTest>>#testExampleWhileModificationBefore
-OCASTClosureAnalyzerTest>>#testExampleSimpleBlockLocalWhile
-OCASTClosureAnalyzerTest>>#testNoRemoteReadNestedBlocks
-OCASTClosureAnalyzerTest>>#testSingleRemoteMethodArgument
-OCASTClosureAnalyzerTest>>#testNestedBlocksRemoteInBlockCase3
-OCASTClosureAnalyzerTest>>#testNoRemoteBlockArgument
-OCASTClosureAnalyzerTest>>#testOptimizedBlockWriteInNestedBlock
-OCASTClosureAnalyzerTest>>#testNoRemoteReadInBlock
-OCASTClosureAnalyzerTest>>#testOptimizedBlockReadInBlock
-TimespanTest>>#testInclusion
-FLHeaderSerializationTest>>#testAdditionalObjects
-FT2GlyphRenderer>>#loadUnicode:
-FT2GlyphRenderer>>#loadSurfaceTransform
-MCFileTreeRepository class>>#parseName:extension:
-OSSDL2FormRenderer>>#updateRectangle:
-WaitfreeQueue>>#size
-BlockClosure>>#value:value:value:
-BlockClosure>>#ifCurtailed:
-BlockClosure>>#value
-BlockClosure>>#on:fork:
-BlockClosure>>#value:value:value:value:
-BlockClosure>>#value:value:
-BlockClosure>>#value:
-MBLoadConfigurationCommand>>#execute
-ClassTestCase>>#assertValidLintRule:
-AJx86Assembler>>#pushArgument:forCall:
-MetacelloMemberListSpec>>#mergeSpec:
-MetacelloMCProjectSpecTestCase>>#testMCProjectMergeSpec
-TRemoveForMultiplenessTest>>#testRemoveAll
-TRemoveForMultiplenessTest>>#testRemoveAllFoundIn
-TextConverter>>#next:putAll:startingAt:toStream:
-TextConverter>>#nextPutAll:toStream:
-Text class>>#fromString:
-MetacelloPackagesSpecTestCase>>#testRemoveGroupC
-MetacelloPackagesSpecTestCase>>#testRemoveGroupB
+MetacelloLoadingMCSpecLoader>>#goferCommitPackageUsing:commitMessage: [Metacello-MC]
+MetacelloLoadingMCSpecLoader>>#goferCommitBranchPackage:using:commitMessage: [Metacello-MC]
+OCBytecodeDecompilerTest>>#testWhileTrue [OpalCompiler-Tests]
+OCBytecodeDecompilerTest>>#pushClosureCopyNoCopied [OpalCompiler-Tests]
+GLMBrick>>#privateAddBrickFirst: [Glamour-Morphic-Brick]
+GLMBrick>>#privateRemoveBrick: [Glamour-Morphic-Brick]
+AthensSurfaceExamples class>>#example3 [Athens-Examples]
+AthensSurfaceExamples class>>#exampleStrokeRect [Athens-Examples]
+MulticolumnLazyListMorph>>#athensDisplay:atRow:on: [Athens-Morphic]
+NBNativeCodeGen class>>#generateCode:andRetry: [NativeBoost-Core]
+NBNativeCodeGen class>>#handleFailureIn:nativeCode: [NativeBoost-Core]
+RPackageCategorySynchronisationTest>>#testRenameCategoryAlsoRenameAllExtensionProtocols [RPackage-Tests]
+RBRefactoringChangeTests>>#testPerformAddRemoveMethodInteractively [Refactoring-Tests-Changes]
+RBRefactoringChangeTests>>#testPerformAddRemoveClassMethod [Refactoring-Tests-Changes]
+RBRefactoringChangeTests>>#testPerformAddRemoveMethod [Refactoring-Tests-Changes]
+AthensTextRenderer>>#render:lines:on: [Athens-Text]
+GLMExpanderLabelNodeModel>>#elementColumn [Glamour-Morphic-Widgets]
+DisplayScanner>>#displayLine:offset:leftInRun: [Text-Scanning]
+AJx86Registers class>>#installRegisterAccessors [AsmJit-x86]
+AthensBalloonEngine>>#drawImage:transform: [Athens-Balloon]
+DictionaryTest>>#testAsStringOnDelimiterMore [CollectionsTests]
+DictionaryTest>>#testAsCommaStringMore [CollectionsTests]
+DictionaryTest>>#testAsStringOnDelimiterLastMore [CollectionsTests]
+DictionaryTest>>#test0FixtureOccurrencesForMultiplinessTest [CollectionsTests]
+MultiByteFileStreamTest>>#testLineEndingsWith: [Multilingual-Tests]
+MetacelloVersionSpec>>#configMethodOn:last:indent: [Metacello-Core]
+AthensBezier3Scene>>#renderOn: [Athens-Core]
+RubSmalltalkEditor>>#referencesToIt [Rubric]
+RubSmalltalkEditor>>#internalCallToBrowseIt [Rubric]
+RBSmalllintTestObject>>#onlyReadOrWrittenTemporary [Refactoring-Tests-Critics]
+MBProjectInfo>>#buildStringOrText [Versionner-Core-Model]
+MBProjectInfo>>#currentVersion [Versionner-Core-Model]
+MBProjectInfo>>#interestedInPackageNamed: [Versionner-Core-Model]
+RubCodeSizeFeedback>>#backgroundColor [Rubric]
+GLMPagerModel>>#popPane: [Glamour-Morphic-Pager]
+RBRefactoryTestDataApp>>#literalArrayWithTrueFalseOrNil2 [Refactoring-Tests-Core]
+MCWorkingCopyTest>>#testAncestorMerge [Monticello-Tests]
+MCWorkingCopyTest>>#testMergeIntoImageWithNoChanges [Monticello-Tests]
+MCWorkingCopyTest>>#testSelectiveBackport [Monticello-Tests]
+SizeInMemoryTest>>#testSizeInMemoryLargeInstances [KernelTests]
+OCOpalExamples>>#optimizedBlockReadInBlock [OpalCompiler-Tests]
+OCOpalExamples>>#exampleSuper [OpalCompiler-Tests]
+OCOpalExamples>>#exampleAndOr2 [OpalCompiler-Tests]
+OCOpalExamples>>#noRemoteReadNestedBlocks [OpalCompiler-Tests]
+OCOpalExamples>>#nestedBlocksRemoteInBlockCase1 [OpalCompiler-Tests]
+OCOpalExamples>>#noRemoteMethodTemp [OpalCompiler-Tests]
+OCOpalExamples>>#singleRemoteReadNestedBlocks [OpalCompiler-Tests]
+OCOpalExamples>>#exampleSelf [OpalCompiler-Tests]
+OCOpalExamples>>#exampleThisContext [OpalCompiler-Tests]
+OCOpalExamples>>#singleRemoteTempVar [OpalCompiler-Tests]
+OCOpalExamples>>#noRemoteBlockArgument [OpalCompiler-Tests]
+OCOpalExamples>>#noRemoteReadInBlock [OpalCompiler-Tests]
+OCOpalExamples>>#noRemoteBlockTemp [OpalCompiler-Tests]
+OCOpalExamples>>#nestedBlocksRemoteInBlockCase2 [OpalCompiler-Tests]
+OCOpalExamples>>#exampleAndOr [OpalCompiler-Tests]
+OCOpalExamples>>#writtenAfterClosedOver [OpalCompiler-Tests]
+OCOpalExamples>>#singleRemoteTempVarWrittenAfterClosedOver [OpalCompiler-Tests]
+MBConfigurationRoot>>#categoryModified: [Versionner-Core-Model]
+RGMonticelloTest>>#testConvertingMCMethodDefinition [Ring-Tests-Monticello]
+RPackageOrganizer>>#systemClassRenamedActionFrom: [RPackage-SystemIntegration]
+RPackageOrganizer>>#systemTraitDefinitionModifiedActionFrom: [RPackage-SystemIntegration]
+RPackageOrganizer>>#systemClassRemovedActionFrom: [RPackage-SystemIntegration]
+RPackageOrganizer>>#systemMethodRemovedActionFrom: [RPackage-SystemIntegration]
+MethodMapExamples>>#exampleTempNamedTempVector2 [OpalCompiler-Tests]
+MethodMapExamples>>#exampleTempNamedTempVector [OpalCompiler-Tests]
+MethodMapExamples>>#exampleTempNamedTempCopyingNestedBlockPROBLEM [OpalCompiler-Tests]
+MethodMapExamples>>#exampleTempNamedCopying [OpalCompiler-Tests]
+MethodMapExamples>>#exampleTempNamedPutTempVector2 [OpalCompiler-Tests]
+MethodMapExamples>>#exampleTempNamedPutTempVector [OpalCompiler-Tests]
+MethodMapExamples>>#exampleTempNamedPutCopying2 [OpalCompiler-Tests]
+MethodMapExamples>>#exampleTempNamedTempVectorNestedBlock [OpalCompiler-Tests]
+MethodMapExamples>>#exampleTempNamedCopying2 [OpalCompiler-Tests]
+MethodMapExamples>>#exampleTempNamedTempCopyingNestedBlock [OpalCompiler-Tests]
+MethodMapExamples>>#exampleSimpleTemp [OpalCompiler-Tests]
+MethodMapExamples>>#exampleTempNamedPutCopying [OpalCompiler-Tests]
+MetacelloStackCacheTestCase>>#cacheNil [Metacello-TestsCore]
+MetacelloStackCacheTestCase>>#testClearCache [Metacello-TestsCore]
+AthensCanvasWrapper>>#isVisibleDebug: [Athens-Morphic]
+GTSpotterCandidatesListTest>>#testPreviousA1A2EmptyCategory [GT-Tests-Spotter]
+GTSpotterCandidatesListTest>>#testNextA1A2EmptyCategory [GT-Tests-Spotter]
+GTSpotterCandidatesListTest>>#testPreviousA1Category [GT-Tests-Spotter]
+GTSpotterCandidatesListTest>>#testPreviousA1A2Category [GT-Tests-Spotter]
+GTSpotterCandidatesListTest>>#testNextA1Category [GT-Tests-Spotter]
+GTSpotterCandidatesListTest>>#testNextA1A2Category [GT-Tests-Spotter]
+RGSliceTest>>#testNestingContainers [Ring-Tests-Containers]
+MBConfigurationInfo>>#buildStringOrText [Versionner-Core-Model]
+KMShortcutTest>>#testComplexChainMatches [Keymapping-Tests]
+MessageTallyTest>>#testTallySends [ToolsTest]
+ReleaseTest>>#assertValidLintRule: [Manifest-Core]
+NBExternalHandle>>#value: [NativeBoost-Core]
+MBPackageInfoTest>>#testIsDirty [Versionner-Tests-Core-Model]
+PasteUpMorph>>#mouseDown: [Morphic-Core]
+WeakKeyDictionary>>#valuesDo: [Collections-Weak]
+TextMorph>>#handleKeystroke: [Keymapping-Core]
+SimulateMouseSpecification>>#testSimulateRightClick [SUnit-UITesting]
+TSequencedConcatenationTest>>#testStreamContents [CollectionsTests]
+TSequencedConcatenationTest>>#testStreamContentsProtocol [CollectionsTests]
+NBFFICallback class>>#installCallbackCode [NativeBoost-Core]
+GLMPresentationTest>>#testCopyTheTransformation [Glamour-Tests-Core]
+ConfigurationCommandLineHandler>>#loadConfigurationNames [ConfigurationCommandLineHandler-Core]
+RPackageIncrementalTest>>#testRemoveClassAfterMethods [RPackage-Tests]
+RPackageIncrementalTest>>#testRemoveClassRemovesExtensions [RPackage-Tests]
+RPackageIncrementalTest>>#testAddClassAfterMethods [RPackage-Tests]
+RPackageIncrementalTest>>#testPrivateClassRegisterUnregister [RPackage-Tests]
+RPackageIncrementalTest>>#tearDown [RPackage-Tests]
+RPackageIncrementalTest>>#testRemoveExtensionMethodRemovesExtensionsFromRPackage [RPackage-Tests]
+RPackageIncrementalTest>>#testAddClassAfterMethodsAtMetaclassToo [RPackage-Tests]
+RPackageIncrementalTest>>#testMethodAddition [RPackage-Tests]
+TPutTest>>#testAtLastPut [CollectionsTests]
+ZipArchiveTest>>#testFilePermissions [CompressionTests]
+ArrayTest>>#testAtLastPut [CollectionsTests]
+ArrayTest>>#testAsStringOnDelimiterLastMore [CollectionsTests]
+ArrayTest>>#testStreamContents [CollectionsTests]
+ArrayTest>>#test0FixtureOccurrencesForMultiplinessTest [CollectionsTests]
+ArrayTest>>#testAsStringOnDelimiterMore [CollectionsTests]
+ArrayTest>>#testStreamContentsProtocol [CollectionsTests]
+ArrayTest>>#testIndexOfSubCollectionStartingAtIfAbsent [CollectionsTests]
+MetacelloMCVersionValidator>>#validateProjectVersionLoad:loads: [Metacello-MC]
+FontChooser class>>#openWithWindowTitle:for:setSelector:getSelector: [FontChooser]
+MetacelloMCProjectSpec>>#allPackagesLoaded: [Metacello-MC]
+MetacelloMCProjectSpec>>#determineCurrentVersionForLoad [Metacello-MC]
+FloatArrayTest>>#testIndexOfSubCollectionStartingAtIfAbsent [CollectionsTests]
+FloatArrayTest>>#testAsStringOnDelimiterLastMore [CollectionsTests]
+FloatArrayTest>>#testStreamContents [CollectionsTests]
+FloatArrayTest>>#testAsStringOnDelimiterMore [CollectionsTests]
+FloatArrayTest>>#testStreamContentsProtocol [CollectionsTests]
+FloatArrayTest>>#testAtLastPut [CollectionsTests]
+HistoryNodeTest>>#testTwoConsecutiveCloseGroup [System-History-Tests]
+HistoryNodeTest>>#testTwoGroups [System-History-Tests]
+FileReferenceTest>>#testDeleteAll [FileSystem-Tests-Core]
+FileReferenceTest>>#testWriteStreamDoExists [FileSystem-Tests-Core]
+FileReferenceTest>>#testHasFiles [FileSystem-Tests-Core]
+FileReferenceTest>>#testDeleteAllChildren [FileSystem-Tests-Core]
+FileReferenceTest>>#testHasChildren [FileSystem-Tests-Core]
+FileReferenceTest>>#testWriteStreamDoifPresent [FileSystem-Tests-Core]
+FileReferenceTest>>#testHasDirectories [FileSystem-Tests-Core]
+FileReferenceTest>>#testRename [FileSystem-Tests-Core]
+FileReferenceTest>>#testWriteStreamDo [FileSystem-Tests-Core]
+ZipArchiveMember>>#extractToFileNamed:inDirectory: [Compression]
+ZnUrlTests>>#testReferenceResolution [Zinc-Resource-Meta-Tests]
+MBMonticelloPackagesResource>>#project [Versionner-Tests-Resources]
+MBMonticelloPackagesResource>>#setUpConfigurationOfMBFooIssue117 [Versionner-Tests-Resources]
+FileReference>>#macTypeAndCreator [FileSystem-Core]
+TIdentityAddTest>>#testIdentityAdd [CollectionsTests]
+KMKeymapTest>>#testExecute [Keymapping-Tests]
+AJx86AssemblerTests>>#testDataBytesAlignQuad [AsmJit-Tests]
+AJx86AssemblerTests>>#testDataBytes [AsmJit-Tests]
+AJx86AssemblerTests>>#testDataBytesAlignDouble [AsmJit-Tests]
+AJx86AssemblerTests>>#testDataDouble [AsmJit-Tests]
+AJx86AssemblerTests>>#testDataWord [AsmJit-Tests]
+AJx86AssemblerTests>>#testDataBytesAlignWord [AsmJit-Tests]
+MetacelloProjectSpec>>#hasNonVersionStringField [Metacello-Core]
+IntervalTest>>#testAsStringOnDelimiterLastMore [CollectionsTests]
+IntervalTest>>#testStreamContents [CollectionsTests]
+IntervalTest>>#testAsStringOnDelimiterMore [CollectionsTests]
+IntervalTest>>#testStreamContentsProtocol [CollectionsTests]
+IntervalTest>>#testIndexOfSubCollectionStartingAtIfAbsent [CollectionsTests]
+ListComposableModelTest>>#testWhenListChangedOldContents [Spec-Tests]
+AJStackAlignmentTests>>#testJumps [AsmJit-Tests]
+GLMWhitespaceTheme>>#newFocusIndicatorMorphFor: [Glamour-Morphic-Theme]
+ObsoleteTest>>#testTraitObsolete [ReleaseTests]
+ObsoleteTest>>#testClassObsolete [ReleaseTests]
+MetacelloToolBox class>>#defaultTopic:for: [Metacello-ToolBox]
+MetacelloToolBox class>>#saveModifiedDevelopmentPackages:for:description: [Metacello-ToolBox]
+MethodNode>>#generateWithSource [Compiler]
+FileDialogWindowTest>>#testIssue6406 [Tool-FileList-Tests]
+DosTimestampTest>>#testFromDateAndTime [KernelTests]
+DosTimestampTest>>#testAsDateAndTime [KernelTests]
+GLMTabulatorMorphicTest>>#testMultipleInitialSelection [Glamour-Tests-Morphic]
+IdentityBagTest>>#testIdentityAdd [CollectionsTests]
+DiskStore>>#rename:to: [FileSystem-Disk]
+TIndexAccess>>#testIndexOfSubCollectionStartingAtIfAbsent [CollectionsTests]
+Exception>>#outer [Kernel]
+RPackageOrganizerTest>>#testFullRegistration [RPackage-Tests]
+RPackageMonticelloSynchronisationTest>>#testUnregisterMCPackageKeepsRPackage [RPackage-Tests]
+RPackageMonticelloSynchronisationTest>>#testUnloadMCPackageRemovesRPackage [RPackage-Tests]
+VSSetDescriptionCommand>>#executeWithMessage: [Versionner-Core-Commands]
+ZnRequestTests>>#testCookiesWriting [Zinc-Tests]
+TAsStringCommaAndDelimiterSequenceableTest>>#testAsStringOnDelimiterMore [CollectionsTests]
+TAsStringCommaAndDelimiterSequenceableTest>>#testAsStringOnDelimiterLastMore [CollectionsTests]
+Decompiler>>#statementsTo: [Compiler]
+UTF16TextConverter>>#charFromStream:withFirst: [Multilingual-TextConversion]
+SortedCollectionTest>>#testAsStringOnDelimiterLastMore [CollectionsTests]
+SortedCollectionTest>>#testRemoveAllFoundIn [CollectionsTests]
+SortedCollectionTest>>#test0FixtureOccurrencesForMultiplinessTest [CollectionsTests]
+SortedCollectionTest>>#testAsStringOnDelimiterMore [CollectionsTests]
+SortedCollectionTest>>#testIndexOfSubCollectionStartingAtIfAbsent [CollectionsTests]
+ClassHierarchyTest>>#testSubclasses [KernelTests]
+NBFinalizationRegistry>>#freeItemsDo: [NativeBoost-Core]
+NBFinalizationRegistry>>#getFreeItem [NativeBoost-Core]
+NBExtraRootsRegistry>>#primAtMem:put: [NativeBoost-Core]
+MetacelloRepositoriesSpec>>#configMethodCascadeOn:indent: [Metacello-MC]
+MCSnapshotTest>>#testInstanceReuse [Monticello-Tests]
+OCBytecodeDecompilerExamplesTest>>#testExampleThisContext [OpalCompiler-Tests]
+CairoUTF8Converter>>#store:accumulated: [Athens-Cairo]
+NBInterpreterProxyTest>>#primCheckStackPointer2 [NativeBoost-Tests]
+NBInterpreterProxyTest>>#primCheckStackPointer [NativeBoost-Tests]
+RubSelectorChooserMorph>>#drawCommonPrefixAreasOn: [Rubric]
+NBExternalLibraryWrapper class>>#createMethodFor: [NativeBoost-Core]
+WindowsStore>>#checkName:fixErrors: [FileSystem-Disk]
+AthensCairoSurface class>>#createGetSurfaceFormatFn [Athens-Cairo]
+AthensCairoSurface class>>#createLockSurfaceFn [Athens-Cairo]
+TRemoveTest>>#testRemoveAll [CollectionsTests]
+TRemoveTest>>#testRemoveAllFoundIn [CollectionsTests]
+DatePrintFormatTester>>#assert:description:resumable: [SUnit-Core]
+VersionnerProjectPanel>>#config: [Versionner-Spec-Browser]
+TestRunner>>#generateDefaultFileOutResultsName [SUnit-UI]
+TestRunner>>#fileOutResults [SUnit-UI]
+WindowAnnouncementTest>>#testResizing [MorphicTests]
+WindowAnnouncementTest>>#testWindowCreation [MorphicTests]
+TAsStringCommaAndDelimiterTest>>#testAsStringOnDelimiterMore [CollectionsTests]
+TAsStringCommaAndDelimiterTest>>#testAsCommaStringMore [CollectionsTests]
+TAsStringCommaAndDelimiterTest>>#testAsStringOnDelimiterLastMore [CollectionsTests]
+RPackageClassesSynchronisationTest>>#testRenameClassUpdateMetaclassDefinedSelectorsInTheParentPackage [RPackage-Tests]
+RPackageClassesSynchronisationTest>>#testRenameClassUpdateMetaclassExtensionSelectorsInTheExtendingPackages [RPackage-Tests]
+RPackageClassesSynchronisationTest>>#testRenameClassUpdateClassExtensionSelectorsInTheExtendingPackages [RPackage-Tests]
+RPackageClassesSynchronisationTest>>#testRemoveClassUnregisterTheClassExtensionMethodsFromTheCorrespondingPackage [RPackage-Tests]
+RPackageClassesSynchronisationTest>>#testRenameClassUpdateClassDefinedInTheParentPackage [RPackage-Tests]
+RPackageClassesSynchronisationTest>>#testRecategorizeClassUnregisterTheClassMethodsFromTheOldPackage [RPackage-Tests]
+RPackageClassesSynchronisationTest>>#testReorganizeClassByAddingExtensionProtocol [RPackage-Tests]
+RPackageClassesSynchronisationTest>>#testRecategorizeClassWithMetaClassMethodsRegisterAllClassMethodsInTheNewPackage [RPackage-Tests]
+RPackageClassesSynchronisationTest>>#testRenameClassUpdateClassDefinedSelectorsInTheParentPackage [RPackage-Tests]
+RPackageClassesSynchronisationTest>>#testReorganizeClassByAddingNewProtocolDoesNothing [RPackage-Tests]
+RPackageClassesSynchronisationTest>>#testRecategorizeClassUpdateTheOrganizerMappings [RPackage-Tests]
+RPackageClassesSynchronisationTest>>#testRenameClassUpdateOrganizerClassPackageMapping [RPackage-Tests]
+RPackageClassesSynchronisationTest>>#testRenameClassUpdateOrganizerClassExtendingPackagesMapping [RPackage-Tests]
+RPackageClassesSynchronisationTest>>#testRecategorizeClassUnregisterTheClassFromTheOldPackage [RPackage-Tests]
+RPackageClassesSynchronisationTest>>#testRemoveClassUpdateTheOrganizerMappings [RPackage-Tests]
+RPackageClassesSynchronisationTest>>#testRecategorizeClassRegisterTheClassMethodsInTheNewPackage [RPackage-Tests]
+AthensCairoPathBuilder>>#calcCenter:end:angle: [Athens-Cairo]
+StringMorph>>#drawOnAthensCanvas: [Athens-Morphic]
+RPackageExtensionMethodsSynchronisationTest>>#testAddMethodInExtensionCategoryNotExistingCreateANewPackageAndInstallsMethodInIt [RPackage-Tests]
+RPackageExtensionMethodsSynchronisationTest>>#testModifyMethodByChangingCode [RPackage-Tests]
+RPackageExtensionMethodsSynchronisationTest>>#testRemoveExtensionMethodDoesNotRemoveExtendingPackage [RPackage-Tests]
+RPackageExtensionMethodsSynchronisationTest>>#testRemoveAllExtensionMethodsFromMetaAndInstanceSideUpdateOrganizerExtensionsMapping [RPackage-Tests]
+RPackageExtensionMethodsSynchronisationTest>>#testAddMethodInExtensionCategoryNotExistingCreateANewPackage [RPackage-Tests]
+RPackageExtensionMethodsSynchronisationTest>>#testRemoveAllExtensionMethodsRemoveTheClassFromExtendedClasses [RPackage-Tests]
+RPackageExtensionMethodsSynchronisationTest>>#testRemoveExtensionMethodRemoveMethodFromItsPackage [RPackage-Tests]
+GLMTextMorphicTest>>#testResettingTheSelection [Glamour-Tests-Morphic]
+HDCoverageReport>>#generatePackage:method:on: [HudsonBuildTools20]
+GLMBrickStructureTrait>>#privateAddBrickFirst: [Glamour-Morphic-Brick]
+GLMBrickStructureTrait>>#privateRemoveBrick: [Glamour-Morphic-Brick]
+WeakRegistryTest>>#testVileFinalizer [CollectionsTests]
+ProtoObject>>#pointersToExcept: [Kernel]
+MetacelloScriptEngine>>#lookupProjectSpecFor: [Metacello-Core]
+AthensDemoMorph>>#figure9: [Athens-Examples]
+AthensDemoMorph>>#figure2: [Athens-Examples]
+AthensDemoMorph>>#figure6: [Athens-Examples]
+AthensDemoMorph>>#figure10: [Athens-Examples]
+AthensDemoMorph>>#figure3: [Athens-Examples]
+AthensDemoMorph>>#figure8: [Athens-Examples]
+MetacelloToolBox>>#updateVersionMethodForVersion:projectAttributes:updateProjects:updatePackages:versionSpecsDo: [Metacello-ToolBox]
+MetacelloToolBox>>#commitMethod [Metacello-ToolBox]
+MetacelloToolBox>>#editVersionSpecsForImport:projectAttributes:active:fullVersionSpec:updateProjects:updatePackages:visited:updated: [Metacello-ToolBox]
+MetacelloToolBox>>#buildMapFrom:for: [Metacello-ToolBox]
+MCFileTreeStCypressWriter>>#writeDefinitions: [MonticelloFileTree-Core]
+MCFileTreeStCypressWriter>>#fileNameMapFor: [MonticelloFileTree-Core]
+ByteSymbolTest>>#testNewFrom [CollectionsTests]
+ByteSymbolTest>>#testAs [CollectionsTests]
+ByteSymbolTest>>#testReadFromString [CollectionsTests]
+TOccurrencesForMultiplinessTest>>#test0FixtureOccurrencesForMultiplinessTest [CollectionsTests]
+LazyListMorph>>#athensDisplay:atRow:on: [Athens-Morphic]
+FLHookedSubstitutionTest>>#testAvoidRecursion [FuelTests]
+FLHookedSubstitutionTest>>#testSubstituteByItself [FuelTests]
+ScrollBar>>#glmAnimateValue:duration: [Glamour-Morphic-Widgets]
+OCClosureCompilerTest class>>#methodWithCopiedTemps [OpalCompiler-Tests]
+ProcessTest>>#testSchedulingIsFirstComeFirstServed [KernelTests]
+ProcessTest>>#testHighPriorityOverridesWaitTime [KernelTests]
+ProcessTest>>#testForkAtHigherPriority [KernelTests]
+GLMListMorphicTest>>#testTextBackgroundColor [Glamour-Tests-Morphic]
+LinkedListTest>>#testRemoveAllFoundIn [CollectionsTests]
+LinkedListTest>>#testAsStringOnDelimiterMore [CollectionsTests]
+LinkedListTest>>#testAsStringOnDelimiterLastMore [CollectionsTests]
+LinkedListTest>>#testIndexOfSubCollectionStartingAtIfAbsent [CollectionsTests]
+DateTest>>#testReadFrom [KernelTests]
+DateTest>>#testPrintFormat [KernelTests]
+SetTest>>#testAsStringOnDelimiterMore [CollectionsTests]
+SetTest>>#testAsCommaStringMore [CollectionsTests]
+SetTest>>#testAsStringOnDelimiterLastMore [CollectionsTests]
+SetTest>>#testRemoveAllFoundIn [CollectionsTests]
+GLMApproximateScrollbarBrick>>#calculateScrollbarTopOffset [Glamour-Morphic-Brick]
+ChangeSorterApplication class>>#messageListMenu: [Spec-Tools]
+ChangeSorterApplication class>>#classListMenu: [Spec-Tools]
+ScriptLoader>>#deletePackage: [ScriptLoader50]
+ScriptLoader>>#saveImageForRunningTests [ScriptLoader50]
+ScriptLoader>>#addPackage: [ScriptLoader50]
+RPackageMethodsSynchronisationTest>>#testAddMethodInClassicCategoryAddMethodToTheParentPackageOfItsTrait [RPackage-Tests]
+RPackageMethodsSynchronisationTest>>#testModifyMethodByMovingFromClassicCategoryToClassicCategoryDoesNothing [RPackage-Tests]
+RPackageMethodsSynchronisationTest>>#testAddMethodInClassicCategoryAddMethodToTheParentPackageOfItsClass [RPackage-Tests]
+BalloonLineSimulation>>#stepToFirstScanLineAt:in: [Balloon]
+GLMMorphicDashboardRenderer>>#renderPane:inUI:from: [Glamour-Morphic-Renderer]
+GLMMorphicDashboardRenderer>>#render: [Glamour-Morphic-Renderer]
+MethodDictionaryTest>>#testIdentityKeyAtNonExistantValueReturnsFailBlock [KernelTests]
+MethodDictionaryTest>>#testKeyAtNonexistantValueExecutesFailBlock [KernelTests]
+MethodDictionaryTest>>#testGrowPreservesElements [KernelTests]
+MetacelloConfigurationResource>>#setUpConfigurationOfProjectIssue154 [Metacello-TestsMCResources]
+MetacelloConfigurationResource>>#project [Metacello-TestsMCResources]
+CompiledMethodTest>>#testPerformCanExecutelongMethodWithTemps [KernelTests]
+CompiledMethodTest>>#testPerformInSuperclassCanExecutelongMethodWithTemps [KernelTests]
+CompiledMethodTest>>#testIsDeprecated [KernelTests]
+SmalltalkEditingState>>#querySymbolFrom: [Text-Edition]
+MBConfigurationRootTest>>#test0031ConfigurationInfoChanged [Versionner-Tests-Core-Model]
+MBConfigurationRootTest>>#test0021ConfigurationInfoCreated [Versionner-Tests-Core-Model]
+MBConfigurationRootTest>>#test0081BasicVersionLoad [Versionner-Tests-Core-Model]
+MBConfigurationRootTest>>#test0091PackageMismatch [Versionner-Tests-Core-Model]
+MBConfigurationRootTest>>#test0120ConfigPackageSave [Versionner-Tests-Core-Model]
+MBConfigurationRootTest>>#test0030BasicVersionLoad [Versionner-Tests-Core-Model]
+AJCdeclCallInfo>>#emitAlignmentIfNeeded [AsmJit-StackManagement]
+RubAbstractTextArea>>#minExtent [Rubric]
+MFClassA>>#method [Manifest-Resources-Tests]
+HDLintReport>>#generateClass:source:on: [HudsonBuildTools20]
+ProcessTerminateBug>>#testUnwindFromActiveProcess [KernelTests]
+RxMatcher>>#currentState [Regex-Core]
+RxMatcher>>#matchesOnStream:do: [Regex-Core]
+TAssertable>>#assert:description:resumable: [SUnit-Core]
+ZnRequest>>#basicAuthentication [Zinc-HTTP]
+EditorFindReplaceDialogWindow>>#update: [Text-Edition]
+MetacelloPharoCommonPlatform>>#downloadFile:to: [Metacello-PharoCommonPlatform]
+GLMWizard>>#updatePane [Glamour-Browsers]
+GLMWizard>>#updateWhenPrevious [Glamour-Browsers]
+GLMWizard>>#updateWhenNext [Glamour-Browsers]
+GLMWizard>>#notifyAndSetAsCurrentPane: [Glamour-Browsers]
+ZnDigestAuthenticator>>#isRequestAuthenticated: [Zinc-HTTP]
+FLUserGuidesTest>>#testFileShortcuts [FuelTests]
+FLUserGuidesTest>>#testPluggableSubstitution [FuelTests]
+FLUserGuidesTest>>#testShowingProgressBar [FuelTests]
+FLUserGuidesTest>>#testMemoryStream [FuelTests]
+FLUserGuidesTest>>#testGZip [FuelTests]
+AthensTextComposer>>#scan:for: [Athens-Text]
+SHMethodEditingMode>>#open [Shout]
+MetacelloCoreSymbolicVersionTest>>#testBleedingEdgeMethod [Metacello-TestsCore]
+MetacelloCoreSymbolicVersionTest>>#testBasicStableVersion [Metacello-TestsCore]
+MetacelloCoreSymbolicVersionTest>>#testStableVersionMethod [Metacello-TestsCore]
+MetacelloCoreSymbolicVersionTest>>#testBasicBleedingEdgeVersion [Metacello-TestsCore]
+EvaluateCommandLineHandler>>#evaluate: [CodeImport]
+AJx86JumpInstruction>>#emitCode: [AsmJit-x86]
+Morph>>#returnToOldResizingStrategy: [Glamour-Morphic-Widgets]
+MFClassB>>#method2 [Manifest-Resources-Tests]
+MFClassB>>#method3 [Manifest-Resources-Tests]
+BlockClosureTest>>#testOnForkErrorOnSeparateProcess [KernelTests]
+RubMethodEditingExample>>#open [Rubric]
+FreeTypeFontProvider>>#updateFromSystem [FreeType]
+NECTestClass>>#testIt: [NECompletion-Tests]
+RBDeprecateMethodRefactoring>>#transform [Refactoring-Core]
+OCASTCheckerTest>>#testExampleSuper [OpalCompiler-Tests]
+OCASTCheckerTest>>#testNoRemoteBlockTemp [OpalCompiler-Tests]
+OCASTCheckerTest>>#testOptimizedBlocksAndSameNameTemps [OpalCompiler-Tests]
+OCASTCheckerTest>>#testExampleSelf [OpalCompiler-Tests]
+OCASTCheckerTest>>#testNoRemoteMethodTemp [OpalCompiler-Tests]
+OCASTCheckerTest>>#testSingleRemoteDifferentBlocksSameArgumentName [OpalCompiler-Tests]
+OCASTCheckerTest>>#testInstanceVar [OpalCompiler-Tests]
+OCASTCheckerTest>>#testSingleRemoteMethodArgument [OpalCompiler-Tests]
+OCASTCheckerTest>>#testNoRemoteBlockReturn [OpalCompiler-Tests]
+OCASTCheckerTest>>#testExamplePrimitiveErrorCode [OpalCompiler-Tests]
+OCASTCheckerTest>>#testNoRemoteBlockArgument [OpalCompiler-Tests]
+OCASTCheckerTest>>#testExampleThisContext [OpalCompiler-Tests]
+OCASTCheckerTest>>#testDoubleRemoteAnidatedBlocks [OpalCompiler-Tests]
+SelectorChooserMorph>>#drawCommonPrefixAreasOn: [Text-Edition]
+BagTest>>#testAsStringOnDelimiterLastMore [CollectionsTests]
+BagTest>>#testRemoveAllFoundIn [CollectionsTests]
+BagTest>>#testAsCommaStringMore [CollectionsTests]
+BagTest>>#test0FixtureOccurrencesForMultiplinessTest [CollectionsTests]
+BagTest>>#testAsStringOnDelimiterMore [CollectionsTests]
+NBExternalEnumerationType>>#coerceReturnValue: [NativeBoost-Core]
+GLMPortTest>>#testTransientValue [Glamour-Tests-Core]
+MBCopyBaselineCommand>>#copyBaselineWithNumber: [Versionner-Core-Commands]
+GLMSimpleRubricExample>>#presentation [Glamour-Rubric-Presentations]
+BMPReadWriter>>#readHeader [Graphics-Files]
+SymbolTest>>#testIndexOfSubCollectionStartingAtIfAbsent [CollectionsTests]
+SymbolTest>>#testAsStringOnDelimiterLastMore [CollectionsTests]
+SymbolTest>>#testStreamContents [CollectionsTests]
+SymbolTest>>#test0FixtureOccurrencesForMultiplinessTest [CollectionsTests]
+SymbolTest>>#testAsStringOnDelimiterMore [CollectionsTests]
+SymbolTest>>#testUncapitalized [CollectionsTests]
+SymbolTest>>#testStreamContentsProtocol [CollectionsTests]
+RubTextEditor>>#changeEmphasis [Rubric]
+RubTextEditor>>#dispatchCommandOn:return: [Rubric]
+RubTextEditor>>#correctFrom:to:with: [Rubric]
+RubTextEditor>>#addDeleteSelectionUndoRecord [Rubric]
+RubTextEditor>>#exchangeWith: [Rubric]
+TutorialPlayerTestWithMockTutorial>>#setUp [ProfStef-Tests]
+RPackageTraitSynchronisationTest>>#testRemoveTraitMethodOverridenByClassDoesRemoveMethodFromClassPackage [RPackage-Tests]
+MetacelloPackagesSpec>>#applyIncludesTo:for:firstTime: [Metacello-Core]
+TxHighlightRendererTest>>#testNoHighlightIfOutOfView [TxText-AthensTests]
+GLMFinderTest>>#testUnregisterAnnouncementsWhenRemovingPane [Glamour-Tests-Core]
+RBSendsDeprecatedMethodToGlobalRule>>#initialize [Refactoring-Critics]
+Base64MimeConverterTest>>#testDecodeMimeHeader [NetworkTests]
+NautilusUI>>#updateOnClassSelection [Nautilus]
+NewVersionBrowser class>>#versionsBrowserListMenu: [Spec-Tools]
+PlatformResolverTest>>#testCache [FileSystem-Tests-Core]
+TextStyle class>>#defaultFamilyNames [Text-Core]
+StringTest>>#testAtLastPut [CollectionsTests]
+StringTest>>#testAsStringOnDelimiterLastMore [CollectionsTests]
+StringTest>>#testStreamContents [CollectionsTests]
+StringTest>>#test0FixtureOccurrencesForMultiplinessTest [CollectionsTests]
+StringTest>>#testUnescapePercentsWithTextEncoding [Multilingual-Tests]
+StringTest>>#testAsStringOnDelimiterMore [CollectionsTests]
+StringTest>>#testStreamContentsProtocol [CollectionsTests]
+StringTest>>#testIndexOfSubCollectionStartingAtIfAbsent [CollectionsTests]
+RubSegmentMorph>>#drawBorderOn:usingEnds: [Rubric]
+MethodMapTests>>#testBlockWithTempsSourceNode [OpalCompiler-Tests]
+SmalltalkEditor>>#referencesToIt [Text-Edition]
+SmalltalkEditor>>#internalCallToBrowseIt [Text-Edition]
+OCContextTempMappingTest>>#testAccessingVariablesInOptimizedBlock2 [OpalCompiler-Tests]
+OCContextTempMappingTest>>#testAccessingVariablesInOptimizedBlock [OpalCompiler-Tests]
+OCContextTempMappingTest>>#testAccessingVariablesInBlock [OpalCompiler-Tests]
+OCContextTempMappingTest>>#testAccessingTempsVectorInBlock [OpalCompiler-Tests]
+OCContextTempMappingTest>>#testAccessingTempsVectorInBlock3 [OpalCompiler-Tests]
+NewList>>#itemAtIndex: [Morphic-Widgets-NewList]
+VGTigerDemo>>#runDemo [Athens-Examples]
+ZnClientTests>>#testIfModifiedSinceNotModified [Zinc-Tests]
+ZnClientTests>>#testRedirectWithCustomHeader [Zinc-Tests]
+Object>>#split: [Collections-Abstract]
+MetacelloProject>>#version: [Metacello-Core]
+SimpleGridExample>>#treeMorph [Morphic-Examples]
+MetacelloSemanticVersionNumber class>>#fromString:forPattern: [Metacello-Core]
+RPackageMCSynchronisationTest>>#testNotRepackagedAnnouncementWhenModifyMethodByMovingInSameExtensionCategory [RPackage-Tests]
+RPackageMCSynchronisationTest>>#testNotRepackagedAnnouncementWhenMovingClassicCategories [RPackage-Tests]
+RPackageMCSynchronisationTest>>#testRepackagedAnnouncementWhenModifyMethodByMovingFromDifferentExtensionCategories [RPackage-Tests]
+DeepCopier>>#checkBasicClasses [Kernel]
+OrderedCollectionTest>>#testAtLastPut [CollectionsTests]
+OrderedCollectionTest>>#testAsStringOnDelimiterLastMore [CollectionsTests]
+OrderedCollectionTest>>#testStreamContents [CollectionsTests]
+OrderedCollectionTest>>#testRemoveAllFoundIn [CollectionsTests]
+OrderedCollectionTest>>#test0FixtureOccurrencesForMultiplinessTest [CollectionsTests]
+OrderedCollectionTest>>#testAsStringOnDelimiterMore [CollectionsTests]
+OrderedCollectionTest>>#testStreamContentsProtocol [CollectionsTests]
+OrderedCollectionTest>>#testIndexOfSubCollectionStartingAtIfAbsent [CollectionsTests]
+NumberParser>>#nextInteger [AST-Core]
+RPackageObsoleteTest>>#testMethodPackageOfRemovedClass [RPackage-Tests]
+KMDispatcher>>#dispatch: [Keymapping-Core]
+MBPackageInfo>>#versions [Versionner-Core-Model]
+MCFileTreeAbstractReader>>#definitionFromFile:inDirectory: [MonticelloFileTree-Core]
+MetacelloToolBoxConstructor>>#extractSymbolicVersionSpecsFor: [Metacello-Core]
+HeapTest>>#testRemoveAll [CollectionsTests]
+HeapTest>>#test0FixtureOccurrencesForMultiplinessTest [CollectionsTests]
+HeapTest>>#testRemoveAllFoundIn [CollectionsTests]
+TextEditor>>#addTypeInUndoRecord [Text-Edition]
+TextEditor>>#changeEmphasis [Text-Edition]
+TextEditor>>#dispatchCommandOn:return: [Text-Edition]
+TextEditor>>#mouseUp: [Text-Edition]
+TextEditor>>#unapplyAttribute: [Text-Edition]
+TextEditor>>#addDeleteSelectionUndoRecord [Text-Edition]
+TextEditor>>#crWithIndent: [Text-Edition]
+TextEditor>>#replace:with:and: [Text-Edition]
+TextEditor>>#dispatchOn: [Text-Edition]
+TextEditor>>#correctFrom:to:with: [Text-Edition]
+NBCoreTests>>#nonExistedPrim: [NativeBoost-Tests]
+FLPair>>#methodWithTemp [FuelTests]
+MetacelloMCVersion>>#executeLoadFromArray: [Metacello-MC]
+RubParagraph>>#selectionRectsFrom:to: [Rubric]
+VersionnerProjectPackagesPanel>>#removeSelectedPackage [Versionner-Spec-Browser]
+MetacelloPackageSpec>>#currentPackageLoaded:notLoaded:using: [Metacello-MC]
+MetacelloPackageSpec>>#mergeSpec: [Metacello-MC]
+OCASTClosureAnalyzerTest>>#testSingleRemoteReadNestedBlocks [OpalCompiler-Tests]
+OCASTClosureAnalyzerTest>>#testOptimizedBlockWriteInNestedBlockCase2 [OpalCompiler-Tests]
+OCASTClosureAnalyzerTest>>#testOptimizedBlockWriteInNestedBlockCase4 [OpalCompiler-Tests]
+OCASTClosureAnalyzerTest>>#testWrittenAfterClosedOver [OpalCompiler-Tests]
+OCASTClosureAnalyzerTest>>#testOptimizedBlockWrittenAfterClosedOverCase1 [OpalCompiler-Tests]
+OCASTClosureAnalyzerTest>>#testExampleSimpleBlockNested [OpalCompiler-Tests]
+OCASTClosureAnalyzerTest>>#testOptimizedBlockWrittenAfterClosedOverCase2 [OpalCompiler-Tests]
+OCASTClosureAnalyzerTest>>#testOptimizedBlockWriteInNestedBlockCase3 [OpalCompiler-Tests]
+OCASTClosureAnalyzerTest>>#testSingleRemoteDifferentBlocksSameArgumentName [OpalCompiler-Tests]
+OCASTClosureAnalyzerTest>>#testDoubleRemoteAnidatedBlocks [OpalCompiler-Tests]
+OCASTClosureAnalyzerTest>>#testExampleBlockArgument [OpalCompiler-Tests]
+OCASTClosureAnalyzerTest>>#testOptimizedBlockWriteInBlock [OpalCompiler-Tests]
+OCASTClosureAnalyzerTest>>#testNestedBlocksRemoteInBlockCase2 [OpalCompiler-Tests]
+OCASTClosureAnalyzerTest>>#testExampleWhileModificationBefore [OpalCompiler-Tests]
+OCASTClosureAnalyzerTest>>#testExampleSimpleBlockLocalWhile [OpalCompiler-Tests]
+OCASTClosureAnalyzerTest>>#testNoRemoteReadNestedBlocks [OpalCompiler-Tests]
+OCASTClosureAnalyzerTest>>#testSingleRemoteMethodArgument [OpalCompiler-Tests]
+OCASTClosureAnalyzerTest>>#testNestedBlocksRemoteInBlockCase3 [OpalCompiler-Tests]
+OCASTClosureAnalyzerTest>>#testNoRemoteBlockArgument [OpalCompiler-Tests]
+OCASTClosureAnalyzerTest>>#testOptimizedBlockWriteInNestedBlock [OpalCompiler-Tests]
+OCASTClosureAnalyzerTest>>#testNoRemoteReadInBlock [OpalCompiler-Tests]
+OCASTClosureAnalyzerTest>>#testOptimizedBlockReadInBlock [OpalCompiler-Tests]
+TimespanTest>>#testInclusion [KernelTests]
+FLHeaderSerializationTest>>#testAdditionalObjects [FuelTests]
+FT2GlyphRenderer>>#loadUnicode: [Athens-Balloon]
+FT2GlyphRenderer>>#loadSurfaceTransform [Athens-Balloon]
+MCFileTreeRepository class>>#parseName:extension: [MonticelloFileTree-Core]
+OSSDL2FormRenderer>>#updateRectangle: [OSWindow-SDL2]
+WaitfreeQueue>>#size [Collections-Atomic]
+BlockClosure>>#value:value:value: [Kernel]
+BlockClosure>>#ifCurtailed: [Kernel]
+BlockClosure>>#value [Kernel]
+BlockClosure>>#on:fork: [Kernel]
+BlockClosure>>#value:value:value:value: [Kernel]
+BlockClosure>>#value:value: [Kernel]
+BlockClosure>>#value: [Kernel]
+MBLoadConfigurationCommand>>#execute [Versionner-Core-Commands]
+ClassTestCase>>#assertValidLintRule: [Manifest-Core]
+AJx86Assembler>>#pushArgument:forCall: [AsmJit-x86]
+MetacelloMemberListSpec>>#mergeSpec: [Metacello-Core]
+MetacelloMCProjectSpecTestCase>>#testMCProjectMergeSpec [Metacello-TestsMCCore]
+TRemoveForMultiplenessTest>>#testRemoveAll [CollectionsTests]
+TRemoveForMultiplenessTest>>#testRemoveAllFoundIn [CollectionsTests]
+TextConverter>>#next:putAll:startingAt:toStream: [Multilingual-TextConversion]
+TextConverter>>#nextPutAll:toStream: [Multilingual-TextConversion]
+Text class>>#fromString: [Text-Core]
+MetacelloPackagesSpecTestCase>>#testRemoveGroupC [Metacello-TestsCore]
+MetacelloPackagesSpecTestCase>>#testRemoveGroupB [Metacello-TestsCore]

@@ -1,0 +1,4 @@
+MCModel2MTModelVisitor>>#visitMCVersion: [Versionner-Core-DependenciesModel]
+MCWorkingCopy>>#versionInfo [GT-SpotterExtensions-Core]
+VersionnerToolBox>>#projectSpecFromRequiredProject: [Versionner-Core-DependenciesModel]
+VSSaveProjectCommand>>#execute [Versionner-Core-Commands]

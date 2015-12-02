@@ -1,14 +1,14 @@
-EncoderForSistaV1 class>>#nonExtensionBytecodeAt:in:
-EncoderForSistaV1 class>>#isSendAt:in:
-EncoderForSistaV1 class>>#isExtension:
-EncoderForSistaV1 class>>#extensionsAt:in:into:
-EncoderForSistaV1 class>>#selectorToSendOrItselfFor:in:at:
-EncoderForSistaV1 class>>#method:refersInBytecodeToLiteral:specialSelectorIndex:
-GLMPagerModel>>#isPaneVisible:
-Latin1 class>>#nextPutValue:toStream:withShiftSequenceIfNeededForTextConverterState:
-Unicode class>>#digitValueOf:
-EncodedCharSet class>>#isUppercase:
-EncodedCharSet class>>#digitValueOf:
-EncodedCharSet class>>#isLetter:
-EncodedCharSet class>>#isLowercase:
-EncodedCharSet class>>#isDigit:
+EncoderForSistaV1 class>>#nonExtensionBytecodeAt:in: [Compiler]
+EncoderForSistaV1 class>>#isSendAt:in: [Compiler]
+EncoderForSistaV1 class>>#isExtension: [Compiler]
+EncoderForSistaV1 class>>#extensionsAt:in:into: [Compiler]
+EncoderForSistaV1 class>>#selectorToSendOrItselfFor:in:at: [Compiler]
+EncoderForSistaV1 class>>#method:refersInBytecodeToLiteral:specialSelectorIndex: [Compiler]
+GLMPagerModel>>#isPaneVisible: [Glamour-Morphic-Pager]
+Latin1 class>>#nextPutValue:toStream:withShiftSequenceIfNeededForTextConverterState: [Multilingual-Encodings]
+Unicode class>>#digitValueOf: [Multilingual-Encodings]
+EncodedCharSet class>>#isUppercase: [Multilingual-Encodings]
+EncodedCharSet class>>#digitValueOf: [Multilingual-Encodings]
+EncodedCharSet class>>#isLetter: [Multilingual-Encodings]
+EncodedCharSet class>>#isLowercase: [Multilingual-Encodings]
+EncodedCharSet class>>#isDigit: [Multilingual-Encodings]
