@@ -14,7 +14,7 @@ while getopts "t:" opt; do
 done
 
 process_rule() {
-  result=$($work_dir/pharo $1 --no-default-preferences eval "$2 new in: [ :rule | RBSmalllintChecker runRule: rule. (rule critics collect: #name) asArray joinUsing: String lf ]")
+  result=$($work_dir/pharo $1 --no-default-preferences eval "$2 new in: [ :rule | RBSmalllintChecker runRule: rule. (rule critics collect: [ :entity | entity name, ' [', entity package name, ']']) asArray joinUsing: String lf ]")
   result=${result#\'}
   result=${result%\'}
   echo "$result" > $2
@@ -33,7 +33,7 @@ process_image () {
 
     eval "$work_dir/pharo Pharo-$version.image --no-default-preferences eval --save \"Gofer it smalltalkhubUser: 'Pharo' project: 'Pharo50'; version: 'Refactoring-Critics-TheIntegrator.248'; load\""
 
-    eval "$work_dir/pharo Pharo-$version.image --no-default-preferences eval --save \"RBCompositeLintRule class compile: 'rulesClassifiedFor: aRuleClass | groups rules | groups := Dictionary new. (self rulesFor: aRuleClass) do: [ :each | (groups at: each group ifAbsentPut: [ OrderedCollection new ]) addLast: each ]. rules := SortedCollection sortBlock: [ :a :b | a name <= b name ]. groups keysAndValuesDo: [ :group :elements | rules addLast: (RBCompositeLintRule rules: elements asArray name: group) ]. ^ rules asArray' classified: '*Manifest-Core'\""
+    eval "$work_dir/pharo Pharo-$version.image --no-default-preferences eval --save \"Gofer it smalltalkhubUser: 'Pharo' project: 'Pharo50'; version: 'Manifest-Core-TheIntegrator.236'; load\""
 
     rulesString=$($work_dir/pharo Pharo-$version.image --no-default-preferences eval '(RBCompositeLintRule allGoodRules leaves collect: #class) joinUsing: String space')
     rulesString=${rulesString#\'}
