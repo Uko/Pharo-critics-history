@@ -1,48 +1,48 @@
-RBSmalllintTestObject>>#yourselfNotUsed
-RBRefactoryTestDataApp>>#yourselfNotUsed
-VSVersionMorph>>#initialize
-DAPackageCycleTest>>#testReversedCycle
-SpecAdapterBindings>>#initializeBindings
-MetacelloIssue108Resource>>#setUpVersionReferences
-FLHookedSubstitutionTest>>#testProxyByTargetAnalisysIsPropagated
-VersionnerProjectBrowser>>#initializePresenter
-ChangesBrowser>>#setFocus
-MCFileTreeRepository>>#writeRepositoryProperties
-MetacelloCoreIssue125TestCase>>#baseline300:
-MetacelloCoreIssue125TestCase>>#baseline200:
-MetacelloConfigurationResource>>#baseline40ProjectInfinite:
-MetacelloConfigurationResource>>#baselineVersion21Issue171:
-MetacelloConfigurationResource>>#baselineVersion30Issue119:
-MetacelloConfigurationResource>>#baselineVersion40Issue119:
-MetacelloConfigurationResource>>#setUpIssue95
-MetacelloConfigurationResource>>#baselineVersion10Issue119:
-MetacelloConfigurationResource>>#baselineVersion20Issue171:
-MetacelloConfigurationResource>>#setUp
-MetacelloConfigurationResource>>#baseline50Foo:
-MetacelloConfigurationResource>>#baseline35Foo:
-MetacelloConfigurationResource>>#baselineVersion20Issue119:
-MetacelloConfigurationResource>>#baseline40Foo:
-MetacelloConfigurationResource>>#baseline40ProjectFee:
-MetacelloConfigurationResource>>#baselineVersion10Issue115:
-MetacelloAtomicConfigurationResource>>#baseline31Fan:
-MetacelloAtomicConfigurationResource>>#baseline25Foo:
-MetacelloAtomicConfigurationResource>>#baseline60Foo:
-MetacelloAtomicConfigurationResource>>#baseline61Foo:
-MetacelloAtomicConfigurationResource>>#baseline62Foo:
-MetacelloAtomicConfigurationResource>>#setUp
-MetacelloProjectSpecTestCase>>#testProjectSpec
-MorphicAdapterBindings>>#initializeBindings
-MTDependantProject>>#editRepositories
-MetacelloMonticelloResource>>#setUpVersionReferences
-MetacelloAtomicMonticelloResource>>#setUpVersionReferences
-MetacelloScriptingResource>>#setUp
-MetacelloScriptingResource>>#externalBaselineXXX:
-MetacelloScriptingResource>>#externalBaselineXX:
-MetacelloScriptingResource>>#baselineIssue32:
-MetacelloScriptingResource>>#externalBaselineX:
-MetacelloMCVersionSpecTestCase>>#testMCVersionSpec
-MetacelloMCVersionSpecTestCase>>#testMCVersionMergeSpec
-FileSystem class>>#gtExampleZip
-GLMMorphicSmalltalkCodeRenderer>>#textMorphForModel:
-GTPlaygroundEditableTabLabel>>#initialize
-MetacelloMCProjectSpecTestCase>>#testMCProjectSpec
+RBSmalllintTestObject>>#yourselfNotUsed [Refactoring-Tests-Critics]
+RBRefactoryTestDataApp>>#yourselfNotUsed [Refactoring-Tests-Core]
+VSVersionMorph>>#initialize [Versionner-Spec-Browser]
+DAPackageCycleTest>>#testReversedCycle [Tool-DependencyAnalyser-Test]
+SpecAdapterBindings>>#initializeBindings [Spec-Core]
+MetacelloIssue108Resource>>#setUpVersionReferences [Metacello-TestsMCResources]
+FLHookedSubstitutionTest>>#testProxyByTargetAnalisysIsPropagated [FuelTests]
+VersionnerProjectBrowser>>#initializePresenter [Versionner-Spec-Browser]
+ChangesBrowser>>#setFocus [NautilusRefactoring]
+MCFileTreeRepository>>#writeRepositoryProperties [MonticelloFileTree-Core]
+MetacelloCoreIssue125TestCase>>#baseline300: [Metacello-TestsCore]
+MetacelloCoreIssue125TestCase>>#baseline200: [Metacello-TestsCore]
+MetacelloConfigurationResource>>#baseline40ProjectInfinite: [Metacello-TestsMCResources]
+MetacelloConfigurationResource>>#baselineVersion21Issue171: [Metacello-TestsMCResources]
+MetacelloConfigurationResource>>#baselineVersion30Issue119: [Metacello-TestsMCResources]
+MetacelloConfigurationResource>>#baselineVersion40Issue119: [Metacello-TestsMCResources]
+MetacelloConfigurationResource>>#setUpIssue95 [Metacello-TestsMCResources]
+MetacelloConfigurationResource>>#baselineVersion10Issue119: [Metacello-TestsMCResources]
+MetacelloConfigurationResource>>#baselineVersion20Issue171: [Metacello-TestsMCResources]
+MetacelloConfigurationResource>>#setUp [Metacello-TestsMCResources]
+MetacelloConfigurationResource>>#baseline50Foo: [Metacello-TestsMCResources]
+MetacelloConfigurationResource>>#baseline35Foo: [Metacello-TestsMCResources]
+MetacelloConfigurationResource>>#baselineVersion20Issue119: [Metacello-TestsMCResources]
+MetacelloConfigurationResource>>#baseline40Foo: [Metacello-TestsMCResources]
+MetacelloConfigurationResource>>#baseline40ProjectFee: [Metacello-TestsMCResources]
+MetacelloConfigurationResource>>#baselineVersion10Issue115: [Metacello-TestsMCResources]
+MetacelloAtomicConfigurationResource>>#baseline31Fan: [Metacello-TestsMCResources]
+MetacelloAtomicConfigurationResource>>#baseline25Foo: [Metacello-TestsMCResources]
+MetacelloAtomicConfigurationResource>>#baseline60Foo: [Metacello-TestsMCResources]
+MetacelloAtomicConfigurationResource>>#baseline61Foo: [Metacello-TestsMCResources]
+MetacelloAtomicConfigurationResource>>#baseline62Foo: [Metacello-TestsMCResources]
+MetacelloAtomicConfigurationResource>>#setUp [Metacello-TestsMCResources]
+MetacelloProjectSpecTestCase>>#testProjectSpec [Metacello-TestsCore]
+MorphicAdapterBindings>>#initializeBindings [Spec-MorphicAdapters]
+MTDependantProject>>#editRepositories [Versionner-Spec-Browser]
+MetacelloMonticelloResource>>#setUpVersionReferences [Metacello-TestsMCResources]
+MetacelloAtomicMonticelloResource>>#setUpVersionReferences [Metacello-TestsMCResources]
+MetacelloScriptingResource>>#setUp [Metacello-TestsMCResources]
+MetacelloScriptingResource>>#externalBaselineXXX: [Metacello-TestsMCResources]
+MetacelloScriptingResource>>#externalBaselineXX: [Metacello-TestsMCResources]
+MetacelloScriptingResource>>#baselineIssue32: [Metacello-TestsMCResources]
+MetacelloScriptingResource>>#externalBaselineX: [Metacello-TestsMCResources]
+MetacelloMCVersionSpecTestCase>>#testMCVersionSpec [Metacello-TestsMCCore]
+MetacelloMCVersionSpecTestCase>>#testMCVersionMergeSpec [Metacello-TestsMCCore]
+FileSystem class>>#gtExampleZip [GT-InspectorExtensions-Core]
+GLMMorphicSmalltalkCodeRenderer>>#textMorphForModel: [Glamour-Morphic-Renderer]
+GTPlaygroundEditableTabLabel>>#initialize [GT-Playground]
+MetacelloMCProjectSpecTestCase>>#testMCProjectSpec [Metacello-TestsMCCore]

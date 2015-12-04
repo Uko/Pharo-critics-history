@@ -1,1 +1,3 @@
-
+RBPharoBootstrapRule>>#dependencyChecker [Refactoring-Critics]
+RBPharoBootstrapRule>>#bootstrapPackages [Refactoring-Critics]
+RBPharoBootstrapRule>>#collectionsPackages [Refactoring-Critics]

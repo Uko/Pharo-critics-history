@@ -1,75 +1,75 @@
-SelectorChooserMorph
-RBRenameInstanceVariableChange
-KMSingleKeyCombination
-TxEmbeddedObjectCommand
-AJMMRegister
-AJBaseReg
-FileReference
-SpecColumnLayout
-TxDisplayCommand
-SDL2TouchGestureExample2
-AthensPathBuilder
-AthensSimplePathBuilder
-RBRenameVariableChange
-ZipNewFileMember
-SpecSplitterVertical
-RubSelectorChooserMorph
-MCSnapshotReader
-AJx87Register
-AJImmediate
-TxTabDisplayCommand
-AJRegister
-MCFileTreeStCypressReader
-TxCharacterSpanDisplayCommand
-GLMBrickWidthTraverser class
-SDL2TouchGestureExample
-GLMVerticalLinearLayout class
-GLMBrickHeightTraverser class
-AbstractFileReference
-OpalCompiler
-MCStReader
-ZipFileMember
-MCMcdReader
-AbstractSpecLayoutAction
-SpecTableLayoutSend
-AbstractCompiler
-SpecLayoutSend
-Metaclass
-Context
-SpecLayout
-MCVersionInspector
-RBRenameClassVariableChange
-AJMem
-AJxMMRegister
-KMUntypeableSingleKeyCombination
-RBCompositeRefactoryChange
-Compiler
-MCMczReader
-TxNewLineDisplayCommand
-ZipArchiveMember
-SHTextStyler
-IdentifierChooserMorph
-FileLocator
-GLMLinearLayout class
-Decompiler
-TxCairoCharacterSpanDisplayCommand
-AthensCairoPathBuilder
-SHTextStylerST80
-MCVersionReader
-KMNamedCharKeyCombination
-ZipStringMember
-MCFileTreeAbstractReader
-SDL2TouchExample
-SpecSplitterHorizontal
-ClassDescription
-InstructionStream
-GLMHighlighterTextParserStyler
-AJOperand
-SpecRowLayout
-GLMHorizontalLinearLayout class
-Class
-GLMBrickLayoutTraverser class
-MCReader
-MCRepositoryInspector
-MCFileRepositoryInspector
-RBRenameClassChange
+GLMVerticalLinearLayout class [Glamour-Morphic-Brick]
+MCVersionInspector [MonticelloGUI]
+SpecTableLayoutSend [Spec-Layout]
+ZipNewFileMember [Compression]
+TxTabDisplayCommand [TxText-Athens]
+TxDisplayCommand [TxText-Athens]
+MCStReader [Monticello]
+SDL2TouchGestureExample2 [OSWindow-SDL2]
+Metaclass [Kernel]
+MCVersionReader [Monticello]
+RBRenameClassVariableChange [Refactoring-Changes]
+Context [Kernel]
+MCMcdReader [Monticello]
+KMNamedCharKeyCombination [Keymapping-KeyCombinations]
+AbstractCompiler [OpalCompiler-Core]
+AJOperand [AsmJit-Operands]
+AJMem [AsmJit-Operands]
+MCRepositoryInspector [MonticelloGUI]
+SpecSplitterHorizontal [Spec-Layout]
+OpalCompiler [OpalCompiler-Core]
+SpecRowLayout [Spec-Layout]
+SelectorChooserMorph [Text-Edition]
+ZipArchiveMember [Compression]
+Decompiler [Compiler]
+GLMHorizontalLinearLayout class [Glamour-Morphic-Brick]
+InstructionStream [Kernel]
+AJMMRegister [AsmJit-x86]
+Class [Kernel]
+MCFileTreeStCypressReader [MonticelloFileTree-Core]
+AbstractFileReference [FileSystem-Core]
+GLMBrickWidthTraverser class [Glamour-Morphic-Brick]
+AJBaseReg [AsmJit-Operands]
+IdentifierChooserMorph [Polymorph-Widgets]
+AbstractSpecLayoutAction [Spec-Layout]
+FileLocator [FileSystem-Core]
+TxEmbeddedObjectCommand [TxText-Athens]
+TxCairoCharacterSpanDisplayCommand [TxText-Athens]
+GLMHighlighterTextParserStyler [Glamour-Rubric-Presentations]
+AJxMMRegister [AsmJit-x86]
+RubSelectorChooserMorph [Rubric]
+SpecLayout [Spec-Layout]
+TxNewLineDisplayCommand [TxText-Athens]
+ZipFileMember [Compression]
+RBRenameVariableChange [Refactoring-Changes]
+ZipStringMember [Compression]
+RBRenameClassChange [Refactoring-Changes]
+ClassDescription [Kernel]
+SpecLayoutSend [Spec-Layout]
+GLMLinearLayout class [Glamour-Morphic-Brick]
+AJx87Register [AsmJit-x86]
+SHTextStylerST80 [Shout]
+AJImmediate [AsmJit-Operands]
+RBCompositeRefactoryChange [Refactoring-Changes]
+GLMBrickHeightTraverser class [Glamour-Morphic-Brick]
+SpecSplitterVertical [Spec-Layout]
+SDL2TouchGestureExample [OSWindow-SDL2]
+AthensCairoPathBuilder [Athens-Cairo]
+MCReader [Monticello]
+GLMBrickLayoutTraverser class [Glamour-Morphic-Brick]
+SpecColumnLayout [Spec-Layout]
+KMSingleKeyCombination [Keymapping-KeyCombinations]
+AJRegister [AsmJit-Operands]
+SDL2TouchExample [OSWindow-SDL2]
+AthensSimplePathBuilder [Athens-Core]
+AthensPathBuilder [Athens-Core]
+MCFileTreeAbstractReader [MonticelloFileTree-Core]
+MCFileRepositoryInspector [MonticelloGUI]
+TxCharacterSpanDisplayCommand [TxText-Athens]
+KMUntypeableSingleKeyCombination [Keymapping-KeyCombinations]
+MCSnapshotReader [Monticello]
+FileReference [FileSystem-Core]
+SHTextStyler [Shout]
+Compiler [Compiler]
+MCMczReader [Monticello]
+RBRenameInstanceVariableChange [Refactoring-Changes]

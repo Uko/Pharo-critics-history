@@ -1,374 +1,370 @@
-RubSurfaceSelectionShape>>#drawOnAthensCanvas:
-ThreadSafeTranscript>>#stepGlobal
-TaskbarMorph class>>#showTaskbar:
-TickSelectionListNodeMorph>>#drawMouseDownHighlightOn:
-RubFindReplaceDialogWindow>>#searchBackwards:
-NBNativeCodeGen class>>#removeNativeCodeFrom:
-GroupWindowMorph>>#update:with:
-AndreasSystemProfiler>>#report:cutoff:
-SpecTreeColumn>>#setHeaderButtonLabel:font:icon:target:actionSelector:
-GLMHighlighterTextParserStyler>>#privateStyle:
-TestAsserter>>#assert:description:
-TestAsserter>>#assert:description:resumable:
-TestAsserter>>#assert:
-Locale class>>#switchTo:
-Locale class>>#startUp:
-MCVersionMerger>>#mergeWithNameLike:
-MetacelloVersionSpec>>#configPackagesSpecMethodOn:indent:
-MCVersionSorter>>#processVersionInfo:
-RBSmalllintTestObject>>#guardingClause
-GLMPagerModel>>#focusedMorphChanged:at:
-GLMPagerModel>>#invariant
-GLMPagerModel>>#focusPaneAt:
-RBRefactoryTestDataApp>>#guardingClause
-LabelMorph>>#update:
-LabelMorph>>#enabled:
-DropListMorph>>#showList
-DropListMorph>>#update:
-DropListMorph>>#updateList
-RPackageOrganizer>>#systemMethodRecategorizedActionFrom:
-Stopwatch>>#activate
-Stopwatch>>#suspend
-Rectangle>>#allAreasOutsideList:startingAt:do:
-OCASTClosureAnalyzer>>#changeVariableClass:
-AthensSceneView>>#drawOn:
-OSWindowRenderThread class>>#checkSession
-RubFloatingEditorBuilder>>#whenKeystroke:
-JobProgressMorph>>#progress:
-MBConfigurationInfo>>#recalculateIfInterestedInPackageNamed:for:
-RBInstVarInSubclassesRule>>#checkClass:
-VSRemoveCommand>>#execute
-RBMissingSubclassResponsibilityRule>>#checkClass:
-PasteUpMorph>>#backgroundMorph:
-PasteUpMorph>>#windowEvent:
-RBInconsistentMethodClassificationRule>>#checkMethod:
-Halt class>>#once
-TextMorph>>#resetBlinkCursor
-WeakKeyToCollectionDictionary>>#noCheckAddForRehash:
-CheckboxButtonMorph>>#drawOnAthensCanvas:
-TabSelectorMorph>>#ensureSelectedTabIsVisible
-NBFFICallback class>>#checkSession
-ZnSingleThreadedServer>>#augmentResponse:forRequest:
-InflateStream>>#moveContentsToFront
-InflateStream>>#moveSourceToFront
-TApplyingOnClassSide>>#fileOutInitializerOn:
-GeneralScrollPane>>#scrollToShow:
-MetacelloMCVersionValidator>>#validateCleanLoadAndTestsForVersion:loads:
-MetacelloMCProjectSpec>>#ensureLoadedForDevelopmentUsing:
-DelayWaitTimeout>>#schedulerSignalWaitingProcess
-ColorChooserMorph>>#update:
-MorphTreeMorph>>#hScrollBarValue:
-MorphTreeMorph>>#makeLastColumnBounded
-MorphTreeMorph>>#expandSilently:suchThat:
-MorphTreeMorph>>#mouseEnterDragging:
-Categorizer>>#removeEmptyCategories
-Categorizer>>#removeCategory:
-MetacelloProjectSpec>>#configShortCutMethodOn:member:indent:
-MetacelloProjectSpec>>#configMethodBodyOn:indent:
-BlockLocalTempCounter>>#jump:
-GLMPagerScrollButtonBrick>>#setNotFocused
-GLMPagerScrollButtonBrick>>#setFocused
-RubCursor>>#whenLostFocus:
-SettingBrowser>>#addToSearchedTextList:
-SettingBrowser>>#menuEmptyList:
-SettingBrowser>>#updateList
-SettingBrowser>>#setAllToDefault
-PluggableListMorph>>#changeModelSelection:
-PluggableListMorph>>#enabled:
-MetacelloToolBox class>>#defaultTopic:for:
-HandMorph>>#showMouseFocusEvent:
-HandMorph>>#showDebugEvent:
-MorphDropListMorph>>#updateContents
-BlockNode>>#returnNilIfNoOther
-BlockNode>>#optimizedBlockHoistTempsInto:
-BlockNode>>#returnLast
-RBClassInstVarNotInitializedRule>>#checkClass:
-TextHighlightByBounds>>#drawOn:in:offset:
-Duration>>#printOn:
-Decompiler>>#send:super:numArgs:
-Decompiler>>#case:
-UTF16TextConverter>>#checkBOMOn:
-PopupChoiceDialogWindow>>#filter:
-Trait>>#fileOutOn:initializing:
-FBDOptimizedMessagesRewriter>>#handleIfFalse:
-FBDOptimizedMessagesRewriter>>#handleIfTrue:
-PackageTreeNautilusUI>>#classAdded:
-PackageTreeNautilusUI>>#removePackages
-PackageTreeNautilusUI>>#runPackagesTestsNotifying:
-DAPackageCycleDetector>>#buildCycleUntil:
-FBDExamples>>#exampleIfTrueForEffectNested
-MessageTally>>#treePrintOn:tabs:thisTab:total:totalTime:tallyExact:orThreshold:
-GIFReadWriter>>#checkCodeSize
-MetacelloAbstractPackageSpec>>#configMethodBodyOn:hasName:cascading:indent:
-FreeTypeSettings>>#setSubPixelFilter:
-FreeTypeSettings>>#setGamma:
-FormCanvas>>#frameAndFillRectangle:fillColor:borderWidth:topLeftColor:bottomRightColor:
-FormCanvas>>#fillOval:color:borderWidth:borderColor:
-FormCanvas>>#frameAndFillRectangle:fillColor:borderWidth:borderColor:
-LazyMorphListMorph>>#athensDisplay:atRow:on:
-GLMValidator>>#addPaneFrom:
-SettingNode>>#updateAccordingTo:
-SortedCollection>>#defaultSort:to:
-SortedCollection>>#sort:to:
-ProcessBrowser>>#startCPUWatcher
-CairoUTF8Converter>>#checkBufferSpace:
-CompiledMethod>>#postCopy
-SystemWindow>>#mouseLeaveDragging:
-SystemWindow>>#stepAt:
-SystemWindow>>#configureForEmbedding
-SystemWindow>>#mouseEnterDragging:
-DatePrintFormatTester>>#assert:description:
-PSMCChangesGrouper>>#ensureClassChangeWrapperNamed:
-FreeTypeCache class>>#shutDown:
-NautilusMonticello class>>#packagesCommitsMenu:
-NautilusMonticello class>>#packagesChangesMenu:
-BalloonSolidFillSimulation>>#computeFillFrom:to:at:in:
-TxTextStyler>>#visitVariableNode:
-TBehavior>>#allSuperclassesDo:
-AbstractResizerMorph>>#mouseUp:
-AbstractResizerMorph>>#mouseEnter:
-ColorPresenterMorph>>#update:
-RBRefactoring>>#checkPreconditions
-Base64MimeConverter>>#mimeEncode
-ImageMorph>>#color:
-TestRunner>>#updateResults
-TxAthensLayoutView>>#ensurePointWithinLayout:
-RBSmalllintContext>>#printOn:
-DockingBarMenuItemMorph>>#deselectTimeOut:
-DockingBarMenuItemMorph>>#drawOn:
-AbstractNautilusUI>>#sourceCode:
-AbstractNautilusUI>>#classRemoved:
-AbstractNautilusUI>>#classRenamed:
-AbstractNautilusUI>>#selectedPackage:
-AbstractNautilusUI>>#mcPackageModified:
-AbstractNautilusUI>>#copyClasses
-AbstractNautilusUI>>#selectedGroupWithoutChangingSelection:
-AbstractNautilusUI>>#aGroupHasBeenRemoved:
-AbstractNautilusUI>>#hierarchyButtonAction:
-AbstractNautilusUI>>#selectedPackageWithoutChangingSelection:
-AbstractNautilusUI>>#testCaseStarted:
-AbstractNautilusUI>>#classAdded:
-AbstractNautilusUI>>#mcWorkingCopyCreated:
-AbstractNautilusUI>>#listMouseDown:
-AbstractNautilusUI>>#showInstance:
-AbstractNautilusUI>>#testRunned:
-SmalltalkImage>>#saveChangesInFileNamed:
-StringMorphEditor>>#keyboardFocusChange:
-PostorderGuide>>#traverse:
-PragmaCollector>>#addPragma:
-HaloMorph>>#addDismissHandle:
-HaloMorph>>#endInteraction
-HaloMorph>>#setColor:toHandle:
-JoinSection>>#drawOn:
-Float>>#absPrintInexactlyOn:base:
-Float>>#absPrintExactlyOn:base:
-Float>>#absPrintOn:base:digitCount:
-ToggleMenuItemMorph>>#basicDrawOn:
-Latin1 class>>#emitSequenceToResetStateIfNeededOn:forState:
-ProtoObject>>#doOnlyOnce:
-Monitor>>#exit
-SlReportPreDebugAction>>#forDebugger:
-RubPlainTextMode class>>#menuOn:
-LazyListMorph>>#athensDisplay:atRow:on:
-GLMPagerScrollBrick>>#focusChanged:
-GLMFinder>>#innerPortEvent:
-MorphTreePager>>#nextPage
-MorphTreePager>>#updateForNewPageSize:
-MorphTreePager>>#previousPage
-Metaclass>>#fileOutOn:initializing:
-Parser>>#addComment
-PluggableButtonMorph>>#updateFeedbackForEvt:
-BIConfigurableFormatter>>#resizeComment:withFirstLineShorterOf:
-AthensTextScanner>>#setActualFont:
-AthensTextScanner>>#textColor:
-NOCEntryList>>#addEntry:date:
-FreeTypeNameParser>>#extractWeight
-FreeTypeNameParser>>#extractSlant
-Editor>>#lineSelectAndEmptyCheck:
-Editor>>#selectMark:point:
-MCFileBasedRepository>>#basicStoreVersion:
-PanelMorph>>#handleMouseOver:
-SpecDebugger>>#proceed:
-DockingBarToggleMenuItemMorph>>#deselectTimeOut:
-DockingBarToggleMenuItemMorph>>#drawOn:
-DockingBarMorph>>#updateExtent
-DockingBarMorph>>#updatePosition
-DockingBarMorph>>#updateLayoutProperties
-DockingBarMorph>>#addCustomMenuItems:hand:
-DateAndTime>>#normalizeSecondsAndNanos
-BracketSliderMorph>>#updateFillStyle
-TClassDescription>>#updateOrganizationDescription:oldCategory:newCategory:changedCategories:
-TClassDescription>>#updateOrganizationDescription:oldCategory:newCategory:changed:
-GLMInteractableBrick>>#check
-GLMInteractableBrick>>#deselect
-GLMInteractableBrick>>#select
-GLMInteractableBrick>>#uncheck
-ProgressBarMorph>>#value:
-SimpleHierarchicalListMorph>>#mouseEnterDragging:
-RubScrolledTextMorph>>#mouseDown:
-RubScrolledTextMorph>>#acceptContents
-GTSpotter>>#historize:
-GTSpotter>>#popStep
-DiffMorph>>#applyPrettyPrinter
-ScriptLoader>>#saveImageForRunningTests
-ScriptLoader>>#verifyNewUpdate
-RBMissingSuperSendsRule>>#checkMethod:
-BalloonLineSimulation>>#stepToFirstScanLineAt:in:
-IndentingListItemMorph>>#drawMouseDownHighlightOn:
-SocketStream>>#flush
-Class>>#fileOutOn:initializing:
-MorphTreeListManager>>#mouseMove:on:
-MorphTreeListManager>>#selectMoreAtBottom
-MorphTreeListManager>>#selectMoreAtTop
-TClass>>#addClassVariable:
-TClass>>#removeSubclass:
-GLMTreeMorphModel>>#toggleAmountToFilterBy
-MetacelloVersionLoadDirective>>#loadPreloadDirective:
-MetacelloVersionLoadDirective>>#loadPostloadDirective:
-RingChunkImporter>>#msgClassComment:with:
-DATarjanAlgorithm>>#traverse:
-MorphTreeChunkPager>>#nextPage:
-MenuCapturingMorph>>#step
-RubEditingState>>#addUndoRecord:
-RubAbstractTextArea>>#updateExtentFromParagraph
-RubAbstractTextArea>>#handleSelectionChange:
-RubAbstractTextArea>>#handleBoundsChange:
-RubAbstractTextArea>>#mouseMove:
-SystemAnnouncer>>#announce:
-STONReader>>#match:do:
-STONReader>>#parseConstantDo:
-TAssertable>>#assert:description:
-EditorFindReplaceDialogWindow>>#on:
-EditorFindReplaceDialogWindow>>#searchBackwards:
-MalTarjan>>#traverse:
-RWBinaryOrTextStream>>#reset
-ProportionalSplitterMorph>>#drawOn:
-ShiftJISTextConverter>>#nextPut:toStream:
-ThreePhaseButtonMorph>>#doButtonAction
-ThreePhaseButtonMorph>>#step
-EncoderForV3PlusClosures class>>#prepareMethod:forSimulationWith:
-SettingDeclaration>>#addToList:
-DAPackageAnalyzerTreeModel>>#actionOnFindCycles
-DAPackageAnalyzerTreeModel>>#refresh
-ZipWriteStream>>#updateCrc
-AJInstruction>>#replace:with:
-AJInstruction>>#printOperandsOn:
-MBLoadPackageCommand>>#execute
-QSystemTally>>#treePrintOn:tabs:thisTab:total:totalTime:tallyExact:orThreshold:
-ProfStef>>#previous
-ProfStef>>#next
-MetacelloValidationIssue>>#printOn:
-MessageNode>>#emitCodeForWhile:encoder:value:
-MessageNode>>#emitCodeForRepeat:encoder:value:
-MessageNode>>#printCaseOn:indent:
-MessageNode>>#analyseTempsWithin:rootNode:assignmentPools:
-MessageNode>>#ensureCanCascade:
-KMKeymap>>#onMatchWith:notify:andDo:
-Morph>>#color:
-Morph>>#privateAddMorph:atIndex:
-Morph>>#handleMouseWheel:
-Morph>>#moveOrResizeFromKeystroke:
-Morph>>#theme:
-Morph>>#cornerStyle:
-Morph>>#justDroppedInto:event:
-Morph>>#click
-Morph>>#clipSubmorphs:
-MenuItemMorph>>#deselectTimeOut:
-MenuItemMorph>>#deselectItem
-MenuItemMorph>>#drawOn:
-RBRenameInstanceVariableRefactoring>>#transform
-ExpanderMorph>>#update:
-GTSpotterCandidatesList>>#updateCycleConnectionFor:
-AthensTigerShape>>#renderOn:
-SimpleEditor>>#zapSelectionWith:
-EditingState>>#addUndoRecord:
-DAPackageTreeModel>>#addDependenciesOptionsFor:on:
-DAPackageTreeModel>>#addPackageOptionsFor:on:
-MTDependency>>#addDependency:
-TransformWithLayoutMorphForMultipleEditors>>#updateSubMorph:
-BlockStartLocator>>#jump:
-OpalEncoderForV3PlusClosures class>>#prepareMethod:forSimulationWith:
-NBExternalStructureType>>#prepareReturnValue:for:
-MTDependantProject>>#editVersion
-CharacterScanner>>#advanceIfFirstCharOfLine
-RubTextEditor>>#lineSelectAndEmptyCheck:
-RubTextEditor>>#zapSelectionWith:
-RubTextEditor>>#storeSelectionInText
-RubTextEditor>>#selectMark:point:
-RubTextScrollPane>>#registerTextArea
-RubTextScrollPane>>#handleWrappingPolicyChange:
-RubTextScrollPane>>#unregisterTextArea
-PolygonMorph>>#beSmoothCurve
-PolygonMorph>>#beStraightSegments
-BalloonEngine>>#postFlushIfNeeded
-BalloonEngine>>#preFlushIfNeeded
-TxTextEditor>>#backspace
-TxTextEditor>>#delete
-RBMoveMethodRefactoring>>#replaceSelfReferences
-ZdcSimpleSocketStream>>#fillReadBuffer
-NautilusUI>>#methodModified:
-NautilusUI>>#methodAdded:
-NautilusUI>>#methodRemoved:
-NautilusUI>>#move:from:to:isCopy:
-NautilusUI>>#dropMethod:inARow:
-NautilusUI>>#generateTestMethodsAndFocus:
-NautilusUI>>#compileAMethodFromCategory:withSource:notifying:
-MalLongestPath>>#computeStep
-UserInterruptHandler>>#handleEvent:
-DAPackageAnalyzerReverseTreeModel>>#refresh
-RubSegmentMorph>>#beSmoothCurve
-RubSegmentMorph>>#beStraightSegments
-ZnBase64Encoder>>#decode:and:and:and:to:
-CompiledMethodTrailer>>#sourceCode:
-MenuMorph>>#drawOnAthensCanvas:
-MenuMorph>>#deleteIfPopUp
-OCContextTempMappingTest>>#testAccessingVariablesInOptimizedBlock2
-Tab>>#selected:
-HandleMorph>>#keyStroke:
-BorderedMorph>>#borderColor:
-OverflowRowMorph>>#hideMore
-OverflowRowMorph>>#step
-Object>>#inspectOnce
-RemoteTempVectorNode>>#addRemoteTemp:encoder:
-NewListRenderer>>#mouseUp:
-RubTextSegmentMorph>>#textChangedFrom:to:delta:
-SimpleButtonMorph>>#setArguments
-TxWorkspace>>#invokePrintItIn:
-BalloonBezierSimulation>>#intStepToFirstScanLineAt:in:
-BalloonBezierSimulation>>#floatStepToFirstScanLineAt:in:
-TestAsserter class>>#assert:description:
-ClassWidget>>#dropInClass:inARow:
-Form>>#hibernate
-STONWriter>>#newlineIndent
-WorldMorph>>#checkNewWindowSize
-WorldMorph>>#checkSession
-RFSemanticAnalyzer>>#analyseForLinks:
-StrikeFont>>#displayChar:form:
-GTSpotterItemActionbarBrick>>#addDiveInActionButton
-TextMorphForEditView>>#refreshExtraSelection
-GTSpotterCategoryTitleBrick>>#showActionbar
-Canvas>>#frameAndFillRectangle:fillColor:borderWidth:topLeftColor:bottomRightColor:
-Canvas>>#frameRectangle:width:colors:dashes:offset:
-TextEditor>>#acceptCR:return:
-TextEditor>>#yellowButtonDown:
-TextEditor>>#zapSelectionWith:
-MorphTreeNodeMorph>>#drawMouseDownHighlightOn:
-DebugAction>>#execute
-PNGReadWriter>>#copyPixelsGray:
-PNGReadWriter>>#processBackgroundChunk
-PNGReadWriter>>#processTransparencyChunk
-PNGReadWriter>>#grayColorsFor:
-GLMPagerButtonsPaneBrick>>#markButtonsInside:
-TraitAlias>>#collectMethodsFor:into:
-MorphTreeModel>>#enabled:
-GLMScrollListBrick>>#preventOverscrolling
-RBLiteralArrayContainsSuspiciousTrueFalseOrNilRule>>#checkMethod:
-BlockClosure>>#whileFalse:
-BlockClosure>>#whileTrue:
-GLMBrickLayoutTraverser>>#markDirtyCustomDependency:inContext:
-SimpleSwitchMorph>>#doButtonAction
-RBRefactoryTyper>>#processCollectionMessagesFor:in:
-ClassTestCase>>#testCoverage
-StandardWindow>>#noteNewOwner:
-PluggableTextMorph>>#cancel
-PluggableTextMorph>>#resetExtent
+RubSurfaceSelectionShape>>#drawOnAthensCanvas: [Rubric]
+ThreadSafeTranscript>>#stepGlobal [Transcript]
+TaskbarMorph class>>#showTaskbar: [Morphic-Widgets-Taskbar]
+TickSelectionListNodeMorph>>#drawMouseDownHighlightOn: [Polymorph-Widgets]
+RubFindReplaceDialogWindow>>#searchBackwards: [Rubric]
+NBNativeCodeGen class>>#removeNativeCodeFrom: [NativeBoost-Core]
+GroupWindowMorph>>#update:with: [Morphic-Widgets-Windows]
+AndreasSystemProfiler>>#report:cutoff: [Tool-Profilers]
+SpecTreeColumn>>#setHeaderButtonLabel:font:icon:target:actionSelector: [Spec-MorphicAdapters]
+GLMHighlighterTextParserStyler>>#privateStyle: [Glamour-Rubric-Presentations]
+TestAsserter>>#assert:description: [SUnit-Core]
+TestAsserter>>#assert:description:resumable: [SUnit-Core]
+TestAsserter>>#assert: [SUnit-Core]
+Locale class>>#switchTo: [System-Localization]
+Locale class>>#startUp: [System-Localization]
+MCVersionMerger>>#mergeWithNameLike: [Monticello]
+MetacelloVersionSpec>>#configPackagesSpecMethodOn:indent: [Metacello-Core]
+MCVersionSorter>>#processVersionInfo: [Monticello]
+RBSmalllintTestObject>>#guardingClause [Refactoring-Tests-Critics]
+GLMPagerModel>>#focusedMorphChanged:at: [Glamour-Morphic-Pager]
+GLMPagerModel>>#invariant [Glamour-Morphic-Pager]
+GLMPagerModel>>#focusPaneAt: [Glamour-Morphic-Pager]
+RBRefactoryTestDataApp>>#guardingClause [Refactoring-Tests-Core]
+LabelMorph>>#update: [Morphic-Widgets-Basic]
+LabelMorph>>#enabled: [Morphic-Widgets-Basic]
+DropListMorph>>#showList [Polymorph-Widgets]
+DropListMorph>>#update: [Polymorph-Widgets]
+DropListMorph>>#updateList [Polymorph-Widgets]
+RPackageOrganizer>>#systemMethodRecategorizedActionFrom: [RPackage-Core]
+Stopwatch>>#activate [Kernel]
+Stopwatch>>#suspend [Kernel]
+Rectangle>>#allAreasOutsideList:startingAt:do: [Kernel]
+OCASTClosureAnalyzer>>#changeVariableClass: [OpalCompiler-Core]
+AthensSceneView>>#drawOn: [Athens-Morphic]
+OSWindowRenderThread class>>#checkSession [OSWindow-Core]
+RubFloatingEditorBuilder>>#whenKeystroke: [Rubric]
+JobProgressMorph>>#progress: [Morphic-Base]
+MBConfigurationInfo>>#recalculateIfInterestedInPackageNamed:for: [Versionner-Core-Model]
+RBInstVarInSubclassesRule>>#checkClass: [Refactoring-Critics]
+VSRemoveCommand>>#execute [Versionner-Core-Commands]
+RBMissingSubclassResponsibilityRule>>#checkClass: [Refactoring-Critics]
+PasteUpMorph>>#backgroundMorph: [Polymorph-Widgets]
+PasteUpMorph>>#windowEvent: [Morphic-Core]
+Halt class>>#once [Kernel]
+TextMorph>>#resetBlinkCursor [Morphic-Base]
+WeakKeyToCollectionDictionary>>#noCheckAddForRehash: [Collections-Weak]
+CheckboxButtonMorph>>#drawOnAthensCanvas: [Athens-Morphic]
+TabSelectorMorph>>#ensureSelectedTabIsVisible [Polymorph-Widgets]
+NBFFICallback class>>#checkSession [NativeBoost-Core]
+ZnSingleThreadedServer>>#augmentResponse:forRequest: [Zinc-HTTP]
+InflateStream>>#moveContentsToFront [Compression]
+InflateStream>>#moveSourceToFront [Compression]
+TApplyingOnClassSide>>#fileOutInitializerOn: [CodeExport]
+GeneralScrollPane>>#scrollToShow: [Morphic-Widgets-Scrolling]
+MetacelloMCVersionValidator>>#validateCleanLoadAndTestsForVersion:loads: [Metacello-MC]
+MetacelloMCProjectSpec>>#ensureLoadedForDevelopmentUsing: [Metacello-MC]
+DelayWaitTimeout>>#schedulerSignalWaitingProcess [Kernel]
+ColorChooserMorph>>#update: [Morphic-Widgets-ColorPicker]
+MorphTreeMorph>>#hScrollBarValue: [Morphic-Widgets-Tree]
+MorphTreeMorph>>#makeLastColumnBounded [Morphic-Widgets-Tree]
+MorphTreeMorph>>#expandSilently:suchThat: [Morphic-Widgets-Tree]
+MorphTreeMorph>>#mouseEnterDragging: [Morphic-Widgets-Tree]
+Categorizer>>#removeEmptyCategories [Kernel]
+Categorizer>>#removeCategory: [Kernel]
+MetacelloProjectSpec>>#configShortCutMethodOn:member:indent: [Metacello-Core]
+MetacelloProjectSpec>>#configMethodBodyOn:indent: [Metacello-Core]
+BlockLocalTempCounter>>#jump: [Kernel]
+GLMPagerScrollButtonBrick>>#setNotFocused [Glamour-Morphic-Pager]
+GLMPagerScrollButtonBrick>>#setFocused [Glamour-Morphic-Pager]
+RubCursor>>#whenLostFocus: [Rubric]
+SettingBrowser>>#addToSearchedTextList: [System-Settings]
+SettingBrowser>>#menuEmptyList: [System-Settings]
+SettingBrowser>>#updateList [System-Settings]
+SettingBrowser>>#setAllToDefault [System-Settings]
+PluggableListMorph>>#changeModelSelection: [Morphic-Widgets-Pluggable]
+PluggableListMorph>>#enabled: [Morphic-Widgets-Pluggable]
+MetacelloToolBox class>>#defaultTopic:for: [Metacello-ToolBox]
+HandMorph>>#showMouseFocusEvent: [Morphic-Core]
+HandMorph>>#showDebugEvent: [Morphic-Core]
+MorphDropListMorph>>#updateContents [Polymorph-Widgets]
+BlockNode>>#returnNilIfNoOther [Compiler]
+BlockNode>>#optimizedBlockHoistTempsInto: [Compiler]
+BlockNode>>#returnLast [Compiler]
+TextHighlightByBounds>>#drawOn:in:offset: [Polymorph-Widgets]
+Duration>>#printOn: [Kernel]
+Decompiler>>#send:super:numArgs: [Compiler]
+Decompiler>>#case: [Compiler]
+UTF16TextConverter>>#checkBOMOn: [Multilingual-TextConversion]
+PopupChoiceDialogWindow>>#filter: [Polymorph-Widgets]
+Trait>>#fileOutOn:initializing: [CodeExport]
+FBDOptimizedMessagesRewriter>>#handleIfFalse: [Flashback-Decompiler]
+FBDOptimizedMessagesRewriter>>#handleIfTrue: [Flashback-Decompiler]
+PackageTreeNautilusUI>>#classAdded: [Nautilus]
+PackageTreeNautilusUI>>#removePackages [Nautilus]
+PackageTreeNautilusUI>>#runPackagesTestsNotifying: [Nautilus]
+DAPackageCycleDetector>>#buildCycleUntil: [Tool-DependencyAnalyser]
+FBDExamples>>#exampleIfTrueForEffectNested [Flashback-Decompiler-Tests]
+MessageTally>>#treePrintOn:tabs:thisTab:total:totalTime:tallyExact:orThreshold: [Tool-Profilers]
+GIFReadWriter>>#checkCodeSize [Graphics-Files]
+MetacelloAbstractPackageSpec>>#configMethodBodyOn:hasName:cascading:indent: [Metacello-Core]
+FreeTypeSettings>>#setSubPixelFilter: [FreeType]
+FreeTypeSettings>>#setGamma: [FreeType]
+FormCanvas>>#frameAndFillRectangle:fillColor:borderWidth:topLeftColor:bottomRightColor: [Graphics-Canvas]
+FormCanvas>>#fillOval:color:borderWidth:borderColor: [Graphics-Canvas]
+FormCanvas>>#frameAndFillRectangle:fillColor:borderWidth:borderColor: [Graphics-Canvas]
+LazyMorphListMorph>>#athensDisplay:atRow:on: [Athens-Morphic]
+GLMValidator>>#addPaneFrom: [Glamour-Browsers]
+SettingNode>>#updateAccordingTo: [System-Settings]
+SortedCollection>>#defaultSort:to: [Collections-Sequenceable]
+SortedCollection>>#sort:to: [Collections-Sequenceable]
+ProcessBrowser>>#startCPUWatcher [Tool-ProcessBrowser]
+CairoUTF8Converter>>#checkBufferSpace: [Athens-Cairo]
+CompiledMethod>>#postCopy [Kernel]
+SystemWindow>>#mouseLeaveDragging: [Morphic-Widgets-Windows]
+SystemWindow>>#stepAt: [Morphic-Widgets-Windows]
+SystemWindow>>#configureForEmbedding [Polymorph-Widgets]
+SystemWindow>>#mouseEnterDragging: [Morphic-Widgets-Windows]
+DatePrintFormatTester>>#assert:description: [Kernel-Tests]
+PSMCChangesGrouper>>#ensureClassChangeWrapperNamed: [Tool-Diff]
+FreeTypeCache class>>#shutDown: [FreeType]
+NautilusMonticello class>>#packagesCommitsMenu: [Nautilus]
+NautilusMonticello class>>#packagesChangesMenu: [Nautilus]
+BalloonSolidFillSimulation>>#computeFillFrom:to:at:in: [Balloon]
+TxTextStyler>>#visitVariableNode: [TxText-Styler]
+TBehavior>>#allSuperclassesDo: [Traits]
+AbstractResizerMorph>>#mouseUp: [Morphic-Widgets-Windows]
+AbstractResizerMorph>>#mouseEnter: [Morphic-Widgets-Windows]
+ColorPresenterMorph>>#update: [Morphic-Widgets-ColorPicker]
+RBRefactoring>>#checkPreconditions [Refactoring-Core]
+Base64MimeConverter>>#mimeEncode [Network-MIME]
+ImageMorph>>#color: [Morphic-Base]
+TestRunner>>#updateResults [SUnit-UI]
+TxAthensLayoutView>>#ensurePointWithinLayout: [TxText-Athens]
+RBSmalllintContext>>#printOn: [Refactoring-Critics]
+DockingBarMenuItemMorph>>#deselectTimeOut: [Morphic-Widgets-Extra]
+DockingBarMenuItemMorph>>#drawOn: [Morphic-Widgets-Extra]
+AbstractNautilusUI>>#sourceCode: [Nautilus]
+AbstractNautilusUI>>#classRemoved: [Nautilus]
+AbstractNautilusUI>>#classRenamed: [Nautilus]
+AbstractNautilusUI>>#selectedPackage: [Nautilus]
+AbstractNautilusUI>>#mcPackageModified: [Nautilus]
+AbstractNautilusUI>>#copyClasses [Nautilus]
+AbstractNautilusUI>>#selectedGroupWithoutChangingSelection: [Nautilus]
+AbstractNautilusUI>>#aGroupHasBeenRemoved: [Nautilus]
+AbstractNautilusUI>>#hierarchyButtonAction: [Nautilus]
+AbstractNautilusUI>>#selectedPackageWithoutChangingSelection: [Nautilus]
+AbstractNautilusUI>>#testCaseStarted: [Nautilus]
+AbstractNautilusUI>>#classAdded: [Nautilus]
+AbstractNautilusUI>>#mcWorkingCopyCreated: [Nautilus]
+AbstractNautilusUI>>#listMouseDown: [Nautilus]
+AbstractNautilusUI>>#showInstance: [Nautilus]
+AbstractNautilusUI>>#testRunned: [Nautilus]
+SmalltalkImage>>#saveChangesInFileNamed: [System-Support]
+StringMorphEditor>>#keyboardFocusChange: [Morphic-Base]
+PostorderGuide>>#traverse: [FileSystem-Core]
+PragmaCollector>>#addPragma: [PragmaCollector]
+HaloMorph>>#addDismissHandle: [Morphic-Base]
+HaloMorph>>#endInteraction [Morphic-Base]
+HaloMorph>>#setColor:toHandle: [Morphic-Base]
+JoinSection>>#drawOn: [Tool-Diff]
+Float>>#absPrintInexactlyOn:base: [Kernel]
+Float>>#absPrintExactlyOn:base: [Kernel]
+Float>>#absPrintOn:base:digitCount: [Kernel]
+ToggleMenuItemMorph>>#basicDrawOn: [Morphic-Base]
+Latin1 class>>#emitSequenceToResetStateIfNeededOn:forState: [Multilingual-Encodings]
+ProtoObject>>#doOnlyOnce: [Kernel]
+Monitor>>#exit [Kernel]
+SlReportPreDebugAction>>#forDebugger: [ShoreLine-Report-UI]
+RubPlainTextMode class>>#menuOn: [Rubric]
+LazyListMorph>>#athensDisplay:atRow:on: [Athens-Morphic]
+GLMPagerScrollBrick>>#focusChanged: [Glamour-Morphic-Pager]
+GLMFinder>>#innerPortEvent: [Glamour-Browsers]
+MorphTreePager>>#nextPage [Morphic-Widgets-Tree]
+MorphTreePager>>#updateForNewPageSize: [Morphic-Widgets-Tree]
+MorphTreePager>>#previousPage [Morphic-Widgets-Tree]
+Metaclass>>#fileOutOn:initializing: [CodeExport]
+Parser>>#addComment [Compiler]
+PluggableButtonMorph>>#updateFeedbackForEvt: [Morphic-Widgets-Basic]
+BIConfigurableFormatter>>#resizeComment:withFirstLineShorterOf: [BlueInk-Core]
+AthensTextScanner>>#setActualFont: [Athens-Text]
+AthensTextScanner>>#textColor: [Athens-Text]
+NOCEntryList>>#addEntry:date: [NECompletion]
+FreeTypeNameParser>>#extractWeight [FreeType]
+FreeTypeNameParser>>#extractSlant [FreeType]
+Editor>>#lineSelectAndEmptyCheck: [Text-Edition]
+Editor>>#selectMark:point: [Text-Edition]
+MCFileBasedRepository>>#basicStoreVersion: [Monticello]
+PanelMorph>>#handleMouseOver: [Morphic-Widgets-Windows]
+SpecDebugger>>#proceed: [Spec-Debugger]
+DockingBarToggleMenuItemMorph>>#deselectTimeOut: [Morphic-Widgets-Extra]
+DockingBarToggleMenuItemMorph>>#drawOn: [Morphic-Widgets-Extra]
+DockingBarMorph>>#updateExtent [Morphic-Widgets-Extra]
+DockingBarMorph>>#updatePosition [Morphic-Widgets-Extra]
+DockingBarMorph>>#updateLayoutProperties [Morphic-Widgets-Extra]
+DockingBarMorph>>#addCustomMenuItems:hand: [Morphic-Widgets-Extra]
+DateAndTime>>#normalizeSecondsAndNanos [Kernel]
+BracketSliderMorph>>#updateFillStyle [Morphic-Widgets-Scrolling]
+TClassDescription>>#updateOrganizationDescription:oldCategory:newCategory:changedCategories: [Traits]
+TClassDescription>>#updateOrganizationDescription:oldCategory:newCategory:changed: [Traits]
+GLMInteractableBrick>>#check [Glamour-Morphic-Brick]
+GLMInteractableBrick>>#deselect [Glamour-Morphic-Brick]
+GLMInteractableBrick>>#select [Glamour-Morphic-Brick]
+GLMInteractableBrick>>#uncheck [Glamour-Morphic-Brick]
+ProgressBarMorph>>#value: [Morphic-Base]
+SimpleHierarchicalListMorph>>#mouseEnterDragging: [Morphic-Widgets-List]
+RubScrolledTextMorph>>#mouseDown: [Rubric]
+RubScrolledTextMorph>>#acceptContents [Rubric]
+GTSpotter>>#historize: [GT-Spotter]
+GTSpotter>>#popStep [GT-Spotter]
+DiffMorph>>#applyPrettyPrinter [Tool-Diff]
+ScriptLoader>>#saveImageForRunningTests [ScriptLoader50]
+ScriptLoader>>#verifyNewUpdate [ScriptLoader50]
+BalloonLineSimulation>>#stepToFirstScanLineAt:in: [Balloon]
+IndentingListItemMorph>>#drawMouseDownHighlightOn: [Polymorph-Widgets]
+SocketStream>>#flush [Network-Kernel]
+Class>>#fileOutOn:initializing: [CodeExport]
+MorphTreeListManager>>#mouseMove:on: [Morphic-Widgets-Tree]
+MorphTreeListManager>>#selectMoreAtBottom [Morphic-Widgets-Tree]
+MorphTreeListManager>>#selectMoreAtTop [Morphic-Widgets-Tree]
+TClass>>#addClassVariable: [Traits]
+TClass>>#removeSubclass: [Traits]
+GLMTreeMorphModel>>#toggleAmountToFilterBy [Glamour-Morphic-Widgets]
+MetacelloVersionLoadDirective>>#loadPreloadDirective: [Metacello-MC]
+MetacelloVersionLoadDirective>>#loadPostloadDirective: [Metacello-MC]
+RingChunkImporter>>#msgClassComment:with: [RingChunkImporter]
+DATarjanAlgorithm>>#traverse: [Tool-DependencyAnalyser]
+MorphTreeChunkPager>>#nextPage: [Morphic-Widgets-Tree]
+MenuCapturingMorph>>#step [SUnit-UITesting]
+RubEditingState>>#addUndoRecord: [Rubric]
+RubAbstractTextArea>>#updateExtentFromParagraph [Rubric]
+RubAbstractTextArea>>#handleSelectionChange: [Rubric]
+RubAbstractTextArea>>#handleBoundsChange: [Rubric]
+RubAbstractTextArea>>#mouseMove: [Rubric]
+SystemAnnouncer>>#announce: [System-Announcements]
+STONReader>>#match:do: [STON-Core]
+STONReader>>#parseConstantDo: [STON-Core]
+TAssertable>>#assert:description: [SUnit-Core]
+EditorFindReplaceDialogWindow>>#on: [Text-Edition]
+EditorFindReplaceDialogWindow>>#searchBackwards: [Text-Edition]
+MalTarjan>>#traverse: [Moose-Algos-Graph]
+RWBinaryOrTextStream>>#reset [Collections-Streams]
+ProportionalSplitterMorph>>#drawOn: [Morphic-Widgets-Windows]
+ShiftJISTextConverter>>#nextPut:toStream: [Multilingual-OtherLanguages]
+ThreePhaseButtonMorph>>#doButtonAction [Morphic-Widgets-Basic]
+ThreePhaseButtonMorph>>#step [Morphic-Widgets-Basic]
+EncoderForV3PlusClosures class>>#prepareMethod:forSimulationWith: [Compiler]
+SettingDeclaration>>#addToList: [System-Settings]
+DAPackageAnalyzerTreeModel>>#actionOnFindCycles [Tool-DependencyAnalyser-UI]
+DAPackageAnalyzerTreeModel>>#refresh [Tool-DependencyAnalyser-UI]
+ZipWriteStream>>#updateCrc [Compression]
+AJInstruction>>#replace:with: [AsmJit-Instructions]
+AJInstruction>>#printOperandsOn: [AsmJit-Instructions]
+MBLoadPackageCommand>>#execute [Versionner-Core-Commands]
+QSystemTally>>#treePrintOn:tabs:thisTab:total:totalTime:tallyExact:orThreshold: [Tool-Profilers]
+ProfStef>>#previous [ProfStef-Core]
+ProfStef>>#next [ProfStef-Core]
+MetacelloValidationIssue>>#printOn: [Metacello-Core]
+MessageNode>>#emitCodeForWhile:encoder:value: [Compiler]
+MessageNode>>#emitCodeForRepeat:encoder:value: [Compiler]
+MessageNode>>#printCaseOn:indent: [Compiler]
+MessageNode>>#analyseTempsWithin:rootNode:assignmentPools: [Compiler]
+MessageNode>>#ensureCanCascade: [Compiler]
+KMKeymap>>#onMatchWith:notify:andDo: [Keymapping-Core]
+Morph>>#color: [Morphic-Core]
+Morph>>#privateAddMorph:atIndex: [Morphic-Core]
+Morph>>#handleMouseWheel: [Morphic-Core]
+Morph>>#moveOrResizeFromKeystroke: [Morphic-Core]
+Morph>>#theme: [Polymorph-Widgets]
+Morph>>#cornerStyle: [Morphic-Core]
+Morph>>#justDroppedInto:event: [Morphic-Base]
+Morph>>#click [Morphic-Core]
+Morph>>#clipSubmorphs: [Morphic-Core]
+MenuItemMorph>>#deselectTimeOut: [Morphic-Base]
+MenuItemMorph>>#deselectItem [Morphic-Base]
+MenuItemMorph>>#drawOn: [Morphic-Base]
+RBRenameInstanceVariableRefactoring>>#transform [Refactoring-Core]
+ExpanderMorph>>#update: [Polymorph-Widgets]
+GTSpotterCandidatesList>>#updateCycleConnectionFor: [GT-Spotter]
+AthensTigerShape>>#renderOn: [Athens-Examples]
+SimpleEditor>>#zapSelectionWith: [Text-Edition]
+EditingState>>#addUndoRecord: [Text-Edition]
+DAPackageTreeModel>>#addDependenciesOptionsFor:on: [Tool-DependencyAnalyser-UI]
+DAPackageTreeModel>>#addPackageOptionsFor:on: [Tool-DependencyAnalyser-UI]
+MTDependency>>#addDependency: [Versionner-Core-DependenciesModel]
+TransformWithLayoutMorphForMultipleEditors>>#updateSubMorph: [Nautilus]
+BlockStartLocator>>#jump: [Compiler]
+OpalEncoderForV3PlusClosures class>>#prepareMethod:forSimulationWith: [OpalCompiler-Core]
+NBExternalStructureType>>#prepareReturnValue:for: [NativeBoost-Core]
+MTDependantProject>>#editVersion [Versionner-Spec-Browser]
+CharacterScanner>>#advanceIfFirstCharOfLine [Text-Scanning]
+RubTextEditor>>#lineSelectAndEmptyCheck: [Rubric]
+RubTextEditor>>#zapSelectionWith: [Rubric]
+RubTextEditor>>#storeSelectionInText [Rubric]
+RubTextEditor>>#selectMark:point: [Rubric]
+RubTextScrollPane>>#registerTextArea [Rubric]
+RubTextScrollPane>>#handleWrappingPolicyChange: [Rubric]
+RubTextScrollPane>>#unregisterTextArea [Rubric]
+PolygonMorph>>#beSmoothCurve [Morphic-Base]
+PolygonMorph>>#beStraightSegments [Morphic-Base]
+BalloonEngine>>#postFlushIfNeeded [Balloon]
+BalloonEngine>>#preFlushIfNeeded [Balloon]
+TxTextEditor>>#backspace [TxText-Athens]
+TxTextEditor>>#delete [TxText-Athens]
+RBMoveMethodRefactoring>>#replaceSelfReferences [Refactoring-Core]
+ZdcSimpleSocketStream>>#fillReadBuffer [Zodiac-Core]
+NautilusUI>>#methodModified: [Nautilus]
+NautilusUI>>#methodAdded: [Nautilus]
+NautilusUI>>#methodRemoved: [Nautilus]
+NautilusUI>>#move:from:to:isCopy: [Nautilus]
+NautilusUI>>#dropMethod:inARow: [Nautilus]
+NautilusUI>>#generateTestMethodsAndFocus: [Nautilus]
+NautilusUI>>#compileAMethodFromCategory:withSource:notifying: [Nautilus]
+MalLongestPath>>#computeStep [Moose-Algos-Graph]
+UserInterruptHandler>>#handleEvent: [System-VMEvents]
+DAPackageAnalyzerReverseTreeModel>>#refresh [Tool-DependencyAnalyser-UI]
+RubSegmentMorph>>#beSmoothCurve [Rubric]
+RubSegmentMorph>>#beStraightSegments [Rubric]
+ZnBase64Encoder>>#decode:and:and:and:to: [Zinc-Character-Encoding-Core]
+CompiledMethodTrailer>>#sourceCode: [Kernel]
+MenuMorph>>#drawOnAthensCanvas: [Athens-Morphic]
+MenuMorph>>#deleteIfPopUp [Morphic-Base]
+OCContextTempMappingTest>>#testAccessingVariablesInOptimizedBlock2 [OpalCompiler-Tests]
+Tab>>#selected: [Morphic-Widgets-Tabs]
+HandleMorph>>#keyStroke: [Morphic-Base]
+BorderedMorph>>#borderColor: [Morphic-Core]
+OverflowRowMorph>>#hideMore [Polymorph-Widgets]
+OverflowRowMorph>>#step [Polymorph-Widgets]
+Object>>#inspectOnce [Tool-Base]
+RemoteTempVectorNode>>#addRemoteTemp:encoder: [Compiler]
+NewListRenderer>>#mouseUp: [Morphic-Widgets-NewList]
+RubTextSegmentMorph>>#textChangedFrom:to:delta: [Rubric]
+SimpleButtonMorph>>#setArguments [Morphic-Widgets-Basic]
+TxWorkspace>>#invokePrintItIn: [Tool-TxWorkspace]
+BalloonBezierSimulation>>#intStepToFirstScanLineAt:in: [Balloon]
+BalloonBezierSimulation>>#floatStepToFirstScanLineAt:in: [Balloon]
+TestAsserter class>>#assert:description: [SUnit-Core]
+ClassWidget>>#dropInClass:inARow: [Nautilus]
+Form>>#hibernate [Graphics-Display Objects]
+STONWriter>>#newlineIndent [STON-Core]
+WorldMorph>>#checkNewWindowSize [Morphic-Core]
+WorldMorph>>#checkSession [Morphic-Core]
+RFSemanticAnalyzer>>#analyseForLinks: [Reflectivity]
+StrikeFont>>#displayChar:form: [Graphics-Fonts]
+GTSpotterItemActionbarBrick>>#addDiveInActionButton [GT-Spotter]
+TextMorphForEditView>>#refreshExtraSelection [Morphic-Base]
+GTSpotterCategoryTitleBrick>>#showActionbar [GT-Spotter]
+Canvas>>#frameAndFillRectangle:fillColor:borderWidth:topLeftColor:bottomRightColor: [Graphics-Canvas]
+Canvas>>#frameRectangle:width:colors:dashes:offset: [Graphics-Canvas]
+TextEditor>>#acceptCR:return: [Text-Edition]
+TextEditor>>#yellowButtonDown: [Text-Edition]
+TextEditor>>#zapSelectionWith: [Text-Edition]
+MorphTreeNodeMorph>>#drawMouseDownHighlightOn: [Morphic-Widgets-Tree]
+DebugAction>>#execute [DebuggerActions]
+PNGReadWriter>>#copyPixelsGray: [Graphics-Files]
+PNGReadWriter>>#processBackgroundChunk [Graphics-Files]
+PNGReadWriter>>#processTransparencyChunk [Graphics-Files]
+PNGReadWriter>>#grayColorsFor: [Graphics-Files]
+GLMPagerButtonsPaneBrick>>#markButtonsInside: [Glamour-Morphic-Pager]
+TraitAlias>>#collectMethodsFor:into: [Traits]
+MorphTreeModel>>#enabled: [Morphic-Widgets-Tree]
+GLMScrollListBrick>>#preventOverscrolling [Glamour-Morphic-Brick]
+BlockClosure>>#whileFalse: [Kernel]
+BlockClosure>>#whileTrue: [Kernel]
+GLMBrickLayoutTraverser>>#markDirtyCustomDependency:inContext: [Glamour-Morphic-Brick]
+SimpleSwitchMorph>>#doButtonAction [Morphic-Widgets-Basic]
+RBRefactoryTyper>>#processCollectionMessagesFor:in: [Refactoring-Core]
+ClassTestCase>>#testCoverage [SUnit-Core]
+StandardWindow>>#noteNewOwner: [Morphic-Widgets-Windows]
+PluggableTextMorph>>#cancel [Morphic-Widgets-Pluggable]
+PluggableTextMorph>>#resetExtent [Morphic-Widgets-Pluggable]

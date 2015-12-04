@@ -1,52 +1,52 @@
-HeapTest
-PluggableTextMorph
-BagTest
-MissingClassError
-SymbolTest
-TraitsResource
-IntervalTest
-RBSmalllintTestObject
-ThemeSettings
-DictionaryTest
-AJOperand
-NBInterpreterProxy
-VTermOutputDriver
-ChunkReadStream
-RxmLookahaed
-NECTestClass
-RubParagraphDecorator
-RBRefactoryTestDataApp
-CompiledMethodTest
-GLMAnimation
-SimpleTestResource
-PharoIssueTest
-WeakFinalizationList
-SetTest
-OrderedCollectionTest
-AthensGenericTransform
-FileList
-SortedCollectionTest
-FreeTypeNameParser class
-IdentityBagTest
-SystemVersion
-RubWorkspaceExample
-ZnEntityReader
-LinkedListTest
-ClassTest
-NBCPrinter class
-SUnitTest
-GLMPagerScrollSlidingBrick
-OCOpalExamples
-MCWorkingCopyBrowser class
-GLMSmalltalkCodePresentation
-ReflectivityExamples
-FreeTypeSettings
-StringTest
-ArrayTest
-FloatArrayTest
-RubTextComposer
-OSVMWindowHandle
-NBExternalStructure class
-AthensBezierConverter
-NewListRenderer
-DigitalSignatureAlgorithm
+HeapTest [Collections-Tests]
+IntervalTest [Collections-Tests]
+SortedCollectionTest [Collections-Tests]
+VTermOutputDriver [System-CommandLine]
+RubParagraphDecorator [Rubric]
+FloatArrayTest [Collections-Tests]
+AthensGenericTransform [Athens-Core]
+GLMSmalltalkCodePresentation [Glamour-Presentations]
+DictionaryTest [Collections-Tests]
+ClassTest [Kernel-Tests]
+OSVMWindowHandle [OSWindow-VM]
+SymbolTest [Collections-Tests]
+LinkedListTest [Collections-Tests]
+SimpleTestResource [SUnit-Tests]
+NewListRenderer [Morphic-Widgets-NewList]
+NBExternalStructure class [NativeBoost-Core]
+NBInterpreterProxy [NativeBoost-Core]
+NBCPrinter class [NativeBoost-Examples]
+SystemVersion [System-Support]
+ArrayTest [Collections-Tests]
+FileList [Tool-FileList]
+RubTextComposer [Rubric]
+PharoIssueTest [IssueTracking-Tests]
+MissingClassError [CodeImport]
+ThemeSettings [Polymorph-Widgets]
+DigitalSignatureAlgorithm [System-Hashing]
+MCWorkingCopyBrowser class [MonticelloGUI]
+OCOpalExamples [OpalCompiler-Tests]
+GLMAnimation [Glamour-Morphic-Brick]
+StringTest [Collections-Tests]
+SUnitTest [SUnit-Tests]
+CompiledMethodTest [Kernel-Tests]
+ChunkReadStream [CodeImport]
+TraitsResource [Tests]
+OrderedCollectionTest [Collections-Tests]
+ZnEntityReader [Zinc-HTTP]
+FreeTypeNameParser class [FreeType]
+AJOperand [AsmJit-Operands]
+RxmLookahaed [Regex-Core]
+RBRefactoryTestDataApp [Refactoring-Tests-Core]
+IdentityBagTest [Collections-Tests]
+FreeTypeSettings [FreeType]
+NECTestClass [NECompletion-Tests]
+BagTest [Collections-Tests]
+ReflectivityExamples [Reflectivity-Tests]
+GLMPagerScrollSlidingBrick [Glamour-Morphic-Pager]
+WeakFinalizationList [System-Finalization]
+SetTest [Collections-Tests]
+RBSmalllintTestObject [Refactoring-Tests-Critics]
+RubWorkspaceExample [Rubric]
+AthensBezierConverter [Athens-Core]
+PluggableTextMorph [Morphic-Widgets-Pluggable]

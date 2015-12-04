@@ -1,4 +1,4 @@
-SlotExamplePerson>>#actedInMovies:
-SlotExamplePerson>>#directedMovies:
-SlotExampleMovie>>#director:
-SlotExampleMovie>>#actors:
+SlotExamplePerson>>#actedInMovies: [Slot-Tests]
+SlotExamplePerson>>#directedMovies: [Slot-Tests]
+SlotExampleMovie>>#director: [Slot-Tests]
+SlotExampleMovie>>#actors: [Slot-Tests]

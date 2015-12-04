@@ -1,72 +1,72 @@
-AJRegister
-AJImmediate
-KMNamedCharKeyCombination
-MCVersionInspector
-GLMLinearLayout class
-RBRenameClassChange
-SpecRowLayout
-MCFileRepositoryInspector
-MCReader
-TxNewLineDisplayCommand
-GLMBrickLayoutTraverser class
-SpecColumnLayout
-MCStReader
-AJOperand
-RubSelectorChooserMorph
-AJBaseReg
-SpecTableLayoutSend
-IdentifierChooserMorph
-AbstractCompiler
-Metaclass
-MCSnapshotReader
-AthensCairoPathBuilder
-TxCairoCharacterSpanDisplayCommand
-SpecSplitterHorizontal
-FileReference
-SpecLayout
-AJMem
-AJMMRegister
-RBRenameClassVariableChange
-AbstractFileReference
-TxEmbeddedObjectCommand
-InstructionStream
-GLMBrickHeightTraverser class
-TxTabDisplayCommand
-ZipArchiveMember
-AbstractSpecLayoutAction
-SpecLayoutSend
-SpecSplitterVertical
-MCMcdReader
-OpalCompiler
-MCMczReader
-TxDisplayCommand
-AthensPathBuilder
-Context
-MCFileTreeAbstractReader
-ClassDescription
-MCRepositoryInspector
-AthensSimplePathBuilder
-TxCharacterSpanDisplayCommand
-FileLocator
-AJxMMRegister
-MCVersionReader
-GLMBrickWidthTraverser class
-ZipFileMember
-Class
-ZipStringMember
-GLMVerticalLinearLayout class
-RBCompositeRefactoryChange
-SHTextStylerST80
-RBRenameInstanceVariableChange
-SHTextStyler
-KMUntypeableSingleKeyCombination
-GLMHorizontalLinearLayout class
-Decompiler
-MCFileTreeStCypressReader
-Compiler
-SelectorChooserMorph
-ZipNewFileMember
-RBRenameVariableChange
-KMSingleKeyCombination
-GLMHighlighterTextParserStyler
-AJx87Register
+AJBaseReg [AsmJit-Operands]
+ZipArchiveMember [Compression]
+AbstractSpecLayoutAction [Spec-Layout]
+AthensPathBuilder [Athens-Core]
+SpecLayoutSend [Spec-Layout]
+AthensSimplePathBuilder [Athens-Core]
+MCSnapshotReader [Monticello]
+AJOperand [AsmJit-Operands]
+GLMLinearLayout class [Glamour-Morphic-Brick]
+GLMBrickWidthTraverser class [Glamour-Morphic-Brick]
+MCFileRepositoryInspector [MonticelloGUI]
+IdentifierChooserMorph [Polymorph-Widgets]
+Compiler [Compiler]
+Context [Kernel]
+SelectorChooserMorph [Text-Edition]
+TxEmbeddedObjectCommand [TxText-Athens]
+MCMcdReader [Monticello]
+GLMVerticalLinearLayout class [Glamour-Morphic-Brick]
+ZipFileMember [Compression]
+InstructionStream [Kernel]
+TxDisplayCommand [TxText-Athens]
+MCVersionReader [Monticello]
+AJx87Register [AsmJit-x86]
+OpalCompiler [OpalCompiler-Core]
+MCMczReader [Monticello]
+MCVersionInspector [MonticelloGUI]
+GLMBrickLayoutTraverser class [Glamour-Morphic-Brick]
+GLMHorizontalLinearLayout class [Glamour-Morphic-Brick]
+AJImmediate [AsmJit-Operands]
+KMNamedCharKeyCombination [Keymapping-KeyCombinations]
+AJRegister [AsmJit-Operands]
+FileReference [FileSystem-Core]
+RBRenameClassChange [Refactoring-Changes]
+SHTextStylerST80 [Shout]
+FileLocator [FileSystem-Core]
+Decompiler [Compiler]
+SpecLayout [Spec-Layout]
+TxTabDisplayCommand [TxText-Athens]
+TxCharacterSpanDisplayCommand [TxText-Athens]
+RBRenameInstanceVariableChange [Refactoring-Changes]
+MCReader [Monticello]
+SpecSplitterHorizontal [Spec-Layout]
+RBCompositeRefactoryChange [Refactoring-Changes]
+GLMBrickHeightTraverser class [Glamour-Morphic-Brick]
+AbstractCompiler [OpalCompiler-Core]
+KMUntypeableSingleKeyCombination [Keymapping-KeyCombinations]
+MCFileTreeStCypressReader [MonticelloFileTree-Core]
+RBRenameClassVariableChange [Refactoring-Changes]
+ZipStringMember [Compression]
+MCFileTreeAbstractReader [MonticelloFileTree-Core]
+ClassDescription [Kernel]
+GLMHighlighterTextParserStyler [Glamour-Rubric-Presentations]
+TxCairoCharacterSpanDisplayCommand [TxText-Athens]
+SpecColumnLayout [Spec-Layout]
+SHTextStyler [Shout]
+SpecSplitterVertical [Spec-Layout]
+Class [Kernel]
+AJMMRegister [AsmJit-x86]
+RubSelectorChooserMorph [Rubric]
+TxNewLineDisplayCommand [TxText-Athens]
+AthensCairoPathBuilder [Athens-Cairo]
+ZipNewFileMember [Compression]
+SpecTableLayoutSend [Spec-Layout]
+SpecRowLayout [Spec-Layout]
+MCStReader [Monticello]
+Metaclass [Kernel]
+RBRenameVariableChange [Refactoring-Changes]
+AJMem [AsmJit-Operands]
+MCRepositoryInspector [MonticelloGUI]
+AbstractFileReference [FileSystem-Core]
+AJxMMRegister [AsmJit-x86]
+KMSingleKeyCombination [Keymapping-KeyCombinations]

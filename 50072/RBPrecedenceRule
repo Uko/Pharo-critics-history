@@ -1,78 +1,78 @@
-ZipEncoder>>#bitPosition
-InstructionStream>>#interpretNextV3PlusClosureInstructionFor:
-UTF8TextConverter>>#nextPut:toStream:
-RowLayout>>#minExtentOf:in:
-RowLayout>>#layout:in:
-RBSmalllintTestObject>>#precedence
-RBRefactoryTestDataApp>>#precedence
-TableLayout>>#minExtentVertical:
-TableLayout>>#layoutLeftToRight:in:
-TableLayout>>#layoutTopToBottom:in:
-TableLayout>>#minExtentHorizontal:
-SVColorSelectorMorph>>#selectedLocation
-RealEstateAgent class>>#strictlyStaggeredInitialFrameFor:initialExtent:world:
-RealEstateAgent class>>#standardWindowExtent
-InflateStream>>#bitPosition
-SourceFileArray>>#filePositionFromSourcePointer:
-AJx86AssemblerTests>>#testAssemblyMemBaseDisp2
-LineSegment>>#bezierClipInterval:
-LineSegment>>#bezierClipCurve:epsilon:
-LineSegment>>#valueAt:
-HandMorph>>#showMouseFocusEvent:
-HandMorph>>#showDebugEvent:
-Number>>#interpolateTo:at:
-Bezier2Segment class>>#makeEllipseSegments:
-Date class>>#easterDateFor:
-AthensCairoPathBuilder>>#curveVia:to:
-AthensPolygonTester>>#includesPoint:
-Float>>#hex
-Float>>#absPrintOn:base:digitCount:
-Base64MimeConverter class>>#mimeEncode:multiLine:
-Time class>>#benchmarkMillisecondClock
-RubTextLine>>#justifiedTabDeltaFor:
-SimpleHierarchicalListMorph>>#selectionIndex:
-Bitmap>>#encodeBytesOf:in:at:
-TxAthensLayoutStrategy>>#alignTab:
-DateAndTime class>>#year:month:day:hour:minute:second:nanoSecond:offset:
-ZipWriteStream>>#storedBlockSize
-GradientFillStyle>>#scaledAlphaMix:of:with:
-ComplexBorder>>#fillStyleForDirection:
-ComplexBorder>>#frameRectangle:on:
-ComplexBorder>>#framePolygon:on:
-PolygonMorph>>#changeInSlopes:of:
-PolygonMorph>>#lineSegmentsDo:
-PolygonMorph>>#closedCubicSlopesOf:
-PolygonMorph>>#naturalCubicSlopesOf:
-PolygonMorph>>#extent:
-PolygonMorph>>#changeOfChangesInSlopes:of:
-RubSegmentMorph>>#changeInSlopes:of:
-RubSegmentMorph>>#lineSegmentsDo:
-RubSegmentMorph>>#closedCubicSlopesOf:
-RubSegmentMorph>>#naturalCubicSlopesOf:
-RubSegmentMorph>>#changeOfChangesInSlopes:of:
-Point>>#triangleArea:with:
-CompiledMethodTrailer>>#qDecompress
-Bezier2Segment>>#tangentAtMid
-Bezier2Segment>>#curveFrom:to:
-Bezier2Segment>>#tangentAt:
-Bezier2Segment>>#from:to:withMidPoint:
-BalloonBezierSimulation>>#stepToFirstInt
-BalloonBezierSimulation>>#stepToFirst
-BalloonBezierSimulation>>#floatStepToFirstScanLineAt:in:
-BalloonBezierSimulation>>#intStepToFirstScanLineAt:in:
-Form>>#fadeImageVert:at:
-Form>>#zoomIn:orOutTo:at:vanishingPoint:
-SparseLargeTable>>#noCheckAt:
-SparseLargeTable>>#noCheckAt:put:
-PNGReadWriter>>#copyPixelsGray:at:by:
-PNGReadWriter>>#copyPixelsGray:
-TextLine>>#justifiedTabDeltaFor:
-Bezier3Segment class>>#makeEllipseSegments:count:
-Bezier3Segment class>>#makePieSegment:from:to:
-Bezier3Segment class>>#makeUnitPieSegmentWith:and:
-Bezier3Segment class>>#makePieSegments:from:to:
-HashedCollection class>>#sizeFor:
-FT2GlyphRenderer>>#loadSurfaceTransform
-CascadeNode>>#sizeCodeForValue:
-UnixEnvironment>>#environAt:
-Number class>>#readScaledDecimal:fractionPart:digits:base:sign:from:
+ZipEncoder>>#bitPosition [Compression]
+InstructionStream>>#interpretNextV3PlusClosureInstructionFor: [Kernel]
+UTF8TextConverter>>#nextPut:toStream: [Multilingual-TextConversion]
+RowLayout>>#minExtentOf:in: [Morphic-Base]
+RowLayout>>#layout:in: [Morphic-Base]
+RBSmalllintTestObject>>#precedence [Refactoring-Tests-Critics]
+RBRefactoryTestDataApp>>#precedence [Refactoring-Tests-Core]
+TableLayout>>#minExtentVertical: [Morphic-Base]
+TableLayout>>#layoutLeftToRight:in: [Morphic-Base]
+TableLayout>>#layoutTopToBottom:in: [Morphic-Base]
+TableLayout>>#minExtentHorizontal: [Morphic-Base]
+SVColorSelectorMorph>>#selectedLocation [Morphic-Widgets-ColorPicker]
+RealEstateAgent class>>#strictlyStaggeredInitialFrameFor:initialExtent:world: [Morphic-Core]
+RealEstateAgent class>>#standardWindowExtent [Morphic-Core]
+InflateStream>>#bitPosition [Compression]
+SourceFileArray>>#filePositionFromSourcePointer: [Files]
+AJx86AssemblerTests>>#testAssemblyMemBaseDisp2 [AsmJit-Tests]
+LineSegment>>#bezierClipInterval: [Balloon]
+LineSegment>>#bezierClipCurve:epsilon: [Balloon]
+LineSegment>>#valueAt: [Balloon]
+HandMorph>>#showMouseFocusEvent: [Morphic-Core]
+HandMorph>>#showDebugEvent: [Morphic-Core]
+Number>>#interpolateTo:at: [Kernel]
+Bezier2Segment class>>#makeEllipseSegments: [Balloon]
+Date class>>#easterDateFor: [Kernel]
+AthensCairoPathBuilder>>#curveVia:to: [Athens-Cairo]
+AthensPolygonTester>>#includesPoint: [Athens-Core]
+Float>>#hex [Kernel]
+Float>>#absPrintOn:base:digitCount: [Kernel]
+Base64MimeConverter class>>#mimeEncode:multiLine: [Network-MIME]
+Time class>>#benchmarkMillisecondClock [Kernel]
+RubTextLine>>#justifiedTabDeltaFor: [Rubric]
+SimpleHierarchicalListMorph>>#selectionIndex: [Morphic-Widgets-List]
+Bitmap>>#encodeBytesOf:in:at: [Graphics-Primitives]
+TxAthensLayoutStrategy>>#alignTab: [TxText-Athens]
+DateAndTime class>>#year:month:day:hour:minute:second:nanoSecond:offset: [Kernel]
+ZipWriteStream>>#storedBlockSize [Compression]
+GradientFillStyle>>#scaledAlphaMix:of:with: [Balloon]
+ComplexBorder>>#fillStyleForDirection: [Morphic-Base]
+ComplexBorder>>#frameRectangle:on: [Morphic-Base]
+ComplexBorder>>#framePolygon:on: [Morphic-Base]
+PolygonMorph>>#changeInSlopes:of: [Morphic-Base]
+PolygonMorph>>#lineSegmentsDo: [Morphic-Base]
+PolygonMorph>>#closedCubicSlopesOf: [Morphic-Base]
+PolygonMorph>>#naturalCubicSlopesOf: [Morphic-Base]
+PolygonMorph>>#extent: [Morphic-Base]
+PolygonMorph>>#changeOfChangesInSlopes:of: [Morphic-Base]
+RubSegmentMorph>>#changeInSlopes:of: [Rubric]
+RubSegmentMorph>>#lineSegmentsDo: [Rubric]
+RubSegmentMorph>>#closedCubicSlopesOf: [Rubric]
+RubSegmentMorph>>#naturalCubicSlopesOf: [Rubric]
+RubSegmentMorph>>#changeOfChangesInSlopes:of: [Rubric]
+Point>>#triangleArea:with: [Kernel]
+CompiledMethodTrailer>>#qDecompress [Kernel]
+Bezier2Segment>>#tangentAtMid [Balloon]
+Bezier2Segment>>#curveFrom:to: [Balloon]
+Bezier2Segment>>#tangentAt: [Balloon]
+Bezier2Segment>>#from:to:withMidPoint: [Balloon]
+BalloonBezierSimulation>>#stepToFirstInt [Balloon]
+BalloonBezierSimulation>>#stepToFirst [Balloon]
+BalloonBezierSimulation>>#floatStepToFirstScanLineAt:in: [Balloon]
+BalloonBezierSimulation>>#intStepToFirstScanLineAt:in: [Balloon]
+Form>>#fadeImageVert:at: [Graphics-Display Objects]
+Form>>#zoomIn:orOutTo:at:vanishingPoint: [Graphics-Display Objects]
+SparseLargeTable>>#noCheckAt: [Collections-Sequenceable]
+SparseLargeTable>>#noCheckAt:put: [Collections-Sequenceable]
+PNGReadWriter>>#copyPixelsGray:at:by: [Graphics-Files]
+PNGReadWriter>>#copyPixelsGray: [Graphics-Files]
+TextLine>>#justifiedTabDeltaFor: [Morphic-Base]
+Bezier3Segment class>>#makeEllipseSegments:count: [Balloon]
+Bezier3Segment class>>#makePieSegment:from:to: [Balloon]
+Bezier3Segment class>>#makeUnitPieSegmentWith:and: [Balloon]
+Bezier3Segment class>>#makePieSegments:from:to: [Balloon]
+HashedCollection class>>#sizeFor: [Collections-Abstract]
+FT2GlyphRenderer>>#loadSurfaceTransform [Athens-Balloon]
+CascadeNode>>#sizeCodeForValue: [Compiler]
+UnixEnvironment>>#environAt: [NativeBoost-Unix]
+Number class>>#readScaledDecimal:fractionPart:digits:base:sign:from: [Kernel]

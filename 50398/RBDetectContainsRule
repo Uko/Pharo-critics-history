@@ -1,77 +1,77 @@
-SmallDictionary>>#includes:
-SmallDictionary>>#includesIdentity:
-FreeTypeFont>>#hasGlyphsForAll:
-RBSmalllintTestObject>>#detectContains
-MultiByteBinaryOrTextStream>>#nextMatchAll:
-RBRefactoryTestDataApp>>#detectContains
-MBConfigurationRoot>>#configurationInfoFor:
-GTSpotterCandidatesListTest>>#hasCategories:
-StrikeFontSet class>>#familyName:size:
-OSEnvironment>>#includes:
-ScheduleTest>>#testDateAndTimes
-MetacelloMCProjectSpec>>#allPackagesLoaded:
-MetacelloMCProjectSpec>>#isPartiallyLoaded:
-MetacelloMCProjectSpec>>#isPossibleBaseline
-MCFileTreeJsonParser>>#match:
-Trait>>#usesPoolVarNamed:
-Trait>>#usesLocalPoolVarNamed:
-Trait>>#sharing:
-DAPackageAnalyzerWindow>>#panelMorphFrom:
-WorldState>>#isStepping:selector:
-WorldState>>#checkIfUpdateNeeded
-WorldState>>#isStepping:
-Collection>>#atRandom:
-Collection>>#includesAll:
-Collection>>#identityIncludes:
-Collection>>#noneSatisfy:
-Collection>>#includesAny:
-Collection>>#anySatisfy:
-Collection>>#allSatisfy:
-CairoLibraryLoader class>>#pathToCairoOnLinux
-RBMessageNode>>#isInlineIf
-RBMessageNode>>#isInlineIfNil
-RBMessageNode>>#isInlineCase
-TestRunner>>#hasProgress
-MetaLink>>#checkForCompatibilityWith:
-MultiByteFileStream>>#nextMatchAll:
-Dictionary>>#includes:
-Dictionary>>#includesIdentity:
-Set>>#=
-DoubleLinkedList>>#includes:
-GLMSingleSpotterRequest class>>#substring:matches:caseSensitive:
-Class>>#usesPoolVarNamed:
-Class>>#usesLocalPoolVarNamed:
-Class>>#sharing:
-TClass>>#usesPoolVarNamed:
-TClass>>#usesLocalPoolVarNamed:
-TClass>>#sharing:
-ExternalDropHandler class>>#lookupExternalDropHandler:
-WideCharacterSet>>#hasWideCharacters
-GTSpotterCandidatesList>>#getCandidateLink:in:
-SharedPool class>>#hasBindingThatBeginsWith:
-GTSpotterIterator>>#anySatisfy:
-GTSpotterIterator>>#allSatisfy:
-RBExpandReferencedPoolsRefactoring>>#whichPoolDefines:
-IRMethod>>#firstInstructionMatching:
-PolygonMorph>>#containsPoint:
-Stream>>#nextMatchAll:
-GrowlMorph>>#is:saneWithRespectTo:
-NewList>>#hasMultipledSelected
-DisplayScreen>>#findAnyDisplayDepthIfNone:
-TextStyle>>#addNewFontSize:
-ChangeSet>>#hasReportableSlip:
-SparseLargeTable>>#allDefaultValueSubtableAt:
-TempVariableNode>>#isReferencedWithinBlockExtent:
-PNGReadWriter>>#understandsImageFormat
-RBProgramNode>>#evaluatedFirst:
-Text>>#unembellished
-ZnCookieJar>>#cookieAt:forUrl:
-SyntaxErrorDebugger>>#topView
-MetacelloMemberListSpec>>#detect:ifNone:
-MethodFinder>>#allNumbers
-MethodFinder>>#constUsingData1Value
-String>>#isAllSeparators
-String>>#isAllAlphaNumerics
-String>>#endsWithAnyOf:
-String>>#isAllDigits
-LayoutClassScope>>#hasFields
+SmallDictionary>>#includes: [Collections-Unordered]
+SmallDictionary>>#includesIdentity: [Collections-Unordered]
+FreeTypeFont>>#hasGlyphsForAll: [FreeType]
+RBSmalllintTestObject>>#detectContains [Refactoring-Tests-Critics]
+MultiByteBinaryOrTextStream>>#nextMatchAll: [Collections-Streams]
+RBRefactoryTestDataApp>>#detectContains [Refactoring-Tests-Core]
+MBConfigurationRoot>>#configurationInfoFor: [Versionner-Core-Model]
+GTSpotterCandidatesListTest>>#hasCategories: [GT-Tests-Spotter]
+StrikeFontSet class>>#familyName:size: [Graphics-Fonts]
+OSEnvironment>>#includes: [System-OSEnvironments]
+ScheduleTest>>#testDateAndTimes [Kernel-Tests]
+MetacelloMCProjectSpec>>#allPackagesLoaded: [Metacello-MC]
+MetacelloMCProjectSpec>>#isPartiallyLoaded: [Metacello-MC]
+MetacelloMCProjectSpec>>#isPossibleBaseline [Metacello-MC]
+MCFileTreeJsonParser>>#match: [MonticelloFileTree-Core]
+Trait>>#usesPoolVarNamed: [Traits]
+Trait>>#usesLocalPoolVarNamed: [Traits]
+Trait>>#sharing: [Traits]
+DAPackageAnalyzerWindow>>#panelMorphFrom: [Tool-DependencyAnalyser-UI]
+WorldState>>#isStepping:selector: [Morphic-Core]
+WorldState>>#checkIfUpdateNeeded [Morphic-Core]
+WorldState>>#isStepping: [Morphic-Core]
+Collection>>#atRandom: [Random-Core]
+Collection>>#includesAll: [Collections-Abstract]
+Collection>>#identityIncludes: [Collections-Abstract]
+Collection>>#noneSatisfy: [Collections-Abstract]
+Collection>>#includesAny: [Collections-Abstract]
+Collection>>#anySatisfy: [Collections-Abstract]
+Collection>>#allSatisfy: [Collections-Abstract]
+CairoLibraryLoader class>>#pathToCairoOnLinux [Athens-Cairo]
+RBMessageNode>>#isInlineIf [OpalCompiler-Core]
+RBMessageNode>>#isInlineIfNil [OpalCompiler-Core]
+RBMessageNode>>#isInlineCase [OpalCompiler-Core]
+TestRunner>>#hasProgress [SUnit-UI]
+MetaLink>>#checkForCompatibilityWith: [Reflectivity]
+MultiByteFileStream>>#nextMatchAll: [Files]
+Dictionary>>#includes: [Collections-Unordered]
+Dictionary>>#includesIdentity: [Collections-Unordered]
+Set>>#= [Collections-Unordered]
+DoubleLinkedList>>#includes: [System-Caching]
+GLMSingleSpotterRequest class>>#substring:matches:caseSensitive: [Glamour-Morphic-Renderer]
+Class>>#usesPoolVarNamed: [Traits]
+Class>>#usesLocalPoolVarNamed: [Traits]
+Class>>#sharing: [Traits]
+TClass>>#usesPoolVarNamed: [Traits]
+TClass>>#usesLocalPoolVarNamed: [Traits]
+TClass>>#sharing: [Traits]
+ExternalDropHandler class>>#lookupExternalDropHandler: [Morphic-Core]
+WideCharacterSet>>#hasWideCharacters [Collections-Support]
+GTSpotterCandidatesList>>#getCandidateLink:in: [GT-Spotter]
+SharedPool class>>#hasBindingThatBeginsWith: [Kernel]
+GTSpotterIterator>>#anySatisfy: [GT-Spotter]
+GTSpotterIterator>>#allSatisfy: [GT-Spotter]
+RBExpandReferencedPoolsRefactoring>>#whichPoolDefines: [Refactoring-Core]
+IRMethod>>#firstInstructionMatching: [OpalCompiler-Core]
+PolygonMorph>>#containsPoint: [Morphic-Base]
+Stream>>#nextMatchAll: [Collections-Streams]
+GrowlMorph>>#is:saneWithRespectTo: [Growl]
+NewList>>#hasMultipledSelected [Morphic-Widgets-NewList]
+DisplayScreen>>#findAnyDisplayDepthIfNone: [Graphics-Display Objects]
+TextStyle>>#addNewFontSize: [Text-Core]
+ChangeSet>>#hasReportableSlip: [System-Changes]
+SparseLargeTable>>#allDefaultValueSubtableAt: [Collections-Sequenceable]
+TempVariableNode>>#isReferencedWithinBlockExtent: [Compiler]
+PNGReadWriter>>#understandsImageFormat [Graphics-Files]
+RBProgramNode>>#evaluatedFirst: [AST-Core]
+Text>>#unembellished [Text-Core]
+ZnCookieJar>>#cookieAt:forUrl: [Zinc-HTTP]
+SyntaxErrorDebugger>>#topView [Tools]
+MetacelloMemberListSpec>>#detect:ifNone: [Metacello-Core]
+MethodFinder>>#allNumbers [Tool-Finder]
+MethodFinder>>#constUsingData1Value [Tool-Finder]
+String>>#isAllSeparators [Collections-Strings]
+String>>#isAllAlphaNumerics [Collections-Strings]
+String>>#endsWithAnyOf: [Collections-Strings]
+String>>#isAllDigits [Collections-Strings]
+LayoutClassScope>>#hasFields [Slot]

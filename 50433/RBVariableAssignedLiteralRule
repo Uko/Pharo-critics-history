@@ -1,52 +1,52 @@
-DigitalSignatureAlgorithm
-HeapTest
-PluggableTextMorph
-BagTest
-MCWorkingCopyBrowser class
-MissingClassError
-SymbolTest
-TraitsResource
-IntervalTest
-RBSmalllintTestObject
-ThemeSettings
-NBExternalStructure class
-DictionaryTest
-AJOperand
-NBInterpreterProxy
-VTermOutputDriver
-ChunkReadStream
-RxmLookahaed
-NECTestClass
-RubParagraphDecorator
-RBRefactoryTestDataApp
-CompiledMethodTest
-GLMAnimation
-SimpleTestResource
-PharoIssueTest
-WeakFinalizationList
-SetTest
-OrderedCollectionTest
-AthensGenericTransform
-FileList
-SortedCollectionTest
-IdentityBagTest
-SystemVersion
-RubWorkspaceExample
-ZnEntityReader
-LinkedListTest
-ClassTest
-SUnitTest
-GLMPagerScrollSlidingBrick
-OCOpalExamples
-GLMSmalltalkCodePresentation
-ReflectivityExamples
-FreeTypeSettings
-StringTest
-FreeTypeNameParser class
-ArrayTest
-FloatArrayTest
-RubTextComposer
-OSVMWindowHandle
-AthensBezierConverter
-NewListRenderer
-NBCPrinter class
+GLMPagerScrollSlidingBrick [Glamour-Morphic-Pager]
+WeakFinalizationList [System-Finalization]
+IntervalTest [Collections-Tests]
+RBSmalllintTestObject [Refactoring-Tests-Critics]
+SetTest [Collections-Tests]
+FloatArrayTest [Collections-Tests]
+RubWorkspaceExample [Rubric]
+AthensBezierConverter [Athens-Core]
+HeapTest [Collections-Tests]
+PluggableTextMorph [Morphic-Widgets-Pluggable]
+SortedCollectionTest [Collections-Tests]
+VTermOutputDriver [System-CommandLine]
+RubParagraphDecorator [Rubric]
+AthensGenericTransform [Athens-Core]
+GLMSmalltalkCodePresentation [Glamour-Presentations]
+DictionaryTest [Collections-Tests]
+ClassTest [Kernel-Tests]
+OSVMWindowHandle [OSWindow-VM]
+SymbolTest [Collections-Tests]
+LinkedListTest [Collections-Tests]
+SimpleTestResource [SUnit-Tests]
+FileList [Tool-FileList]
+NewListRenderer [Morphic-Widgets-NewList]
+NBExternalStructure class [NativeBoost-Core]
+RubTextComposer [Rubric]
+NBCPrinter class [NativeBoost-Examples]
+NBInterpreterProxy [NativeBoost-Core]
+SystemVersion [System-Support]
+ArrayTest [Collections-Tests]
+MissingClassError [CodeImport]
+PharoIssueTest [IssueTracking-Tests]
+ThemeSettings [Polymorph-Widgets]
+DigitalSignatureAlgorithm [System-Hashing]
+MCWorkingCopyBrowser class [MonticelloGUI]
+OCOpalExamples [OpalCompiler-Tests]
+GLMAnimation [Glamour-Morphic-Brick]
+StringTest [Collections-Tests]
+SUnitTest [SUnit-Tests]
+CompiledMethodTest [Kernel-Tests]
+RxmLookahaed [Regex-Core]
+IdentityBagTest [Collections-Tests]
+ChunkReadStream [CodeImport]
+TraitsResource [Tests]
+OrderedCollectionTest [Collections-Tests]
+ZnEntityReader [Zinc-HTTP]
+FreeTypeNameParser class [FreeType]
+AJOperand [AsmJit-Operands]
+FreeTypeSettings [FreeType]
+RBRefactoryTestDataApp [Refactoring-Tests-Core]
+NECTestClass [NECompletion-Tests]
+BagTest [Collections-Tests]
+ReflectivityExamples [Reflectivity-Tests]

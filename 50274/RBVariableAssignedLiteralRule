@@ -1,52 +1,52 @@
-HeapTest
-PluggableTextMorph
-BagTest
-MissingClassError
-SymbolTest
-TraitsResource
-IntervalTest
-RBSmalllintTestObject
-ThemeSettings
-DictionaryTest
-AJOperand
-NBInterpreterProxy
-VTermOutputDriver
-RxmLookahaed
-NECTestClass
-RubParagraphDecorator
-RBRefactoryTestDataApp
-CompiledMethodTest
-GLMAnimation
-SimpleTestResource
-PharoIssueTest
-WeakFinalizationList
-SetTest
-OrderedCollectionTest
-AthensGenericTransform
-FileList
-SortedCollectionTest
-FreeTypeNameParser class
-IdentityBagTest
-SystemVersion
-RubWorkspaceExample
-ZnEntityReader
-LinkedListTest
-ClassTest
-NBCPrinter class
-SUnitTest
-GLMPagerScrollSlidingBrick
-OCOpalExamples
-Nautilus class
-GLMSmalltalkCodePresentation
-ReflectivityExamples
-FreeTypeSettings
-MCWorkingCopyBrowser class
-StringTest
-ArrayTest
-FloatArrayTest
-RubTextComposer
-OSVMWindowHandle
-AthensBezierConverter
-NBExternalStructure class
-NewListRenderer
-DigitalSignatureAlgorithm
+SymbolTest [Collections-Tests]
+SimpleTestResource [SUnit-Tests]
+LinkedListTest [Collections-Tests]
+ClassTest [KernelTests]
+NewListRenderer [Morphic-Widgets-NewList]
+NBCPrinter class [NativeBoost-Examples]
+NBInterpreterProxy [NativeBoost-Core]
+NBExternalStructure class [NativeBoost-Core]
+ArrayTest [Collections-Tests]
+FileList [Tool-FileList]
+SystemVersion [System-Support]
+RubTextComposer [Rubric]
+PharoIssueTest [IssueTracking-Tests]
+MissingClassError [CodeImport]
+ThemeSettings [Polymorph-Widgets]
+OCOpalExamples [OpalCompiler-Tests]
+MCWorkingCopyBrowser class [MonticelloGUI]
+GLMAnimation [Glamour-Morphic-Brick]
+StringTest [Collections-Tests]
+DigitalSignatureAlgorithm [System-Hashing]
+SUnitTest [SUnit-Tests]
+CompiledMethodTest [KernelTests]
+TraitsResource [Tests]
+OrderedCollectionTest [Collections-Tests]
+FreeTypeNameParser class [FreeType]
+AJOperand [AsmJit-Operands]
+RxmLookahaed [Regex-Core]
+RBRefactoryTestDataApp [Refactoring-Tests-Core]
+IdentityBagTest [Collections-Tests]
+Nautilus class [Nautilus]
+NECTestClass [NECompletion-Tests]
+ZnEntityReader [Zinc-HTTP]
+ReflectivityExamples [Reflectivity-Tests]
+FreeTypeSettings [FreeType]
+BagTest [Collections-Tests]
+GLMPagerScrollSlidingBrick [Glamour-Morphic-Pager]
+RBSmalllintTestObject [Refactoring-Tests-Critics]
+SetTest [Collections-Tests]
+RubWorkspaceExample [Rubric]
+AthensBezierConverter [Athens-Core]
+WeakFinalizationList [System-Finalization]
+IntervalTest [Collections-Tests]
+HeapTest [Collections-Tests]
+PluggableTextMorph [Morphic-Widgets-Pluggable]
+RubParagraphDecorator [Rubric]
+FloatArrayTest [Collections-Tests]
+AthensGenericTransform [Athens-Core]
+VTermOutputDriver [System-CommandLine]
+SortedCollectionTest [Collections-Tests]
+DictionaryTest [Collections-Tests]
+GLMSmalltalkCodePresentation [Glamour-Presentations]
+OSVMWindowHandle [OSWindow-VM]

@@ -1,52 +1,52 @@
-HeapTest
-FreeTypeNameParser class
-BagTest
-MissingClassError
-SymbolTest
-TraitsResource
-NBCPrinter class
-RBSmalllintTestObject
-IntervalTest
-ThemeSettings
-DictionaryTest
-AJOperand
-Nautilus class
-NBInterpreterProxy
-VTermOutputDriver
-MCWorkingCopyBrowser class
-RxmLookahaed
-NECTestClass
-RubParagraphDecorator
-RBRefactoryTestDataApp
-CompiledMethodTest
-GLMAnimation
-NBExternalStructure class
-SimpleTestResource
-PharoIssueTest
-WeakFinalizationList
-SetTest
-OrderedCollectionTest
-AthensGenericTransform
-FileList
-SortedCollectionTest
-IdentityBagTest
-SystemVersion
-RubWorkspaceExample
-ZnEntityReader
-LinkedListTest
-ClassTest
-SUnitTest
-GLMPagerScrollSlidingBrick
-OCOpalExamples
-GLMSmalltalkCodePresentation
-ReflectivityExamples
-FreeTypeSettings
-StringTest
-ArrayTest
-FloatArrayTest
-RubTextComposer
-OSVMWindowHandle
-AthensBezierConverter
-PluggableTextMorph
-NewListRenderer
-DigitalSignatureAlgorithm
+GLMPagerScrollSlidingBrick [Glamour-Morphic-Pager]
+RBSmalllintTestObject [Refactoring-Tests-Critics]
+RubWorkspaceExample [Rubric]
+AthensBezierConverter [Athens-Core]
+BagTest [Collections-Tests]
+WeakFinalizationList [System-Finalization]
+IntervalTest [Collections-Tests]
+HeapTest [Collections-Tests]
+SetTest [Collections-Tests]
+RubParagraphDecorator [Rubric]
+FloatArrayTest [Collections-Tests]
+VTermOutputDriver [System-CommandLine]
+PluggableTextMorph [Morphic-Widgets-Pluggable]
+SortedCollectionTest [Collections-Tests]
+DictionaryTest [Collections-Tests]
+GLMSmalltalkCodePresentation [Glamour-Presentations]
+AthensGenericTransform [Athens-Core]
+SymbolTest [Collections-Tests]
+SimpleTestResource [SUnit-Tests]
+ClassTest [KernelTests]
+OSVMWindowHandle [OSWindow-VM]
+NBCPrinter class [NativeBoost-Examples]
+NewListRenderer [Morphic-Widgets-NewList]
+NBExternalStructure class [NativeBoost-Core]
+ArrayTest [Collections-Tests]
+FileList [Tool-FileList]
+LinkedListTest [Collections-Tests]
+SystemVersion [System-Support]
+RubTextComposer [Rubric]
+PharoIssueTest [IssueTracking-Tests]
+NBInterpreterProxy [NativeBoost-Core]
+MissingClassError [CodeImport]
+OCOpalExamples [OpalCompiler-Tests]
+StringTest [Collections-Tests]
+DigitalSignatureAlgorithm [System-Hashing]
+ThemeSettings [Polymorph-Widgets]
+SUnitTest [SUnit-Tests]
+MCWorkingCopyBrowser class [MonticelloGUI]
+GLMAnimation [Glamour-Morphic-Brick]
+TraitsResource [Tests]
+OrderedCollectionTest [Collections-Tests]
+FreeTypeNameParser class [FreeType]
+AJOperand [AsmJit-Operands]
+RxmLookahaed [Regex-Core]
+RBRefactoryTestDataApp [Refactoring-Tests-Core]
+IdentityBagTest [Collections-Tests]
+Nautilus class [Nautilus]
+CompiledMethodTest [KernelTests]
+ZnEntityReader [Zinc-HTTP]
+ReflectivityExamples [Reflectivity-Tests]
+FreeTypeSettings [FreeType]
+NECTestClass [NECompletion-Tests]

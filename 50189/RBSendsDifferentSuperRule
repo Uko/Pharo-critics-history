@@ -1,178 +1,178 @@
-GroupWindowMorph>>#update:with:
-GLMMorphBrick>>#on:
-Trait class>>#named:uses:category:env:
-Process>>#longPrintOn:
-RBSmalllintTestObject>>#sendsDifferentSuper
-MultiByteBinaryOrTextStream>>#basicNextPut:
-MultiByteBinaryOrTextStream>>#basicNext
-MultiByteBinaryOrTextStream>>#basicNext:putAll:startingAt:
-MultiByteBinaryOrTextStream>>#basicPeek
-MultiByteBinaryOrTextStream>>#basicNext:
-MultiByteBinaryOrTextStream>>#basicNextPutAll:
-RBRefactoryTestDataApp>>#sendsDifferentSuper
-RFASTTranslator>>#emitMetaLinkInstead:
-SVColorSelectorMorph>>#basicColor:
-JobProgressMorph>>#initializeJob:
-GLMFoundationBrick>>#privateExtent:
-GLMFoundationBrick>>#themer
-MBConfigurationInfo>>#buildStringOrText
-MBConfigurationInfo>>#recalculateSilently
-PaginatedMorphTreeMorph>>#currentNodelist
-MBAbstractVersionInfo class>>#version:
-StrikeFontSet class>>#newFontArray:
-PasteUpMorph>>#viewBox:
-PasteUpMorph>>#mouseDown:
-WeakKeyDictionary>>#allAssociationsDo:
-TextMorph>>#basicKeyStroke:
-TextMorph>>#contents:wrappedTo:
-TextMorph>>#updateFromParagraph
-TextMorph>>#fit
-OSEnvironment>>#initializeWith:
-PluggableDialogWindow>>#useDefaultOKCancelButton
-PluggableDialogWindow>>#initialize
-CheckboxButtonMorph>>#borderWidth:
-Symbol>>#string:
-ParseNode>>#printOn:indent:
-GLMScrollPaneBrick>>#verticalScrollbar:
-GLMScrollPaneBrick>>#band:
-FLGlobalSendMock>>#initializeWith:
-CharacterBlock>>#stringIndex:text:topLeft:extent:
-Date>>#monthIndex
-PluggableListMorph>>#mouseMoveOnMultiple:
-KomitPackage class>>#package:
-ThisContextEyeElement>>#accessorCode
-HandMorph>>#restoreSavedPatchOn:
-RBRenameClassChange>>#=
-AlphaImageMorph>>#image:size:
-Decompiler>>#decompile:in:method:using:
-Trait>>#fileOutOn:initializing:
-Collection>>#printNameOn:
-RubPluggableGetMenuPolicy>>#lookupShiftMenu
-ThumbnailMorph>>#drawMeOn:
-SortedCollection>>#add:
-AbstractWidgetModel>>#initialize
-AJBaseReg>>#initializeWithCode:name:
-MetacelloAtomicLoadDirective>>#finalizeLoad:
-SystemWindow>>#basicTaskThumbnailOfSize:
-SystemWindow>>#setBoundsWithFlex:
-SystemWindow>>#basicIsSticky
-FT2GlyphSlot class>>#fromFace:
-MBConfigurationInfo class>>#configurationClass:
-GLMPaneScroller>>#initializeTransform
-GLMPaneScroller>>#layoutWidgets
-GLMPaneScroller>>#resizeScrollBar
-RBMessageNode>>#replaceSourceWithMessageNode:
-ImageMorph>>#image:
-ImageMorph>>#form:
-ImageMorph>>#borderWidth:
-ImageMorph>>#borderStyle:
-Bag class>>#new:
-Date class>>#starting:
-KomitStagingArea class>>#currentFilteredBy:
-NOCContext>>#nextModel
-StringMorph>>#initWithContents:font:emphasis:
-MultiByteFileStream>>#basicPeek
-MultiByteFileStream>>#basicReadInto:startingAt:count:
-MultiByteFileStream>>#basicVerbatim:
-MultiByteFileStream>>#basicUpTo:
-MultiByteFileStream>>#basicNextInto:
-MultiByteFileStream>>#basicNextPutAll:
-MultiByteFileStream>>#basicNextPut:
-MultiByteFileStream>>#fileInEncodingName:
-MultiByteFileStream>>#basicSetToEnd
-MultiByteFileStream>>#basicNext:
-MultiByteFileStream>>#basicPosition
-MultiByteFileStream>>#detectLineEndConvention
-MultiByteFileStream>>#basicNext:into:
-MultiByteFileStream>>#basicNext:putAll:startingAt:
-MultiByteFileStream>>#basicSkip:
-MultiByteFileStream>>#basicPosition:
-RubHighlightSegmentMorph>>#registerTextArea
-LongTestCase class>>#allTestSelectors
-RGPackage>>#addMethod:
-RGPackage>>#definedClassNames
-RGPackage>>#removeMethod:
-CompiledMethod class>>#newFrom:
-MCHttpRepository>>#versionReaderForFileNamed:
-Metaclass>>#fileOutOn:initializing:
-Parser>>#init:notifying:failBlock:
-WeakSlot>>#write:to:
-WeakSlot>>#initialize:
-GLMInteractableBrick>>#handlesMouseOver:
-MetacelloPackageLoadDirective>>#spec:externalReference:loader:
-ZipDirectoryMember>>#initialize
-RubUnderlinedSegmentMorph>>#defaultUnderlineColor
-RubUnderlinedSegmentMorph>>#defaultBorderColor
-SelectionMorph>>#doneExtending
-SelectionMorph>>#setOtherSelection:
-Class>>#fileOutOn:initializing:
-ZdcSecureSocketStream>>#readEncryptedBytes:startingAt:count:
-ZdcSecureSocketStream>>#flushEncryptedBytes:startingAt:count:
-ZdcSecureSocketStream>>#fillEncryptedBytes:startingAt:count:
-RubAbstractTextArea>>#forceExtentTo:
-StartupPreferencesLoader class>>#default
-SortedCollection class>>#sortBlock:
-CharacterSetComplement class>>#of:
-MBAbstractPackageInfo class>>#named:packageName:spec:
-FreeTypeFace>>#newFaceFromFile:index:
-FreeTypeFace>>#hasStyleName
-FreeTypeFace>>#newFaceFromExternalMemory:index:
-FreeTypeFace>>#hasFamilyName
-MatrixTransform2x3>>#localBounds:toGlobal:
-MatrixTransform2x3>>#globalBounds:toLocal:
-Author class>>#uniqueInstance
-GTSpotterBreadcrumbSeparatorRenderer>>#render:on:
-MessageNode>>#sizeCodeForCase:value:
-MessageNode>>#emitCodeForIf:encoder:value:
-MessageNode>>#sizeCodeForIf:value:
-MessageNode>>#emitCodeForCase:encoder:value:
-CommandLineArguments>>#initializeWithArguments:
-MenuItemMorph>>#contents:withMarkers:inverse:
-Socket class>>#newTCP
-Socket class>>#newUDP
-Socket class>>#acceptFrom:
-SharedPool class>>#classBindingOf:
-TransformMorph>>#extent:
-MCDiffyVersion>>#initializeWithPackage:info:dependencies:baseInfo:patch:
-FinderClassNode>>#browse
-LargeInteger>>#digitAt:put:
-LargeInteger>>#digitAt:
-NBNativeFunction>>#initializeWithCode:fnSpec:
-TextIndent class>>#amount:
-PolygonMorph>>#arrowsContainPoint:
-PolygonMorph>>#vertices:color:borderWidth:borderColor:
-MetacelloFetchingMCSpecLoader>>#explicitLoadPackageSpecs:repositories:
-MetacelloFetchingMCSpecLoader>>#atomicLoadPackageSpecs:repositories:
-RelationSlot class>>#named:inverse:inClass:
-GroupboxMorph>>#replaceContentMorph:
-RubSegmentMorph>>#vertices:color:borderWidth:borderColor:
-Context class>>#newForMethod:
-Context class>>#newFromFrameSize:
-KomitDefinition class>>#definition:
-RemoteTempVectorNode>>#emitCodeForLoadFor:stack:encoder:
-RemoteTempVectorNode>>#sizeCodeForLoadFor:encoder:
-KomitClass class>>#trackedClass:forExtension:
-KomitClass class>>#trackedClass:
-FilteredMorphTreeModel>>#updateList
-RxsLookaround>>#initializePiece:
-DisplayScreen>>#setExtent:depth:
-DisplayScreen>>#fullBoundingBox
-DisplayScreen>>#copyFrom:
-DisplayScreen>>#fullscreen
-MBSpecInfo class>>#spec:
-ProcessLocalSlot>>#write:to:
-ProcessLocalSlot>>#initialize:
-PluggableTextAttribute class>>#evalBlock:
-AthensTextMorph>>#contents:wrappedTo:
-WriteStream>>#with:
-WriteStream>>#nextBytesPutAll:
-Heap class>>#new:
-KomitMethod class>>#method:
-EditableDropListMorph class>>#on:list:selected:changeSelected:useIndex:addToList:class:getEnabled:default:
-TextMorphForEditView>>#autoScrollView:
-TextEditor>>#initWithMorph:
-TempVariableNode>>#name:index:type:scope:
-FLProxyThatBecomesItsContent>>#initializeWith:
-KomitterManager class>>#current
-FLIteratingCluster>>#printNameOn:
-String>>#alike:
+GroupWindowMorph>>#update:with: [Morphic-Widgets-Windows]
+GLMMorphBrick>>#on: [Glamour-Morphic-Brick]
+Trait class>>#named:uses:category:env: [Traits]
+Process>>#longPrintOn: [Kernel]
+RBSmalllintTestObject>>#sendsDifferentSuper [Refactoring-Tests-Critics]
+MultiByteBinaryOrTextStream>>#basicNextPut: [Collections-Streams]
+MultiByteBinaryOrTextStream>>#basicNext [Collections-Streams]
+MultiByteBinaryOrTextStream>>#basicNext:putAll:startingAt: [Collections-Streams]
+MultiByteBinaryOrTextStream>>#basicPeek [Collections-Streams]
+MultiByteBinaryOrTextStream>>#basicNext: [Collections-Streams]
+MultiByteBinaryOrTextStream>>#basicNextPutAll: [Collections-Streams]
+RBRefactoryTestDataApp>>#sendsDifferentSuper [Refactoring-Tests-Core]
+RFASTTranslator>>#emitMetaLinkInstead: [Reflectivity]
+SVColorSelectorMorph>>#basicColor: [Morphic-Widgets-ColorPicker]
+JobProgressMorph>>#initializeJob: [Morphic-Base]
+GLMFoundationBrick>>#privateExtent: [Glamour-Morphic-Brick]
+GLMFoundationBrick>>#themer [Glamour-Morphic-Brick]
+MBConfigurationInfo>>#buildStringOrText [Versionner-Core-Model]
+MBConfigurationInfo>>#recalculateSilently [Versionner-Core-Model]
+PaginatedMorphTreeMorph>>#currentNodelist [Morphic-Widgets-Tree]
+MBAbstractVersionInfo class>>#version: [Versionner-Core-Model]
+StrikeFontSet class>>#newFontArray: [Graphics-Fonts]
+PasteUpMorph>>#viewBox: [Morphic-Core]
+PasteUpMorph>>#mouseDown: [Morphic-Core]
+WeakKeyDictionary>>#allAssociationsDo: [Collections-Weak]
+TextMorph>>#basicKeyStroke: [Morphic-Base]
+TextMorph>>#contents:wrappedTo: [Morphic-Base]
+TextMorph>>#updateFromParagraph [Morphic-Base]
+TextMorph>>#fit [Morphic-Base]
+OSEnvironment>>#initializeWith: [System-Platforms]
+PluggableDialogWindow>>#useDefaultOKCancelButton [Polymorph-Widgets]
+PluggableDialogWindow>>#initialize [Polymorph-Widgets]
+CheckboxButtonMorph>>#borderWidth: [Morphic-Widgets-Basic]
+Symbol>>#string: [Collections-Strings]
+ParseNode>>#printOn:indent: [Compiler]
+GLMScrollPaneBrick>>#verticalScrollbar: [Glamour-Morphic-Brick]
+GLMScrollPaneBrick>>#band: [Glamour-Morphic-Brick]
+FLGlobalSendMock>>#initializeWith: [FuelTests]
+CharacterBlock>>#stringIndex:text:topLeft:extent: [Text-Scanning]
+Date>>#monthIndex [Kernel]
+PluggableListMorph>>#mouseMoveOnMultiple: [Morphic-Widgets-Pluggable]
+KomitPackage class>>#package: [Komitter]
+ThisContextEyeElement>>#accessorCode [Spec-Inspector]
+HandMorph>>#restoreSavedPatchOn: [Morphic-Core]
+RBRenameClassChange>>#= [Refactoring-Changes]
+AlphaImageMorph>>#image:size: [Morphic-Base]
+Decompiler>>#decompile:in:method:using: [Compiler]
+Trait>>#fileOutOn:initializing: [Traits]
+Collection>>#printNameOn: [Collections-Abstract]
+RubPluggableGetMenuPolicy>>#lookupShiftMenu [Rubric]
+ThumbnailMorph>>#drawMeOn: [Morphic-Base]
+SortedCollection>>#add: [Collections-Sequenceable]
+AbstractWidgetModel>>#initialize [Spec-Core]
+AJBaseReg>>#initializeWithCode:name: [AsmJit-Operands]
+MetacelloAtomicLoadDirective>>#finalizeLoad: [Metacello-MC]
+SystemWindow>>#basicTaskThumbnailOfSize: [Polymorph-Widgets]
+SystemWindow>>#setBoundsWithFlex: [Morphic-Widgets-Windows]
+SystemWindow>>#basicIsSticky [Polymorph-Widgets]
+FT2GlyphSlot class>>#fromFace: [FreeType]
+MBConfigurationInfo class>>#configurationClass: [Versionner-Core-Model]
+GLMPaneScroller>>#initializeTransform [Glamour-Morphic-Widgets]
+GLMPaneScroller>>#layoutWidgets [Glamour-Morphic-Widgets]
+GLMPaneScroller>>#resizeScrollBar [Glamour-Morphic-Widgets]
+RBMessageNode>>#replaceSourceWithMessageNode: [AST-Core]
+ImageMorph>>#image: [Morphic-Base]
+ImageMorph>>#form: [Morphic-Base]
+ImageMorph>>#borderWidth: [Morphic-Base]
+ImageMorph>>#borderStyle: [Morphic-Base]
+Bag class>>#new: [Collections-Unordered]
+Date class>>#starting: [Kernel]
+KomitStagingArea class>>#currentFilteredBy: [Komitter]
+NOCContext>>#nextModel [NECompletion]
+StringMorph>>#initWithContents:font:emphasis: [Morphic-Base]
+MultiByteFileStream>>#basicPeek [Files]
+MultiByteFileStream>>#basicReadInto:startingAt:count: [Files]
+MultiByteFileStream>>#basicVerbatim: [Files]
+MultiByteFileStream>>#basicUpTo: [Files]
+MultiByteFileStream>>#basicNextInto: [Files]
+MultiByteFileStream>>#basicNextPutAll: [Files]
+MultiByteFileStream>>#basicNextPut: [Files]
+MultiByteFileStream>>#fileInEncodingName: [Files]
+MultiByteFileStream>>#basicSetToEnd [Files]
+MultiByteFileStream>>#basicNext: [Files]
+MultiByteFileStream>>#basicPosition [Files]
+MultiByteFileStream>>#detectLineEndConvention [Files]
+MultiByteFileStream>>#basicNext:into: [Files]
+MultiByteFileStream>>#basicNext:putAll:startingAt: [Files]
+MultiByteFileStream>>#basicSkip: [Files]
+MultiByteFileStream>>#basicPosition: [Files]
+RubHighlightSegmentMorph>>#registerTextArea [Rubric]
+LongTestCase class>>#allTestSelectors [SUnit-Core]
+RGPackage>>#addMethod: [Ring-Core-Containers]
+RGPackage>>#definedClassNames [Ring-Core-Containers]
+RGPackage>>#removeMethod: [Ring-Core-Containers]
+CompiledMethod class>>#newFrom: [Kernel]
+MCHttpRepository>>#versionReaderForFileNamed: [MonticelloRemoteRepositories]
+Metaclass>>#fileOutOn:initializing: [Kernel]
+Parser>>#init:notifying:failBlock: [Compiler]
+WeakSlot>>#write:to: [Slot]
+WeakSlot>>#initialize: [Slot]
+GLMInteractableBrick>>#handlesMouseOver: [Glamour-Morphic-Brick]
+MetacelloPackageLoadDirective>>#spec:externalReference:loader: [Metacello-MC]
+ZipDirectoryMember>>#initialize [Compression]
+RubUnderlinedSegmentMorph>>#defaultUnderlineColor [Rubric]
+RubUnderlinedSegmentMorph>>#defaultBorderColor [Rubric]
+SelectionMorph>>#doneExtending [Morphic-Base]
+SelectionMorph>>#setOtherSelection: [Morphic-Base]
+Class>>#fileOutOn:initializing: [Kernel]
+ZdcSecureSocketStream>>#readEncryptedBytes:startingAt:count: [Zodiac-Core]
+ZdcSecureSocketStream>>#flushEncryptedBytes:startingAt:count: [Zodiac-Core]
+ZdcSecureSocketStream>>#fillEncryptedBytes:startingAt:count: [Zodiac-Core]
+RubAbstractTextArea>>#forceExtentTo: [Rubric]
+StartupPreferencesLoader class>>#default [StartupPreferences]
+SortedCollection class>>#sortBlock: [Collections-Sequenceable]
+CharacterSetComplement class>>#of: [Collections-Support]
+MBAbstractPackageInfo class>>#named:packageName:spec: [Versionner-Core-Model]
+FreeTypeFace>>#newFaceFromFile:index: [FreeType]
+FreeTypeFace>>#hasStyleName [FreeType]
+FreeTypeFace>>#newFaceFromExternalMemory:index: [FreeType]
+FreeTypeFace>>#hasFamilyName [FreeType]
+MatrixTransform2x3>>#localBounds:toGlobal: [Graphics-Transformations]
+MatrixTransform2x3>>#globalBounds:toLocal: [Graphics-Transformations]
+Author class>>#uniqueInstance [System-Support]
+GTSpotterBreadcrumbSeparatorRenderer>>#render:on: [GT-Spotter]
+MessageNode>>#sizeCodeForCase:value: [Compiler]
+MessageNode>>#emitCodeForIf:encoder:value: [Compiler]
+MessageNode>>#sizeCodeForIf:value: [Compiler]
+MessageNode>>#emitCodeForCase:encoder:value: [Compiler]
+CommandLineArguments>>#initializeWithArguments: [System-CommandLineHandler]
+MenuItemMorph>>#contents:withMarkers:inverse: [Morphic-Base]
+Socket class>>#newTCP [Network-Kernel]
+Socket class>>#newUDP [Network-Kernel]
+Socket class>>#acceptFrom: [Network-Kernel]
+SharedPool class>>#classBindingOf: [Kernel]
+TransformMorph>>#extent: [Morphic-Base]
+MCDiffyVersion>>#initializeWithPackage:info:dependencies:baseInfo:patch: [Monticello]
+FinderClassNode>>#browse [Tool-Finder]
+LargeInteger>>#digitAt:put: [Kernel]
+LargeInteger>>#digitAt: [Kernel]
+NBNativeFunction>>#initializeWithCode:fnSpec: [NativeBoost-Core]
+TextIndent class>>#amount: [Text-Core]
+PolygonMorph>>#arrowsContainPoint: [Morphic-Base]
+PolygonMorph>>#vertices:color:borderWidth:borderColor: [Morphic-Base]
+MetacelloFetchingMCSpecLoader>>#explicitLoadPackageSpecs:repositories: [Metacello-MC]
+MetacelloFetchingMCSpecLoader>>#atomicLoadPackageSpecs:repositories: [Metacello-MC]
+RelationSlot class>>#named:inverse:inClass: [Slot]
+GroupboxMorph>>#replaceContentMorph: [Polymorph-Widgets]
+RubSegmentMorph>>#vertices:color:borderWidth:borderColor: [Rubric]
+Context class>>#newForMethod: [Kernel]
+Context class>>#newFromFrameSize: [Fuel]
+KomitDefinition class>>#definition: [Komitter]
+RemoteTempVectorNode>>#emitCodeForLoadFor:stack:encoder: [Compiler]
+RemoteTempVectorNode>>#sizeCodeForLoadFor:encoder: [Compiler]
+KomitClass class>>#trackedClass:forExtension: [Komitter]
+KomitClass class>>#trackedClass: [Komitter]
+FilteredMorphTreeModel>>#updateList [Morphic-Widgets-Tree]
+RxsLookaround>>#initializePiece: [Regex-Core]
+DisplayScreen>>#setExtent:depth: [Graphics-Display Objects]
+DisplayScreen>>#fullBoundingBox [Graphics-Display Objects]
+DisplayScreen>>#copyFrom: [Graphics-Display Objects]
+DisplayScreen>>#fullscreen [Graphics-Display Objects]
+MBSpecInfo class>>#spec: [Versionner-Core-Model]
+ProcessLocalSlot>>#write:to: [Slot]
+ProcessLocalSlot>>#initialize: [Slot]
+PluggableTextAttribute class>>#evalBlock: [Text-Core]
+AthensTextMorph>>#contents:wrappedTo: [Athens-Morphic]
+WriteStream>>#with: [Collections-Streams]
+WriteStream>>#nextBytesPutAll: [Fuel]
+Heap class>>#new: [Collections-Sequenceable]
+KomitMethod class>>#method: [Komitter]
+EditableDropListMorph class>>#on:list:selected:changeSelected:useIndex:addToList:class:getEnabled:default: [Polymorph-Widgets]
+TextMorphForEditView>>#autoScrollView: [Morphic-Base]
+TextEditor>>#initWithMorph: [Text-Edition]
+TempVariableNode>>#name:index:type:scope: [Compiler]
+FLProxyThatBecomesItsContent>>#initializeWith: [FuelTests]
+KomitterManager class>>#current [Komitter]
+FLIteratingCluster>>#printNameOn: [Fuel]
+String>>#alike: [Collections-Strings]

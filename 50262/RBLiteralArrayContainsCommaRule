@@ -1,266 +1,266 @@
-CairoFontFace>>#primSetSynthesizeEmphasis:
-NBWin32Hdc>>#moveToX:y:
-NBWin32Hdc>>#lineToX:y:
-NBWin32Hdc>>#rectangleLeft:top:right:bottom:
-WideString>>#nbStringHash:
-RBSmalllintTestObject>>#literalArrayContainsComma
-Win32Environment>>#getEnvSize:
-Win32Environment>>#setEnv:value:
-Win32Environment>>#getEnv:buffer:size:
-NBMacExternalHeapManager>>#mmapLength:prot:flags:into:
-NBMacExternalHeapManager>>#unmap:length:
-NBCPrinter class>>#printf:
-SDL_Renderer>>#copy:
-SDL_Renderer>>#copy:srcRect:dstRect:
-SDL_Renderer>>#drawColorR:g:b:a:
-SDL_Renderer>>#createTextureFormat:access:width:height:
-SDL_Renderer>>#fillRect:
-SDL_Renderer>>#noRenderTarget
-SDL_Renderer>>#drawPointX:y:
-SDL_Renderer>>#drawRect:
-SDL_Renderer>>#drawLineX1:y1:x2:y2:
-SDL_Renderer>>#noClipRect
-NBQSortCallback class>>#fnSpec
-TNBMemoryAccessors>>#nbUInt16AtOffset:
-TNBMemoryAccessors>>#nbUInt8AtOffset:put:
-TNBMemoryAccessors>>#nbFloat32AtOffset:put:
-TNBMemoryAccessors>>#nbFloat64AtOffset:put:
-TNBMemoryAccessors>>#nbInt16AtOffset:
-TNBMemoryAccessors>>#nbFloat64AtOffset:
-TNBMemoryAccessors>>#nbInt64AtOffset:put:
-TNBMemoryAccessors>>#nbUInt32AtOffset:put:
-TNBMemoryAccessors>>#nbInt8AtOffset:put:
-TNBMemoryAccessors>>#nbUInt8AtOffset:
-TNBMemoryAccessors>>#nbUInt64AtOffset:put:
-TNBMemoryAccessors>>#nbUInt64AtOffset:
-TNBMemoryAccessors>>#nbInt32AtOffset:
-TNBMemoryAccessors>>#nbUInt16AtOffset:put:
-TNBMemoryAccessors>>#nbInt32AtOffset:put:
-TNBMemoryAccessors>>#nbInt8AtOffset:
-TNBMemoryAccessors>>#nbUInt32AtOffset:
-TNBMemoryAccessors>>#nbInt64AtOffset:
-TNBMemoryAccessors>>#nbFloat32AtOffset:
-TNBMemoryAccessors>>#nbInt16AtOffset:put:
-ByteString>>#nbBeginsWithByteString:
-NBBasicExamples class>>#returnInstVar:from:
-NBBasicExamples class>>#swapDoubFirst:withSecond:
-NBBasicExamples class>>#returnInteger:minus:
-NBWin32Heap class>>#create:initialiSize:maximumSize:
-NBExtraRootsRegistry>>#primAtMem:put:
-NativeBoostWin32 class>>#primGetModuleFileName:with:
-NativeBoostWin32 class>>#realloc:newSize:
-NativeBoostWin32 class>>#getProcAddress:procName:
-AthensCairoSurface class>>#primImage:width:height:
-AthensCairoSurface class>>#createUnlockSurfaceFn
-AthensCairoSurface class>>#primImageFromData:width:height:pitch:
-AthensCairoSurface class>>#ioFindSurface:handle:
-AthensCairoSurface class>>#ioFindSurface:dispatch:handle:
-AthensCairoSurface class>>#createGetSurfaceFormatFn
-AthensCairoSurface class>>#ioRegisterSurface:dispatch:surfaceId:
-AthensCairoSurface class>>#testLockSurface:pitch:x:y:w:h:
-AthensCairoSurface class>>#testGetSurfaceFormat:width:height:depth:isMSB:
-AthensCairoSurface class>>#createLockSurfaceFn
-AthensCairoSurface class>>#createShowSurfaceFn
-AthensCairoSurface class>>#primWidth:height:
-NautilusMonticello class>>#packagesCommitsMenu:
-NautilusMonticello class>>#packagesChangesMenu:
-NautilusMonticello class>>#packagesOpenMenu:
-NBWin32Shell class>>#shellExecute:operation:file:parameters:directory:show:
-NBWin32Shell class>>#shellExecute:file:parameters:directory:show:
-NBWin32Shell class>>#shellAbout:application:other:icon:
-NativeBoost>>#bootstrapLoadModule:ofLength:into:
-NativeBoost>>#bootstrapLoadSymbol:ofLength:fromModule:into:
-NativeBoost>>#loadFunction:from:
-NativeBoost>>#loadModule:
-NativeBoost>>#memCopy:to:size:
-NativeBoost>>#ioLoadFunction:from:
-NativeBoost>>#bootstrapLoadFunction:from:into:
-NBFFICallbackTests>>#checkCallback:with:compare:
-NBFFICallbackTests>>#primStQSort:len:compare:
-NBFFICallbackTests>>#readByte:at:
-NBFFICallbackTests>>#createNativeCallback
-NBFFICallbackTests>>#primNativeQSort:compare:
-NBInterpreterProxy class>>#CogProxyFunctionsData
-AthensCairoPathBuilder>>#arcCenterX:centerY:radius:startAngle:endAngle:
-AthensCairoPathBuilder>>#curveViaX:Y:viaX:Y:toX:Y:
-AthensCairoPathBuilder>>#moveToX:Y:
-AthensCairoPathBuilder>>#lineToX:Y:
-AthensCairoPathBuilder>>#arcNegativeCenterX:centerY:radius:startAngle:endAngle:
-AthensCairoMatrix>>#setScaleX:Y:
-AthensCairoMatrix>>#translateX:Y:
-AthensCairoMatrix>>#setTranslateX:Y:
-AthensCairoMatrix>>#scaleX:Y:
-AthensCairoMatrix>>#initx:y:sx:sy:shx:shy:
-AthensCairoMatrix>>#primMultiplyBy:
-AthensCairoMatrix>>#setRotationInRadians:
-AthensCairoMatrix>>#primTransformX:Y:
-AthensCairoMatrix>>#rotateByRadians:
-CairoScaledFont class>>#primCreate:fontMatrix:userToDeviceMatrix:options:
-SDL_Texture>>#updateTextureRect:formBits:pitch:
-SDL_Texture>>#updateTexturePixels:pitch:
-SDL_Texture>>#updateTextureRect:pixels:pitch:
-CairoFontFace class>>#primFtFace:loadFlags:
-NBObjectFormat32Tests>>#getFloatPtrOffset:
-AthensCairoGradientPaint>>#primAddColorStopOffset:R:G:B:A:
-AthensCairoPatternPaint>>#maskOn:
-AthensCairoPatternPaint>>#primSetSourceOn:
-AthensCairoPatternPaint>>#setMatrix:
-AthensCairoPatternPaint>>#primSetExtend:
-NBBasicExamples>>#storeDouble:at:
-NBWin32Heap>>#zalloc:
-NBWin32Heap>>#realloc:mem:size:
-NBWin32Heap>>#sizeOf:
-NBWin32Heap>>#compact
-NBWin32Heap>>#free:
-NBWin32Heap>>#alloc:
-NativeBoostWin32>>#free:
-NativeBoostWin32>>#bootstrapAllocate:into:
-NativeBoostWin32>>#privCreateHeap:
-NativeBoostLinux32>>#bootstrapGetGlobalSymbolPointer:into:
-NBWin32Window class>>#createWindowExW:lpClassName:lpWindowName:dwStyle:x:y:width:height:hWndParent:hMenu:hInstance:lParam:
-NBWin32Window class>>#createWindowExA:lpClassName:lpWindowName:dwStyle:x:y:width:height:hWndParent:hMenu:hInstance:lParam:
-AthensCairoPDFSurface class>>#createPDF:width:height:
-NBUnixExternalHeapManager>>#mmapLength:prot:flags:into:
-NBUnixExternalHeapManager>>#unmap:length:
-SDL_Window>>#getSizeW:h:
-SDL_Window>>#toggleBorder:
-SDL_Window>>#setHitTest:
-SDL_Window>>#fullscreen:
-SDL_Window>>#createRenderer:flags:
-SDL_Window>>#title:
-SDL_Window>>#setPositionX:y:
-SDL_Window>>#setSizeW:h:
-SDL_Window>>#getPositionX:y:
-SDL_Window>>#getWMInfo:
-SDL_Window>>#icon:
-AthensCairoCanvas>>#text:extents:
-AthensCairoCanvas>>#setFontSize:
-AthensCairoCanvas>>#showGlyphs:size:
-AthensCairoCanvas>>#setPathMatrix:
-AthensCairoCanvas>>#primSetLineCap:
-AthensCairoCanvas>>#showText:
-AthensCairoCanvas>>#loadPath:
-AthensCairoCanvas>>#primResetDashes:
-AthensCairoCanvas>>#setScaledFont:
-AthensCairoCanvas>>#setAA:
-AthensCairoCanvas>>#moveToX:Y:
-AthensCairoCanvas>>#setPathMatrix
-AthensCairoCanvas>>#primSetLineWidth:
-AthensCairoCanvas>>#primSetLineJoin:
-AthensCairoCanvas>>#setSourceR:g:b:a:
-AthensCairoCanvas>>#setFontMatrix:
-AthensCairoCanvas>>#primGetCurrentPointX:Y:
-AthensCairoCanvas>>#rectangleX:y:width:height:
-MTDependantProjectTest>>#testEquals
-MTDependantProjectTest>>#referenceDependency
-NBExternalAddress>>#nbUInt16AtOffset:
-NBExternalAddress>>#byteAt:
-NBExternalAddress>>#nbUInt8AtOffset:put:
-NBExternalAddress>>#nbFloat32AtOffset:put:
-NBExternalAddress>>#nbFloat64AtOffset:put:
-NBExternalAddress>>#nbInt16AtOffset:
-NBExternalAddress>>#nbFloat64AtOffset:
-NBExternalAddress>>#nbInt64AtOffset:put:
-NBExternalAddress>>#nbUInt32AtOffset:put:
-NBExternalAddress>>#ulongAt:
-NBExternalAddress>>#nbInt8AtOffset:put:
-NBExternalAddress>>#nbUInt64AtOffset:
-NBExternalAddress>>#nbUInt8AtOffset:
-NBExternalAddress>>#nbUInt64AtOffset:put:
-NBExternalAddress>>#longAt:
-NBExternalAddress>>#nbInt32AtOffset:
-NBExternalAddress>>#nbUInt16AtOffset:put:
-NBExternalAddress>>#longAt:put:
-NBExternalAddress>>#byteAt:put:
-NBExternalAddress>>#ulongAt:put:
-NBExternalAddress>>#nbInt32AtOffset:put:
-NBExternalAddress>>#nbInt8AtOffset:
-NBExternalAddress>>#nbUInt32AtOffset:
-NBExternalAddress>>#nbInt64AtOffset:
-NBExternalAddress>>#nbFloat32AtOffset:
-NBExternalAddress>>#nbInt16AtOffset:put:
-NBFnSpecParserTest>>#testParserCallbacks
-NBFnSpecParserTest>>#testParseAnonFn
-NBFnSpecParserTest>>#testParseNamedFn
-AthensCairoText>>#primSetFontSize:on:
-AthensCairoText>>#primShowText:on:
-AthensCairoText>>#primSelectFont:slant:weight:on:
-NBFFICalloutTests>>#testBuildingFnSpecWithQueries
-NBFFICalloutTests>>#arraySize2:with:
-NBFFICalloutTests>>#testBuildingFnSpec
-NBFFICalloutTests>>#returnReceiver:arg2:
-NBFFIExternalValueTests>>#outputValueArg:value:
-NBFFIExternalValueTests>>#outputIntArg:value:
-NBFFIExternalValueTests>>#outputVoidArg:value:
-CairoFreetypeFontRenderer>>#convertString:len:ofFont:toGlyphs:numGlyphs:x:y:
-AthensQuartzSurface class>>#primImage:width:height:
-NBWin32Window>>#show
-NBWin32Window>>#getWindow:
-NBWin32Window>>#getWindowLongAtIndex:
-NBWin32Window>>#hide
-NBWin32Window>>#releaseDC:
-NBWin32Window>>#moveWindowX:y:width:height:
-NBWin32Window>>#setWindowText:
-NBWin32Window>>#getWindowRect:
-NBWin32Window>>#setWindowLong:index:newVale:
-NBWin32Window>>#getWindowText:buffer:bufferSize:
-NBWin32Window>>#getWindowLong:index:
-NBWndClassEx class>>#unregister:instance:
-NativeCodeTests>>#testArgumentOffsets
-CairoFontOptions>>#setHintMetrics:
-CairoFontOptions>>#setHintStyle:
-CairoFontOptions>>#setAA:
-CairoFontOptions>>#setSubpixelOrder:
-AthensCairoGradientPaint class>>#primCreateRadialXo:yo:radiuso:x1:y1:radius1:
-AthensCairoGradientPaint class>>#primCreateLinearX0:y0:x1:y1:
-NativeBoostMac32>>#bootstrapGetGlobalSymbolPointer:into:
-AthensCairoPaintMode>>#setOperator:
-AthensCairoSurface>>#writeToPng:
-AthensCairoStrokePaint>>#primSetLineJoinOn:
-AthensCairoStrokePaint>>#primSetDashesOn:lengths:count:offset:
-AthensCairoStrokePaint>>#primSetLineCapOn:
-AthensCairoStrokePaint>>#primSetLineWidthOn:
-AthensCairoTransform>>#translateX:Y:
-AthensCairoTransform>>#moveToX:Y:
-AthensCairoTransform>>#scaleX:Y:
-AthensCairoTransform>>#rotateByRadians:
-AthensCairoTransform>>#primTransformX:Y:
-ByteArray>>#nbLongAt:
-ByteArray>>#nbUInt16AtOffset:
-ByteArray>>#nbUInt8AtOffset:put:
-ByteArray>>#nbFloat32AtOffset:put:
-ByteArray>>#nbFloat64AtOffset:put:
-ByteArray>>#nbInt16AtOffset:
-ByteArray>>#nbFloat64AtOffset:
-ByteArray>>#nbInt64AtOffset:put:
-ByteArray>>#nbUInt32AtOffset:put:
-ByteArray>>#nbUInt64AtOffset:put:
-ByteArray>>#nbUInt8AtOffset:
-ByteArray>>#nbUInt64AtOffset:
-ByteArray>>#nbInt8AtOffset:put:
-ByteArray>>#nbInt32AtOffset:
-ByteArray>>#nbUInt16AtOffset:put:
-ByteArray>>#nbInt32AtOffset:put:
-ByteArray>>#nbInt8AtOffset:
-ByteArray>>#nbUInt32AtOffset:
-ByteArray>>#nbInt64AtOffset:
-ByteArray>>#nbUlongAt:
-ByteArray>>#nbLongAt:put:
-ByteArray>>#nbFloat32AtOffset:
-ByteArray>>#nbUlongAt:put:
-ByteArray>>#nbInt16AtOffset:put:
-UnixEnvironment>>#setEnv:value:
-MethodFinder>>#initialize
-SDL2 class>>#mouseState
-SDL2 class>>#glGetAttribute:into:
-SDL2 class>>#createRGBSurfaceFromPixels:width:height:depth:pitch:rmask:gmask:bmask:amask:
-SDL2 class>>#mouseStateX:y:
-SDL2 class>>#createCursor:mask:w:h:hotX:hotY:
-SDL2 class>>#glMakeCurrent:context:
-SDL2 class>>#glSetAttribute:value:
-SDL2 class>>#createWindow:x:y:width:height:flags:
-SDL_Joystick>>#getAxis:
-SDL_Joystick>>#getButton:
-CairoScaledFont>>#getExtents:
-CairoScaledFont>>#getExtentsOf:into:
-CairoScaledFont>>#getExtentsOfGlyphs:ofLength:into:
+CairoFontFace>>#primSetSynthesizeEmphasis: [Athens-Cairo]
+NBWin32Hdc>>#moveToX:y: [NativeBoost-Win32]
+NBWin32Hdc>>#lineToX:y: [NativeBoost-Win32]
+NBWin32Hdc>>#rectangleLeft:top:right:bottom: [NativeBoost-Win32]
+WideString>>#nbStringHash: [NativeBoost-Examples]
+RBSmalllintTestObject>>#literalArrayContainsComma [Refactoring-Tests-Critics]
+Win32Environment>>#getEnvSize: [System-OSEnvironments]
+Win32Environment>>#setEnv:value: [System-OSEnvironments]
+Win32Environment>>#getEnv:buffer:size: [System-OSEnvironments]
+NBMacExternalHeapManager>>#mmapLength:prot:flags:into: [NativeBoost-Mac]
+NBMacExternalHeapManager>>#unmap:length: [NativeBoost-Mac]
+NBCPrinter class>>#printf: [NativeBoost-Examples]
+SDL_Renderer>>#copy: [OSWindow-SDL2]
+SDL_Renderer>>#copy:srcRect:dstRect: [OSWindow-SDL2]
+SDL_Renderer>>#drawColorR:g:b:a: [OSWindow-SDL2]
+SDL_Renderer>>#createTextureFormat:access:width:height: [OSWindow-SDL2]
+SDL_Renderer>>#fillRect: [OSWindow-SDL2]
+SDL_Renderer>>#noRenderTarget [OSWindow-SDL2]
+SDL_Renderer>>#drawPointX:y: [OSWindow-SDL2]
+SDL_Renderer>>#drawRect: [OSWindow-SDL2]
+SDL_Renderer>>#drawLineX1:y1:x2:y2: [OSWindow-SDL2]
+SDL_Renderer>>#noClipRect [OSWindow-SDL2]
+NBQSortCallback class>>#fnSpec [NativeBoost-Tests]
+TNBMemoryAccessors>>#nbUInt16AtOffset: [NativeBoost-Core]
+TNBMemoryAccessors>>#nbUInt8AtOffset:put: [NativeBoost-Core]
+TNBMemoryAccessors>>#nbFloat32AtOffset:put: [NativeBoost-Core]
+TNBMemoryAccessors>>#nbFloat64AtOffset:put: [NativeBoost-Core]
+TNBMemoryAccessors>>#nbInt16AtOffset: [NativeBoost-Core]
+TNBMemoryAccessors>>#nbFloat64AtOffset: [NativeBoost-Core]
+TNBMemoryAccessors>>#nbInt64AtOffset:put: [NativeBoost-Core]
+TNBMemoryAccessors>>#nbUInt32AtOffset:put: [NativeBoost-Core]
+TNBMemoryAccessors>>#nbInt8AtOffset:put: [NativeBoost-Core]
+TNBMemoryAccessors>>#nbUInt8AtOffset: [NativeBoost-Core]
+TNBMemoryAccessors>>#nbUInt64AtOffset:put: [NativeBoost-Core]
+TNBMemoryAccessors>>#nbUInt64AtOffset: [NativeBoost-Core]
+TNBMemoryAccessors>>#nbInt32AtOffset: [NativeBoost-Core]
+TNBMemoryAccessors>>#nbUInt16AtOffset:put: [NativeBoost-Core]
+TNBMemoryAccessors>>#nbInt32AtOffset:put: [NativeBoost-Core]
+TNBMemoryAccessors>>#nbInt8AtOffset: [NativeBoost-Core]
+TNBMemoryAccessors>>#nbUInt32AtOffset: [NativeBoost-Core]
+TNBMemoryAccessors>>#nbInt64AtOffset: [NativeBoost-Core]
+TNBMemoryAccessors>>#nbFloat32AtOffset: [NativeBoost-Core]
+TNBMemoryAccessors>>#nbInt16AtOffset:put: [NativeBoost-Core]
+ByteString>>#nbBeginsWithByteString: [NativeBoost-Examples]
+NBBasicExamples class>>#returnInstVar:from: [NativeBoost-Examples]
+NBBasicExamples class>>#swapDoubFirst:withSecond: [NativeBoost-Examples]
+NBBasicExamples class>>#returnInteger:minus: [NativeBoost-Examples]
+NBWin32Heap class>>#create:initialiSize:maximumSize: [NativeBoost-Win32]
+NBExtraRootsRegistry>>#primAtMem:put: [NativeBoost-Core]
+NativeBoostWin32 class>>#primGetModuleFileName:with: [NativeBoost-Win32]
+NativeBoostWin32 class>>#realloc:newSize: [NativeBoost-Win32]
+NativeBoostWin32 class>>#getProcAddress:procName: [NativeBoost-Win32]
+AthensCairoSurface class>>#primImage:width:height: [Athens-Cairo]
+AthensCairoSurface class>>#createUnlockSurfaceFn [Athens-Cairo]
+AthensCairoSurface class>>#primImageFromData:width:height:pitch: [Athens-Cairo]
+AthensCairoSurface class>>#ioFindSurface:handle: [Athens-Cairo]
+AthensCairoSurface class>>#ioFindSurface:dispatch:handle: [Athens-Cairo]
+AthensCairoSurface class>>#createGetSurfaceFormatFn [Athens-Cairo]
+AthensCairoSurface class>>#ioRegisterSurface:dispatch:surfaceId: [Athens-Cairo]
+AthensCairoSurface class>>#testLockSurface:pitch:x:y:w:h: [Athens-Cairo]
+AthensCairoSurface class>>#testGetSurfaceFormat:width:height:depth:isMSB: [Athens-Cairo]
+AthensCairoSurface class>>#createLockSurfaceFn [Athens-Cairo]
+AthensCairoSurface class>>#createShowSurfaceFn [Athens-Cairo]
+AthensCairoSurface class>>#primWidth:height: [Athens-Cairo]
+NautilusMonticello class>>#packagesCommitsMenu: [Nautilus]
+NautilusMonticello class>>#packagesChangesMenu: [Nautilus]
+NautilusMonticello class>>#packagesOpenMenu: [Nautilus]
+NBWin32Shell class>>#shellExecute:operation:file:parameters:directory:show: [NativeBoost-Win32]
+NBWin32Shell class>>#shellExecute:file:parameters:directory:show: [NativeBoost-Win32]
+NBWin32Shell class>>#shellAbout:application:other:icon: [NativeBoost-Win32]
+NativeBoost>>#bootstrapLoadModule:ofLength:into: [NativeBoost-Core]
+NativeBoost>>#bootstrapLoadSymbol:ofLength:fromModule:into: [NativeBoost-Core]
+NativeBoost>>#loadFunction:from: [NativeBoost-Core]
+NativeBoost>>#loadModule: [NativeBoost-Core]
+NativeBoost>>#memCopy:to:size: [NativeBoost-Core]
+NativeBoost>>#ioLoadFunction:from: [NativeBoost-Core]
+NativeBoost>>#bootstrapLoadFunction:from:into: [NativeBoost-Core]
+NBFFICallbackTests>>#checkCallback:with:compare: [NativeBoost-Tests]
+NBFFICallbackTests>>#primStQSort:len:compare: [NativeBoost-Tests]
+NBFFICallbackTests>>#readByte:at: [NativeBoost-Tests]
+NBFFICallbackTests>>#createNativeCallback [NativeBoost-Tests]
+NBFFICallbackTests>>#primNativeQSort:compare: [NativeBoost-Tests]
+NBInterpreterProxy class>>#CogProxyFunctionsData [NativeBoost-Core]
+AthensCairoPathBuilder>>#arcCenterX:centerY:radius:startAngle:endAngle: [Athens-Cairo]
+AthensCairoPathBuilder>>#curveViaX:Y:viaX:Y:toX:Y: [Athens-Cairo]
+AthensCairoPathBuilder>>#moveToX:Y: [Athens-Cairo]
+AthensCairoPathBuilder>>#lineToX:Y: [Athens-Cairo]
+AthensCairoPathBuilder>>#arcNegativeCenterX:centerY:radius:startAngle:endAngle: [Athens-Cairo]
+AthensCairoMatrix>>#setScaleX:Y: [Athens-Cairo]
+AthensCairoMatrix>>#translateX:Y: [Athens-Cairo]
+AthensCairoMatrix>>#setTranslateX:Y: [Athens-Cairo]
+AthensCairoMatrix>>#scaleX:Y: [Athens-Cairo]
+AthensCairoMatrix>>#initx:y:sx:sy:shx:shy: [Athens-Cairo]
+AthensCairoMatrix>>#primMultiplyBy: [Athens-Cairo]
+AthensCairoMatrix>>#setRotationInRadians: [Athens-Cairo]
+AthensCairoMatrix>>#primTransformX:Y: [Athens-Cairo]
+AthensCairoMatrix>>#rotateByRadians: [Athens-Cairo]
+CairoScaledFont class>>#primCreate:fontMatrix:userToDeviceMatrix:options: [Athens-Cairo]
+SDL_Texture>>#updateTextureRect:formBits:pitch: [OSWindow-SDL2]
+SDL_Texture>>#updateTexturePixels:pitch: [OSWindow-SDL2]
+SDL_Texture>>#updateTextureRect:pixels:pitch: [OSWindow-SDL2]
+CairoFontFace class>>#primFtFace:loadFlags: [Athens-Cairo]
+NBObjectFormat32Tests>>#getFloatPtrOffset: [NativeBoost-Tests]
+AthensCairoGradientPaint>>#primAddColorStopOffset:R:G:B:A: [Athens-Cairo]
+AthensCairoPatternPaint>>#maskOn: [Athens-Cairo]
+AthensCairoPatternPaint>>#primSetSourceOn: [Athens-Cairo]
+AthensCairoPatternPaint>>#setMatrix: [Athens-Cairo]
+AthensCairoPatternPaint>>#primSetExtend: [Athens-Cairo]
+NBBasicExamples>>#storeDouble:at: [NativeBoost-Examples]
+NBWin32Heap>>#zalloc: [NativeBoost-Win32]
+NBWin32Heap>>#realloc:mem:size: [NativeBoost-Win32]
+NBWin32Heap>>#sizeOf: [NativeBoost-Win32]
+NBWin32Heap>>#compact [NativeBoost-Win32]
+NBWin32Heap>>#free: [NativeBoost-Win32]
+NBWin32Heap>>#alloc: [NativeBoost-Win32]
+NativeBoostWin32>>#free: [NativeBoost-Win32]
+NativeBoostWin32>>#bootstrapAllocate:into: [NativeBoost-Win32]
+NativeBoostWin32>>#privCreateHeap: [NativeBoost-Win32]
+NativeBoostLinux32>>#bootstrapGetGlobalSymbolPointer:into: [NativeBoost-Unix]
+NBWin32Window class>>#createWindowExW:lpClassName:lpWindowName:dwStyle:x:y:width:height:hWndParent:hMenu:hInstance:lParam: [NativeBoost-Win32]
+NBWin32Window class>>#createWindowExA:lpClassName:lpWindowName:dwStyle:x:y:width:height:hWndParent:hMenu:hInstance:lParam: [NativeBoost-Win32]
+AthensCairoPDFSurface class>>#createPDF:width:height: [Athens-Cairo]
+NBUnixExternalHeapManager>>#mmapLength:prot:flags:into: [NativeBoost-Unix]
+NBUnixExternalHeapManager>>#unmap:length: [NativeBoost-Unix]
+SDL_Window>>#getSizeW:h: [OSWindow-SDL2]
+SDL_Window>>#toggleBorder: [OSWindow-SDL2]
+SDL_Window>>#setHitTest: [OSWindow-SDL2]
+SDL_Window>>#fullscreen: [OSWindow-SDL2]
+SDL_Window>>#createRenderer:flags: [OSWindow-SDL2]
+SDL_Window>>#title: [OSWindow-SDL2]
+SDL_Window>>#setPositionX:y: [OSWindow-SDL2]
+SDL_Window>>#setSizeW:h: [OSWindow-SDL2]
+SDL_Window>>#getPositionX:y: [OSWindow-SDL2]
+SDL_Window>>#getWMInfo: [OSWindow-SDL2]
+SDL_Window>>#icon: [OSWindow-SDL2]
+AthensCairoCanvas>>#text:extents: [Athens-Cairo]
+AthensCairoCanvas>>#setFontSize: [Athens-Cairo]
+AthensCairoCanvas>>#showGlyphs:size: [Athens-Cairo]
+AthensCairoCanvas>>#setPathMatrix: [Athens-Cairo]
+AthensCairoCanvas>>#primSetLineCap: [Athens-Cairo]
+AthensCairoCanvas>>#showText: [Athens-Cairo]
+AthensCairoCanvas>>#loadPath: [Athens-Cairo]
+AthensCairoCanvas>>#primResetDashes: [Athens-Cairo]
+AthensCairoCanvas>>#setScaledFont: [Athens-Cairo]
+AthensCairoCanvas>>#setAA: [Athens-Cairo]
+AthensCairoCanvas>>#moveToX:Y: [Athens-Cairo]
+AthensCairoCanvas>>#setPathMatrix [Athens-Cairo]
+AthensCairoCanvas>>#primSetLineWidth: [Athens-Cairo]
+AthensCairoCanvas>>#primSetLineJoin: [Athens-Cairo]
+AthensCairoCanvas>>#setSourceR:g:b:a: [Athens-Cairo]
+AthensCairoCanvas>>#setFontMatrix: [Athens-Cairo]
+AthensCairoCanvas>>#primGetCurrentPointX:Y: [Athens-Cairo]
+AthensCairoCanvas>>#rectangleX:y:width:height: [Athens-Cairo]
+MTDependantProjectTest>>#testEquals [Versionner-Tests-Core-DependenciesModel]
+MTDependantProjectTest>>#referenceDependency [Versionner-Tests-Core-DependenciesModel]
+NBExternalAddress>>#nbUInt16AtOffset: [NativeBoost-Core]
+NBExternalAddress>>#byteAt: [nil]
+NBExternalAddress>>#nbUInt8AtOffset:put: [NativeBoost-Core]
+NBExternalAddress>>#nbFloat32AtOffset:put: [NativeBoost-Core]
+NBExternalAddress>>#nbFloat64AtOffset:put: [NativeBoost-Core]
+NBExternalAddress>>#nbInt16AtOffset: [NativeBoost-Core]
+NBExternalAddress>>#nbFloat64AtOffset: [NativeBoost-Core]
+NBExternalAddress>>#nbInt64AtOffset:put: [NativeBoost-Core]
+NBExternalAddress>>#nbUInt32AtOffset:put: [NativeBoost-Core]
+NBExternalAddress>>#ulongAt: [nil]
+NBExternalAddress>>#nbInt8AtOffset:put: [NativeBoost-Core]
+NBExternalAddress>>#nbUInt64AtOffset: [NativeBoost-Core]
+NBExternalAddress>>#nbUInt8AtOffset: [NativeBoost-Core]
+NBExternalAddress>>#nbUInt64AtOffset:put: [NativeBoost-Core]
+NBExternalAddress>>#longAt: [nil]
+NBExternalAddress>>#nbInt32AtOffset: [NativeBoost-Core]
+NBExternalAddress>>#nbUInt16AtOffset:put: [NativeBoost-Core]
+NBExternalAddress>>#longAt:put: [nil]
+NBExternalAddress>>#byteAt:put: [nil]
+NBExternalAddress>>#ulongAt:put: [nil]
+NBExternalAddress>>#nbInt32AtOffset:put: [NativeBoost-Core]
+NBExternalAddress>>#nbInt8AtOffset: [NativeBoost-Core]
+NBExternalAddress>>#nbUInt32AtOffset: [NativeBoost-Core]
+NBExternalAddress>>#nbInt64AtOffset: [NativeBoost-Core]
+NBExternalAddress>>#nbFloat32AtOffset: [NativeBoost-Core]
+NBExternalAddress>>#nbInt16AtOffset:put: [NativeBoost-Core]
+NBFnSpecParserTest>>#testParserCallbacks [NativeBoost-Tests]
+NBFnSpecParserTest>>#testParseAnonFn [NativeBoost-Tests]
+NBFnSpecParserTest>>#testParseNamedFn [NativeBoost-Tests]
+AthensCairoText>>#primSetFontSize:on: [Athens-Cairo]
+AthensCairoText>>#primShowText:on: [Athens-Cairo]
+AthensCairoText>>#primSelectFont:slant:weight:on: [Athens-Cairo]
+NBFFICalloutTests>>#testBuildingFnSpecWithQueries [NativeBoost-Tests]
+NBFFICalloutTests>>#arraySize2:with: [NativeBoost-Tests]
+NBFFICalloutTests>>#testBuildingFnSpec [NativeBoost-Tests]
+NBFFICalloutTests>>#returnReceiver:arg2: [NativeBoost-Tests]
+NBFFIExternalValueTests>>#outputValueArg:value: [NativeBoost-Tests]
+NBFFIExternalValueTests>>#outputIntArg:value: [NativeBoost-Tests]
+NBFFIExternalValueTests>>#outputVoidArg:value: [NativeBoost-Tests]
+CairoFreetypeFontRenderer>>#convertString:len:ofFont:toGlyphs:numGlyphs:x:y: [Athens-Cairo]
+AthensQuartzSurface class>>#primImage:width:height: [Athens-Cairo]
+NBWin32Window>>#show [NativeBoost-Win32]
+NBWin32Window>>#getWindow: [NativeBoost-Win32]
+NBWin32Window>>#getWindowLongAtIndex: [NativeBoost-Win32]
+NBWin32Window>>#hide [NativeBoost-Win32]
+NBWin32Window>>#releaseDC: [NativeBoost-Win32]
+NBWin32Window>>#moveWindowX:y:width:height: [NativeBoost-Win32]
+NBWin32Window>>#setWindowText: [NativeBoost-Win32]
+NBWin32Window>>#getWindowRect: [NativeBoost-Win32]
+NBWin32Window>>#setWindowLong:index:newVale: [NativeBoost-Win32]
+NBWin32Window>>#getWindowText:buffer:bufferSize: [NativeBoost-Win32]
+NBWin32Window>>#getWindowLong:index: [NativeBoost-Win32]
+NBWndClassEx class>>#unregister:instance: [NativeBoost-Win32]
+NativeCodeTests>>#testArgumentOffsets [NativeBoost-Tests]
+CairoFontOptions>>#setHintMetrics: [Athens-Cairo]
+CairoFontOptions>>#setHintStyle: [Athens-Cairo]
+CairoFontOptions>>#setAA: [Athens-Cairo]
+CairoFontOptions>>#setSubpixelOrder: [Athens-Cairo]
+AthensCairoGradientPaint class>>#primCreateRadialXo:yo:radiuso:x1:y1:radius1: [Athens-Cairo]
+AthensCairoGradientPaint class>>#primCreateLinearX0:y0:x1:y1: [Athens-Cairo]
+NativeBoostMac32>>#bootstrapGetGlobalSymbolPointer:into: [NativeBoost-Mac]
+AthensCairoPaintMode>>#setOperator: [Athens-Cairo]
+AthensCairoSurface>>#writeToPng: [Athens-Cairo]
+AthensCairoStrokePaint>>#primSetLineJoinOn: [Athens-Cairo]
+AthensCairoStrokePaint>>#primSetDashesOn:lengths:count:offset: [Athens-Cairo]
+AthensCairoStrokePaint>>#primSetLineCapOn: [Athens-Cairo]
+AthensCairoStrokePaint>>#primSetLineWidthOn: [Athens-Cairo]
+AthensCairoTransform>>#translateX:Y: [Athens-Cairo]
+AthensCairoTransform>>#moveToX:Y: [Athens-Cairo]
+AthensCairoTransform>>#scaleX:Y: [Athens-Cairo]
+AthensCairoTransform>>#rotateByRadians: [Athens-Cairo]
+AthensCairoTransform>>#primTransformX:Y: [Athens-Cairo]
+ByteArray>>#nbLongAt: [NativeBoost-Core]
+ByteArray>>#nbUInt16AtOffset: [NativeBoost-Core]
+ByteArray>>#nbUInt8AtOffset:put: [NativeBoost-Core]
+ByteArray>>#nbFloat32AtOffset:put: [NativeBoost-Core]
+ByteArray>>#nbFloat64AtOffset:put: [NativeBoost-Core]
+ByteArray>>#nbInt16AtOffset: [NativeBoost-Core]
+ByteArray>>#nbFloat64AtOffset: [NativeBoost-Core]
+ByteArray>>#nbInt64AtOffset:put: [NativeBoost-Core]
+ByteArray>>#nbUInt32AtOffset:put: [NativeBoost-Core]
+ByteArray>>#nbUInt64AtOffset:put: [NativeBoost-Core]
+ByteArray>>#nbUInt8AtOffset: [NativeBoost-Core]
+ByteArray>>#nbUInt64AtOffset: [NativeBoost-Core]
+ByteArray>>#nbInt8AtOffset:put: [NativeBoost-Core]
+ByteArray>>#nbInt32AtOffset: [NativeBoost-Core]
+ByteArray>>#nbUInt16AtOffset:put: [NativeBoost-Core]
+ByteArray>>#nbInt32AtOffset:put: [NativeBoost-Core]
+ByteArray>>#nbInt8AtOffset: [NativeBoost-Core]
+ByteArray>>#nbUInt32AtOffset: [NativeBoost-Core]
+ByteArray>>#nbInt64AtOffset: [NativeBoost-Core]
+ByteArray>>#nbUlongAt: [NativeBoost-Core]
+ByteArray>>#nbLongAt:put: [NativeBoost-Core]
+ByteArray>>#nbFloat32AtOffset: [NativeBoost-Core]
+ByteArray>>#nbUlongAt:put: [NativeBoost-Core]
+ByteArray>>#nbInt16AtOffset:put: [NativeBoost-Core]
+UnixEnvironment>>#setEnv:value: [System-OSEnvironments]
+MethodFinder>>#initialize [Tool-Finder]
+SDL2 class>>#mouseState [OSWindow-SDL2]
+SDL2 class>>#glGetAttribute:into: [OSWindow-SDL2]
+SDL2 class>>#createRGBSurfaceFromPixels:width:height:depth:pitch:rmask:gmask:bmask:amask: [OSWindow-SDL2]
+SDL2 class>>#mouseStateX:y: [OSWindow-SDL2]
+SDL2 class>>#createCursor:mask:w:h:hotX:hotY: [OSWindow-SDL2]
+SDL2 class>>#glMakeCurrent:context: [OSWindow-SDL2]
+SDL2 class>>#glSetAttribute:value: [OSWindow-SDL2]
+SDL2 class>>#createWindow:x:y:width:height:flags: [OSWindow-SDL2]
+SDL_Joystick>>#getAxis: [OSWindow-SDL2]
+SDL_Joystick>>#getButton: [OSWindow-SDL2]
+CairoScaledFont>>#getExtents: [Athens-Cairo]
+CairoScaledFont>>#getExtentsOf:into: [Athens-Cairo]
+CairoScaledFont>>#getExtentsOfGlyphs:ofLength:into: [Athens-Cairo]

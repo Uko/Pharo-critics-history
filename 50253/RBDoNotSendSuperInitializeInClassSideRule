@@ -1,17 +1,17 @@
-MetacelloPharoPlatform class>>#initialize
-CCompilationContext class>>#initialize
-OSTouchSwipe class>>#initialize
-OSTouchScroll class>>#initialize
-OCASTTranslator class>>#initialize
-OSTouchGestureNeedingThreshold class>>#initialize
-OSWindowGLAttributes class>>#initialize
-TestCase class>>#initialize
-GLMSmalltalkEditor class>>#initialize
-NECTestClass class>>#initialize
-DialogItemsChooserUI class>>#initialize
-EmbeddedFreeTypeFontInstaller class>>#initialize
-OSTouchPinch class>>#initialize
-OSTouchOneFingerDoubleTap class>>#initialize
-OSWindowMorphicEventHandler class>>#initialize
-CompilationContext class>>#initialize
-OSTouchHold class>>#initialize
+MetacelloPharoPlatform class>>#initialize [Metacello-Platform]
+CCompilationContext class>>#initialize [OpalCompiler-Core]
+OSTouchSwipe class>>#initialize [OSWindow-Core]
+OSTouchScroll class>>#initialize [OSWindow-Core]
+OCASTTranslator class>>#initialize [OpalCompiler-Core]
+OSTouchGestureNeedingThreshold class>>#initialize [OSWindow-Core]
+OSWindowGLAttributes class>>#initialize [OSWindow-Core]
+TestCase class>>#initialize [SUnit-Core]
+GLMSmalltalkEditor class>>#initialize [Glamour-Morphic-Widgets]
+NECTestClass class>>#initialize [NECompletion-Tests]
+DialogItemsChooserUI class>>#initialize [Tool-Finder]
+EmbeddedFreeTypeFontInstaller class>>#initialize [EmbeddedFreeType]
+OSTouchPinch class>>#initialize [OSWindow-Core]
+OSTouchOneFingerDoubleTap class>>#initialize [OSWindow-Core]
+OSWindowMorphicEventHandler class>>#initialize [OSWindow-Core]
+CompilationContext class>>#initialize [OpalCompiler-Core]
+OSTouchHold class>>#initialize [OSWindow-Core]

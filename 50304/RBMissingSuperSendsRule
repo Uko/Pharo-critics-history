@@ -1,20 +1,20 @@
-CairoFontFace>>#initialize
-RBSmalllintTestObject>>#release
-RBRefactoryTestDataApp>>#release
-WeakKeyDictionary>>#postCopy
-SDL_Renderer>>#initialize
-Encoder>>#release
-AthensCairoPath>>#initialize
-MD5NonPrimitive>>#initialize
-SDL_Texture>>#initialize
-AthensCairoPatternPaint>>#initialize
-GLMTransmission>>#postCopy
-Context>>#release
-UndefinedObject>>#release
-ZipWriteStream>>#release
-MTDependantProject>>#initialize
-MethodDictionary>>#postCopy
-CairoFontOptions>>#initialize
-KeyedTree>>#postCopy
-SyntaxErrorDebugger>>#release
-CairoScaledFont>>#initialize
+CairoFontFace>>#initialize [Athens-Cairo]
+RBSmalllintTestObject>>#release [Refactoring-Tests-Critics]
+RBRefactoryTestDataApp>>#release [Refactoring-Tests-Core]
+WeakKeyDictionary>>#postCopy [Collections-Weak]
+SDL_Renderer>>#initialize [OSWindow-SDL2]
+Encoder>>#release [Compiler]
+AthensCairoPath>>#initialize [Athens-Cairo]
+MD5NonPrimitive>>#initialize [System-Hashing]
+SDL_Texture>>#initialize [OSWindow-SDL2]
+AthensCairoPatternPaint>>#initialize [Athens-Cairo]
+GLMTransmission>>#postCopy [Glamour-Core]
+Context>>#release [Kernel]
+UndefinedObject>>#release [Kernel]
+ZipWriteStream>>#release [Compression]
+MTDependantProject>>#initialize [Versionner-Core-DependenciesModel]
+MethodDictionary>>#postCopy [Kernel]
+CairoFontOptions>>#initialize [Athens-Cairo]
+KeyedTree>>#postCopy [Collections-Unordered]
+SyntaxErrorDebugger>>#release [Tools]
+CairoScaledFont>>#initialize [Athens-Cairo]

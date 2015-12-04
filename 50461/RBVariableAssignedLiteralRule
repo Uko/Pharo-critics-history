@@ -1,52 +1,52 @@
-NewListRenderer
-HeapTest
-MCWorkingCopyBrowser class
-BagTest
-MissingClassError
-SymbolTest
-TraitsResource
-IntervalTest
-RBSmalllintTestObject
-ThemeSettings
-NBExternalStructure class
-DictionaryTest
-AJOperand
-NBInterpreterProxy
-VTermOutputDriver
-ChunkReadStream
-RxmLookahaed
-NECTestClass
-RubParagraphDecorator
-RBRefactoryTestDataApp
-CompiledMethodTest
-GLMAnimation
-SimpleTestResource
-PharoIssueTest
-WeakFinalizationList
-SetTest
-OrderedCollectionTest
-AthensGenericTransform
-FileList
-SortedCollectionTest
-IdentityBagTest
-SystemVersion
-RubWorkspaceExample
-ZnEntityReader
-LinkedListTest
-ClassTest
-SUnitTest
-GLMPagerScrollSlidingBrick
-OCOpalExamples
-GLMSmalltalkCodePresentation
-ReflectivityExamples
-FreeTypeSettings
-StringTest
-FreeTypeNameParser class
-ArrayTest
-FloatArrayTest
-RubTextComposer
-OSVMWindowHandle
-AthensBezierConverter
-PluggableTextMorph
-NBCPrinter class
-DigitalSignatureAlgorithm
+RBRefactoryTestDataApp [Refactoring-Tests-Core]
+IdentityBagTest [Collections-Tests]
+NECTestClass [NECompletion-Tests]
+BagTest [Collections-Tests]
+ReflectivityExamples [Reflectivity-Tests]
+FreeTypeSettings [FreeType]
+GLMPagerScrollSlidingBrick [Glamour-Morphic-Pager]
+WeakFinalizationList [System-Finalization]
+SetTest [Collections-Tests]
+RBSmalllintTestObject [Refactoring-Tests-Critics]
+RubWorkspaceExample [Rubric]
+AthensBezierConverter [Athens-Core]
+PluggableTextMorph [Morphic-Widgets-Pluggable]
+HeapTest [Collections-Tests]
+IntervalTest [Collections-Tests]
+VTermOutputDriver [System-CommandLine]
+RubParagraphDecorator [Rubric]
+FloatArrayTest [Collections-Tests]
+AthensGenericTransform [Athens-Core]
+GLMSmalltalkCodePresentation [Glamour-Presentations]
+SortedCollectionTest [Collections-Tests]
+DictionaryTest [Collections-Tests]
+OSVMWindowHandle [OSWindow-VM]
+SymbolTest [Collections-Tests]
+LinkedListTest [Collections-Tests]
+SimpleTestResource [SUnit-Tests]
+ClassTest [Kernel-Tests]
+NewListRenderer [Morphic-Widgets-NewList]
+NBInterpreterProxy [NativeBoost-Core]
+NBCPrinter class [NativeBoost-Examples]
+NBExternalStructure class [NativeBoost-Core]
+SystemVersion [System-Support]
+ArrayTest [Collections-Tests]
+FileList [Tool-FileList]
+RubTextComposer [Rubric]
+PharoIssueTest [IssueTracking-Tests]
+MissingClassError [CodeImport]
+ThemeSettings [Polymorph-Widgets]
+MCWorkingCopyBrowser class [MonticelloGUI]
+OCOpalExamples [OpalCompiler-Tests]
+GLMAnimation [Glamour-Morphic-Brick]
+StringTest [Collections-Tests]
+SUnitTest [SUnit-Tests]
+CompiledMethodTest [Kernel-Tests]
+DigitalSignatureAlgorithm [System-Hashing]
+ChunkReadStream [CodeImport]
+TraitsResource [Tests]
+OrderedCollectionTest [Collections-Tests]
+ZnEntityReader [Zinc-HTTP]
+FreeTypeNameParser class [FreeType]
+AJOperand [AsmJit-Operands]
+RxmLookahaed [Regex-Core]

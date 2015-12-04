@@ -1,214 +1,215 @@
-TextMorph
-FTTableMorph
-GLMCompositePresentation
-TBehavior
-ExceptionTester
-Pharo3Theme
-Socket
-GLMWizard
-MCConfigurationBrowser
-OrderedCollectionTest
-ZipArchiveMember
-RGContainer
-OrderedDictionary
-RunArray
-SystemWindow
-ExampleBuilderMorph
-MenuMorph
-ClassDescription
-SystemNavigation
-NBPointerArgumentsTests
-MorphTreeListManager
-FreeTypeFont
-RubTextEditor
-BlockNode
-OCSourceCode2BytecodeTest
-ConfigurationOfZincHTTPComponents
-GLMWhitespaceTheme
-GLMBrickGeometryTrait
-FloatTest
-LogicalFont
-FormCanvas
-AbstractTool
-MorphicUIManager
-TEasilyThemed
-Dictionary
-SetTest
-TreeModel
-ProcessBrowser
-Number
-BalloonEngine
-GLMBrick
-ComposableModel
-Color
-WorldMorph
-StrikeFontSet
-TxBasicSpan
-LinkedListTest
-RBAbstractClass
-Paragraph
-TraitDescription
-DockingBarMorph
-TxModelTest
-FileDialogWindow
-RGBehaviorDefinition
-GLMBasicExamples
-IRBytecodeGenerator
-OCASTTranslatorTest
-PluggableListMorph
-RxMatcherTest
-ThemeSettings
-BagTest
-UIThemeWatery
-ByteArray
-MorphTreeModel
-FLBasicSerializationTest
-DateAndTime
-OrderedDictionaryTest
-Tab
-DialogItemsChooserUI
-TextModel
-Context
-NautilusRefactoring
-NautilusUI
-GTSpotter
-RGMethodDefinition
-NBInterpreterProxy
-RBProgramNode
-Timespan
-Nautilus
-Form
-RubScrolledTextMorph
-MenuItemMorph
-RBParser
-UITheme
-RubAbstractTextArea
-Rectangle
-IntervalTest
-NewListAdapter
-CompiledMethod
-Float
-OrderedCollection
-DropListMorph
-Trait
-PositionableStream
-NewListModel
-EclipseUIThemeIcons
-ThemeIcons
-ArrayTest
-FloatArrayTest
-UIManager
-Character
-ScriptLoader
-StrikeFont
-AJx86InstructionDescription
-HandMorph
-SocketStream
-MetacelloProjectSpec
-ComposableMorph
-TimeProfiler
-GTSpotterWidgetThemer
-DateAndTimeEpochTest
-SmalltalkEditor
-RPackage
-Behavior
-PharoShortcuts
-TraitBehavior
-RBBrowserEnvironment
-NewListRenderer
-OCOpalExamples
-MorphTreeMorph
-AbstractFileReference
-VTermOutputDriver
-Pharo3DarkTheme
-MetacelloAbstractVersionConstructor
-MetacelloConfigurationResource
-GLMPresentation
-FileSystem
-SortedCollectionTest
-Integer
-BitBlt
-FileList
-StringMorph
-ListModel
-RubSmalltalkEditor
-RxMatcher
-BlockClosure
-SHParserST80
-IntegerTest
-FileReference
-SymbolTest
-PasteUpMorph
-GeneralScrollPane
-Matrix
-MCDataStream
-TClass
-RBRefactoryTestDataApp
-DictionaryTest
-RBSmalllintTestObject
-RBSmalllintTest
-Class
-StandardFileStream
-MorphTreeNodeMorph
-Object
-MessageNode
-HeapTest
-String
-RubParagraph
-TextEditor
-PNGReadWriterTest
-SmalltalkImage
-ChangeSet
-GLMBrickTests
-Text
-SequenceableCollection
-DateAndTimeUnixEpochTest
-AJx86Assembler
-MCWorkingCopyBrowser
-MetacelloVersionSpec
-DateAndTimeDosEpochTest
-MCClassDefinition
-MetacelloProject
-GroupWindowMorph
-HaloMorph
-ZnUrl
-Point
-PluggableTextMorph
-CollectionRootTest
-SimpleHierarchicalListMorph
-FT2Face
-ChangeSorterApplication
-StandardWindow
-RPackageOrganizer
-TClassDescription
-OCDecompilerTest
-ConfigurationOfVersionner
-ScrollBar
-PluggableButtonMorph
-NewList
-MetacelloScriptingResource
-AthensCanvasWrapper
-RBMethodNode
-ZnClient
-TxTextEditorMorph
-Collection
-GLMPagerModel
-MetacelloPackageSpec
-PolygonMorph
-Parser
-AbstractNautilusUI
-VirtualMachine
-DiffMorph
-AJx64Assembler
-StringTest
-Morph
-DurationTest
-ReflectiveMethodTest
-SpecDebugger
-PackageTreeNautilusUI
-Canvas
-MessageBrowser
-FileReferenceTest
-FinderUI
-ScrollPane
-TestRunner
+Pharo3DarkTheme [Polymorph-Widgets]
+PluggableListMorph [Morphic-Widgets-Pluggable]
+AthensCanvasWrapper [Athens-Morphic]
+RBSmalllintTestObject [Refactoring-Tests-Critics]
+SmalltalkImage [System-Support]
+VirtualMachine [System-Support]
+RBRefactoryTestDataApp [Refactoring-Tests-Core]
+MessageBrowser [Spec-Tools]
+SystemWindow [Morphic-Widgets-Windows]
+Nautilus [Nautilus]
+RGContainer [Ring-Core-Containers]
+NewListAdapter [Morphic-Widgets-NewList]
+DockingBarMorph [Morphic-Widgets-Extra]
+RBBrowserEnvironment [Refactoring-Environment]
+Socket [Network-Kernel]
+MessageNode [Compiler]
+Number [Kernel]
+MCWorkingCopyBrowser [MonticelloGUI]
+BitBlt [Graphics-Primitives]
+Behavior [Kernel]
+ChangeSet [System-Changes]
+GLMBasicExamples [Glamour-Examples]
+AbstractTool [Tool-Base]
+RBParser [AST-Core]
+RubScrolledTextMorph [Rubric]
+DateAndTime [Kernel]
+DropListMorph [Polymorph-Widgets]
+RGBehaviorDefinition [Ring-Core-Kernel]
+PasteUpMorph [Morphic-Core]
+Context [Kernel]
+PositionableStream [Collections-Streams]
+BlockClosure [Kernel]
+BalloonEngine [Balloon]
+SpecDebugger [Spec-Debugger]
+Collection [Collections-Abstract]
+NewListModel [Spec-Core]
+TxTextEditorMorph [TxText-Athens]
+ZipArchiveMember [Compression]
+TxBasicSpan [TxText-Model]
+PharoShortcuts [Tool-Base]
+Matrix [Collections-Unordered]
+Timespan [Kernel]
+Object [Kernel]
+Rectangle [Kernel]
+GeneralScrollPane [Morphic-Widgets-Scrolling]
+SetTest [CollectionsTests]
+OCSourceCode2BytecodeTest [OpalCompiler-Tests]
+TimeProfiler [Tool-Profilers]
+ReflectiveMethodTest [Reflectivity-Tests]
+MCClassDefinition [Monticello]
+MorphTreeMorph [Morphic-Widgets-Tree]
+GLMCompositePresentation [Glamour-Core]
+ThemeIcons [Polymorph-Widgets]
+OCASTTranslatorTest [OpalCompiler-Tests]
+NBPointerArgumentsTests [NativeBoost-Tests]
+PluggableButtonMorph [Morphic-Widgets-Basic]
+LogicalFont [FontInfrastructure]
+UIManager [UIManager]
+TClass [Traits]
+NBInterpreterProxy [NativeBoost-Core]
+Form [Graphics-Display Objects]
+WorldMorph [Morphic-Core]
+ClassDescription [Kernel]
+Trait [Traits]
+MorphTreeModel [Morphic-Widgets-Tree]
+MCConfigurationBrowser [MonticelloGUI]
+GLMPagerModel [Glamour-Morphic-Pager]
+FTTableMorph [Morphic-Widgets-FastTable]
+RBMethodNode [AST-Core]
+IntervalTest [CollectionsTests]
+MenuItemMorph [Morphic-Base]
+ProcessBrowser [Tool-ProcessBrowser]
+NautilusRefactoring [NautilusRefactoring]
+GTSpotterWidgetThemer [GT-Spotter]
+Character [Kernel]
+CollectionRootTest [CollectionsTests]
+OCDecompilerTest [OpalDecompiler]
+RubSmalltalkEditor [Rubric]
+Dictionary [Collections-Unordered]
+GLMBrickGeometryTrait [Glamour-Morphic-Brick]
+ScriptLoader [ScriptLoader50]
+ConfigurationOfZincHTTPComponents [ConfigurationOfZincHTTPComponents]
+FileReference [FileSystem-Core]
+TraitBehavior [Traits]
+ThemeSettings [Polymorph-Widgets]
+MorphTreeNodeMorph [Morphic-Widgets-Tree]
+MenuMorph [Morphic-Base]
+TEasilyThemed [Polymorph-Widgets]
+Parser [Compiler]
+MetacelloPackageSpec [Metacello-MC]
+SmalltalkEditor [Text-Edition]
+Pharo3Theme [Polymorph-Widgets]
+FileReferenceTest [FileSystem-Tests-Core]
+SHParserST80 [Shout]
+MorphicUIManager [Polymorph-Widgets]
+FileDialogWindow [Tool-FileList]
+Integer [Kernel]
+SocketStream [Network-Kernel]
+ComposableModel [Spec-Core]
+String [Collections-Strings]
+SortedCollectionTest [CollectionsTests]
+ExampleBuilderMorph [Morphic-Examples]
+RBAbstractClass [Refactoring-Core]
+RPackage [RPackage-Core]
+SimpleHierarchicalListMorph [Morphic-Widgets-List]
+GLMPresentation [Glamour-Core]
+StringTest [CollectionsTests]
+GTSpotter [GT-Spotter]
+TClassDescription [Traits]
+ConfigurationOfVersionner [ConfigurationOfVersionner]
+FLBasicSerializationTest [FuelTests]
+MetacelloConfigurationResource [Metacello-TestsMCResources]
+UIThemeWatery [Polymorph-Widgets]
+IRBytecodeGenerator [OpalCompiler-Core]
+AJx86Assembler [AsmJit-x86]
+Float [Kernel]
+TextEditor [Text-Edition]
+TextMorph [Morphic-Base]
+RGMethodDefinition [Ring-Core-Kernel]
+Paragraph [Morphic-Base]
+AJx64Assembler [AsmJit-x86]
+ZnUrl [Zinc-Resource-Meta-Core]
+RxMatcherTest [Regex-Tests-Core]
+IntegerTest [KernelTests]
+RPackageOrganizer [RPackage-Core]
+HaloMorph [Morphic-Base]
+TxModelTest [TxTextTests-Model]
+RunArray [Text-Core]
+TraitDescription [Traits]
+MetacelloProject [Metacello-Core]
+MetacelloProjectSpec [Metacello-Core]
+OrderedDictionary [Collections-Sequenceable]
+SystemNavigation [System-Support]
+ExceptionTester [KernelTests]
+RBSmalllintTest [Refactoring-Tests-Critics]
+AJx86InstructionDescription [AsmJit-x86]
+BlockNode [Compiler]
+Text [Text-Core]
+GLMWhitespaceTheme [Glamour-Morphic-Theme]
+ScrollPane [Morphic-Widgets-Scrolling]
+RBProgramNode [AST-Core]
+StrikeFont [Graphics-Fonts]
+OCOpalExamples [OpalCompiler-Tests]
+FormCanvas [Graphics-Canvas]
+UITheme [Polymorph-Widgets]
+GLMBrickTests [Glamour-Morphic-Brick-Tests]
+GroupWindowMorph [Morphic-Widgets-Windows]
+Class [Kernel]
+Morph [Morphic-Core]
+GLMWizard [Glamour-Browsers]
+TextModel [Spec-Core]
+ScrollBar [Morphic-Widgets-Scrolling]
+LinkedListTest [CollectionsTests]
+ComposableMorph [Polymorph-Widgets]
+DiffMorph [Tool-Diff]
+NautilusUI [Nautilus]
+ChangeSorterApplication [Spec-Tools]
+DialogItemsChooserUI [Tool-Finder]
+OrderedCollectionTest [CollectionsTests]
+RubParagraph [Rubric]
+EclipseUIThemeIcons [Polymorph-Widgets]
+Color [Graphics-Primitives]
+ZnClient [Zinc-HTTP]
+PackageTreeNautilusUI [Nautilus]
+FileList [Tool-FileList]
+Canvas [Graphics-Canvas]
+TreeModel [Spec-Core]
+MetacelloAbstractVersionConstructor [Metacello-Core]
+FileSystem [FileSystem-Core]
+PNGReadWriterTest [Graphics-Tests]
+FloatTest [KernelTests]
+DateAndTimeEpochTest [KernelTests]
+FinderUI [Tool-Finder]
+ArrayTest [CollectionsTests]
+BagTest [CollectionsTests]
+SymbolTest [CollectionsTests]
+FT2Face [FreeType]
+MetacelloVersionSpec [Metacello-Core]
+RxMatcher [Regex-Core]
+PolygonMorph [Morphic-Base]
+GLMBrick [Glamour-Morphic-Brick]
+DateAndTimeDosEpochTest [KernelTests]
+RubAbstractTextArea [Rubric]
+StrikeFontSet [Graphics-Fonts]
+AbstractNautilusUI [Nautilus]
+Point [Kernel]
+CompiledMethod [Kernel]
+FloatArrayTest [CollectionsTests]
+TestRunner [SUnit-UI]
+ListModel [Spec-Core]
+HandMorph [Morphic-Core]
+NewList [Morphic-Widgets-NewList]
+NewListRenderer [Morphic-Widgets-NewList]
+MorphTreeListManager [Morphic-Widgets-Tree]
+DurationTest [KernelTests]
+StandardFileStream [Files]
+OrderedDictionaryTest [CollectionsTests]
+OrderedCollection [Collections-Sequenceable]
+HeapTest [CollectionsTests]
+RubTextEditor [Rubric]
+SequenceableCollection [Collections-Abstract]
+ByteArray [Collections-Native]
+StandardWindow [Morphic-Widgets-Windows]
+MCDataStream [Monticello]
+StringMorph [Morphic-Base]
+PluggableTextMorph [Morphic-Widgets-Pluggable]
+MetacelloScriptingResource [Metacello-TestsMCResources]
+AbstractFileReference [FileSystem-Core]
+TheManifestBuilder [Manifest-Core]
+Tab [Morphic-Widgets-Tabs]
+TBehavior [Traits]
+FreeTypeFont [FreeType]
+VTermOutputDriver [System-CommandLine]
+DateAndTimeUnixEpochTest [KernelTests]
+DictionaryTest [CollectionsTests]

@@ -1,32 +1,32 @@
-SmallDictionary>>#includes:
-SmallDictionary>>#includesIdentity:
-FreeTypeFont>>#hasGlyphsForAll:
-OSEnvironment>>#includes:
-MetacelloMCProjectSpec>>#isPossibleBaseline
-WorldState>>#isStepping:selector:
-WorldState>>#checkIfUpdateNeeded
-WorldState>>#isStepping:
-Collection>>#includesAll:
-Collection>>#includesAny:
-Collection>>#identityIncludes:
-RBMessageNode>>#isInlineIf
-RBMessageNode>>#isInlineCase
-TestRunner>>#hasProgress
-MetaLink>>#checkForCompatibilityWith:
-Dictionary>>#includes:
-Dictionary>>#includesIdentity:
-Set>>#=
-DoubleLinkedList>>#includes:
-GLMSingleSpotterRequest class>>#substring:matches:caseSensitive:
-TClass>>#usesPoolVarNamed:
-WideCharacterSet>>#hasWideCharacters
-SharedPool class>>#hasBindingThatBeginsWith:
-PolygonMorph>>#containsPoint:
-GrowlMorph>>#is:saneWithRespectTo:
-MenuMorph>>#hasSubMenu:
-NewList>>#hasMultipledSelected
-SparseLargeTable>>#allDefaultValueSubtableAt:
-PNGReadWriter>>#understandsImageFormat
-String>>#isAllSeparators
-String>>#isAllAlphaNumerics
-String>>#endsWithAnyOf:
+SmallDictionary>>#includes: [Collections-Unordered]
+SmallDictionary>>#includesIdentity: [Collections-Unordered]
+FreeTypeFont>>#hasGlyphsForAll: [FreeType]
+OSEnvironment>>#includes: [System-OSEnvironments]
+MetacelloMCProjectSpec>>#isPossibleBaseline [Metacello-MC]
+WorldState>>#isStepping:selector: [Morphic-Core]
+WorldState>>#checkIfUpdateNeeded [Morphic-Core]
+WorldState>>#isStepping: [Morphic-Core]
+Collection>>#includesAll: [Collections-Abstract]
+Collection>>#includesAny: [Collections-Abstract]
+Collection>>#identityIncludes: [Collections-Abstract]
+RBMessageNode>>#isInlineIf [OpalCompiler-Core]
+RBMessageNode>>#isInlineCase [OpalCompiler-Core]
+TestRunner>>#hasProgress [SUnit-UI]
+MetaLink>>#checkForCompatibilityWith: [Reflectivity]
+Dictionary>>#includes: [Collections-Unordered]
+Dictionary>>#includesIdentity: [Collections-Unordered]
+Set>>#= [Collections-Unordered]
+DoubleLinkedList>>#includes: [System-Caching]
+GLMSingleSpotterRequest class>>#substring:matches:caseSensitive: [Glamour-Morphic-Renderer]
+TClass>>#usesPoolVarNamed: [Traits]
+WideCharacterSet>>#hasWideCharacters [Collections-Support]
+SharedPool class>>#hasBindingThatBeginsWith: [Kernel]
+PolygonMorph>>#containsPoint: [Morphic-Base]
+GrowlMorph>>#is:saneWithRespectTo: [Growl]
+MenuMorph>>#hasSubMenu: [Morphic-Base]
+NewList>>#hasMultipledSelected [Morphic-Widgets-NewList]
+SparseLargeTable>>#allDefaultValueSubtableAt: [Collections-Sequenceable]
+PNGReadWriter>>#understandsImageFormat [Graphics-Files]
+String>>#isAllSeparators [Collections-Strings]
+String>>#isAllAlphaNumerics [Collections-Strings]
+String>>#endsWithAnyOf: [Collections-Strings]

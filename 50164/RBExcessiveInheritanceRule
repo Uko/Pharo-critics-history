@@ -1,9 +1,9 @@
-GLMPharoPlaygroundPresentation
-PopupChoiceDialogWindowWithMessage
-QuestionWithoutCancelDialogWindow
-CustomQuestionDialogWindow
-TextEntryDialogWindow
-PopupChoiceOrRequestDialogWindow
-QuestionDialogWindow
-PasswordDialogWindow
-GLMPharoMethodPresentation
+PopupChoiceOrRequestDialogWindow [Polymorph-Widgets]
+QuestionDialogWindow [Polymorph-Widgets]
+PopupChoiceDialogWindowWithMessage [Polymorph-Widgets]
+TextEntryDialogWindow [Polymorph-Widgets]
+CustomQuestionDialogWindow [Polymorph-Widgets]
+PasswordDialogWindow [Polymorph-Widgets]
+GLMPharoPlaygroundPresentation [Glamour-Rubric-Presentations]
+GLMPharoMethodPresentation [Glamour-Rubric-Presentations]
+QuestionWithoutCancelDialogWindow [Polymorph-Widgets]

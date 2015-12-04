@@ -1,28 +1,28 @@
-StandardFonts class>>#fixSmallDejaVuPunctuationMarks
-RBSmalllintTestObject>>#literalArrayCharacters
-RubCodeSizeFeedback>>#textSize
-RBRefactoryTestDataApp>>#literalArrayCharacters
-ArrayTest>>#testFlattened
-GLMTreePresentationTest>>#testValidatePorts
-GLMTreePresentationTest>>#testValidateOn
-RunArrayTest>>#testRunLengthAt
-RunArrayTest>>#testRunsValues
-RunArrayTest>>#testFirst
-RunArrayTest>>#testLast
-RunArrayTest>>#testNewFrom
-RunArrayTest>>#testWithStartStopAndValueDo
-UnixResolver>>#xdgParseUserDirLine:
-WindowsStore>>#checkName:fixErrors:
-ScriptLoader class>>#latestVersionOf:location:
-SystemOrganizerTest>>#testThatExistingPackagenamesDoesNotContainIllegalCharacters
-ZnBase64Encoder class>>#initialize
-STONReader>>#parseEscapedCharacter
-ZnRequest>>#cookies
-RxsPredicate>>#bePunctuation
-GLMUpdateMorphicTest>>#testAnnouncerUnregistration
-StringTest>>#setUp
-LocaleID class>>#isoString:
-MethodPragmaTest>>#testCompileCharacter
-OrderedCollectionTest>>#testFlattened
-ZnUtils class>>#parseHttpDate:
-TEnumeratingTest>>#testFlattened
+StandardFonts class>>#fixSmallDejaVuPunctuationMarks [Graphics-Fonts]
+RBSmalllintTestObject>>#literalArrayCharacters [Refactoring-Tests-Critics]
+RubCodeSizeFeedback>>#textSize [Rubric]
+RBRefactoryTestDataApp>>#literalArrayCharacters [Refactoring-Tests-Core]
+ArrayTest>>#testFlattened [Collections-Tests]
+GLMTreePresentationTest>>#testValidatePorts [Glamour-Tests-Core]
+GLMTreePresentationTest>>#testValidateOn [Glamour-Tests-Core]
+RunArrayTest>>#testRunLengthAt [Text-Tests]
+RunArrayTest>>#testRunsValues [Text-Tests]
+RunArrayTest>>#testFirst [Text-Tests]
+RunArrayTest>>#testLast [Text-Tests]
+RunArrayTest>>#testNewFrom [Text-Tests]
+RunArrayTest>>#testWithStartStopAndValueDo [Text-Tests]
+UnixResolver>>#xdgParseUserDirLine: [FileSystem-Core]
+WindowsStore>>#checkName:fixErrors: [FileSystem-Disk]
+ScriptLoader class>>#latestVersionOf:location: [ScriptLoader50]
+SystemOrganizerTest>>#testThatExistingPackagenamesDoesNotContainIllegalCharacters [Tests]
+ZnBase64Encoder class>>#initialize [Zinc-Character-Encoding-Core]
+STONReader>>#parseEscapedCharacter [STON-Core]
+ZnRequest>>#cookies [Zinc-HTTP]
+RxsPredicate>>#bePunctuation [Regex-Core]
+GLMUpdateMorphicTest>>#testAnnouncerUnregistration [Glamour-Tests-Morphic]
+StringTest>>#setUp [Collections-Tests]
+LocaleID class>>#isoString: [System-Localization]
+MethodPragmaTest>>#testCompileCharacter [KernelTests]
+OrderedCollectionTest>>#testFlattened [Collections-Tests]
+ZnUtils class>>#parseHttpDate: [Zinc-HTTP]
+TEnumeratingTest>>#testFlattened [Collections-Tests]

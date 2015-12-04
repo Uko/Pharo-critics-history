@@ -1,1 +1,12 @@
-
+RBSmalllintTestObject>>#atIfAbsent [Refactoring-Tests-Critics]
+RBRefactoryTestDataApp>>#atIfAbsent [Refactoring-Tests-Core]
+MetacelloMCProjectSpec>>#loadVersion: [Metacello-MC]
+MBCommand>>#configurationReferencesFrom: [Versionner-Core-Commands]
+MetacelloAbstractVersionConstructor>>#setFor:do: [Metacello-Core]
+MetacelloAbstractConstructor>>#extractPragmas:for:into: [Metacello-Core]
+MCFileTreeStCypressWriter>>#writeDefinitions: [MonticelloFileTree-Core]
+MCFileTreeStCypressWriter>>#fileNameMapFor: [MonticelloFileTree-Core]
+MCFileTreeStSnapshotWriter>>#visitMethodDefinition: [MonticelloFileTree-Core]
+MCPackageManager class>>#forPackage: [Monticello]
+MetacelloPlatform>>#createRepository: [Metacello-Core]
+MetacelloMCVersion>>#packageAndProjectNamesToLoad:loader: [Metacello-MC]

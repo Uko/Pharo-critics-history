@@ -1,44 +1,44 @@
-AthensDisplayScanner>>#initialize
-GLMBrick>>#setProperty:toValue:
-GLMBrick>>#removeProperty:
-GLMBrick>>#announcer
-GLMBrick>>#layoutProperties
-GLMBrick>>#hasProperty:
-GLMBrick>>#layoutProperties:
-GLMBrick>>#layoutPolicy
-GLMBrick>>#valueOfProperty:
-GLMBrick>>#layoutPolicy:
-GLMBrick>>#valueOfProperty:ifAbsentPut:
-GLMBrick>>#valueOfProperty:ifAbsent:
-MetacelloPharoPlatform class>>#initialize
-RBSmalllintTestObject>>#justSendsSuper
-RBRefactoryTestDataApp>>#justSendsSuper
-TxWrappingMorph>>#processEvent:using:
-TxWrappingMorph>>#handleMouseOver:
-TxWrappingMorph>>#initialize
-GLMStackedScrollPaneBrick>>#update
-MBCommand>>#initialize
-RubTextSegmentIconDisplayer>>#mouseDown:
-RubTextSegmentIconDisplayer>>#mouseEnter:
-GTSpotterSmokeTest>>#setUp
-GLMStackedScrollPaneBrick class>>#example
-GLMBoundPort>>#hash
-RubSmalltalkCommentMode>>#updateTextAreaWhenUnplugged
-RubSmalltalkCommentMode>>#updateTextAreaWhenPlugged
-RubScrolledTextMorph>>#handleMouseDown:
-GTSpotterStackedLayout>>#layout:in:
-GLMMorphicModel>>#initialize
-AJx64AssemblerTests>>#testAssemblyImmAddr
-GLMSmalltalkEditor class>>#initialize
-GLMWizard>>#initialize
-BagTest>>#element
-BagTest>>#elementTwiceIn
-TxScrollbarDecorator>>#layoutChanged
-RubShoutStylerDecorator>>#unplug
-EyeAbstractInspector>>#takeKeyboardFocus
-OrderedCollectionTest>>#elementTwiceIn
-RBBasicLintRuleTest class>>#new
-GoferOperationTest>>#runCase
-SUnitTest>>#expectedFailures
-RubAbstractSmalltalkMode>>#updateTextAreaWhenUnplugged
-RubAbstractSmalltalkMode>>#updateTextAreaWhenPlugged
+AthensDisplayScanner>>#initialize [Athens-Morphic]
+GLMBrick>>#setProperty:toValue: [Glamour-Morphic-Brick]
+GLMBrick>>#removeProperty: [Glamour-Morphic-Brick]
+GLMBrick>>#announcer [Glamour-Morphic-Brick]
+GLMBrick>>#layoutProperties [Glamour-Morphic-Brick]
+GLMBrick>>#hasProperty: [Glamour-Morphic-Brick]
+GLMBrick>>#layoutProperties: [Glamour-Morphic-Brick]
+GLMBrick>>#layoutPolicy [Glamour-Morphic-Brick]
+GLMBrick>>#valueOfProperty: [Glamour-Morphic-Brick]
+GLMBrick>>#layoutPolicy: [Glamour-Morphic-Brick]
+GLMBrick>>#valueOfProperty:ifAbsentPut: [Glamour-Morphic-Brick]
+GLMBrick>>#valueOfProperty:ifAbsent: [Glamour-Morphic-Brick]
+MetacelloPharoPlatform class>>#initialize [Metacello-Platform]
+RBSmalllintTestObject>>#justSendsSuper [Refactoring-Tests-Critics]
+RBRefactoryTestDataApp>>#justSendsSuper [Refactoring-Tests-Core]
+TxWrappingMorph>>#processEvent:using: [TxText-Athens]
+TxWrappingMorph>>#handleMouseOver: [TxText-Athens]
+TxWrappingMorph>>#initialize [TxText-Athens]
+GLMStackedScrollPaneBrick>>#update [Glamour-Morphic-Brick]
+MBCommand>>#initialize [Versionner-Core-Commands]
+RubTextSegmentIconDisplayer>>#mouseDown: [Rubric]
+RubTextSegmentIconDisplayer>>#mouseEnter: [Rubric]
+GTSpotterSmokeTest>>#setUp [GT-Tests-Spotter]
+GLMStackedScrollPaneBrick class>>#example [Glamour-Morphic-Brick]
+GLMBoundPort>>#hash [Glamour-Core]
+RubSmalltalkCommentMode>>#updateTextAreaWhenUnplugged [Rubric]
+RubSmalltalkCommentMode>>#updateTextAreaWhenPlugged [Rubric]
+RubScrolledTextMorph>>#handleMouseDown: [Rubric]
+GTSpotterStackedLayout>>#layout:in: [GT-Spotter]
+GLMMorphicModel>>#initialize [Glamour-Morphic-Widgets]
+AJx64AssemblerTests>>#testAssemblyImmAddr [AsmJit-Tests]
+GLMSmalltalkEditor class>>#initialize [Glamour-Morphic-Widgets]
+GLMWizard>>#initialize [Glamour-Browsers]
+BagTest>>#element [CollectionsTests]
+BagTest>>#elementTwiceIn [CollectionsTests]
+TxScrollbarDecorator>>#layoutChanged [TxText-Athens]
+RubShoutStylerDecorator>>#unplug [Rubric]
+EyeAbstractInspector>>#takeKeyboardFocus [Spec-Inspector]
+OrderedCollectionTest>>#elementTwiceIn [CollectionsTests]
+RBBasicLintRuleTest class>>#new [Refactoring-Tests-Core]
+GoferOperationTest>>#runCase [Gofer-Tests]
+SUnitTest>>#expectedFailures [SUnit-Tests]
+RubAbstractSmalltalkMode>>#updateTextAreaWhenUnplugged [Rubric]
+RubAbstractSmalltalkMode>>#updateTextAreaWhenPlugged [Rubric]

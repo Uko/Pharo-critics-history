@@ -1,830 +1,830 @@
-ConnectionQueue>>#oldStyleListenLoop
-MetacelloLoadingMCSpecLoader>>#packagesNeedSavingUsing:into:
-MetacelloLoadingMCSpecLoader>>#savePackageUsing:
-DelayExperimentalSpinScheduler>>#schedule:
-DelayExperimentalSpinScheduler>>#unschedule:
-MetacelloPackageSpecResolutionError>>#description
-MTProjectBFSIterator>>#hasChildNodes:
-RubFindReplaceDialogWindow>>#newFindTextEntryMorph
-RubFindReplaceDialogWindow>>#newReplaceTextEntryMorph
-EncoderForSistaV1 class>>#method:refersInBytecodeToLiteral:specialSelectorIndex:
-MBCheckpointDevCommand>>#execute
-ZipEncoder>>#privateSendBlock:with:with:with:
-GroupWindowMorph>>#removeWindow:
-ReflectivityLinkTest>>#testUninstallLink
-ReflectivityLinkTest>>#testTwoLinks
-GIFReadWriter class>>#grabScreenAndSaveOnDisk
-DictionaryTest>>#test0CopyTest
-DictionaryTest>>#testNew
-DictionaryTest>>#testRemoveAll
-DictionaryTest>>#testDeclareFrom
-MultiByteFileStreamTest>>#testPeek
-StackTest>>#testSize
-BitBlt>>#setDestForm:sourceForm:fillColor:combinationRule:destOrigin:sourceOrigin:extent:clipRect:
-BitBlt>>#drawFrom:to:withFirstPoint:
-BitBlt>>#fillColor:
-BitBlt>>#copy:from:in:fillColor:rule:
-PluggableTabBarMorph>>#activeTab
-PluggableTabBarMorph>>#drawOn:
-FreeTypeFont>>#isBold
-FreeTypeFont>>#isItalic
-FreeTypeFont>>#isRegular
-MetacelloVersionSpec>>#packages
-MetacelloVersionSpec>>#description
-MetacelloVersionSpec>>#versionString
-MetacelloVersionSpec>>#difference:
-MetacelloVersionSpec>>#configMethodValueOn:for:selector:last:indent:
-MetacelloVersionSpec>>#timestamp
-MetacelloVersionSpec>>#packageNames
-MetacelloVersionSpec>>#blessing
-MetacelloVersionSpec>>#resolveToLoadableSpecs:forLoad:map:
-MetacelloVersionSpec>>#configMethodOn:for:selector:last:indent:
-MetacelloVersionSpec>>#author
-RubSmalltalkEditor>>#internalCallToImplementorsOfIt
-RubSmalltalkEditor>>#implementorsOfIt
-RubSmalltalkEditor>>#selectedSymbol
-RubSmalltalkEditor>>#referencesToIt
-RBSmalllintTestObject>>#consistencyCheck
-RBSmalllintTestObject>>#noIsNil:
-DependentsArray>>#at:
-DependentsArray>>#at:put:
-MBProjectInfo>>#interestedInConfigurationInfo:
-MBProjectInfo>>#currentVersion
-MBProjectInfo>>#validate
-MBProjectInfo>>#interestedInPackageNamed:
-MultiByteBinaryOrTextStream>>#nextDelimited:
-MultiByteBinaryOrTextStream>>#peekFor:
-Path>>#basename:
-Path>>#isEmpty
-Path>>#isWorkingDirectory
-Path>>#basename
-MetacelloProjectSpecForLoad>>#performCurrentVersionTestAgainst:operator:targetVersionStatus:using:
-GLMPagerModel>>#recomputeState:
-GLMPagerModel>>#defaultNumberOfVisiblePages:
-RBRefactoryTestDataApp>>#consistencyCheck
-RBRefactoryTestDataApp>>#noIsNil:
-TableLayout>>#layoutLeftToRight:in:
-TableLayout>>#layoutTopToBottom:in:
-TraitDescription>>#printCategoryChunk:on:withStamp:priorMethod:
-TraitDescription>>#instVarIndexFor:ifAbsent:
-TraitDescription>>#classCommentBlank
-RubCharacterBlockScanner>>#endOfRun
-RubCharacterBlockScanner>>#crossedX
-FT2Face>>#isBold
-FT2Face>>#isItalic
-FT2Face>>#isRegular
-FT2Face>>#isFixedWidth
-GeneratorTest>>#testReset
-RxMatchOptimizer>>#canStartMatch:in:
-MetacelloStackCacheTestCase>>#testCacheNil
-MetacelloStackCacheTestCase>>#testPrimeStackCache
-MetacelloStackCacheTestCase>>#testClearCache
-TestResult>>#hasFailures
-TestResult>>#hasErrors
-TDictionaryImplementationTest>>#testNew
-GTSpotterStepsBreadcrumb>>#pop
-GTSpotterCandidatesListTest>>#testRemoveCandidatesA1FromA1A2A3
-GTSpotterCandidatesListTest>>#testRemoveCandidatesA1A3FromA1A2A3
-GTSpotterCandidatesListTest>>#testRemoveCandidatesA1A2A3FromA1A2A3
-MBConfigurationInfo>>#validate
-MBConfigurationInfo>>#trimVersionLists
-Array>>#writeCypressJsonOn:forHtml:indent:
-Array>>#copyWithDependent:
-SubclassResponsabilityDebugAction>>#askForSuperclassOf:to:toImplement:ifCancel:
-MetacelloLoaderPolicy>>#repositoryMap
-MetacelloLoaderPolicy>>#ensuredMap
-MetacelloLoaderPolicy>>#silently
-MetacelloLoaderPolicy>>#loadDirective
-MetacelloLoaderPolicy>>#cacheRepository
-MetacelloLoaderPolicy>>#loadData
-MetacelloLoaderPolicy>>#cacheGofer
-RxsPiece>>#isStar
-RxsPiece>>#isPlus
-ClassFactoryForTestCaseTest>>#testSingleTraitCreation
-GTSpotterRecorderContextChangedEvent>>#fromAnnouncement:
-RubEncryptedDisplayScanner>>#displayLine:offset:leftInRun:
-WeakKeyDictionary>>#removeKey:ifAbsent:
-WeakKeyDictionary>>#scanForEmpty:
-WeakKeyDictionary>>#at:put:
-WeakKeyDictionary>>#overridingAt:put:
-WeakKeyDictionary>>#scanForKeyOrNil:
-WeakKeyDictionary>>#scanFor:
-TextMorph>>#getLastCharacter
-TextMorph>>#setLastCharacter:
-TextMorph>>#preferredKeyboardPosition
-RunArray>>#at:setRunOffsetAndValue:
-RunArray>>#addFirst:
-RunArray>>#addLast:
-RunArray>>#last
-RunArray>>#repeatLastIfEmpty:
-RunArray>>#,
-RunArray>>#repeatLast:ifEmpty:
-RunArray>>#add:withOccurrences:
-Symbol>>#precedence
-GLMPresentationTest>>#testEntityPortInitialization
-GLMPresentationTest>>#testPresentationInitializationBlock
-InflateStream>>#moveSourceToFront
-InflateStream>>#bitPosition
-InflateStream>>#readInto:startingAt:count:
-InflateStream>>#next:into:startingAt:
-InflateStream>>#getFirstBuffer
-InflateStream>>#proceedStoredBlock
-TApplyingOnClassSide>>#isObsolete
-TApplyingOnClassSide>>#obsoleteSubclasses
-TApplyingOnClassSide>>#canZapMethodDictionary
-TApplyingOnClassSide>>#subclasses
-ConfigurationCommandLineHandler>>#hasRepositoryUrl
-RPackageIncrementalTest>>#testClassDefinitionRemovalName
-RPackageIncrementalTest>>#testDefinedClassesAndDefinedClassNames
-RPackageIncrementalTest>>#testClassAddition
-RPackageIncrementalTest>>#testRemoveClassAfterMethods
-RPackageIncrementalTest>>#testClassDefinitionRemoval
-RPackageIncrementalTest>>#testAddClassAfterMethods
-RPackageIncrementalTest>>#testBogusClassAddition
-RPackageIncrementalTest>>#testAddClassAfterMethodsAtMetaclassToo
-RPackageIncrementalTest>>#testAddClassDefinitionNoDuplicate
-RPackageIncrementalTest>>#testUniqueClassInDefinedClassesUsingAddClassDefinition
-TPutTest>>#testAtWrapPut
-ArrayTest>>#test0CopyTest
-ArrayTest>>#testAfterIfAbsent
-ArrayTest>>#testAfter
-ArrayTest>>#testLast
-ArrayTest>>#testAtWrapPut
-ArrayTest>>#testFindLast
-MetacelloMCVersionValidator>>#validateBaselineVersionSpec:
-MetacelloMCVersionValidator>>#validateVersionSpec:
-MetacelloMCProjectSpec>>#ensureProjectLoaded
-MetacelloMCProjectSpec>>#version
-MetacelloMCProjectSpec>>#loadedPackageNames:
-MetacelloMCProjectSpec>>#isPartiallyLoaded:
-MetacelloMCProjectSpec>>#relativeCurrentVersion
-MetacelloMCProjectSpec>>#allPackagesLoaded:
-MetacelloMCProjectSpec>>#projectClass
-MetacelloMCProjectSpec>>#isPossibleBaseline
-MetacelloMCProjectSpec>>#loadVersion:
-MetacelloMCProjectSpec>>#determineCurrentVersionForLoad
-MetacelloMCProjectSpec>>#compareRelativeCurrentVersion:targetVersionStatus:using:
-MetacelloMCProjectSpec>>#updatePackageSpec:
-MetacelloMCProjectSpec>>#loadPackageList
-MetacelloMCProjectSpec>>#ensureLoadedForDevelopmentUsing:
-ParseNode>>#printCommentOn:indent:
-RGMethodDefinitionTest>>#testNonExistingMethodWithClass
-WeakActionSequence>>#asMinimalRepresentation
-ConfigurationOfVersionnerTestXMLParserTemplate class>>#lastMetacelloVersionLoad
-FloatArrayTest>>#test0CopyTest
-FloatArrayTest>>#testAfterIfAbsent
-FloatArrayTest>>#testAfter
-FloatArrayTest>>#testLast
-FloatArrayTest>>#testAtWrapPut
-FloatArrayTest>>#testFindLast
-EncoderForV3>>#isSpecialLiteralForPush:
-MCSaveVersionDialog class>>#addAsLastLogMessage:
-RPackageReadOnlyCompleteSetupTest>>#testRemoveTag
-Paragraph>>#buildSelectionBlocksFrom:to:
-HistoryNodeTest>>#testTwoConsecutiveCloseGroup
-HistoryNodeTest>>#testReset
-HistoryNodeTest>>#testTwoGroups
-HistoryNodeTest>>#testEmptyHistory
-SourceFileArray>>#changeRecordsFrom:className:isMeta:do:
-ZipArchiveMember>>#extractInDirectory:overwrite:
-BraceNode>>#blockAssociationCheck:
-Categorizer>>#classify:under:suppressIfDefault:
-CharacterBlock>>#printOn:
-MetacelloProjectSpec>>#hasNoLoadConflicts:
-MetacelloProjectSpec>>#canUpgradeTo:
-MetacelloProjectSpec>>#operator
-MetacelloProjectSpec>>#name:
-MetacelloProjectSpec>>#loadListForVersion:
-MetacelloProjectSpec>>#compareVersions:usingOperator:
-MetacelloProjectSpec>>#canDowngradeTo:
-RunArrayTest>>#testNew
-MetacelloProjectReferenceSpec>>#configMethodCascadeOn:member:last:indent:
-MetacelloProjectReferenceSpec>>#packagesNeedSavingVisited:using:into:
-MetacelloProjectReferenceSpec>>#mergeSpec:
-IntervalTest>>#test0CopyTest
-IntervalTest>>#testAfter
-IntervalTest>>#testAfterIfAbsent
-IntervalTest>>#testFindLast
-PluggableListMorph>>#getList
-PluggableListMorph>>#vUnadjustedScrollRange
-MetacelloMethodSpec>>#compileMethod
-MetacelloMethodSpec>>#methodSections
-ClassModification>>#buildModificationMapFor:
-LineSegment>>#bezierClipInterval:
-MCGitHubRepository>>#projectVersion
-CharacterBlockScanner>>#endOfRun
-MethodNode>>#generate:ifQuick:
-MethodNode>>#printOn:
-BlockNode>>#arguments:statements:returns:from:
-BlockNode>>#addRemoteTemp:rootNode:
-BlockNode>>#statements:returns:
-BlockNode>>#printArgumentsOn:indent:
-BlockNode>>#printStatementsOn:indent:
-BlockNode>>#remoteTempNodeName
-MBCommand>>#selectRepositoryFromWorkingCopy:
-TraitBehavior>>#whichClassIncludesSelector:
-TraitBehavior>>#commentsIn:
-TraitBehavior>>#allInstVarNames
-TraitBehavior>>#precodeCommentOrInheritedCommentFor:
-TraitBehavior>>#instVarNames
-TraitBehavior>>#lookupSelector:
-TraitBehavior>>#allSuperclassesDo:
-TraitBehavior>>#allSuperclasses
-TraitBehavior>>#allInstancesDo:
-TraitBehavior>>#supermostPrecodeCommentFor:
-TraitBehavior>>#withAllSuperclassesDo:
-TraitBehavior>>#allInstances
-TraitBehavior>>#inheritsFrom:
-PluggableSet>>#scanFor:
-TDictionaryAddingTest>>#testDeclareFrom
-Encoder>>#notify:at:
-Encoder>>#environment
-Encoder>>#notify:
-RxmBranch>>#terminateWith:
-RxmBranch>>#pointTailTo:
-DiskStore>>#checkName:fixErrors:
-SystemNavigationTest>>#testAllReferencesToPoolWhenNoRefences
-RubTextComposer>>#fixupLastLineIfCR
-CollectionRootTest>>#testSize
-Decompiler>>#pushReceiverVariable:
-Decompiler>>#jump:if:
-Decompiler>>#pushConstant:
-Decompiler>>#convertToDoLoop
-Decompiler>>#case:
-MetacelloMCVersionSpec>>#repositories
-MetacelloMCVersionSpec>>#packageNames
-MetacelloMCVersionSpec>>#packages
-MetacelloMCVersionSpec>>#difference:
-MetacelloConfigurationResource class>>#projectAttributes
-Trait>>#subclassesDo:
-Trait>>#sharedPoolOfVarNamed:
-Trait>>#possibleVariablesFor:continuedFrom:
-Trait>>#allSharedPools
-Trait>>#allClassVarNames
-Trait>>#addSharedPool:
-Trait>>#removeSubclass:
-SortedCollectionTest>>#testRemoveAll
-SortedCollectionTest>>#test0CopyTest
-SortedCollectionTest>>#testAfterIfAbsent
-SortedCollectionTest>>#testAfter
-SortedCollectionTest>>#testLast
-SortedCollectionTest>>#testFindLast
-MessageTally>>#treePrintOn:tabs:thisTab:total:totalTime:tallyExact:orThreshold:
-MessageTally>>#printOn:total:totalTime:tallyExact:
-GIFReadWriter>>#writeBitData:
-GIFReadWriter>>#nextImage
-GIFReadWriter>>#nextBits
-MetacelloVersionNumber>>#collapseZeros
-MetacelloVersionNumber>>#approximateBase
-MetacelloAbstractPackageSpec>>#configMethodOn:for:selector:cascading:cascade:indent:
-MetacelloAbstractPackageSpec>>#requires
-MetacelloAbstractPackageSpec>>#answers
-MetacelloAbstractPackageSpec>>#name:
-MetacelloAbstractPackageSpec>>#includes
-TraitMethodDescription>>#isEmpty
-EventManagerTest>>#testReturnValueWithNoListeners
-ConfigurationOfVersionnerTestXMLWriter class>>#lastMetacelloVersionLoad
-Collection>>#detectMin:
-Collection>>#detectMax:
-Collection>>#isEmpty
-FreeTypeSettings>>#bitBltSubPixelAvailable
-WeakValueDictionary>>#at:put:
-MetacelloAbstractVersionConstructor>>#validateDoItSelector:
-MetacelloAbstractVersionConstructor>>#setBlessingWithBlock:
-MetacelloAbstractVersionConstructor>>#setDescriptionWithBlock:
-MetacelloAbstractVersionConstructor>>#project
-MetacelloAbstractVersionConstructor>>#attributeOrder
-MetacelloAbstractVersionConstructor>>#setTimestampWithBlock:
-MetacelloAbstractVersionConstructor>>#setAuthorWithBlock:
-MetacelloAbstractVersionConstructor>>#attributeMap
-BuilderManifestTest>>#testCleanUpTD
-BuilderManifestTest>>#testResetToDo
-BuilderManifestTest>>#testResetFalsePositive
-BuilderManifestTest>>#testCleanUpFP
-RGCommentDefinitionTest>>#testNewComment
-SortedCollection>>#sortBlock:
-MetacelloGoferPackage>>#workingCopy
-MetacelloGoferPackage>>#matches:
-MetacelloGoferPackage>>#matchesWorkingCopy:
-LimitingLineStreamWrapper>>#delimiter:
-TSequencedElementAccessTest>>#testAfter
-TSequencedElementAccessTest>>#testLast
-TSequencedElementAccessTest>>#testAfterIfAbsent
-CompiledMethod>>#trailerKind
-CodeSimulationTests>>#testErrorToken
-MetacelloAtomicLoadDirective>>#postloads
-MetacelloAtomicLoadDirective>>#preloads
-MetacelloAtomicLoadDirective>>#packageloads
-ClassTrait>>#isObsolete
-ClassTrait>>#obsoleteSubclasses
-ClassTrait>>#canZapMethodDictionary
-ClassTrait>>#subclasses
-IdentityDictionary>>#scanFor:
-RPackageCompleteSetupButForModificationTest>>#testExtensionMethodOfClass
-NetNameResolver class>>#initializeNetwork
-NetNameResolver class>>#promptUserForHostAddressDefault:
-MTDependencyTest>>#testRemoveGroup
-MTDependencyTest>>#testRemove
-TBehavior>>#whichClassIncludesSelector:
-TBehavior>>#commentsIn:
-TBehavior>>#allInstVarNames
-TBehavior>>#precodeCommentOrInheritedCommentFor:
-TBehavior>>#instVarNames
-TBehavior>>#lookupSelector:
-TBehavior>>#allSuperclassesDo:
-TBehavior>>#allSuperclasses
-TBehavior>>#allInstancesDo:
-TBehavior>>#supermostPrecodeCommentFor:
-TBehavior>>#withAllSuperclassesDo:
-TBehavior>>#allInstances
-TBehavior>>#inheritsFrom:
-MorphicUIManager>>#onPrimitiveError:
-MetacelloSpec>>#doItBlock:
-MetacelloSpec>>#loader
-ColorMap>>#pixelMap:
-ColorMap>>#mapPixel:
-MetacelloLoadData>>#dataMap
-MetacelloLoadData>>#packageNameMap
-MetacelloLoadData>>#versionInfoMap
-RubCharacterScanner>>#setFont
-RubCharacterScanner>>#setConditionArray:
-NECTypedModelTest>>#testTyped
-ExceptionTester>>#simpleRetryTest
-ExceptionTester>>#log
-ExceptionTester>>#suiteLog
-MetacelloVersionMethodSpec>>#imports
-ClassDescriptionTest>>#testClassDescriptionRespectsPolymorphismWithTraitDescription
-RPackageClassesSynchronisationTest>>#testReorganizeClassByAddingNewProtocolDoesNothing
-RPackageClassesSynchronisationTest>>#testRenameClassUpdateOrganizerClassPackageMapping
-GLMMorphicTabulatorRenderer>>#renderCustomColumn:ofPane:inUI:inBrowser:
-GLMMorphicTabulatorRenderer>>#renderCustomRow:ofPane:inUI:inBrowser:
-MetaclassTest>>#testMetaclassAndTraitClassRespectsPolymorphismRules
-EncoderForSistaV1>>#isSpecialLiteralForPush:
-BitBltDisplayScanner>>#fillTextBackground
-BitBltDisplayScanner>>#plainTab
-FIFOQueueTests>>#testFlushAllSuchThat
-FIFOQueueTests>>#testHeavyContention2
-FIFOQueueTests>>#testHeavyContention
-FIFOQueueTests>>#testContention1
-FIFOQueueTests>>#testNextOrNilSuchThat
-FIFOQueueTests>>#testBasics
-TextDiffBuilder>>#findMatches
-HistoryIteratorTest>>#testUndo1
-MultiByteFileStream>>#nextDelimited:
-MultiByteFileStream>>#upToEnd
-MultiByteFileStream>>#upToAnyOf:do:
-MultiByteFileStream>>#upTo:
-MultiByteFileStream>>#next:innerFor:
-MultiByteFileStream>>#nextPreamble
-MultiByteFileStream>>#peekFor:
-MultiByteFileStream>>#nextChunk
-TextComposer>>#fixupLastLineIfCR
-MetacelloMCProject>>#saveProject
-MetacelloMCProject>>#goferCommitProject:
-MetacelloMCProject>>#fetchProject:
-MetacelloMCProject>>#updateProject:
-Dictionary>>#removeKey:ifAbsent:
-Dictionary>>#add:
-Dictionary>>#writeCypressJsonOn:forHtml:indent:
-Dictionary>>#fixCollisionsFrom:
-Dictionary>>#scanFor:
-FLMigrationTest>>#testFormatFixedToVariable
-MetacelloToolBox>>#modifySection:sectionIndex:repository:requiredProjects:packages:dependencies:includes:files:repositories:preLoadDoIts:postLoadDoIts:supplyingAnswers:groups:versionSpecsDo:
-MetacelloToolBox>>#clearVersionSpec:fullVersionSpec:updateProjects:updatePackages:
-MetacelloToolBox>>#createVersion:
-MetacelloToolBox>>#hasMethodForSymbolicVersion:
-ByteSymbolTest>>#testReadFromString
-FreeTypeSettings class>>#current
-MCHttpRepository>>#displayProgress:during:
-Metaclass>>#isObsolete
-Metaclass>>#canZapMethodDictionary
-Metaclass>>#name
-Metaclass>>#obsoleteSubclasses
-Metaclass>>#subclasses
-RubDisplayScanner>>#fillTextBackground
-RubDisplayScanner>>#plainTab
-RubDisplayScanner>>#displayLine:offset:leftInRun:
-Parser>>#pattern:inContext:
-Parser>>#blockExpression
-Parser>>#externalFunctionDeclaration
-Parser>>#externalType:
-Parser>>#offEnd:
-Parser>>#statements:innerBlock:blockNode:
-MBSaveConfigurationCommand>>#execute
-Set>>#remove:ifAbsent:
-Set>>#fixCollisionsFrom:
-Set>>#scanFor:
-Set>>#grow
-TIterateSequencedReadableTest>>#testFindLast
-EventManager class>>#flushEvents
-Compiler>>#notify:at:
-Compiler>>#evaluate:in:to:notifying:ifFail:logged:
-MCFileBasedRepository>>#cachedFileNames
-LinkedListTest>>#testRemoveAll
-LinkedListTest>>#test0CopyTest
-LinkedListTest>>#testAfterIfAbsent
-LinkedListTest>>#testAfter
-LinkedListTest>>#testLast
-LinkedListTest>>#testFindLast
-ZipEncoderTree>>#buildTree:maxDepth:
-CombinedChar class>>#parseCompositionMappingFrom:
-SystemProgressMorph>>#close:
-TClassDescription>>#printCategoryChunk:on:withStamp:priorMethod:
-TClassDescription>>#classCommentBlank
-TClassDescription>>#instVarIndexFor:ifAbsent:
-MetacelloMCPackagesSpecTestCase>>#testAddPackageA
-MetacelloMCPackagesSpecTestCase>>#testAddPackageB
-SimpleHierarchicalListMorph>>#vUnadjustedScrollRange
-ClassCategoryReader>>#scanFrom:
-GTSpotterStepTest>>#testProcessorForPragmas
-GTSpotterStepTest>>#testProcessorForPragmasThenDiveInCategory
-GTSpotter>>#onPagePopped
-SetTest>>#testSize2
-SetTest>>#testRemoveAll
-SetTest>>#test0CopyTest
-FreeTypeCacheLinkedList>>#removeLast
-FreeTypeCacheLinkedList>>#remove:ifAbsent:
-FreeTypeCacheLinkedList>>#removeFirst
-FileLocator>>#renameTo:
-MetacelloCachingGoferResolvedReference>>#workingCopy
-MetacelloCachingGoferResolvedReference>>#version
-ConfigurationOfVersionnerTestBitmapCharacterSet class>>#lastMetacelloVersionLoad
-EyeInspector>>#refresh
-Color>>#initializeRed:green:blue:alpha:
-Color>>#setRed:green:blue:range:
-Color>>#setRGB:
-Color>>#initializeHue:saturation:lightness:alpha:
-Color>>#initializeRed:green:blue:range:
-Color>>#setRed:green:blue:
-Color>>#initializeHue:saturation:brightness:alpha:
-Color>>#setPrivateRed:green:blue:
-Color>>#initializePrivateRed:green:blue:
-DependentsArrayTest>>#testSize
-SelectorNode>>#printOn:indent:
-MetacelloMCVersionSpecLoader>>#required
-MetacelloMCVersionSpecLoader>>#loader
-Class>>#subclassesDo:
-Class>>#sharedPoolOfVarNamed:
-Class>>#possibleVariablesFor:continuedFrom:
-Class>>#allSharedPools
-Class>>#allClassVarNames
-Class>>#addSharedPool:
-Class>>#removeSubclass:
-TClass>>#subclassesDo:
-TClass>>#sharedPoolOfVarNamed:
-TClass>>#possibleVariablesFor:continuedFrom:
-TClass>>#allSharedPools
-TClass>>#allClassVarNames
-TClass>>#addSharedPool:
-TClass>>#removeSubclass:
-ScrollPane>>#getMenu:
-RubCompositionScanner>>#setActualFont:
-MetacelloVersionLoadDirective>>#label
-MetacelloVersionLoadDirective>>#loadDirectives
-MetacelloVersionLoadDirective>>#spec
-ProcessList>>#linksDo:
-ProcessList>>#collect:
-ProcessList>>#add:beforeLink:
-ProcessList>>#do:
-ProcessList>>#removeLink:ifAbsent:
-ConfigurationGenerator>>#addMetacelloBaseline
-ConfigurationGenerator>>#createVersionForBlessing:
-MBConfigurationRootTest>>#test0110BasicPackageUnload
-MetacelloRepositorySpec>>#username
-MetacelloRepositorySpec>>#type
-MetacelloRepositorySpec>>#password
-ZnHTTPSTests>>#testGetPharoVersion
-TestCase class>>#coverageForClass:until:
-TestCase class>>#localCoverageForClass:
-Socket>>#getOption:
-Socket>>#isUnconnectedOrInvalid
-Socket>>#isValid
-Socket>>#isConnected
-Socket>>#statusString
-Socket>>#isUnconnected
-Socket>>#sendDone
-Socket>>#isThisEndClosed
-Socket>>#isWaitingForConnection
-Socket>>#setOption:value:
-Socket>>#dataAvailable
-Socket>>#isOtherEndClosed
-DelayMicrosecondScheduler>>#saveResumptionTimes
-DelayMicrosecondScheduler>>#restoreResumptionTimes
-DelayMicrosecondScheduler>>#schedule:
-Context>>#releaseTo:
-Context>>#depthBelow:
-Context>>#findNextUnwindContextUpTo:
-Context>>#hasSender:
-Context>>#privRefreshWith:
-Context>>#send:to:with:super:
-Context>>#home
-Context>>#findNextHandlerOrSignalingContext
-Context>>#methodReturnContext
-Context>>#printOn:
-Context>>#withoutPrimitiveTryNamedPrimitiveIn:for:withArgs:
-Context>>#errorReportOn:
-RxMatcher>>#matchesOnStream:do:
-EditorFindReplaceDialogWindow>>#newFindTextEntryMorph
-EditorFindReplaceDialogWindow>>#newReplaceTextEntryMorph
-MetacelloNullRecordingMCSpecLoader>>#beforeLoads
-MetacelloNullRecordingMCSpecLoader>>#resolveRecordingPackageSpecReference:gofer:
-MetacelloNullRecordingMCSpecLoader>>#evalDoits
-MetacelloNullRecordingMCSpecLoader>>#afterLoads
-MetacelloNullRecordingMCSpecLoader>>#resolvePackageSpecReferences:gofer:
-MetacelloPlatform>>#useStackCacheDuring:defaultDictionary:
-MetacelloPlatform>>#extractTypeFromDescription:
-MetacelloPlatform>>#bypassGoferLoadUpdateCategories
-MetacelloPlatform>>#bypassProgressBars
-MetacelloPlatform>>#primeStackCacheFor:doing:defaultDictionary:
-MetacelloCommonMCSpecLoader>>#shouldDisablePackageCache
-MetacelloCommonMCSpecLoader>>#loaderPolicy
-MetacelloCommonMCSpecLoader>>#loadPackageDirectives:gofer:
-MetacelloCommonMCSpecLoader>>#operator
-MetacelloCommonMCSpecLoader>>#resolvePackageSpecReferences:gofer:
-ColorForm>>#replaceColorAtIndex:with:
-ColorForm>>#colormapIfNeededFor:
-ColorForm>>#colormapIfNeededForDepth:
-ZipWriteStream>>#scanBitLengths:into:
-ZipWriteStream>>#sendLiteralTree:distanceTree:using:bitLengths:
-ConfigurationOf class>>#ensureGoferVersion:repositoryUrl:
-MCVersionLoader>>#warnAboutLosingChangesTo:ifCancel:ifMerge:
-ReflectiveMethodTest>>#testSetLinkOnPrimitive
-ReflectiveMethodTest>>#testSetLink
-ReflectiveMethodTest>>#testLinkCountTwoLinks
-ReflectiveMethodTest>>#testSetLinkWithPragmaOptions
-LIFOQueueTests>>#testContention1
-LIFOQueueTests>>#testHeavyContention
-LIFOQueueTests>>#testBasics
-QSystemTally>>#treePrintOn:tabs:thisTab:total:totalTime:tallyExact:orThreshold:
-QSystemTally>>#asArray
-QSystemTally>>#tallyMethod:by:
-QSystemTally>>#leavesInto:fromSender:
-MetacelloSemanticVersionNumber>>#approximateBase
-MetacelloSemanticVersionNumber>>#compareLessThan:
-MetacelloValidationIssue>>#reasonCode
-MessageNode>>#emitCodeForToDo:encoder:value:
-MessageNode>>#sizeCodeForValue:
-MessageNode>>#printKeywords:arguments:on:indent:
-MessageNode>>#sizeCodeForToDo:value:
-MessageNode>>#toDoFromWhileWithInit:
-MessageNode>>#transformWhile:
-MessageNode>>#printToDoOn:indent:
-MessageNode>>#analyseTempsWithin:rootNode:assignmentPools:
-CommandLineArguments>>#hasArguments
-JPEGReadWriter>>#idctBlockInt:qt:
-PositionableStream>>#nextWord
-PositionableStream>>#nextDelimited:
-PositionableStream>>#readInto:startingAt:count:
-RBRenameInstanceVariableRefactoring>>#renameAccessorsReferences
-SimpleEditor>>#zapSelectionWith:
-RubMethodEditingExample>>#classSelector
-RubMethodEditingExample>>#methodSelector
-LiteralDictionary>>#scanFor:
-AbsolutePath>>#isRoot
-PluggableDictionary>>#scanFor:
-WeakFinalizersTest>>#testNewFinalizationSupported
-RBDeprecateMethodRefactoring>>#formRewriteRule
-RBDeprecateMethodRefactoring>>#formNameFor:
-OCASTCheckerTest>>#testNoRemoteBlockReturn
-OCASTCheckerTest>>#testExampleIfNotNilReturnNil
-OCASTCheckerTest>>#testExampleToDoArgument
-BagTest>>#test0CopyTest
-BagTest>>#testRemove
-BagTest>>#testRemoveAll
-BagTest>>#testCreation
-DelayExperimentalSemaphoreScheduler>>#schedule:
-DelayExperimentalSemaphoreScheduler>>#unschedule:
-SymbolTest>>#test0CopyTest
-SymbolTest>>#testAfterIfAbsent
-SymbolTest>>#testAfter
-SymbolTest>>#testLast
-SymbolTest>>#testFindLast
-RubTextEditor>>#isDisjointFrom:
-RubTextEditor>>#inOutdent:delta:
-RubTextEditor>>#zapSelectionWith:
-RubTextEditor>>#saveContentsInFile
-RubTextEditor>>#swapChars:
-MetacelloGenericProjectSpec>>#mergeSpec:
-WarpBlt>>#warpBitsSmoothing:sourceMap:
-WarpBlt>>#mixPix:sourceMap:destMap:
-TDictionaryKeyAccessTest>>#testKeyAtValueIfAbsent
-TDictionaryKeyAccessTest>>#testKeyAtIdentityValueIfAbsent
-OpalEncoderForSistaV1 class>>#method:refersInBytecodeToLiteral:specialSelectorIndex:
-NBFnSpecParserTest>>#testParseNoArgsFn
-MethodDictionary>>#fixCollisionsFrom:
-BalloonEngine>>#registerFills:
-TSizeTest>>#testSize
-MetacelloPackagesSpec>>#configMethodOn:indent:
-MetacelloPackagesSpec>>#packageSpecsInLoadOrder
-Behavior>>#whichClassIncludesSelector:
-Behavior>>#commentsIn:
-Behavior>>#allInstVarNames
-Behavior>>#precodeCommentOrInheritedCommentFor:
-Behavior>>#instVarNames
-Behavior>>#lookupSelector:
-Behavior>>#allSuperclassesDo:
-Behavior>>#allSuperclasses
-Behavior>>#allInstancesDo:
-Behavior>>#supermostPrecodeCommentFor:
-Behavior>>#withAllSuperclassesDo:
-Behavior>>#allInstances
-Behavior>>#inheritsFrom:
-String class>>#compare:with:collated:
-MetacelloMCBaselineOfProjectSpec>>#version
-StringTest>>#testFindLast
-StringTest>>#test0CopyTest
-StringTest>>#testAfterIfAbsent
-StringTest>>#testFindTokensEscapedBy22
-StringTest>>#testAfter
-StringTest>>#testLast
-StringTest>>#testAtWrapPut
-StringTest>>#testSpace
-AbstractFont>>#approxWidthOfText:
-SmalltalkEditor>>#internalCallToImplementorsOfIt
-SmalltalkEditor>>#implementorsOfIt
-SmalltalkEditor>>#selectedSymbol
-SmalltalkEditor>>#referencesToIt
-CompiledMethodTrailer>>#method:
-CompiledMethodTrailer>>#encode
-MenuMorph>>#detachSubMenu:
-MenuMorph>>#displayFiltered:
-TxCharacterSpan>>#isEmpty
-MetacelloProject>>#loaderClass
-MetacelloProject>>#loadType
-RunArray class>>#scanFrom:
-MBInfo class>>#validateAll
-MBAbstractInfoList>>#recalculate
-OrderedCollectionTest>>#testRemoveAll
-OrderedCollectionTest>>#test0CopyTest
-OrderedCollectionTest>>#testAfterIfAbsent
-OrderedCollectionTest>>#testAfter
-OrderedCollectionTest>>#testLast
-OrderedCollectionTest>>#testAtWrapPut
-OrderedCollectionTest>>#testCopyEmptyOld
-OrderedCollectionTest>>#testFindLast
-NumberParser>>#nextElementaryLargeIntegerBase:
-MBAbstractVersionInfo>>#hasValidationIssues
-MBAbstractVersionInfo>>#validate
-IdentitySet>>#scanFor:
-DisplayScreen>>#boundingBox
-CompositionScanner>>#setActualFont:
-Heap>>#sorts:before:
-TCopyTest>>#test0CopyTest
-MCFileTreeAbstractReader>>#definitionFromFile:inDirectory:
-Form>>#hasBeenModified
-Form>>#bitsSize
-Form>>#unhibernate
-Form>>#wipeImage:at:clippingBox:rectForIndex:
-TextMorphForFieldView>>#keyStroke:
-StrikeFont>>#readFromBitFont:
-StrikeFont>>#buildfontNamed:fromForms:startingAtAscii:ascent:descent:maxWid:
-StrikeFont>>#fixXTable
-StrikeFont>>#emphasized:
-RBParser>>#patchLiteralMessage
-KeyedTreeTest>>#testRemovePathIfAbsent
-KeyedTreeTest>>#testRemovePath
-StandardFileStream>>#upToEnd
-StandardFileStream>>#requestDropStream:
-StandardFileStream>>#peekLast
-StandardFileStream>>#closed
-StandardFileStream>>#peekFor:
-MetacelloToolBoxConstructor>>#methodSections
-KMCategoryTest>>#testAddKeymapToCategory
-KMCategoryTest>>#testCreateUnexistentCategory
-KMCategoryTest>>#testCreateExistentCategoryFails
-RxmLink>>#terminateWith:
-RxmLink>>#pointTailTo:
-HeapTest>>#test0CopyTest
-HeapTest>>#testRemove
-HeapTest>>#testAdd
-ConfigurationOfZincHTTPComponents class>>#lastMetacelloVersionLoad
-TextEditor>>#isDisjointFrom:
-TextEditor>>#inOutdent:delta:
-TextEditor>>#zapSelectionWith:
-TextEditor>>#saveContentsInFile
-TextEditor>>#swapChars:
-ClassDescription>>#printCategoryChunk:on:withStamp:priorMethod:
-ClassDescription>>#instVarIndexFor:ifAbsent:
-ClassDescription>>#classCommentBlank
-WeakSet>>#like:ifAbsent:
-WeakSet>>#scanForEmptySlotFor:
-WeakSet>>#add:
-PNGReadWriter>>#copyPixelsRGB:
-PNGReadWriter>>#copyPixelsRGB:at:by:
-HashedCollection>>#grow
-MetacelloVersionValidator>>#validationReport
-MetacelloVersionValidator>>#recurse
-MetacelloVersionValidator>>#visited
-MetacelloVersionValidator>>#exludededValidations
-MetacelloVersionValidator>>#debug
-GLMPagerButtonsPaneBrick>>#markButtonsInside:
-GLMPagerButtonsPaneBrick>>#updateButtons
-Color class>>#colorFrom:
-Color class>>#fromArray:
-Color class>>#maskingMap:
-MetacelloMCVersion>>#loaderPolicy
-SpecDebugger class>>#informExistingDebugger:label:
-ChangeSorterModel>>#findChangeSetIn:
-Text>>#attributesAt:forStyle:
-Text>>#fontAt:withStyle:
-Text>>#alignmentAt:ifAbsent:
-Text>>#attributesAt:do:
-Text>>#fontNumberAt:
-Text>>#attributesAt:
-Text>>#rangeOf:startingAt:
-Text>>#allBold
-Text>>#emphasisAt:
-DelayMillisecondScheduler>>#saveResumptionTimes
-DelayMillisecondScheduler>>#restoreResumptionTimes
-DelayMillisecondScheduler>>#schedule:
-MetacelloPackageSpec>>#currentPackageLoaded:comparing:notLoaded:using:
-MetacelloPackageSpec>>#updatePackageRepositoriesFor:
-MetacelloPackageSpec>>#updateForSpawnMethod:
-MetacelloPackageSpec>>#repositories
-MetacelloPackageSpec>>#updatePackageSpec:force:using:
-MetacelloPackageSpec>>#extractNameFromFile
-MetacelloPackageSpec>>#currentPackageLoaded:notLoaded:using:
-MetacelloPackageSpec>>#configShortCutMethodBodyOn:member:indent:
-MetacelloPackageSpec>>#workingCopyName
-MetacelloPackageSpec>>#workingCopyNameFor:
-MetacelloPackageSpec>>#name
-MetacelloPackageSpec>>#configMethodBodyOn:hasName:indent:
-MetacelloPackageSpec>>#file
-MetacelloPackageSpec>>#goferLoaderReference
-MetacelloPackageSpec>>#goferPackage
-MetacelloPackageSpec>>#configMethodOn:indent:
-StrikeFont class>>#listFontNames
-OCASTClosureAnalyzerTest>>#testSingleRemoteReadNestedBlocks
-OCASTClosureAnalyzerTest>>#testOptimizedBlockWriteInNestedBlockCase2
-OCASTClosureAnalyzerTest>>#testOptimizedBlockWriteInNestedBlockCase4
-OCASTClosureAnalyzerTest>>#testWrittenAfterClosedOver
-OCASTClosureAnalyzerTest>>#testOptimizedBlockWrittenAfterClosedOverCase1
-OCASTClosureAnalyzerTest>>#testOptimizedBlockWrittenAfterClosedOverCase2
-OCASTClosureAnalyzerTest>>#testExampleSimpleBlockNested
-OCASTClosureAnalyzerTest>>#testOptimizedBlockWriteInNestedBlockCase3
-OCASTClosureAnalyzerTest>>#testExampleBlockArgument
-OCASTClosureAnalyzerTest>>#testDoubleRemoteAnidatedBlocks
-OCASTClosureAnalyzerTest>>#testOptimizedBlockWriteInBlock
-OCASTClosureAnalyzerTest>>#testNestedBlocksRemoteInBlockCase2
-OCASTClosureAnalyzerTest>>#testExampleWhileModificationBefore
-OCASTClosureAnalyzerTest>>#testExampleWhileNoModification
-OCASTClosureAnalyzerTest>>#testNoRemoteReadNestedBlocks
-OCASTClosureAnalyzerTest>>#testExampleSimpleBlockLocalWhile
-OCASTClosureAnalyzerTest>>#testNestedBlocksRemoteInBlockCase3
-OCASTClosureAnalyzerTest>>#testNestedBlocksRemoteInBlockCase1
-OCASTClosureAnalyzerTest>>#testOptimizedBlockWriteInNestedBlock
-OCASTClosureAnalyzerTest>>#testNoRemoteReadInBlock
-OCASTClosureAnalyzerTest>>#testOptimizedBlockReadInBlock
-MetacelloVersion>>#importedVersions
-MetacelloVersion>>#packageNamed:ifAbsent:
-MetacelloVersion>>#versionStatus
-MetacelloVersionMethodSection>>#topParent
-MetacelloVersionMethodSection>>#attributePath
-MetacelloVersionMethodSection>>#attributeOrPath
-Unicode class>>#parseUnicodeDataFrom:
-RBLiteralArrayContainsSuspiciousTrueFalseOrNilRule>>#checkMethod:
-OSSDL2FormRenderer>>#validate
-StopwatchTest>>#testChangingStatus
-TextAction>>#analyze:
-SequenceableCollection>>#reduceRight:
-SequenceableCollection>>#last
-SequenceableCollection>>#asStringWithCr
-SequenceableCollection>>#reduceLeft:
-SequenceableCollection>>#joinUsing:last:
-LinkedList>>#linksDo:
-LinkedList>>#collect:
-LinkedList>>#add:beforeLink:
-LinkedList>>#removeLink:ifAbsent:
-LinkedList>>#do:
-DeflateStream>>#deflateBlock
-MetacelloVersionConstructor>>#collectAllSymbolicVersionsFromVersionPragmasInto:using:
-MetacelloVersionConstructor>>#prepareForMethodUpdate:sourceVersion:forceUpdate:generating:
-MetacelloVersionConstructor>>#spawnPackageMethodIn:category:named:sourceVersion:targetVersion:blessing:
-MetacelloVersionConstructor>>#updatePackageMethodIn:sourceVersion:
-MetacelloVersionConstructor>>#collectAllVersionsFromVersionImportPragmasInto:using:satisfiedPragmas:
-MetacelloVersionConstructor>>#collectDefaultSymbolicVersionsFromVersionPragmasFrom:into:using:
-TextAndTextStreamTest>>#testTextEmphasisRangeDetection1
-TextAndTextStreamTest>>#testTextEmphasisRangeDetection2
-TextAndTextStreamTest>>#testTextEmphasisRangeDetection4
-TextAndTextStreamTest>>#testTextEmphasisRangeDetection3
-MetacelloMemberListSpec>>#mapMerge:into:
-MetacelloMemberListSpec>>#mapCopy:into:
-MetacelloMemberListSpec>>#list
-Symbol class>>#thatStarts:skipping:
-Symbol class>>#thatStartsCaseSensitive:skipping:
-MethodFinder>>#test2:
-MBSavePackageCommand>>#execute
-String>>#withoutPeriodSuffix
-String>>#endsWithAColon
-String>>#isLiteralSymbol
-String>>#numArgs
-String>>#initialIntegerOrNil
-String>>#keywords
-String>>#findSubstringViaPrimitive:in:startingAt:matchTable:
-String>>#findSubstring:in:startingAt:matchTable:
-String>>#startsWithDigit
-String>>#endsWithDigit
-PointerLayout>>#checkSlotIndices
-LayoutClassScope>>#hasFields
-LayoutClassScope>>#hasSlots
-PluggableTextMorph>>#setTextBasic:
+ConnectionQueue>>#oldStyleListenLoop [Network-Kernel]
+MetacelloLoadingMCSpecLoader>>#packagesNeedSavingUsing:into: [Metacello-MC]
+MetacelloLoadingMCSpecLoader>>#savePackageUsing: [Metacello-MC]
+DelayExperimentalSpinScheduler>>#schedule: [Kernel]
+DelayExperimentalSpinScheduler>>#unschedule: [Kernel]
+MetacelloPackageSpecResolutionError>>#description [Metacello-Core]
+MTProjectBFSIterator>>#hasChildNodes: [Versionner-Core-DependenciesModel]
+RubFindReplaceDialogWindow>>#newFindTextEntryMorph [Rubric]
+RubFindReplaceDialogWindow>>#newReplaceTextEntryMorph [Rubric]
+EncoderForSistaV1 class>>#method:refersInBytecodeToLiteral:specialSelectorIndex: [Compiler]
+MBCheckpointDevCommand>>#execute [Versionner-Core-Commands]
+ZipEncoder>>#privateSendBlock:with:with:with: [Compression]
+GroupWindowMorph>>#removeWindow: [Morphic-Widgets-Windows]
+ReflectivityLinkTest>>#testUninstallLink [Reflectivity-Tests]
+ReflectivityLinkTest>>#testTwoLinks [Reflectivity-Tests]
+GIFReadWriter class>>#grabScreenAndSaveOnDisk [Graphics-Files]
+DictionaryTest>>#test0CopyTest [Collections-Tests]
+DictionaryTest>>#testNew [Collections-Tests]
+DictionaryTest>>#testRemoveAll [Collections-Tests]
+DictionaryTest>>#testDeclareFrom [Collections-Tests]
+MultiByteFileStreamTest>>#testPeek [Multilingual-Tests]
+StackTest>>#testSize [Collections-Tests]
+BitBlt>>#setDestForm:sourceForm:fillColor:combinationRule:destOrigin:sourceOrigin:extent:clipRect: [Graphics-Primitives]
+BitBlt>>#drawFrom:to:withFirstPoint: [Graphics-Primitives]
+BitBlt>>#fillColor: [Graphics-Primitives]
+BitBlt>>#copy:from:in:fillColor:rule: [Graphics-Primitives]
+PluggableTabBarMorph>>#activeTab [Morphic-Widgets-Pluggable]
+PluggableTabBarMorph>>#drawOn: [Morphic-Widgets-Pluggable]
+FreeTypeFont>>#isBold [FreeType]
+FreeTypeFont>>#isItalic [FreeType]
+FreeTypeFont>>#isRegular [FreeType]
+MetacelloVersionSpec>>#packages [Metacello-Core]
+MetacelloVersionSpec>>#description [Metacello-Core]
+MetacelloVersionSpec>>#versionString [Metacello-Core]
+MetacelloVersionSpec>>#difference: [Metacello-Core]
+MetacelloVersionSpec>>#configMethodValueOn:for:selector:last:indent: [Metacello-Core]
+MetacelloVersionSpec>>#timestamp [Metacello-Core]
+MetacelloVersionSpec>>#packageNames [Metacello-Core]
+MetacelloVersionSpec>>#blessing [Metacello-Core]
+MetacelloVersionSpec>>#resolveToLoadableSpecs:forLoad:map: [Metacello-Core]
+MetacelloVersionSpec>>#configMethodOn:for:selector:last:indent: [Metacello-Core]
+MetacelloVersionSpec>>#author [Metacello-Core]
+RubSmalltalkEditor>>#internalCallToImplementorsOfIt [Rubric]
+RubSmalltalkEditor>>#implementorsOfIt [Rubric]
+RubSmalltalkEditor>>#selectedSymbol [Rubric]
+RubSmalltalkEditor>>#referencesToIt [Rubric]
+RBSmalllintTestObject>>#consistencyCheck [Refactoring-Tests-Critics]
+RBSmalllintTestObject>>#noIsNil: [Refactoring-Tests-Critics]
+DependentsArray>>#at: [Kernel]
+DependentsArray>>#at:put: [Kernel]
+MBProjectInfo>>#interestedInConfigurationInfo: [Versionner-Core-Model]
+MBProjectInfo>>#currentVersion [Versionner-Core-Model]
+MBProjectInfo>>#validate [Versionner-Core-Model]
+MBProjectInfo>>#interestedInPackageNamed: [Versionner-Core-Model]
+MultiByteBinaryOrTextStream>>#nextDelimited: [Collections-Streams]
+MultiByteBinaryOrTextStream>>#peekFor: [Collections-Streams]
+Path>>#basename: [FileSystem-Core]
+Path>>#isEmpty [FileSystem-Core]
+Path>>#isWorkingDirectory [FileSystem-Core]
+Path>>#basename [FileSystem-Core]
+MetacelloProjectSpecForLoad>>#performCurrentVersionTestAgainst:operator:targetVersionStatus:using: [Metacello-Core]
+GLMPagerModel>>#recomputeState: [Glamour-Morphic-Pager]
+GLMPagerModel>>#defaultNumberOfVisiblePages: [Glamour-Morphic-Pager]
+RBRefactoryTestDataApp>>#consistencyCheck [Refactoring-Tests-Core]
+RBRefactoryTestDataApp>>#noIsNil: [Refactoring-Tests-Core]
+TableLayout>>#layoutLeftToRight:in: [Morphic-Base]
+TableLayout>>#layoutTopToBottom:in: [Morphic-Base]
+TraitDescription>>#printCategoryChunk:on:withStamp:priorMethod: [CodeExport]
+TraitDescription>>#instVarIndexFor:ifAbsent: [Traits]
+TraitDescription>>#classCommentBlank [Traits]
+RubCharacterBlockScanner>>#endOfRun [Rubric]
+RubCharacterBlockScanner>>#crossedX [Rubric]
+FT2Face>>#isBold [FreeType]
+FT2Face>>#isItalic [FreeType]
+FT2Face>>#isRegular [FreeType]
+FT2Face>>#isFixedWidth [FreeType]
+GeneratorTest>>#testReset [Collections-Tests]
+RxMatchOptimizer>>#canStartMatch:in: [Regex-Core]
+MetacelloStackCacheTestCase>>#testCacheNil [Metacello-TestsCore]
+MetacelloStackCacheTestCase>>#testPrimeStackCache [Metacello-TestsCore]
+MetacelloStackCacheTestCase>>#testClearCache [Metacello-TestsCore]
+TestResult>>#hasFailures [SUnit-Core]
+TestResult>>#hasErrors [SUnit-Core]
+TDictionaryImplementationTest>>#testNew [Collections-Tests]
+GTSpotterStepsBreadcrumb>>#pop [GT-Spotter]
+GTSpotterCandidatesListTest>>#testRemoveCandidatesA1FromA1A2A3 [GT-Tests-Spotter]
+GTSpotterCandidatesListTest>>#testRemoveCandidatesA1A3FromA1A2A3 [GT-Tests-Spotter]
+GTSpotterCandidatesListTest>>#testRemoveCandidatesA1A2A3FromA1A2A3 [GT-Tests-Spotter]
+MBConfigurationInfo>>#validate [Versionner-Core-Model]
+MBConfigurationInfo>>#trimVersionLists [Versionner-Core-Model]
+Array>>#writeCypressJsonOn:forHtml:indent: [MonticelloFileTree-Core]
+Array>>#copyWithDependent: [Collections-Sequenceable]
+SubclassResponsabilityDebugAction>>#askForSuperclassOf:to:toImplement:ifCancel: [DebuggerActions]
+MetacelloLoaderPolicy>>#repositoryMap [Metacello-MC]
+MetacelloLoaderPolicy>>#ensuredMap [Metacello-MC]
+MetacelloLoaderPolicy>>#silently [Metacello-MC]
+MetacelloLoaderPolicy>>#loadDirective [Metacello-MC]
+MetacelloLoaderPolicy>>#cacheRepository [Metacello-MC]
+MetacelloLoaderPolicy>>#loadData [Metacello-MC]
+MetacelloLoaderPolicy>>#cacheGofer [Metacello-MC]
+RxsPiece>>#isStar [Regex-Core]
+RxsPiece>>#isPlus [Regex-Core]
+ClassFactoryForTestCaseTest>>#testSingleTraitCreation [SUnit-Tests]
+GTSpotterRecorderContextChangedEvent>>#fromAnnouncement: [GT-Spotter-EventRecorder]
+RubEncryptedDisplayScanner>>#displayLine:offset:leftInRun: [Rubric]
+WeakKeyDictionary>>#removeKey:ifAbsent: [Collections-Weak]
+WeakKeyDictionary>>#scanForEmpty: [Collections-Weak]
+WeakKeyDictionary>>#at:put: [Collections-Weak]
+WeakKeyDictionary>>#overridingAt:put: [Collections-Weak]
+WeakKeyDictionary>>#scanForKeyOrNil: [Collections-Weak]
+WeakKeyDictionary>>#scanFor: [Collections-Weak]
+TextMorph>>#getLastCharacter [Morphic-Base]
+TextMorph>>#setLastCharacter: [Morphic-Base]
+TextMorph>>#preferredKeyboardPosition [Morphic-Base]
+RunArray>>#at:setRunOffsetAndValue: [Text-Core]
+RunArray>>#addFirst: [Text-Core]
+RunArray>>#addLast: [Text-Core]
+RunArray>>#last [Text-Core]
+RunArray>>#repeatLastIfEmpty: [Text-Core]
+RunArray>>#, [Text-Core]
+RunArray>>#repeatLast:ifEmpty: [Text-Core]
+RunArray>>#add:withOccurrences: [Text-Core]
+Symbol>>#precedence [Collections-Strings]
+GLMPresentationTest>>#testEntityPortInitialization [Glamour-Tests-Core]
+GLMPresentationTest>>#testPresentationInitializationBlock [Glamour-Tests-Core]
+InflateStream>>#moveSourceToFront [Compression]
+InflateStream>>#bitPosition [Compression]
+InflateStream>>#readInto:startingAt:count: [Compression]
+InflateStream>>#next:into:startingAt: [Compression]
+InflateStream>>#getFirstBuffer [Compression]
+InflateStream>>#proceedStoredBlock [Compression]
+TApplyingOnClassSide>>#isObsolete [Traits]
+TApplyingOnClassSide>>#obsoleteSubclasses [Traits]
+TApplyingOnClassSide>>#canZapMethodDictionary [Traits]
+TApplyingOnClassSide>>#subclasses [Traits]
+ConfigurationCommandLineHandler>>#hasRepositoryUrl [ConfigurationCommandLineHandler-Core]
+RPackageIncrementalTest>>#testClassDefinitionRemovalName [RPackage-Tests]
+RPackageIncrementalTest>>#testDefinedClassesAndDefinedClassNames [RPackage-Tests]
+RPackageIncrementalTest>>#testClassAddition [RPackage-Tests]
+RPackageIncrementalTest>>#testRemoveClassAfterMethods [RPackage-Tests]
+RPackageIncrementalTest>>#testClassDefinitionRemoval [RPackage-Tests]
+RPackageIncrementalTest>>#testAddClassAfterMethods [RPackage-Tests]
+RPackageIncrementalTest>>#testBogusClassAddition [RPackage-Tests]
+RPackageIncrementalTest>>#testAddClassAfterMethodsAtMetaclassToo [RPackage-Tests]
+RPackageIncrementalTest>>#testAddClassDefinitionNoDuplicate [RPackage-Tests]
+RPackageIncrementalTest>>#testUniqueClassInDefinedClassesUsingAddClassDefinition [RPackage-Tests]
+TPutTest>>#testAtWrapPut [Collections-Tests]
+ArrayTest>>#test0CopyTest [Collections-Tests]
+ArrayTest>>#testAfterIfAbsent [Collections-Tests]
+ArrayTest>>#testAfter [Collections-Tests]
+ArrayTest>>#testLast [Collections-Tests]
+ArrayTest>>#testAtWrapPut [Collections-Tests]
+ArrayTest>>#testFindLast [Collections-Tests]
+MetacelloMCVersionValidator>>#validateBaselineVersionSpec: [Metacello-MC]
+MetacelloMCVersionValidator>>#validateVersionSpec: [Metacello-MC]
+MetacelloMCProjectSpec>>#ensureProjectLoaded [Metacello-MC]
+MetacelloMCProjectSpec>>#version [Metacello-MC]
+MetacelloMCProjectSpec>>#loadedPackageNames: [Metacello-MC]
+MetacelloMCProjectSpec>>#isPartiallyLoaded: [Metacello-MC]
+MetacelloMCProjectSpec>>#relativeCurrentVersion [Metacello-MC]
+MetacelloMCProjectSpec>>#allPackagesLoaded: [Metacello-MC]
+MetacelloMCProjectSpec>>#projectClass [Metacello-MC]
+MetacelloMCProjectSpec>>#isPossibleBaseline [Metacello-MC]
+MetacelloMCProjectSpec>>#loadVersion: [Metacello-MC]
+MetacelloMCProjectSpec>>#determineCurrentVersionForLoad [Metacello-MC]
+MetacelloMCProjectSpec>>#compareRelativeCurrentVersion:targetVersionStatus:using: [Metacello-MC]
+MetacelloMCProjectSpec>>#updatePackageSpec: [Metacello-MC]
+MetacelloMCProjectSpec>>#loadPackageList [Metacello-MC]
+MetacelloMCProjectSpec>>#ensureLoadedForDevelopmentUsing: [Metacello-MC]
+ParseNode>>#printCommentOn:indent: [Compiler]
+RGMethodDefinitionTest>>#testNonExistingMethodWithClass [Ring-Tests-Kernel]
+WeakActionSequence>>#asMinimalRepresentation [System-Object Events]
+ConfigurationOfVersionnerTestXMLParserTemplate class>>#lastMetacelloVersionLoad [Versionner-Tests-Resources]
+FloatArrayTest>>#test0CopyTest [Collections-Tests]
+FloatArrayTest>>#testAfterIfAbsent [Collections-Tests]
+FloatArrayTest>>#testAfter [Collections-Tests]
+FloatArrayTest>>#testLast [Collections-Tests]
+FloatArrayTest>>#testAtWrapPut [Collections-Tests]
+FloatArrayTest>>#testFindLast [Collections-Tests]
+EncoderForV3>>#isSpecialLiteralForPush: [Compiler]
+MCSaveVersionDialog class>>#addAsLastLogMessage: [MonticelloGUI]
+RPackageReadOnlyCompleteSetupTest>>#testRemoveTag [RPackage-Tests]
+Paragraph>>#buildSelectionBlocksFrom:to: [Morphic-Base]
+HistoryNodeTest>>#testTwoConsecutiveCloseGroup [System-History-Tests]
+HistoryNodeTest>>#testReset [System-History-Tests]
+HistoryNodeTest>>#testTwoGroups [System-History-Tests]
+HistoryNodeTest>>#testEmptyHistory [System-History-Tests]
+SourceFileArray>>#changeRecordsFrom:className:isMeta:do: [System-Sources]
+ZipArchiveMember>>#extractInDirectory:overwrite: [Compression]
+BraceNode>>#blockAssociationCheck: [Compiler]
+Categorizer>>#classify:under:suppressIfDefault: [Kernel]
+CharacterBlock>>#printOn: [Text-Scanning]
+MetacelloProjectSpec>>#hasNoLoadConflicts: [Metacello-Core]
+MetacelloProjectSpec>>#canUpgradeTo: [Metacello-Core]
+MetacelloProjectSpec>>#operator [Metacello-Core]
+MetacelloProjectSpec>>#name: [Metacello-Core]
+MetacelloProjectSpec>>#loadListForVersion: [Metacello-Core]
+MetacelloProjectSpec>>#compareVersions:usingOperator: [Metacello-Core]
+MetacelloProjectSpec>>#canDowngradeTo: [Metacello-Core]
+RunArrayTest>>#testNew [Text-Tests]
+MetacelloProjectReferenceSpec>>#configMethodCascadeOn:member:last:indent: [Metacello-Core]
+MetacelloProjectReferenceSpec>>#packagesNeedSavingVisited:using:into: [Metacello-MC]
+MetacelloProjectReferenceSpec>>#mergeSpec: [Metacello-Core]
+IntervalTest>>#test0CopyTest [Collections-Tests]
+IntervalTest>>#testAfter [Collections-Tests]
+IntervalTest>>#testAfterIfAbsent [Collections-Tests]
+IntervalTest>>#testFindLast [Collections-Tests]
+PluggableListMorph>>#getList [Morphic-Widgets-Pluggable]
+PluggableListMorph>>#vUnadjustedScrollRange [Morphic-Widgets-Pluggable]
+MetacelloMethodSpec>>#compileMethod [Metacello-Core]
+MetacelloMethodSpec>>#methodSections [Metacello-Core]
+ClassModification>>#buildModificationMapFor: [Slot]
+LineSegment>>#bezierClipInterval: [Balloon]
+MCGitHubRepository>>#projectVersion [Metacello-GitHub]
+CharacterBlockScanner>>#endOfRun [Text-Scanning]
+MethodNode>>#generate:ifQuick: [Compiler]
+MethodNode>>#printOn: [Compiler]
+BlockNode>>#arguments:statements:returns:from: [Compiler]
+BlockNode>>#addRemoteTemp:rootNode: [Compiler]
+BlockNode>>#statements:returns: [Compiler]
+BlockNode>>#printArgumentsOn:indent: [Compiler]
+BlockNode>>#printStatementsOn:indent: [Compiler]
+BlockNode>>#remoteTempNodeName [Compiler]
+MBCommand>>#selectRepositoryFromWorkingCopy: [Versionner-Core-Commands]
+TraitBehavior>>#whichClassIncludesSelector: [Traits]
+TraitBehavior>>#commentsIn: [Traits]
+TraitBehavior>>#allInstVarNames [Traits]
+TraitBehavior>>#precodeCommentOrInheritedCommentFor: [Traits]
+TraitBehavior>>#instVarNames [Traits]
+TraitBehavior>>#lookupSelector: [Traits]
+TraitBehavior>>#allSuperclassesDo: [Traits]
+TraitBehavior>>#allSuperclasses [Traits]
+TraitBehavior>>#allInstancesDo: [Traits]
+TraitBehavior>>#supermostPrecodeCommentFor: [Traits]
+TraitBehavior>>#withAllSuperclassesDo: [Traits]
+TraitBehavior>>#allInstances [Traits]
+TraitBehavior>>#inheritsFrom: [Traits]
+PluggableSet>>#scanFor: [Collections-Unordered]
+TDictionaryAddingTest>>#testDeclareFrom [Collections-Tests]
+Encoder>>#notify:at: [Compiler]
+Encoder>>#environment [Compiler]
+Encoder>>#notify: [Compiler]
+RxmBranch>>#terminateWith: [Regex-Core]
+RxmBranch>>#pointTailTo: [Regex-Core]
+DiskStore>>#checkName:fixErrors: [FileSystem-Disk]
+SystemNavigationTest>>#testAllReferencesToPoolWhenNoRefences [Tests]
+RubTextComposer>>#fixupLastLineIfCR [Rubric]
+CollectionRootTest>>#testSize [Collections-Tests]
+Decompiler>>#pushReceiverVariable: [Compiler]
+Decompiler>>#jump:if: [Compiler]
+Decompiler>>#pushConstant: [Compiler]
+Decompiler>>#convertToDoLoop [Compiler]
+Decompiler>>#case: [Compiler]
+MetacelloMCVersionSpec>>#repositories [Metacello-MC]
+MetacelloMCVersionSpec>>#packageNames [Metacello-MC]
+MetacelloMCVersionSpec>>#packages [Metacello-MC]
+MetacelloMCVersionSpec>>#difference: [Metacello-MC]
+MetacelloConfigurationResource class>>#projectAttributes [Metacello-TestsMCResources]
+Trait>>#subclassesDo: [Traits]
+Trait>>#sharedPoolOfVarNamed: [Traits]
+Trait>>#possibleVariablesFor:continuedFrom: [Traits]
+Trait>>#allSharedPools [Traits]
+Trait>>#allClassVarNames [Traits]
+Trait>>#addSharedPool: [Traits]
+Trait>>#removeSubclass: [Traits]
+SortedCollectionTest>>#testRemoveAll [Collections-Tests]
+SortedCollectionTest>>#test0CopyTest [Collections-Tests]
+SortedCollectionTest>>#testAfterIfAbsent [Collections-Tests]
+SortedCollectionTest>>#testAfter [Collections-Tests]
+SortedCollectionTest>>#testLast [Collections-Tests]
+SortedCollectionTest>>#testFindLast [Collections-Tests]
+MessageTally>>#treePrintOn:tabs:thisTab:total:totalTime:tallyExact:orThreshold: [Tool-Profilers]
+MessageTally>>#printOn:total:totalTime:tallyExact: [Tool-Profilers]
+GIFReadWriter>>#writeBitData: [Graphics-Files]
+GIFReadWriter>>#nextImage [Graphics-Files]
+GIFReadWriter>>#nextBits [Graphics-Files]
+MetacelloVersionNumber>>#collapseZeros [Metacello-Core]
+MetacelloVersionNumber>>#approximateBase [Metacello-Core]
+MetacelloAbstractPackageSpec>>#configMethodOn:for:selector:cascading:cascade:indent: [Metacello-Core]
+MetacelloAbstractPackageSpec>>#requires [Metacello-Core]
+MetacelloAbstractPackageSpec>>#answers [Metacello-Core]
+MetacelloAbstractPackageSpec>>#name: [Metacello-Core]
+MetacelloAbstractPackageSpec>>#includes [Metacello-Core]
+TraitMethodDescription>>#isEmpty [Traits]
+EventManagerTest>>#testReturnValueWithNoListeners [Tests]
+ConfigurationOfVersionnerTestXMLWriter class>>#lastMetacelloVersionLoad [Versionner-Tests-Resources]
+Collection>>#detectMin: [Collections-Abstract]
+Collection>>#detectMax: [Collections-Abstract]
+Collection>>#isEmpty [Collections-Abstract]
+FreeTypeSettings>>#bitBltSubPixelAvailable [FreeType]
+WeakValueDictionary>>#at:put: [Collections-Weak]
+MetacelloAbstractVersionConstructor>>#validateDoItSelector: [Metacello-Core]
+MetacelloAbstractVersionConstructor>>#setBlessingWithBlock: [Metacello-Core]
+MetacelloAbstractVersionConstructor>>#setDescriptionWithBlock: [Metacello-Core]
+MetacelloAbstractVersionConstructor>>#project [Metacello-Core]
+MetacelloAbstractVersionConstructor>>#attributeOrder [Metacello-Core]
+MetacelloAbstractVersionConstructor>>#setTimestampWithBlock: [Metacello-Core]
+MetacelloAbstractVersionConstructor>>#setAuthorWithBlock: [Metacello-Core]
+MetacelloAbstractVersionConstructor>>#attributeMap [Metacello-Core]
+BuilderManifestTest>>#testCleanUpTD [Manifest-Tests]
+BuilderManifestTest>>#testResetToDo [Manifest-Tests]
+BuilderManifestTest>>#testResetFalsePositive [Manifest-Tests]
+BuilderManifestTest>>#testCleanUpFP [Manifest-Tests]
+RGCommentDefinitionTest>>#testNewComment [Ring-Tests-Kernel]
+SortedCollection>>#sortBlock: [Collections-Sequenceable]
+MetacelloGoferPackage>>#workingCopy [Metacello-MC]
+MetacelloGoferPackage>>#matches: [Metacello-MC]
+MetacelloGoferPackage>>#matchesWorkingCopy: [Metacello-MC]
+LimitingLineStreamWrapper>>#delimiter: [Collections-Streams]
+TSequencedElementAccessTest>>#testAfter [Collections-Tests]
+TSequencedElementAccessTest>>#testLast [Collections-Tests]
+TSequencedElementAccessTest>>#testAfterIfAbsent [Collections-Tests]
+CompiledMethod>>#trailerKind [NativeBoost-Core]
+CodeSimulationTests>>#testErrorToken [KernelTests]
+MetacelloAtomicLoadDirective>>#postloads [Metacello-MC]
+MetacelloAtomicLoadDirective>>#preloads [Metacello-MC]
+MetacelloAtomicLoadDirective>>#packageloads [Metacello-MC]
+ClassTrait>>#isObsolete [Traits]
+ClassTrait>>#obsoleteSubclasses [Traits]
+ClassTrait>>#canZapMethodDictionary [Traits]
+ClassTrait>>#subclasses [Traits]
+IdentityDictionary>>#scanFor: [Collections-Unordered]
+RPackageCompleteSetupButForModificationTest>>#testExtensionMethodOfClass [RPackage-Tests]
+NetNameResolver class>>#initializeNetwork [Network-Kernel]
+NetNameResolver class>>#promptUserForHostAddressDefault: [Network-Kernel]
+MTDependencyTest>>#testRemoveGroup [Versionner-Tests-Core-DependenciesModel]
+MTDependencyTest>>#testRemove [Versionner-Tests-Core-DependenciesModel]
+TBehavior>>#whichClassIncludesSelector: [Traits]
+TBehavior>>#commentsIn: [Traits]
+TBehavior>>#allInstVarNames [Traits]
+TBehavior>>#precodeCommentOrInheritedCommentFor: [Traits]
+TBehavior>>#instVarNames [Traits]
+TBehavior>>#lookupSelector: [Traits]
+TBehavior>>#allSuperclassesDo: [Traits]
+TBehavior>>#allSuperclasses [Traits]
+TBehavior>>#allInstancesDo: [Traits]
+TBehavior>>#supermostPrecodeCommentFor: [Traits]
+TBehavior>>#withAllSuperclassesDo: [Traits]
+TBehavior>>#allInstances [Traits]
+TBehavior>>#inheritsFrom: [Traits]
+MorphicUIManager>>#onPrimitiveError: [Polymorph-Widgets]
+MetacelloSpec>>#doItBlock: [Metacello-Core]
+MetacelloSpec>>#loader [Metacello-Core]
+ColorMap>>#pixelMap: [Graphics-Primitives]
+ColorMap>>#mapPixel: [Graphics-Primitives]
+MetacelloLoadData>>#dataMap [Metacello-MC]
+MetacelloLoadData>>#packageNameMap [Metacello-MC]
+MetacelloLoadData>>#versionInfoMap [Metacello-MC]
+RubCharacterScanner>>#setFont [Rubric]
+RubCharacterScanner>>#setConditionArray: [Rubric]
+NECTypedModelTest>>#testTyped [NECompletion-Tests]
+ExceptionTester>>#simpleRetryTest [KernelTests]
+ExceptionTester>>#log [KernelTests]
+ExceptionTester>>#suiteLog [KernelTests]
+MetacelloVersionMethodSpec>>#imports [Metacello-Core]
+ClassDescriptionTest>>#testClassDescriptionRespectsPolymorphismWithTraitDescription [KernelTests]
+RPackageClassesSynchronisationTest>>#testReorganizeClassByAddingNewProtocolDoesNothing [RPackage-Tests]
+RPackageClassesSynchronisationTest>>#testRenameClassUpdateOrganizerClassPackageMapping [RPackage-Tests]
+GLMMorphicTabulatorRenderer>>#renderCustomColumn:ofPane:inUI:inBrowser: [Glamour-Morphic-Renderer]
+GLMMorphicTabulatorRenderer>>#renderCustomRow:ofPane:inUI:inBrowser: [Glamour-Morphic-Renderer]
+MetaclassTest>>#testMetaclassAndTraitClassRespectsPolymorphismRules [KernelTests]
+EncoderForSistaV1>>#isSpecialLiteralForPush: [Compiler]
+BitBltDisplayScanner>>#fillTextBackground [Text-Scanning]
+BitBltDisplayScanner>>#plainTab [Text-Scanning]
+FIFOQueueTests>>#testFlushAllSuchThat [Collections-Tests]
+FIFOQueueTests>>#testHeavyContention2 [Collections-Tests]
+FIFOQueueTests>>#testHeavyContention [Collections-Tests]
+FIFOQueueTests>>#testContention1 [Collections-Tests]
+FIFOQueueTests>>#testNextOrNilSuchThat [Collections-Tests]
+FIFOQueueTests>>#testBasics [Collections-Tests]
+TextDiffBuilder>>#findMatches [Text-Diff]
+HistoryIteratorTest>>#testUndo1 [System-History-Tests]
+MultiByteFileStream>>#nextDelimited: [Files]
+MultiByteFileStream>>#upToEnd [Files]
+MultiByteFileStream>>#upToAnyOf:do: [Files]
+MultiByteFileStream>>#upTo: [Files]
+MultiByteFileStream>>#next:innerFor: [Files]
+MultiByteFileStream>>#nextPreamble [Files]
+MultiByteFileStream>>#peekFor: [Files]
+MultiByteFileStream>>#nextChunk [Files]
+TextComposer>>#fixupLastLineIfCR [Morphic-Base]
+MetacelloMCProject>>#saveProject [Metacello-MC]
+MetacelloMCProject>>#goferCommitProject: [Metacello-MC]
+MetacelloMCProject>>#fetchProject: [Metacello-MC]
+MetacelloMCProject>>#updateProject: [Metacello-MC]
+Dictionary>>#removeKey:ifAbsent: [Collections-Unordered]
+Dictionary>>#add: [Collections-Unordered]
+Dictionary>>#writeCypressJsonOn:forHtml:indent: [MonticelloFileTree-Core]
+Dictionary>>#fixCollisionsFrom: [Collections-Unordered]
+Dictionary>>#scanFor: [Collections-Unordered]
+FLMigrationTest>>#testFormatFixedToVariable [FuelTests]
+MetacelloToolBox>>#modifySection:sectionIndex:repository:requiredProjects:packages:dependencies:includes:files:repositories:preLoadDoIts:postLoadDoIts:supplyingAnswers:groups:versionSpecsDo: [Metacello-ToolBox]
+MetacelloToolBox>>#clearVersionSpec:fullVersionSpec:updateProjects:updatePackages: [Metacello-ToolBox]
+MetacelloToolBox>>#createVersion: [Metacello-ToolBox]
+MetacelloToolBox>>#hasMethodForSymbolicVersion: [Metacello-ToolBox]
+ByteSymbolTest>>#testReadFromString [Collections-Tests]
+FreeTypeSettings class>>#current [FreeType]
+MCHttpRepository>>#displayProgress:during: [MonticelloRemoteRepositories]
+Metaclass>>#isObsolete [Traits]
+Metaclass>>#canZapMethodDictionary [Traits]
+Metaclass>>#name [Kernel]
+Metaclass>>#obsoleteSubclasses [Traits]
+Metaclass>>#subclasses [Traits]
+RubDisplayScanner>>#fillTextBackground [Rubric]
+RubDisplayScanner>>#plainTab [Rubric]
+RubDisplayScanner>>#displayLine:offset:leftInRun: [Rubric]
+Parser>>#pattern:inContext: [Compiler]
+Parser>>#blockExpression [Compiler]
+Parser>>#externalFunctionDeclaration [Compiler]
+Parser>>#externalType: [Compiler]
+Parser>>#offEnd: [Compiler]
+Parser>>#statements:innerBlock:blockNode: [Compiler]
+MBSaveConfigurationCommand>>#execute [Versionner-Core-Commands]
+Set>>#remove:ifAbsent: [Collections-Unordered]
+Set>>#fixCollisionsFrom: [Collections-Unordered]
+Set>>#scanFor: [Collections-Unordered]
+Set>>#grow [Collections-Unordered]
+TIterateSequencedReadableTest>>#testFindLast [Collections-Tests]
+EventManager class>>#flushEvents [System-Object Events]
+Compiler>>#notify:at: [Compiler]
+Compiler>>#evaluate:in:to:notifying:ifFail:logged: [Compiler]
+MCFileBasedRepository>>#cachedFileNames [Monticello]
+LinkedListTest>>#testRemoveAll [Collections-Tests]
+LinkedListTest>>#test0CopyTest [Collections-Tests]
+LinkedListTest>>#testAfterIfAbsent [Collections-Tests]
+LinkedListTest>>#testAfter [Collections-Tests]
+LinkedListTest>>#testLast [Collections-Tests]
+LinkedListTest>>#testFindLast [Collections-Tests]
+ZipEncoderTree>>#buildTree:maxDepth: [Compression]
+CombinedChar class>>#parseCompositionMappingFrom: [Unicode-Initialization]
+SystemProgressMorph>>#close: [Morphic-Base]
+TClassDescription>>#printCategoryChunk:on:withStamp:priorMethod: [CodeExport]
+TClassDescription>>#classCommentBlank [Traits]
+TClassDescription>>#instVarIndexFor:ifAbsent: [Traits]
+MetacelloMCPackagesSpecTestCase>>#testAddPackageA [Metacello-TestsMCCore]
+MetacelloMCPackagesSpecTestCase>>#testAddPackageB [Metacello-TestsMCCore]
+SimpleHierarchicalListMorph>>#vUnadjustedScrollRange [Morphic-Widgets-List]
+ClassCategoryReader>>#scanFrom: [Kernel]
+GTSpotterStepTest>>#testProcessorForPragmas [GT-Tests-Spotter]
+GTSpotterStepTest>>#testProcessorForPragmasThenDiveInCategory [GT-Tests-Spotter]
+GTSpotter>>#onPagePopped [GT-Spotter]
+SetTest>>#testSize2 [Collections-Tests]
+SetTest>>#testRemoveAll [Collections-Tests]
+SetTest>>#test0CopyTest [Collections-Tests]
+FreeTypeCacheLinkedList>>#removeLast [FreeType]
+FreeTypeCacheLinkedList>>#remove:ifAbsent: [FreeType]
+FreeTypeCacheLinkedList>>#removeFirst [FreeType]
+FileLocator>>#renameTo: [FileSystem-Core]
+MetacelloCachingGoferResolvedReference>>#workingCopy [Metacello-MC]
+MetacelloCachingGoferResolvedReference>>#version [Metacello-MC]
+ConfigurationOfVersionnerTestBitmapCharacterSet class>>#lastMetacelloVersionLoad [Versionner-Tests-Resources]
+EyeInspector>>#refresh [Spec-Inspector]
+Color>>#initializeRed:green:blue:alpha: [Graphics-Primitives]
+Color>>#setRed:green:blue:range: [Graphics-Primitives]
+Color>>#setRGB: [Graphics-Primitives]
+Color>>#initializeHue:saturation:lightness:alpha: [Graphics-Primitives]
+Color>>#initializeRed:green:blue:range: [Graphics-Primitives]
+Color>>#setRed:green:blue: [Graphics-Primitives]
+Color>>#initializeHue:saturation:brightness:alpha: [Graphics-Primitives]
+Color>>#setPrivateRed:green:blue: [Graphics-Primitives]
+Color>>#initializePrivateRed:green:blue: [Graphics-Primitives]
+DependentsArrayTest>>#testSize [KernelTests]
+SelectorNode>>#printOn:indent: [Compiler]
+MetacelloMCVersionSpecLoader>>#required [Metacello-MC]
+MetacelloMCVersionSpecLoader>>#loader [Metacello-MC]
+Class>>#subclassesDo: [Traits]
+Class>>#sharedPoolOfVarNamed: [Traits]
+Class>>#possibleVariablesFor:continuedFrom: [Traits]
+Class>>#allSharedPools [Traits]
+Class>>#allClassVarNames [Traits]
+Class>>#addSharedPool: [Traits]
+Class>>#removeSubclass: [Traits]
+TClass>>#subclassesDo: [Traits]
+TClass>>#sharedPoolOfVarNamed: [Traits]
+TClass>>#possibleVariablesFor:continuedFrom: [Traits]
+TClass>>#allSharedPools [Traits]
+TClass>>#allClassVarNames [Traits]
+TClass>>#addSharedPool: [Traits]
+TClass>>#removeSubclass: [Traits]
+ScrollPane>>#getMenu: [Morphic-Widgets-Scrolling]
+RubCompositionScanner>>#setActualFont: [Rubric]
+MetacelloVersionLoadDirective>>#label [Metacello-MC]
+MetacelloVersionLoadDirective>>#loadDirectives [Metacello-MC]
+MetacelloVersionLoadDirective>>#spec [Metacello-MC]
+ProcessList>>#linksDo: [Kernel]
+ProcessList>>#collect: [Kernel]
+ProcessList>>#add:beforeLink: [Kernel]
+ProcessList>>#do: [Kernel]
+ProcessList>>#removeLink:ifAbsent: [Kernel]
+ConfigurationGenerator>>#addMetacelloBaseline [Spec-Tools]
+ConfigurationGenerator>>#createVersionForBlessing: [Spec-Tools]
+MBConfigurationRootTest>>#test0110BasicPackageUnload [Versionner-Tests-Core-Model]
+MetacelloRepositorySpec>>#username [Metacello-MC]
+MetacelloRepositorySpec>>#type [Metacello-MC]
+MetacelloRepositorySpec>>#password [Metacello-MC]
+ZnHTTPSTests>>#testGetPharoVersion [Zinc-Zodiac]
+TestCase class>>#coverageForClass:until: [SUnit-Core]
+TestCase class>>#localCoverageForClass: [SUnit-Core]
+Socket>>#getOption: [Network-Kernel]
+Socket>>#isUnconnectedOrInvalid [Network-Kernel]
+Socket>>#isValid [Network-Kernel]
+Socket>>#isConnected [Network-Kernel]
+Socket>>#statusString [Network-Kernel]
+Socket>>#isUnconnected [Network-Kernel]
+Socket>>#sendDone [Network-Kernel]
+Socket>>#isThisEndClosed [Network-Kernel]
+Socket>>#isWaitingForConnection [Network-Kernel]
+Socket>>#setOption:value: [Network-Kernel]
+Socket>>#dataAvailable [Network-Kernel]
+Socket>>#isOtherEndClosed [Network-Kernel]
+DelayMicrosecondScheduler>>#saveResumptionTimes [Kernel]
+DelayMicrosecondScheduler>>#restoreResumptionTimes [Kernel]
+DelayMicrosecondScheduler>>#schedule: [Kernel]
+Context>>#releaseTo: [Kernel]
+Context>>#depthBelow: [Kernel]
+Context>>#findNextUnwindContextUpTo: [Kernel]
+Context>>#hasSender: [Kernel]
+Context>>#privRefreshWith: [Kernel]
+Context>>#send:to:with:super: [Kernel]
+Context>>#home [Kernel]
+Context>>#findNextHandlerOrSignalingContext [Kernel]
+Context>>#methodReturnContext [Kernel]
+Context>>#printOn: [Kernel]
+Context>>#withoutPrimitiveTryNamedPrimitiveIn:for:withArgs: [Kernel]
+Context>>#errorReportOn: [Kernel]
+RxMatcher>>#matchesOnStream:do: [Regex-Core]
+EditorFindReplaceDialogWindow>>#newFindTextEntryMorph [Text-Edition]
+EditorFindReplaceDialogWindow>>#newReplaceTextEntryMorph [Text-Edition]
+MetacelloNullRecordingMCSpecLoader>>#beforeLoads [Metacello-MC]
+MetacelloNullRecordingMCSpecLoader>>#resolveRecordingPackageSpecReference:gofer: [Metacello-MC]
+MetacelloNullRecordingMCSpecLoader>>#evalDoits [Metacello-MC]
+MetacelloNullRecordingMCSpecLoader>>#afterLoads [Metacello-MC]
+MetacelloNullRecordingMCSpecLoader>>#resolvePackageSpecReferences:gofer: [Metacello-MC]
+MetacelloPlatform>>#useStackCacheDuring:defaultDictionary: [Metacello-Core]
+MetacelloPlatform>>#extractTypeFromDescription: [Metacello-Core]
+MetacelloPlatform>>#bypassGoferLoadUpdateCategories [Metacello-Core]
+MetacelloPlatform>>#bypassProgressBars [Metacello-Core]
+MetacelloPlatform>>#primeStackCacheFor:doing:defaultDictionary: [Metacello-Core]
+MetacelloCommonMCSpecLoader>>#shouldDisablePackageCache [Metacello-MC]
+MetacelloCommonMCSpecLoader>>#loaderPolicy [Metacello-MC]
+MetacelloCommonMCSpecLoader>>#loadPackageDirectives:gofer: [Metacello-MC]
+MetacelloCommonMCSpecLoader>>#operator [Metacello-MC]
+MetacelloCommonMCSpecLoader>>#resolvePackageSpecReferences:gofer: [Metacello-MC]
+ColorForm>>#replaceColorAtIndex:with: [Graphics-Display Objects]
+ColorForm>>#colormapIfNeededFor: [Graphics-Display Objects]
+ColorForm>>#colormapIfNeededForDepth: [Graphics-Display Objects]
+ZipWriteStream>>#scanBitLengths:into: [Compression]
+ZipWriteStream>>#sendLiteralTree:distanceTree:using:bitLengths: [Compression]
+ConfigurationOf class>>#ensureGoferVersion:repositoryUrl: [Metacello-Base]
+MCVersionLoader>>#warnAboutLosingChangesTo:ifCancel:ifMerge: [Monticello]
+ReflectiveMethodTest>>#testSetLinkOnPrimitive [Reflectivity-Tests]
+ReflectiveMethodTest>>#testSetLink [Reflectivity-Tests]
+ReflectiveMethodTest>>#testLinkCountTwoLinks [Reflectivity-Tests]
+ReflectiveMethodTest>>#testSetLinkWithPragmaOptions [Reflectivity-Tests]
+LIFOQueueTests>>#testContention1 [Collections-Tests]
+LIFOQueueTests>>#testHeavyContention [Collections-Tests]
+LIFOQueueTests>>#testBasics [Collections-Tests]
+QSystemTally>>#treePrintOn:tabs:thisTab:total:totalTime:tallyExact:orThreshold: [Tool-Profilers]
+QSystemTally>>#asArray [Tool-Profilers]
+QSystemTally>>#tallyMethod:by: [Tool-Profilers]
+QSystemTally>>#leavesInto:fromSender: [Tool-Profilers]
+MetacelloSemanticVersionNumber>>#approximateBase [Metacello-Core]
+MetacelloSemanticVersionNumber>>#compareLessThan: [Metacello-Core]
+MetacelloValidationIssue>>#reasonCode [Metacello-Core]
+MessageNode>>#emitCodeForToDo:encoder:value: [Compiler]
+MessageNode>>#sizeCodeForValue: [Compiler]
+MessageNode>>#printKeywords:arguments:on:indent: [Compiler]
+MessageNode>>#sizeCodeForToDo:value: [Compiler]
+MessageNode>>#toDoFromWhileWithInit: [Compiler]
+MessageNode>>#transformWhile: [Compiler]
+MessageNode>>#printToDoOn:indent: [Compiler]
+MessageNode>>#analyseTempsWithin:rootNode:assignmentPools: [Compiler]
+CommandLineArguments>>#hasArguments [System-CommandLineHandler]
+JPEGReadWriter>>#idctBlockInt:qt: [Graphics-Files]
+PositionableStream>>#nextWord [Collections-Streams]
+PositionableStream>>#nextDelimited: [Collections-Streams]
+PositionableStream>>#readInto:startingAt:count: [Collections-Streams]
+RBRenameInstanceVariableRefactoring>>#renameAccessorsReferences [Refactoring-Core]
+SimpleEditor>>#zapSelectionWith: [Text-Edition]
+RubMethodEditingExample>>#classSelector [Rubric]
+RubMethodEditingExample>>#methodSelector [Rubric]
+LiteralDictionary>>#scanFor: [Compiler]
+AbsolutePath>>#isRoot [FileSystem-Core]
+PluggableDictionary>>#scanFor: [Collections-Unordered]
+WeakFinalizersTest>>#testNewFinalizationSupported [Collections-Tests]
+RBDeprecateMethodRefactoring>>#formRewriteRule [Refactoring-Core]
+RBDeprecateMethodRefactoring>>#formNameFor: [Refactoring-Core]
+OCASTCheckerTest>>#testNoRemoteBlockReturn [OpalCompiler-Tests]
+OCASTCheckerTest>>#testExampleIfNotNilReturnNil [OpalCompiler-Tests]
+OCASTCheckerTest>>#testExampleToDoArgument [OpalCompiler-Tests]
+BagTest>>#test0CopyTest [Collections-Tests]
+BagTest>>#testRemove [Collections-Tests]
+BagTest>>#testRemoveAll [Collections-Tests]
+BagTest>>#testCreation [Collections-Tests]
+DelayExperimentalSemaphoreScheduler>>#schedule: [Kernel]
+DelayExperimentalSemaphoreScheduler>>#unschedule: [Kernel]
+SymbolTest>>#test0CopyTest [Collections-Tests]
+SymbolTest>>#testAfterIfAbsent [Collections-Tests]
+SymbolTest>>#testAfter [Collections-Tests]
+SymbolTest>>#testLast [Collections-Tests]
+SymbolTest>>#testFindLast [Collections-Tests]
+RubTextEditor>>#isDisjointFrom: [Rubric]
+RubTextEditor>>#inOutdent:delta: [Rubric]
+RubTextEditor>>#zapSelectionWith: [Rubric]
+RubTextEditor>>#saveContentsInFile [Rubric]
+RubTextEditor>>#swapChars: [Rubric]
+MetacelloGenericProjectSpec>>#mergeSpec: [Metacello-Core]
+WarpBlt>>#warpBitsSmoothing:sourceMap: [Graphics-Primitives]
+WarpBlt>>#mixPix:sourceMap:destMap: [Graphics-Primitives]
+TDictionaryKeyAccessTest>>#testKeyAtValueIfAbsent [Collections-Tests]
+TDictionaryKeyAccessTest>>#testKeyAtIdentityValueIfAbsent [Collections-Tests]
+OpalEncoderForSistaV1 class>>#method:refersInBytecodeToLiteral:specialSelectorIndex: [OpalCompiler-Core]
+NBFnSpecParserTest>>#testParseNoArgsFn [NativeBoost-Tests]
+MethodDictionary>>#fixCollisionsFrom: [Kernel]
+BalloonEngine>>#registerFills: [Balloon]
+TSizeTest>>#testSize [Collections-Tests]
+MetacelloPackagesSpec>>#configMethodOn:indent: [Metacello-Core]
+MetacelloPackagesSpec>>#packageSpecsInLoadOrder [Metacello-Core]
+Behavior>>#whichClassIncludesSelector: [Traits]
+Behavior>>#commentsIn: [Traits]
+Behavior>>#allInstVarNames [Traits]
+Behavior>>#precodeCommentOrInheritedCommentFor: [Traits]
+Behavior>>#instVarNames [Traits]
+Behavior>>#lookupSelector: [Traits]
+Behavior>>#allSuperclassesDo: [Traits]
+Behavior>>#allSuperclasses [Traits]
+Behavior>>#allInstancesDo: [Traits]
+Behavior>>#supermostPrecodeCommentFor: [Traits]
+Behavior>>#withAllSuperclassesDo: [Traits]
+Behavior>>#allInstances [Traits]
+Behavior>>#inheritsFrom: [Traits]
+String class>>#compare:with:collated: [Collections-Strings]
+MetacelloMCBaselineOfProjectSpec>>#version [Metacello-MC]
+StringTest>>#testFindLast [Collections-Tests]
+StringTest>>#test0CopyTest [Collections-Tests]
+StringTest>>#testAfterIfAbsent [Collections-Tests]
+StringTest>>#testFindTokensEscapedBy22 [Collections-Tests]
+StringTest>>#testAfter [Collections-Tests]
+StringTest>>#testLast [Collections-Tests]
+StringTest>>#testAtWrapPut [Collections-Tests]
+StringTest>>#testSpace [Collections-Tests]
+AbstractFont>>#approxWidthOfText: [Graphics-Fonts]
+SmalltalkEditor>>#internalCallToImplementorsOfIt [Text-Edition]
+SmalltalkEditor>>#implementorsOfIt [Text-Edition]
+SmalltalkEditor>>#selectedSymbol [Text-Edition]
+SmalltalkEditor>>#referencesToIt [Text-Edition]
+CompiledMethodTrailer>>#method: [Kernel]
+CompiledMethodTrailer>>#encode [Kernel]
+MenuMorph>>#detachSubMenu: [Morphic-Base]
+MenuMorph>>#displayFiltered: [Morphic-Base]
+TxCharacterSpan>>#isEmpty [TxText-Model]
+MetacelloProject>>#loaderClass [Metacello-Core]
+MetacelloProject>>#loadType [Metacello-Core]
+RunArray class>>#scanFrom: [Text-Core]
+MBInfo class>>#validateAll [Versionner-Core-Model]
+MBAbstractInfoList>>#recalculate [Versionner-Core-Model]
+OrderedCollectionTest>>#testRemoveAll [Collections-Tests]
+OrderedCollectionTest>>#test0CopyTest [Collections-Tests]
+OrderedCollectionTest>>#testAfterIfAbsent [Collections-Tests]
+OrderedCollectionTest>>#testAfter [Collections-Tests]
+OrderedCollectionTest>>#testLast [Collections-Tests]
+OrderedCollectionTest>>#testAtWrapPut [Collections-Tests]
+OrderedCollectionTest>>#testCopyEmptyOld [Collections-Tests]
+OrderedCollectionTest>>#testFindLast [Collections-Tests]
+NumberParser>>#nextElementaryLargeIntegerBase: [AST-Core]
+MBAbstractVersionInfo>>#hasValidationIssues [Versionner-Core-Model]
+MBAbstractVersionInfo>>#validate [Versionner-Core-Model]
+IdentitySet>>#scanFor: [Collections-Unordered]
+DisplayScreen>>#boundingBox [Graphics-Display Objects]
+CompositionScanner>>#setActualFont: [Text-Scanning]
+Heap>>#sorts:before: [Collections-Sequenceable]
+TCopyTest>>#test0CopyTest [Collections-Tests]
+MCFileTreeAbstractReader>>#definitionFromFile:inDirectory: [MonticelloFileTree-Core]
+Form>>#hasBeenModified [Graphics-Display Objects]
+Form>>#bitsSize [Graphics-Display Objects]
+Form>>#unhibernate [Graphics-Display Objects]
+Form>>#wipeImage:at:clippingBox:rectForIndex: [Graphics-Display Objects]
+TextMorphForFieldView>>#keyStroke: [Morphic-Widgets-Pluggable]
+StrikeFont>>#readFromBitFont: [Graphics-Fonts]
+StrikeFont>>#buildfontNamed:fromForms:startingAtAscii:ascent:descent:maxWid: [Graphics-Fonts]
+StrikeFont>>#fixXTable [Graphics-Fonts]
+StrikeFont>>#emphasized: [Graphics-Fonts]
+RBParser>>#patchLiteralMessage [AST-Core]
+KeyedTreeTest>>#testRemovePathIfAbsent [Collections-Tests]
+KeyedTreeTest>>#testRemovePath [Collections-Tests]
+StandardFileStream>>#upToEnd [Files]
+StandardFileStream>>#requestDropStream: [Files]
+StandardFileStream>>#peekLast [Files]
+StandardFileStream>>#closed [Files]
+StandardFileStream>>#peekFor: [Files]
+MetacelloToolBoxConstructor>>#methodSections [Metacello-Core]
+KMCategoryTest>>#testAddKeymapToCategory [Keymapping-Tests]
+KMCategoryTest>>#testCreateUnexistentCategory [Keymapping-Tests]
+KMCategoryTest>>#testCreateExistentCategoryFails [Keymapping-Tests]
+RxmLink>>#terminateWith: [Regex-Core]
+RxmLink>>#pointTailTo: [Regex-Core]
+HeapTest>>#test0CopyTest [Collections-Tests]
+HeapTest>>#testRemove [Collections-Tests]
+HeapTest>>#testAdd [Collections-Tests]
+ConfigurationOfZincHTTPComponents class>>#lastMetacelloVersionLoad [ConfigurationOfZincHTTPComponents]
+TextEditor>>#isDisjointFrom: [Text-Edition]
+TextEditor>>#inOutdent:delta: [Text-Edition]
+TextEditor>>#zapSelectionWith: [Text-Edition]
+TextEditor>>#saveContentsInFile [Text-Edition]
+TextEditor>>#swapChars: [Text-Edition]
+ClassDescription>>#printCategoryChunk:on:withStamp:priorMethod: [CodeExport]
+ClassDescription>>#instVarIndexFor:ifAbsent: [Traits]
+ClassDescription>>#classCommentBlank [Traits]
+WeakSet>>#like:ifAbsent: [Collections-Weak]
+WeakSet>>#scanForEmptySlotFor: [Collections-Weak]
+WeakSet>>#add: [Collections-Weak]
+PNGReadWriter>>#copyPixelsRGB: [Graphics-Files]
+PNGReadWriter>>#copyPixelsRGB:at:by: [Graphics-Files]
+HashedCollection>>#grow [Collections-Abstract]
+MetacelloVersionValidator>>#validationReport [Metacello-Core]
+MetacelloVersionValidator>>#recurse [Metacello-Core]
+MetacelloVersionValidator>>#visited [Metacello-Core]
+MetacelloVersionValidator>>#exludededValidations [Metacello-Core]
+MetacelloVersionValidator>>#debug [Metacello-Core]
+GLMPagerButtonsPaneBrick>>#markButtonsInside: [Glamour-Morphic-Pager]
+GLMPagerButtonsPaneBrick>>#updateButtons [Glamour-Morphic-Pager]
+Color class>>#colorFrom: [Graphics-Primitives]
+Color class>>#fromArray: [Graphics-Primitives]
+Color class>>#maskingMap: [Graphics-Primitives]
+MetacelloMCVersion>>#loaderPolicy [Metacello-MC]
+SpecDebugger class>>#informExistingDebugger:label: [Spec-Debugger]
+ChangeSorterModel>>#findChangeSetIn: [Spec-Tools]
+Text>>#attributesAt:forStyle: [Text-Core]
+Text>>#fontAt:withStyle: [Text-Core]
+Text>>#alignmentAt:ifAbsent: [Text-Core]
+Text>>#attributesAt:do: [Text-Core]
+Text>>#fontNumberAt: [Text-Core]
+Text>>#attributesAt: [Text-Core]
+Text>>#rangeOf:startingAt: [Text-Core]
+Text>>#allBold [Text-Core]
+Text>>#emphasisAt: [Text-Core]
+DelayMillisecondScheduler>>#saveResumptionTimes [Kernel]
+DelayMillisecondScheduler>>#restoreResumptionTimes [Kernel]
+DelayMillisecondScheduler>>#schedule: [Kernel]
+MetacelloPackageSpec>>#currentPackageLoaded:comparing:notLoaded:using: [Metacello-MC]
+MetacelloPackageSpec>>#updatePackageRepositoriesFor: [Metacello-MC]
+MetacelloPackageSpec>>#updateForSpawnMethod: [Metacello-MC]
+MetacelloPackageSpec>>#repositories [Metacello-MC]
+MetacelloPackageSpec>>#updatePackageSpec:force:using: [Metacello-MC]
+MetacelloPackageSpec>>#extractNameFromFile [Metacello-MC]
+MetacelloPackageSpec>>#currentPackageLoaded:notLoaded:using: [Metacello-MC]
+MetacelloPackageSpec>>#configShortCutMethodBodyOn:member:indent: [Metacello-MC]
+MetacelloPackageSpec>>#workingCopyName [Metacello-MC]
+MetacelloPackageSpec>>#workingCopyNameFor: [Metacello-MC]
+MetacelloPackageSpec>>#name [Metacello-MC]
+MetacelloPackageSpec>>#configMethodBodyOn:hasName:indent: [Metacello-MC]
+MetacelloPackageSpec>>#file [Metacello-MC]
+MetacelloPackageSpec>>#goferLoaderReference [Metacello-MC]
+MetacelloPackageSpec>>#goferPackage [Metacello-MC]
+MetacelloPackageSpec>>#configMethodOn:indent: [Metacello-MC]
+StrikeFont class>>#listFontNames [Graphics-Fonts]
+OCASTClosureAnalyzerTest>>#testSingleRemoteReadNestedBlocks [OpalCompiler-Tests]
+OCASTClosureAnalyzerTest>>#testOptimizedBlockWriteInNestedBlockCase2 [OpalCompiler-Tests]
+OCASTClosureAnalyzerTest>>#testOptimizedBlockWriteInNestedBlockCase4 [OpalCompiler-Tests]
+OCASTClosureAnalyzerTest>>#testWrittenAfterClosedOver [OpalCompiler-Tests]
+OCASTClosureAnalyzerTest>>#testOptimizedBlockWrittenAfterClosedOverCase1 [OpalCompiler-Tests]
+OCASTClosureAnalyzerTest>>#testOptimizedBlockWrittenAfterClosedOverCase2 [OpalCompiler-Tests]
+OCASTClosureAnalyzerTest>>#testExampleSimpleBlockNested [OpalCompiler-Tests]
+OCASTClosureAnalyzerTest>>#testOptimizedBlockWriteInNestedBlockCase3 [OpalCompiler-Tests]
+OCASTClosureAnalyzerTest>>#testExampleBlockArgument [OpalCompiler-Tests]
+OCASTClosureAnalyzerTest>>#testDoubleRemoteAnidatedBlocks [OpalCompiler-Tests]
+OCASTClosureAnalyzerTest>>#testOptimizedBlockWriteInBlock [OpalCompiler-Tests]
+OCASTClosureAnalyzerTest>>#testNestedBlocksRemoteInBlockCase2 [OpalCompiler-Tests]
+OCASTClosureAnalyzerTest>>#testExampleWhileModificationBefore [OpalCompiler-Tests]
+OCASTClosureAnalyzerTest>>#testExampleWhileNoModification [OpalCompiler-Tests]
+OCASTClosureAnalyzerTest>>#testNoRemoteReadNestedBlocks [OpalCompiler-Tests]
+OCASTClosureAnalyzerTest>>#testExampleSimpleBlockLocalWhile [OpalCompiler-Tests]
+OCASTClosureAnalyzerTest>>#testNestedBlocksRemoteInBlockCase3 [OpalCompiler-Tests]
+OCASTClosureAnalyzerTest>>#testNestedBlocksRemoteInBlockCase1 [OpalCompiler-Tests]
+OCASTClosureAnalyzerTest>>#testOptimizedBlockWriteInNestedBlock [OpalCompiler-Tests]
+OCASTClosureAnalyzerTest>>#testNoRemoteReadInBlock [OpalCompiler-Tests]
+OCASTClosureAnalyzerTest>>#testOptimizedBlockReadInBlock [OpalCompiler-Tests]
+MetacelloVersion>>#importedVersions [Metacello-Core]
+MetacelloVersion>>#packageNamed:ifAbsent: [Metacello-Core]
+MetacelloVersion>>#versionStatus [Metacello-Core]
+MetacelloVersionMethodSection>>#topParent [Metacello-Core]
+MetacelloVersionMethodSection>>#attributePath [Metacello-Core]
+MetacelloVersionMethodSection>>#attributeOrPath [Metacello-Core]
+Unicode class>>#parseUnicodeDataFrom: [Multilingual-Encodings]
+RBLiteralArrayContainsSuspiciousTrueFalseOrNilRule>>#checkMethod: [Refactoring-Critics]
+OSSDL2FormRenderer>>#validate [OSWindow-SDL2]
+StopwatchTest>>#testChangingStatus [KernelTests]
+TextAction>>#analyze: [Text-Core]
+SequenceableCollection>>#reduceRight: [Collections-Abstract]
+SequenceableCollection>>#last [Collections-Abstract]
+SequenceableCollection>>#asStringWithCr [Collections-Abstract]
+SequenceableCollection>>#reduceLeft: [Collections-Abstract]
+SequenceableCollection>>#joinUsing:last: [Collections-Abstract]
+LinkedList>>#linksDo: [Collections-Sequenceable]
+LinkedList>>#collect: [Collections-Sequenceable]
+LinkedList>>#add:beforeLink: [Collections-Sequenceable]
+LinkedList>>#removeLink:ifAbsent: [Collections-Sequenceable]
+LinkedList>>#do: [Collections-Sequenceable]
+DeflateStream>>#deflateBlock [Compression]
+MetacelloVersionConstructor>>#collectAllSymbolicVersionsFromVersionPragmasInto:using: [Metacello-Core]
+MetacelloVersionConstructor>>#prepareForMethodUpdate:sourceVersion:forceUpdate:generating: [Metacello-Core]
+MetacelloVersionConstructor>>#spawnPackageMethodIn:category:named:sourceVersion:targetVersion:blessing: [Metacello-Core]
+MetacelloVersionConstructor>>#updatePackageMethodIn:sourceVersion: [Metacello-Core]
+MetacelloVersionConstructor>>#collectAllVersionsFromVersionImportPragmasInto:using:satisfiedPragmas: [Metacello-Core]
+MetacelloVersionConstructor>>#collectDefaultSymbolicVersionsFromVersionPragmasFrom:into:using: [Metacello-Core]
+TextAndTextStreamTest>>#testTextEmphasisRangeDetection1 [Text-Tests]
+TextAndTextStreamTest>>#testTextEmphasisRangeDetection2 [Text-Tests]
+TextAndTextStreamTest>>#testTextEmphasisRangeDetection4 [Text-Tests]
+TextAndTextStreamTest>>#testTextEmphasisRangeDetection3 [Text-Tests]
+MetacelloMemberListSpec>>#mapMerge:into: [Metacello-Core]
+MetacelloMemberListSpec>>#mapCopy:into: [Metacello-Core]
+MetacelloMemberListSpec>>#list [Metacello-Core]
+Symbol class>>#thatStarts:skipping: [Collections-Strings]
+Symbol class>>#thatStartsCaseSensitive:skipping: [Collections-Strings]
+MethodFinder>>#test2: [Tool-Finder]
+MBSavePackageCommand>>#execute [Versionner-Core-Commands]
+String>>#withoutPeriodSuffix [Collections-Strings]
+String>>#endsWithAColon [Collections-Strings]
+String>>#isLiteralSymbol [Collections-Strings]
+String>>#numArgs [Collections-Strings]
+String>>#initialIntegerOrNil [Collections-Strings]
+String>>#keywords [Collections-Strings]
+String>>#findSubstringViaPrimitive:in:startingAt:matchTable: [Collections-Strings]
+String>>#findSubstring:in:startingAt:matchTable: [Collections-Strings]
+String>>#startsWithDigit [Collections-Strings]
+String>>#endsWithDigit [Collections-Strings]
+PointerLayout>>#checkSlotIndices [Slot]
+LayoutClassScope>>#hasFields [Slot]
+LayoutClassScope>>#hasSlots [Slot]
+PluggableTextMorph>>#setTextBasic: [Morphic-Widgets-Pluggable]

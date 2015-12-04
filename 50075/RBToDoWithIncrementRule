@@ -1,44 +1,44 @@
-OCClosureCompilerTest>>#testInlineBlockCollectionLR3
-RBSmalllintTestObject>>#toDoWithIncrement
-RBRefactoryTestDataApp>>#toDoWithIncrement
-OCOpalExamples>>#exampleInlineBlockCollectionLR3
-MBConfigurationInfo>>#trimVersionInfos:
-TSequencedConcatenationTest>>#testConcatenation
-InflateStream>>#createHuffmanTables:counts:from:to:
-ArrayTest>>#testConcatenation
-ArrayTest>>#firstIndexesOf:in:
-ZipConstants class>>#initializeLengthCodes
-ZipConstants class>>#initializeDistanceCodes
-FloatArrayTest>>#testConcatenation
-FloatArrayTest>>#firstIndexesOf:in:
-IntervalTest>>#testConcatenation
-IntervalTest>>#firstIndexesOf:in:
-PragmaMenuBuilder class>>#orderAssignBlock
-Integer>>#digitDiv:neg:
-Integer>>#replaceFrom:to:with:startingAt:
-Integer>>#digitMultiply:neg:
-MetacelloVersionNumber>>#copyFrom:to:
-TCopySequenceableWithReplacement>>#firstIndexesOf:in:
-FontChooserMorph>>#previewText
-Matrix>>#withIndicesCollect:
-AJGeneratedCode>>#dumpWithLabels
-LinkedListTest>>#firstIndexesOf:in:
-Bitmap>>#decompress:fromByteArray:at:
-MetacelloSemanticVersionNumber>>#copyFrom:to:
-JPEGReadWriter>>#scaleQuantizationTable:
-SettingTree>>#childrenOf:
-SymbolTest>>#testConcatenation
-SymbolTest>>#firstIndexesOf:in:
-StringTest>>#testConcatenation
-StringTest>>#firstIndexesOf:in:
-JPEGReadStream>>#createHuffmanTables:counts:from:to:
-OrderedCollectionTest>>#firstIndexesOf:in:
-OrderedCollectionTest>>#testConcatenation
-BalloonBezierSimulation>>#debugDrawWide:
-Canvas>>#frameRectangle:width:colors:dashes:offset:
-GrafPort>>#frameRectBottom:height:
-GrafPort>>#frameOval:borderWidth:
-GrafPort>>#frameRectRight:width:
-Color class>>#colorPaletteForDepth:extent:
-JPEGHuffmanTable>>#makeDerivedTables
-SequenceableCollection>>#collect:from:to:
+OCClosureCompilerTest>>#testInlineBlockCollectionLR3 [OpalCompiler-Tests]
+RBSmalllintTestObject>>#toDoWithIncrement [Refactoring-Tests-Critics]
+RBRefactoryTestDataApp>>#toDoWithIncrement [Refactoring-Tests-Core]
+OCOpalExamples>>#exampleInlineBlockCollectionLR3 [OpalCompiler-Tests]
+MBConfigurationInfo>>#trimVersionInfos: [Versionner-Core-Model]
+TSequencedConcatenationTest>>#testConcatenation [CollectionsTests]
+InflateStream>>#createHuffmanTables:counts:from:to: [Compression]
+ArrayTest>>#testConcatenation [CollectionsTests]
+ArrayTest>>#firstIndexesOf:in: [CollectionsTests]
+ZipConstants class>>#initializeLengthCodes [Compression]
+ZipConstants class>>#initializeDistanceCodes [Compression]
+FloatArrayTest>>#testConcatenation [CollectionsTests]
+FloatArrayTest>>#firstIndexesOf:in: [CollectionsTests]
+IntervalTest>>#testConcatenation [CollectionsTests]
+IntervalTest>>#firstIndexesOf:in: [CollectionsTests]
+PragmaMenuBuilder class>>#orderAssignBlock [MenuRegistration]
+Integer>>#digitDiv:neg: [Kernel]
+Integer>>#replaceFrom:to:with:startingAt: [Kernel]
+Integer>>#digitMultiply:neg: [Kernel]
+MetacelloVersionNumber>>#copyFrom:to: [Metacello-Core]
+TCopySequenceableWithReplacement>>#firstIndexesOf:in: [CollectionsTests]
+FontChooserMorph>>#previewText [FontChooser]
+Matrix>>#withIndicesCollect: [Collections-Unordered]
+AJGeneratedCode>>#dumpWithLabels [AsmJit-Core]
+LinkedListTest>>#firstIndexesOf:in: [CollectionsTests]
+Bitmap>>#decompress:fromByteArray:at: [Graphics-Primitives]
+MetacelloSemanticVersionNumber>>#copyFrom:to: [Metacello-Core]
+JPEGReadWriter>>#scaleQuantizationTable: [Graphics-Files]
+SettingTree>>#childrenOf: [System-Settings]
+SymbolTest>>#testConcatenation [CollectionsTests]
+SymbolTest>>#firstIndexesOf:in: [CollectionsTests]
+StringTest>>#testConcatenation [CollectionsTests]
+StringTest>>#firstIndexesOf:in: [CollectionsTests]
+JPEGReadStream>>#createHuffmanTables:counts:from:to: [Graphics-Files]
+OrderedCollectionTest>>#firstIndexesOf:in: [CollectionsTests]
+OrderedCollectionTest>>#testConcatenation [CollectionsTests]
+BalloonBezierSimulation>>#debugDrawWide: [Balloon]
+Canvas>>#frameRectangle:width:colors:dashes:offset: [Graphics-Canvas]
+GrafPort>>#frameRectBottom:height: [Graphics-Primitives]
+GrafPort>>#frameOval:borderWidth: [Graphics-Primitives]
+GrafPort>>#frameRectRight:width: [Graphics-Primitives]
+Color class>>#colorPaletteForDepth:extent: [Graphics-Primitives]
+JPEGHuffmanTable>>#makeDerivedTables [Graphics-Files]
+SequenceableCollection>>#collect:from:to: [Collections-Abstract]

@@ -1,42 +1,42 @@
-MCWorkingCopyBrowser>>#flushAllCaches
-RBSmalllintTestObject>>#assignmentInBlock
-RBRefactoryTestDataApp>>#assignmentInBlock
-SelectorChooserMorph class>>#popUpPrefix:from:
-ChangeList class>>#browseRecent:on:
-ChangeList class>>#browseStream:
-HDTestReport>>#run
-FileReferenceTest>>#testWriteStream
-FileReferenceTest>>#testReadStreamIfAbsent
-FileReferenceTest>>#testReadStream
-FileReferenceTest>>#testWriteStreamifPresent
-FileReferenceTest>>#testWriteStreamExists
-SettingBrowser>>#open
-MCFileRepositoryInspector>>#version
-FileContentsBrowser>>#modifiedClassDefinition
-NBFFICallback>>#pvtEnter:stackPointer:primitiveMethod:
-SmalltalkImage>>#backupImageInFileNamed:
-NBFFICallbackTests>>#benchQSort
-NBFFICallbackTests>>#testcallbackAddress
-ZdcSecureSocketStreamTests>>#testPlain
-SpecInterpreter class>>#interpretASpec:model:selector:
-SystemProgressMorph>>#show:from:to:during:
-MCKomitSubmitter>>#createVersionFor:
-GLMMorphicExamplesTest>>#testSmoke
-RubSelectorChooserMorph class>>#popUpPrefix:from:
-MorphTreeModel class>>#exampleCheckList3
-MorphTreeModel class>>#exampleCheckList1
-MBConfigurationRootTest>>#test0082ConfigurationInfoChanged
-ZnHTTPSTests>>#testRequestResponse
-SelectorChooserMorph>>#positionInRequestor
-NBExternalAddressTests>>#testAddressAndStruct
-NBExternalAddressTests>>#testStringAccess
-MorphicEventDispatcher>>#dispatchEvent:with:
-PositionableStream class>>#with:do:
-FLClassSerializationTest>>#during:rename:as:
-MetacelloMCVersion>>#doFetchRequiredFromArray:
-MetacelloMCVersion>>#doLoadRequiredFromArray:
-HelpBrowserTest>>#testDefaultHelpBrowserIsReplacable
-Semaphore>>#critical:
-RPackageTestCase>>#runCase
-PluggableTextMorph>>#acceptTextInModel
-MetacelloDictionaryRepositoryTest>>#runCase
+MCWorkingCopyBrowser>>#flushAllCaches [MonticelloGUI]
+RBSmalllintTestObject>>#assignmentInBlock [Refactoring-Tests-Critics]
+RBRefactoryTestDataApp>>#assignmentInBlock [Refactoring-Tests-Core]
+SelectorChooserMorph class>>#popUpPrefix:from: [Text-Edition]
+ChangeList class>>#browseRecent:on: [Tool-Changes]
+ChangeList class>>#browseStream: [Tool-Changes]
+HDTestReport>>#run [HudsonBuildTools20]
+FileReferenceTest>>#testWriteStream [FileSystem-Tests-Core]
+FileReferenceTest>>#testReadStreamIfAbsent [FileSystem-Tests-Core]
+FileReferenceTest>>#testReadStream [FileSystem-Tests-Core]
+FileReferenceTest>>#testWriteStreamifPresent [FileSystem-Tests-Core]
+FileReferenceTest>>#testWriteStreamExists [FileSystem-Tests-Core]
+SettingBrowser>>#open [System-Settings]
+MCFileRepositoryInspector>>#version [MonticelloGUI]
+FileContentsBrowser>>#modifiedClassDefinition [Tool-FilePackageBrowser]
+NBFFICallback>>#pvtEnter:stackPointer:primitiveMethod: [NativeBoost-Core]
+SmalltalkImage>>#backupImageInFileNamed: [System-Support]
+NBFFICallbackTests>>#benchQSort [NativeBoost-Tests]
+NBFFICallbackTests>>#testcallbackAddress [NativeBoost-Tests]
+ZdcSecureSocketStreamTests>>#testPlain [Zodiac-Tests]
+SpecInterpreter class>>#interpretASpec:model:selector: [Spec-Core]
+SystemProgressMorph>>#show:from:to:during: [Morphic-Base]
+MCKomitSubmitter>>#createVersionFor: [Komitter]
+GLMMorphicExamplesTest>>#testSmoke [Glamour-Tests-Morphic]
+RubSelectorChooserMorph class>>#popUpPrefix:from: [Rubric]
+MorphTreeModel class>>#exampleCheckList3 [Morphic-Widgets-Tree]
+MorphTreeModel class>>#exampleCheckList1 [Morphic-Widgets-Tree]
+MBConfigurationRootTest>>#test0082ConfigurationInfoChanged [Versionner-Tests-Core-Model]
+ZnHTTPSTests>>#testRequestResponse [Zinc-Zodiac]
+SelectorChooserMorph>>#positionInRequestor [Text-Edition]
+NBExternalAddressTests>>#testAddressAndStruct [NativeBoost-Tests]
+NBExternalAddressTests>>#testStringAccess [NativeBoost-Tests]
+MorphicEventDispatcher>>#dispatchEvent:with: [Morphic-Core]
+PositionableStream class>>#with:do: [FuelTests]
+FLClassSerializationTest>>#during:rename:as: [FuelTests]
+MetacelloMCVersion>>#doFetchRequiredFromArray: [Metacello-MC]
+MetacelloMCVersion>>#doLoadRequiredFromArray: [Metacello-MC]
+HelpBrowserTest>>#testDefaultHelpBrowserIsReplacable [HelpSystem-Tests]
+Semaphore>>#critical: [Kernel]
+RPackageTestCase>>#runCase [RPackage-Tests]
+PluggableTextMorph>>#acceptTextInModel [Morphic-Widgets-Pluggable]
+MetacelloDictionaryRepositoryTest>>#runCase [Metacello-TestsMC]

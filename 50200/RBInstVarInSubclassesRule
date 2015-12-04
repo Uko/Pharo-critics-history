@@ -1,67 +1,67 @@
-AJRegister
-AJImmediate
-KMNamedCharKeyCombination
-GLMBrickHeightTraverser class
-MCVersionInspector
-TxNewLineDisplayCommand
-RBRenameClassChange
-SpecRowLayout
-MCFileRepositoryInspector
-MCReader
-SpecColumnLayout
-MCStReader
-AJOperand
-GLMBrickWidthTraverser class
-AJBaseReg
-RubSelectorChooserMorph
-IdentifierChooserMorph
-AbstractCompiler
-Metaclass
-MCSnapshotReader
-AthensCairoPathBuilder
-TxCairoCharacterSpanDisplayCommand
-AJMem
-FileReference
-SpecLayout
-GLMHorizontalLinearLayout class
-GLMVerticalLinearLayout class
-RBRenameClassVariableChange
-AJMMRegister
-TxEmbeddedObjectCommand
-InstructionStream
-AbstractFileReference
-TxTabDisplayCommand
-ZipArchiveMember
-MCMcdReader
-Context
-OpalCompiler
-MCMczReader
-AthensPathBuilder
-MCFileTreeAbstractReader
-TxDisplayCommand
-ClassDescription
-MCRepositoryInspector
-AthensSimplePathBuilder
-GLMLinearLayout class
-TxCharacterSpanDisplayCommand
-FileLocator
-MCVersionReader
-ZipFileMember
-AJxMMRegister
-Class
-ZipStringMember
-GLMBrickLayoutTraverser class
-RBCompositeRefactoryChange
-SHTextStylerST80
-RBRenameInstanceVariableChange
-SHTextStyler
-KMUntypeableSingleKeyCombination
-Decompiler
-MCFileTreeStCypressReader
-Compiler
-SelectorChooserMorph
-ZipNewFileMember
-RBRenameVariableChange
-KMSingleKeyCombination
-GLMHighlighterTextParserStyler
-AJx87Register
+RBRenameClassVariableChange [Refactoring-Changes]
+AJMMRegister [AsmJit-x86]
+ClassDescription [Kernel]
+Context [Kernel]
+MCFileTreeAbstractReader [MonticelloFileTree-Core]
+TxEmbeddedObjectCommand [TxText-Athens]
+MCMcdReader [Monticello]
+MCFileRepositoryInspector [MonticelloGUI]
+GLMBrickWidthTraverser class [Glamour-Morphic-Brick]
+AbstractCompiler [OpalCompiler-Core]
+OpalCompiler [OpalCompiler-Core]
+MCMczReader [Monticello]
+TxNewLineDisplayCommand [TxText-Athens]
+GLMHighlighterTextParserStyler [Glamour-Rubric-Presentations]
+MCStReader [Monticello]
+AbstractFileReference [FileSystem-Core]
+ZipFileMember [Compression]
+KMUntypeableSingleKeyCombination [Keymapping-KeyCombinations]
+MCRepositoryInspector [MonticelloGUI]
+MCVersionReader [Monticello]
+MCFileTreeStCypressReader [MonticelloFileTree-Core]
+GLMHorizontalLinearLayout class [Glamour-Morphic-Brick]
+AJMem [AsmJit-Operands]
+AJxMMRegister [AsmJit-x86]
+KMSingleKeyCombination [Keymapping-KeyCombinations]
+AthensSimplePathBuilder [Athens-Core]
+SHTextStylerST80 [Shout]
+RubSelectorChooserMorph [Rubric]
+FileLocator [FileSystem-Core]
+SpecLayout [Spec-Layout]
+AJOperand [AsmJit-Operands]
+KMNamedCharKeyCombination [Keymapping-KeyCombinations]
+RBRenameInstanceVariableChange [Refactoring-Changes]
+TxTabDisplayCommand [TxText-Athens]
+MCVersionInspector [MonticelloGUI]
+RBRenameClassChange [Refactoring-Changes]
+FileReference [FileSystem-Core]
+Decompiler [Compiler]
+SelectorChooserMorph [Text-Edition]
+TxCharacterSpanDisplayCommand [TxText-Athens]
+GLMVerticalLinearLayout class [Glamour-Morphic-Brick]
+AJBaseReg [AsmJit-Operands]
+GLMLinearLayout class [Glamour-Morphic-Brick]
+Class [Kernel]
+MCSnapshotReader [Monticello]
+AthensCairoPathBuilder [Athens-Cairo]
+SpecRowLayout [Spec-Layout]
+MCReader [Monticello]
+SHTextStyler [Shout]
+IdentifierChooserMorph [Polymorph-Widgets]
+InstructionStream [Kernel]
+TxDisplayCommand [TxText-Athens]
+Metaclass [Kernel]
+RBRenameVariableChange [Refactoring-Changes]
+GLMBrickLayoutTraverser class [Glamour-Morphic-Brick]
+ZipNewFileMember [Compression]
+AthensPathBuilder [Athens-Core]
+RBCompositeRefactoryChange [Refactoring-Changes]
+AJx87Register [AsmJit-x86]
+AJImmediate [AsmJit-Operands]
+TxCairoCharacterSpanDisplayCommand [TxText-Athens]
+SpecColumnLayout [Spec-Layout]
+ZipStringMember [Compression]
+AJRegister [AsmJit-Operands]
+ZipArchiveMember [Compression]
+Compiler [Compiler]
+GLMBrickHeightTraverser class [Glamour-Morphic-Brick]

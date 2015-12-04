@@ -1,78 +1,78 @@
-SelectorChooserMorph
-RBRenameInstanceVariableChange
-KMSingleKeyCombination
-TxEmbeddedObjectCommand
-AJMMRegister
-AJBaseReg
-FileReference
-SpecColumnLayout
-TxDisplayCommand
-SDL2TouchGestureExample2
-AthensPathBuilder
-AthensSimplePathBuilder
-RBRenameVariableChange
-GLMLinearLayout class
-ZipNewFileMember
-SpecSplitterVertical
-FTFunctionWithField
-RubSelectorChooserMorph
-MCSnapshotReader
-AJx87Register
-AJImmediate
-TxTabDisplayCommand
-AJRegister
-MCFileTreeStCypressReader
-TxCharacterSpanDisplayCommand
-SDL2TouchGestureExample
-GLMHorizontalLinearLayout class
-GLMBrickLayoutTraverser class
-AbstractFileReference
-OpalCompiler
-MCStReader
-ZipFileMember
-MCMcdReader
-AbstractSpecLayoutAction
-SpecTableLayoutSend
-AbstractCompiler
-SDL2TouchExample
-SpecLayoutSend
-Metaclass
-SpecLayout
-Context
-MCVersionInspector
-RBRenameClassVariableChange
-AJMem
-KMUntypeableSingleKeyCombination
-RBCompositeRefactoryChange
-Compiler
-MCMczReader
-AJxMMRegister
-FTFilterFunction
-ZipArchiveMember
-SHTextStyler
-IdentifierChooserMorph
-Decompiler
-FileLocator
-FTSearchFunction
-AthensCairoPathBuilder
-SHTextStylerST80
-GLMBrickWidthTraverser class
-MCVersionReader
-KMNamedCharKeyCombination
-TxCairoCharacterSpanDisplayCommand
-TxNewLineDisplayCommand
-GLMBrickHeightTraverser class
-SpecSplitterHorizontal
-ZipStringMember
-MCFileTreeAbstractReader
-ClassDescription
-InstructionStream
-GLMHighlighterTextParserStyler
-AJOperand
-SpecRowLayout
-Class
-GLMVerticalLinearLayout class
-MCReader
-MCRepositoryInspector
-MCFileRepositoryInspector
-RBRenameClassChange
+GLMVerticalLinearLayout class [Glamour-Morphic-Brick]
+SpecSplitterHorizontal [Spec-Layout]
+OpalCompiler [OpalCompiler-Core]
+SpecRowLayout [Spec-Layout]
+FTFilterFunction [Morphic-Widgets-FastTable]
+KMNamedCharKeyCombination [Keymapping-KeyCombinations]
+MCStReader [Monticello]
+MCVersionReader [Monticello]
+GLMHighlighterTextParserStyler [Glamour-Rubric-Presentations]
+RBRenameClassVariableChange [Refactoring-Changes]
+GLMHorizontalLinearLayout class [Glamour-Morphic-Brick]
+Class [Kernel]
+AJOperand [AsmJit-Operands]
+GLMLinearLayout class [Glamour-Morphic-Brick]
+SDL2TouchExample [OSWindow-SDL2-Examples]
+AJImmediate [AsmJit-Operands]
+SDL2TouchGestureExample [OSWindow-SDL2-Examples]
+Decompiler [Compiler]
+SpecSplitterVertical [Spec-Layout]
+FTFunctionWithField [Morphic-Widgets-FastTable]
+TxEmbeddedObjectCommand [TxText-Athens]
+FileLocator [FileSystem-Core]
+SpecLayout [Spec-Layout]
+TxCairoCharacterSpanDisplayCommand [TxText-Athens]
+AJMem [AsmJit-Operands]
+AJRegister [AsmJit-Operands]
+ZipArchiveMember [Compression]
+MCFileTreeStCypressReader [MonticelloFileTree-Core]
+AJBaseReg [AsmJit-Operands]
+IdentifierChooserMorph [Polymorph-Widgets]
+SpecLayoutSend [Spec-Layout]
+InstructionStream [Kernel]
+AbstractSpecLayoutAction [Spec-Layout]
+MCSnapshotReader [Monticello]
+SHTextStylerST80 [Shout]
+RBRenameVariableChange [Refactoring-Changes]
+FTSearchFunction [Morphic-Widgets-FastTable]
+RubSelectorChooserMorph [Rubric]
+AthensPathBuilder [Athens-Core]
+AthensCairoPathBuilder [Athens-Cairo]
+SDL2TouchGestureExample2 [OSWindow-SDL2-Examples]
+GLMBrickWidthTraverser class [Glamour-Morphic-Brick]
+MCReader [Monticello]
+RBRenameClassChange [Refactoring-Changes]
+SelectorChooserMorph [Text-Edition]
+MCRepositoryInspector [MonticelloGUI]
+TxDisplayCommand [TxText-Athens]
+AJx87Register [AsmJit-x86]
+KMSingleKeyCombination [Keymapping-KeyCombinations]
+MCMczReader [Monticello]
+TxNewLineDisplayCommand [TxText-Athens]
+KMUntypeableSingleKeyCombination [Keymapping-KeyCombinations]
+Compiler [Compiler]
+ZipFileMember [Compression]
+AJxMMRegister [AsmJit-x86]
+AJMMRegister [AsmJit-x86]
+AthensSimplePathBuilder [Athens-Core]
+RBRenameInstanceVariableChange [Refactoring-Changes]
+ZipStringMember [Compression]
+AbstractFileReference [FileSystem-Core]
+MCVersionInspector [MonticelloGUI]
+ClassDescription [Kernel]
+MCFileRepositoryInspector [MonticelloGUI]
+TxCharacterSpanDisplayCommand [TxText-Athens]
+TxTabDisplayCommand [TxText-Athens]
+SHTextStyler [Shout]
+RBCompositeRefactoryChange [Refactoring-Changes]
+AbstractCompiler [OpalCompiler-Core]
+GLMBrickHeightTraverser class [Glamour-Morphic-Brick]
+SpecColumnLayout [Spec-Layout]
+Metaclass [Kernel]
+GLMBrickLayoutTraverser class [Glamour-Morphic-Brick]
+Context [Kernel]
+ZipNewFileMember [Compression]
+MCMcdReader [Monticello]
+FileReference [FileSystem-Core]
+MCFileTreeAbstractReader [MonticelloFileTree-Core]
+SpecTableLayoutSend [Spec-Layout]

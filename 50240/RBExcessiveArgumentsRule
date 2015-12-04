@@ -1,853 +1,853 @@
-RubSurfaceSelectionShape>>#vertices:firstIndex:lastIndex:color:borderWidth:borderColor:
-GTInspectorPresentationFilter>>#openListChooseLabeled:forInspector:with:select:format:actionSelector:
-FileSystemDirectoryEntry class>>#reference:creation:modification:isDir:size:posixPermissions:isSymlink:
-FileSystemDirectoryEntry class>>#fileSystem:path:creation:modification:isDir:size:posixPermissions:isSymlink:
-KeyboardEvent>>#setType:buttons:position:keyValue:charCode:hand:stamp:
-KeyboardEvent>>#setType:buttons:position:keyValue:hand:stamp:
-AbstractMorphicAdapter>>#treeRenderOn:bounds:color:font:from:
-AbstractMorphicAdapter>>#listRenderOn:atRow:bounds:color:backgroundColor:from:
-BalloonCanvas>>#drawString:from:to:in:font:color:underline:underlineColor:strikethrough:strikethroughColor:
-BalloonCanvas>>#frameAndFillRectangle:fillColor:borderWidth:topLeftColor:bottomRightColor:
-BalloonCanvas>>#drawString:from:to:in:font:color:
-MouseWheelEvent>>#setType:position:direction:buttons:hand:stamp:
-FileSystemStore>>#copy:ifAbsent:to:ifPresent:fileSystem:
-FileSystemStore>>#rename:ifAbsent:to:ifPresent:fileSystem:
-InstructionStream>>#interpretNext2ByteSistaV1Instruction:for:extA:extB:startPC:
-InstructionStream>>#interpretNext3ByteSistaV1Instruction:for:extA:extB:startPC:
-SimpleServiceEntry class>>#provider:label:selector:description:buttonLabel:
-GroupWindowMorph>>#newListFor:list:selected:changeSelected:getEnabled:help:
-GroupWindowMorph>>#newDropListFor:list:getSelected:setSelected:getEnabled:useIndex:help:
-GroupWindowMorph>>#newCheckboxFor:getSelected:setSelected:label:help:
-GroupWindowMorph>>#newAutoAcceptTextEntryFor:get:set:class:getEnabled:help:entryCompletion:
-GroupWindowMorph>>#newButtonFor:action:getEnabled:label:help:
-GroupWindowMorph>>#newAutoAcceptTextEntryFor:get:set:class:getEnabled:font:help:entryCompletion:
-GroupWindowMorph>>#newRadioButtonFor:getSelected:setSelected:getEnabled:label:help:
-GroupWindowMorph>>#newButtonFor:getState:action:arguments:getEnabled:labelForm:help:
-GroupWindowMorph>>#newCheckboxFor:getSelected:setSelected:getEnabled:getLabel:help:
-GroupWindowMorph>>#newDropListFor:list:getSelected:setSelected:getEnabled:help:
-GroupWindowMorph>>#newFuzzyLabelFor:label:offset:alpha:getEnabled:
-GroupWindowMorph>>#newAutoAcceptTextEntryFor:getText:setText:getEnabled:font:help:
-GroupWindowMorph>>#newListFor:list:selected:changeSelected:help:
-GroupWindowMorph>>#newListFor:list:selected:changeSelected:icon:getEnabled:help:
-GroupWindowMorph>>#newBasicTextEditorFor:getText:setText:getEnabled:menu:
-GroupWindowMorph>>#newTextEditorFor:getText:setText:getEnabled:menu:
-GroupWindowMorph>>#newMorphListFor:list:getSelected:setSelected:help:
-GroupWindowMorph>>#newDropListFor:list:getSelected:setSelected:help:
-GroupWindowMorph>>#newIncrementalSliderFor:getValue:setValue:min:max:quantum:getEnabled:help:
-GroupWindowMorph>>#newBracketSliderFor:getValue:setValue:min:max:quantum:getEnabled:help:
-GroupWindowMorph>>#newColorChooserFor:getColor:setColor:getEnabled:help:
-GroupWindowMorph>>#newAutoAcceptTextEntryFor:get:set:class:getEnabled:font:help:
-GroupWindowMorph>>#newButtonFor:getState:action:arguments:getEnabled:getLabel:help:
-GroupWindowMorph>>#newTextEntryFor:getText:setText:getEnabled:help:
-GroupWindowMorph>>#newAutoAcceptTextEntryFor:getText:setText:getEnabled:font:help:entryCompletion:
-GroupWindowMorph>>#newTextEntryFor:getText:setText:getEnabled:help:entryCompletion:
-GroupWindowMorph>>#newAutoAcceptTextEntryFor:getText:setText:getEnabled:help:entryCompletion:
-GroupWindowMorph>>#newButtonFor:getState:action:arguments:getEnabled:label:help:
-GroupWindowMorph>>#newMorphDropListFor:list:getSelected:setSelected:getEnabled:help:
-GroupWindowMorph>>#newCheckboxFor:getSelected:setSelected:getEnabled:label:help:
-GroupWindowMorph>>#newEditableDropListFor:list:getSelected:setSelected:addToList:ghostText:getEnabled:help:
-GroupWindowMorph>>#newRadioButtonFor:getSelected:setSelected:label:help:
-GroupWindowMorph>>#newEditableDropListFor:list:getSelected:setSelected:addToList:class:default:ghostText:getEnabled:useIndex:help:
-GroupWindowMorph>>#newAutoAcceptTextEntryFor:getText:setText:getEnabled:help:
-GroupWindowMorph>>#newMorphDropListFor:list:getSelected:setSelected:getEnabled:useIndex:help:
-GroupWindowMorph>>#newBracketSliderFor:getValue:setValue:min:max:quantum:help:
-GroupWindowMorph>>#newAutoAcceptTextEntryFor:get:set:class:getEnabled:help:
-GroupWindowMorph>>#newMorphDropListFor:list:getSelected:setSelected:help:
-GroupWindowMorph>>#newTextEntryFor:get:set:class:getEnabled:help:
-GroupWindowMorph>>#newSliderFor:getValue:setValue:getEnabled:help:
-GroupWindowMorph>>#newMorphListFor:list:getSelected:setSelected:getEnabled:help:
-GroupWindowMorph>>#newSliderFor:getValue:setValue:min:max:quantum:getEnabled:help:
-DisplayScanner>>#text:textStyle:foreground:background:fillBlt:ignoreColorChanges:
-DisplayObject>>#displayOn:at:clippingBox:rule:fillColor:
-AthensBalloonEngine>>#registerFormFill:origin:direction:normal:tileFlag:
-FileSystemDirectoryEntry>>#initializeWithRef:creation:modification:isDir:size:posixPermissions:isSymlink:
-OCPerformTest>>#a1:a2:a3:a4:a5:a6:a7:a8:a9:a10:a11:a12:a13:a14:a15:
-SpecTreeColumn>>#setHeaderButtonLabel:font:icon:target:actionSelector:
-LogicalFont class>>#familyName:fallbackFamilyNames:pointSize:stretchValue:weightValue:slantValue:
-LogicalFont class>>#familyName:pointSize:stretchValue:weightValue:slantValue:
-StrikeFontSet>>#displayString:on:from:to:at:kern:baselineY:
-StrikeFontSet>>#displayString:on:from:to:at:kern:
-StrikeFontSet>>#displayMultiString:on:from:to:at:kern:baselineY:
-StrikeFontSet>>#displayString:on:from:to:at:kern:from:baselineY:
-StrikeFontSet>>#characters:in:displayAt:clippedBy:rule:fillColor:kernDelta:on:
-BitBlt class>>#destForm:sourceForm:halftoneForm:combinationRule:destOrigin:sourceOrigin:extent:clipRect:
-BitBlt class>>#destForm:sourceForm:fillColor:combinationRule:destOrigin:sourceOrigin:extent:clipRect:
-BitBlt>>#displayString:from:to:at:kern:baselineY:font:
-BitBlt>>#primDisplayString:from:to:map:xTable:kern:
-BitBlt>>#displayString:from:to:at:kern:font:
-BitBlt>>#basicDisplayString:from:to:at:strikeFont:kern:
-BitBlt>>#displayGlyph:at:left:right:font:
-BitBlt>>#setDestForm:sourceForm:fillColor:combinationRule:destOrigin:sourceOrigin:extent:clipRect:
-BitBlt>>#displayString:from:to:at:strikeFont:kern:
-BitBlt>>#copy:from:in:halftoneForm:rule:
-BitBlt>>#copy:from:in:fillColor:rule:
-FreeTypeFont>>#displayString:on:from:to:at:kern:baselineY:
-FreeTypeFont>>#displayString:on:from:to:at:kern:
-FreeTypeFont>>#scanMultibyteCharactersFrom:to:in:with:rightX:
-FreeTypeFont>>#scanByteCharactersFrom:to:in:with:rightX:
-WideString>>#scanCharactersFrom:to:with:rightX:font:
-MetacelloVersionSpec>>#configMethodValueOn:for:selector:last:indent:
-MetacelloVersionSpec>>#configMethodOn:for:selector:last:indent:
-AbstractCompiler>>#parse:class:noPattern:context:notifying:ifFail:
-AbstractCompiler>>#compileNoPattern:in:context:notifying:ifFail:
-AbstractCompiler>>#compile:in:classified:notifying:ifFail:
-AbstractCompiler>>#evaluate:in:to:notifying:ifFail:
-AbstractCompiler>>#evaluate:in:to:notifying:ifFail:logged:
-TableLayout>>#computeGlobalCellArrangement:in:horizontal:wrap:spacing:
-TraitDescription>>#compile:classified:withStamp:notifying:logSource:
-AbstractKeymappingTest>>#eventKey:alt:ctrl:command:shift:
-AthensCanvasWrapper>>#frameAndFillRectangle:fillColor:borderWidth:topLeftColor:bottomRightColor:
-AthensCanvasWrapper>>#drawString:from:to:in:font:color:underline:underlineColor:strikethrough:strikethroughColor:
-AthensCanvasWrapper>>#drawString:in:font:color:underline:underlineColor:strikethrough:strikethroughColor:
-PluggableMultiColumnListMorph>>#on:list:selected:changeSelected:menu:keystroke:wrapSelector:
-LanguageEnvironment class>>#scanMultibyteCharactersFrom:to:in:with:rightX:font:
-RBBasicLintRuleTest>>#method:with:lots:of:arguments:
-IncrementalSliderMorph class>>#on:getValue:setValue:min:max:quantum:
-TextMorph>>#text:textStyle:wrap:color:predecessor:successor:
-ArrayedCollection class>>#with:with:with:with:with:
-ArrayedCollection class>>#with:with:with:with:with:with:
-FileStreamTest>>#doTestsForReading:intoBufferWithSize:startingAt:fromFileOfSize:offsetBy:
-CompoundTextConverterState>>#g0Size:g1Size:g0Leading:g1Leading:charSize:streamPosition:
-LogicalFont>>#displayString:on:from:to:at:kern:baselineY:
-LogicalFont>>#displayString:on:from:to:at:kern:
-LogicalFont>>#scanMultibyteCharactersFrom:to:in:with:rightX:
-LogicalFont>>#scanByteCharactersFrom:to:in:with:rightX:
-PluggableSliderMorph class>>#on:getValue:setValue:min:max:quantum:
-Duration class>>#days:hours:minutes:seconds:nanoSeconds:
-Paragraph>>#multiComposeLinesFrom:to:delta:into:priorLines:atY:
-Paragraph>>#composeLinesFrom:to:delta:into:priorLines:atY:
-AthensCurveFlattener>>#isFlatQuadBezier:y1:x2:y2:x3:y3:
-AthensCurveFlattener>>#flattenQuadBezier:y1:x2:y2:x3:y3:
-AthensCurveFlattener>>#flattenCubicBezier:y1:x2:y2:x3:y3:x4:y4:
-MCMergingTest>>#assertMerge:with:base:gives:conflicts:
-MCVersionInfo>>#initializeWithName:id:message:date:time:author:ancestors:stepChildren:
-PluggableListMorph>>#on:list:primarySelection:changePrimarySelection:listSelection:changeListSelection:menu:keystroke:
-PluggableListMorph>>#on:list:selected:changeSelected:menu:keystroke:
-ByteString>>#scanCharactersFrom:to:with:rightX:font:
-PluggableCanvas>>#drawString:from:to:in:font:color:underline:underlineColor:strikethrough:strikethroughColor:
-PluggableCanvas>>#drawString:from:to:in:font:color:
-MetacelloToolBox class>>#createNewBaselineVersionIn:requiredProjects:packages:dependencies:groups:
-MetacelloToolBox class>>#createBaseline:for:repository:requiredProjects:packages:dependencies:includes:files:repositories:preLoadDoIts:postLoadDoIts:supplyingAnswers:groups:
-MetacelloToolBox class>>#modifyBaselineVersionIn:repository:requiredProjects:packages:dependencies:includes:files:repositories:preLoadDoIts:postLoadDoIts:supplyingAnswers:groups:
-MetacelloToolBox class>>#createBaseline:for:repository:requiredProjects:packages:repositories:dependencies:groups:
-MetacelloToolBox class>>#createDevelopment:for:from:imports:description:
-MetacelloToolBox class>>#modifyVersion:for:projectDo:packageDo:groupDo:
-MetacelloToolBox class>>#createBaseline:for:repository:requiredProjects:packages:repositories:dependencies:groups:requiredProjectSpecs:
-MetacelloToolBox class>>#createBaseline:for:from:description:versionSpecsDo:
-MetacelloToolBox class>>#createBaseline:for:repository:requiredProjects:packages:dependencies:groups:
-MetacelloToolBox class>>#modifyDevelopmentVersionIn:imports:requiredProjects:packages:description:
-MetacelloToolBox class>>#modifyVersion:section:for:repository:requiredProjects:packages:dependencies:includes:files:repositories:preLoadDoIts:postLoadDoIts:supplyingAnswers:groups:
-MethodNode>>#selector:arguments:precedence:temporaries:block:encoder:primitive:
-MethodNode>>#selector:arguments:precedence:temporaries:block:encoder:primitive:properties:
-WideSymbol>>#scanCharactersFrom:to:with:rightX:font:
-Encoder>>#name:key:class:type:set:
-TxLineSeparator>>#drawOn:from:to:at:font:
-ComposableModel>>#treeRenderOn:bounds:color:font:from:
-ComposableModel>>#listRenderOn:atRow:bounds:color:backgroundColor:from:
-RubTextComposer>>#composeLinesFrom:to:delta:into:priorLines:atY:textStyle:text:container:
-RubTextComposer>>#composeLinesFrom:to:delta:into:priorLines:atY:
-Integer>>#printSeparatedBy:every:signed:base:on:
-Integer>>#print:on:prefix:length:padded:
-Decompiler>>#scanBlockScopeFor:from:to:with:scanner:
-MCVersionInfo class>>#name:id:message:date:time:author:ancestors:
-MCVersionInfo class>>#name:id:message:date:time:author:ancestors:stepChildren:
-ByteSymbol>>#scanCharactersFrom:to:with:rightX:font:
-MCClassDefinition>>#initializeWithName:superclassName:category:instVarNames:classVarNames:poolDictionaryNames:classInstVarNames:type:comment:commentStamp:
-MCClassDefinition>>#initializeWithName:superclassName:traitComposition:classTraitComposition:category:instVarNames:classVarNames:poolDictionaryNames:classInstVarNames:type:comment:commentStamp:
-PluggableToggleButtonMorph>>#on:getState:action:label:icon:menu:
-ChangeSet class>>#scanFile:category:class:meta:stamp:
-ChangeSet class>>#scanVersionsOf:class:meta:category:selector:
-CornerRounder>>#tweakCornersOf:on:in:borderWidth:corners:
-CornerRounder>>#tweakShadowCornersOf:on:in:borderWidth:corners:
-Trait>>#asRingDefinitionWithMethods:withSuperclasses:withSubclasses:withPackageKeys:in:
-Trait>>#variableSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
-Trait>>#weakSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
-Trait>>#subclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
-Trait>>#subclass:layout:slots:classVariables:category:
-Trait>>#variableWordSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
-Trait>>#name:traitComposition:methodDict:localSelectors:organization:
-Trait>>#weakSubclass:uses:instanceVariableNames:classVariableNames:category:
-Trait>>#variableByteSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
-Trait>>#variableWordSubclass:uses:instanceVariableNames:classVariableNames:category:
-Trait>>#subclass:uses:instanceVariableNames:classVariableNames:poolDictionaries:category:
-Trait>>#subclass:uses:instanceVariableNames:classVariableNames:category:
-Trait>>#subclass:layout:slots:classVariables:poolDictionaries:category:
-Trait>>#subclass:uses:layout:slots:classVariables:poolDictionaries:category:
-Trait>>#variableSubclass:uses:instanceVariableNames:classVariableNames:poolDictionaries:category:
-Trait>>#subclass:uses:slots:classVariables:category:
-Trait>>#weakSubclass:uses:instanceVariableNames:classVariableNames:poolDictionaries:category:
-Trait>>#superclass:methodDict:format:name:organization:instVarNames:classPool:sharedPools:
-Trait>>#subclass:uses:slots:classVariables:poolDictionaries:category:
-Trait>>#variableByteSubclass:uses:instanceVariableNames:classVariableNames:poolDictionaries:category:
-Trait>>#variableSubclass:uses:instanceVariableNames:classVariableNames:category:
-Trait>>#subclass:slots:classVariables:poolDictionaries:category:
-Trait>>#variableWordSubclass:uses:instanceVariableNames:classVariableNames:poolDictionaries:category:
-Trait>>#variableByteSubclass:uses:instanceVariableNames:classVariableNames:category:
-Trait>>#subclass:uses:layout:slots:classVariables:category:
-RubPluggableTextMorph class>>#on:text:accept:readSelection:menu:setSelection:
-RubPluggableTextMorph class>>#on:text:accept:readSelection:menu:
-FBDOptimizedMessagesRewriter>>#convertWhileTrueToToByDo:start:end:by:incrVariable:assignement:
-DropListMorph class>>#on:list:selected:changeSelected:useIndex:
-WorldState>>#startStepping:at:selector:arguments:stepTime:
-MessageTally>>#treePrintOn:tabs:thisTab:total:totalTime:tallyExact:orThreshold:
-MetacelloAbstractPackageSpec>>#configMethodOn:for:selector:cascading:cascade:indent:
-KMRepository>>#initializeKeymap:executingOn:doing:inCategory:platform:description:
-KMRepository>>#initializeKeymap:executingOn:doing:inCategory:platform:
-GLMTablePresentation>>#column:evaluated:width:tags:sortedBy:
-SyntaxErrorNotification>>#setClass:category:code:doitFlag:errorMessage:location:
-FormCanvas>>#drawString:from:to:in:font:color:
-FormCanvas>>#privateWarp:transform:at:sourceRect:cellSize:
-FormCanvas>>#warpImage:transform:at:sourceRect:cellSize:
-FormCanvas>>#image:at:sourceRect:rule:alpha:
-FormCanvas>>#drawString:from:to:autoBoundAt:font:color:
-FormCanvas>>#drawString:from:to:at:font:color:
-FormCanvas>>#frameAndFillRectangle:fillColor:borderWidth:topLeftColor:bottomRightColor:
-FormCanvas>>#drawString:from:to:in:font:color:underline:underlineColor:strikethrough:strikethroughColor:
-RBRenameMethodRefactoring class>>#model:renameMethod:in:to:permutation:
-RBAddClassRefactoring class>>#model:addClass:superclass:subclasses:category:
-CompiledMethod>>#putSource:class:category:withStamp:priorMethod:
-MD5NonPrimitive>>#hhA:B:C:D:M:S:T:
-MD5NonPrimitive>>#iiA:B:C:D:M:S:T:
-MD5NonPrimitive>>#ggA:B:C:D:M:S:T:
-MD5NonPrimitive>>#ffA:B:C:D:M:S:T:
-ClassTrait>>#compile:classified:withStamp:notifying:logSource:
-PluggableButtonMorph class>>#on:getState:action:label:icon:menu:
-PluggableButtonMorph class>>#newButtonFor:getState:action:arguments:getEnabled:label:help:
-PluggableButtonMorph class>>#on:getState:action:label:menu:
-AthensCairoSurface class>>#testLockSurface:pitch:x:y:w:h:
-AthensCairoSurface class>>#testGetSurfaceFormat:width:height:depth:isMSB:
-DatePrintFormatTester>>#dayPosition:monthPosition:yearPosition:delimiter:monthType:yearType:
-NetNameResolver class>>#primGetAddressInfoHost:service:flags:family:type:protocol:
-DependentsArray class>>#with:with:with:with:with:
-DependentsArray class>>#with:with:with:with:with:with:
-Matrix>>#atRows:to:columns:to:put:
-Matrix>>#atRows:to:columns:to:ifInvalid:
-UIManager>>#chooseFrom:values:lines:message:title:
-UIManager>>#confirm:trueChoice:falseChoice:cancelChoice:default:
-NBWin32Shell class>>#shellExecute:operation:file:parameters:directory:show:
-NBWin32Shell class>>#shellExecute:file:parameters:directory:show:
-MorphicUIManager>>#chooseFrom:values:lines:message:title:
-MorphicUIManager>>#newListFor:list:selected:changeSelected:getEnabled:help:
-MorphicUIManager>>#newDropListFor:list:getSelected:setSelected:getEnabled:useIndex:help:
-MorphicUIManager>>#newCheckboxFor:getSelected:setSelected:label:help:
-MorphicUIManager>>#newAutoAcceptTextEntryFor:get:set:class:getEnabled:font:help:entryCompletion:
-MorphicUIManager>>#newButtonFor:action:getEnabled:label:help:
-MorphicUIManager>>#newAutoAcceptTextEntryFor:get:set:class:getEnabled:help:entryCompletion:
-MorphicUIManager>>#newRadioButtonFor:getSelected:setSelected:getEnabled:label:help:
-MorphicUIManager>>#newButtonFor:getState:action:arguments:getEnabled:labelForm:help:
-MorphicUIManager>>#newCheckboxFor:getSelected:setSelected:getEnabled:getLabel:help:
-MorphicUIManager>>#newDropListFor:list:getSelected:setSelected:getEnabled:help:
-MorphicUIManager>>#newFuzzyLabelFor:label:offset:alpha:getEnabled:
-MorphicUIManager>>#newAutoAcceptTextEntryFor:getText:setText:getEnabled:font:help:
-MorphicUIManager>>#newListFor:list:selected:changeSelected:help:
-MorphicUIManager>>#newListFor:list:selected:changeSelected:icon:getEnabled:help:
-MorphicUIManager>>#newBasicTextEditorFor:getText:setText:getEnabled:menu:
-MorphicUIManager>>#newTextEditorFor:getText:setText:getEnabled:menu:
-MorphicUIManager>>#openDebuggerOn:context:label:contents:fullView:
-MorphicUIManager>>#newMorphListFor:list:getSelected:setSelected:help:
-MorphicUIManager>>#newDropListFor:list:getSelected:setSelected:help:
-MorphicUIManager>>#newIncrementalSliderFor:getValue:setValue:min:max:quantum:getEnabled:help:
-MorphicUIManager>>#newBracketSliderFor:getValue:setValue:min:max:quantum:getEnabled:help:
-MorphicUIManager>>#newColorChooserFor:getColor:setColor:getEnabled:help:
-MorphicUIManager>>#newAutoAcceptTextEntryFor:get:set:class:getEnabled:font:help:
-MorphicUIManager>>#newButtonFor:getState:action:arguments:getEnabled:getLabel:help:
-MorphicUIManager>>#newTextEntryFor:getText:setText:getEnabled:help:
-MorphicUIManager>>#newAutoAcceptTextEntryFor:getText:setText:getEnabled:font:help:entryCompletion:
-MorphicUIManager>>#newTextEntryFor:getText:setText:getEnabled:help:entryCompletion:
-MorphicUIManager>>#newAutoAcceptTextEntryFor:getText:setText:getEnabled:help:entryCompletion:
-MorphicUIManager>>#newButtonFor:getState:action:arguments:getEnabled:label:help:
-MorphicUIManager>>#newMorphDropListFor:list:getSelected:setSelected:getEnabled:help:
-MorphicUIManager>>#newCheckboxFor:getSelected:setSelected:getEnabled:label:help:
-MorphicUIManager>>#newRadioButtonFor:getSelected:setSelected:label:help:
-MorphicUIManager>>#openPolymorphComparisonFrom:to:belongingTo:from:labeled:inWindowLabeled:
-MorphicUIManager>>#newEditableDropListFor:list:getSelected:setSelected:addToList:ghostText:getEnabled:help:
-MorphicUIManager>>#confirm:trueChoice:falseChoice:cancelChoice:default:
-MorphicUIManager>>#newEditableDropListFor:list:getSelected:setSelected:addToList:class:default:ghostText:getEnabled:useIndex:help:
-MorphicUIManager>>#openComparisonFrom:to:belongingTo:from:labeled:inWindowLabeled:
-MorphicUIManager>>#newAutoAcceptTextEntryFor:getText:setText:getEnabled:help:
-MorphicUIManager>>#newMorphDropListFor:list:getSelected:setSelected:getEnabled:useIndex:help:
-MorphicUIManager>>#newMorphDropListFor:list:getSelected:setSelected:help:
-MorphicUIManager>>#newAutoAcceptTextEntryFor:get:set:class:getEnabled:help:
-MorphicUIManager>>#newTextEntryFor:get:set:class:getEnabled:help:
-MorphicUIManager>>#newSliderFor:getValue:setValue:getEnabled:help:
-MorphicUIManager>>#newBracketSliderFor:getValue:setValue:min:max:quantum:help:
-MorphicUIManager>>#newMorphListFor:list:getSelected:setSelected:getEnabled:help:
-MorphicUIManager>>#newSliderFor:getValue:setValue:min:max:quantum:getEnabled:help:
-ComposableMorph>>#newListFor:list:selected:changeSelected:getEnabled:help:
-ComposableMorph>>#newDropListFor:list:getSelected:setSelected:getEnabled:useIndex:help:
-ComposableMorph>>#newCheckboxFor:getSelected:setSelected:label:help:
-ComposableMorph>>#newAutoAcceptTextEntryFor:get:set:class:getEnabled:help:entryCompletion:
-ComposableMorph>>#newButtonFor:action:getEnabled:label:help:
-ComposableMorph>>#newAutoAcceptTextEntryFor:get:set:class:getEnabled:font:help:entryCompletion:
-ComposableMorph>>#newRadioButtonFor:getSelected:setSelected:getEnabled:label:help:
-ComposableMorph>>#newButtonFor:getState:action:arguments:getEnabled:labelForm:help:
-ComposableMorph>>#newCheckboxFor:getSelected:setSelected:getEnabled:getLabel:help:
-ComposableMorph>>#newDropListFor:list:getSelected:setSelected:getEnabled:help:
-ComposableMorph>>#newFuzzyLabelFor:label:offset:alpha:getEnabled:
-ComposableMorph>>#newAutoAcceptTextEntryFor:getText:setText:getEnabled:font:help:
-ComposableMorph>>#newListFor:list:selected:changeSelected:help:
-ComposableMorph>>#newListFor:list:selected:changeSelected:icon:getEnabled:help:
-ComposableMorph>>#newBasicTextEditorFor:getText:setText:getEnabled:menu:
-ComposableMorph>>#newTextEditorFor:getText:setText:getEnabled:menu:
-ComposableMorph>>#newMorphListFor:list:getSelected:setSelected:help:
-ComposableMorph>>#newDropListFor:list:getSelected:setSelected:help:
-ComposableMorph>>#newIncrementalSliderFor:getValue:setValue:min:max:quantum:getEnabled:help:
-ComposableMorph>>#newBracketSliderFor:getValue:setValue:min:max:quantum:getEnabled:help:
-ComposableMorph>>#newColorChooserFor:getColor:setColor:getEnabled:help:
-ComposableMorph>>#newAutoAcceptTextEntryFor:get:set:class:getEnabled:font:help:
-ComposableMorph>>#newButtonFor:getState:action:arguments:getEnabled:getLabel:help:
-ComposableMorph>>#newTextEntryFor:getText:setText:getEnabled:help:
-ComposableMorph>>#newAutoAcceptTextEntryFor:getText:setText:getEnabled:font:help:entryCompletion:
-ComposableMorph>>#newTextEntryFor:getText:setText:getEnabled:help:entryCompletion:
-ComposableMorph>>#newAutoAcceptTextEntryFor:getText:setText:getEnabled:help:entryCompletion:
-ComposableMorph>>#newButtonFor:getState:action:arguments:getEnabled:label:help:
-ComposableMorph>>#newMorphDropListFor:list:getSelected:setSelected:getEnabled:help:
-ComposableMorph>>#newCheckboxFor:getSelected:setSelected:getEnabled:label:help:
-ComposableMorph>>#newEditableDropListFor:list:getSelected:setSelected:addToList:ghostText:getEnabled:help:
-ComposableMorph>>#newRadioButtonFor:getSelected:setSelected:label:help:
-ComposableMorph>>#newEditableDropListFor:list:getSelected:setSelected:addToList:class:default:ghostText:getEnabled:useIndex:help:
-ComposableMorph>>#newAutoAcceptTextEntryFor:getText:setText:getEnabled:help:
-ComposableMorph>>#newMorphDropListFor:list:getSelected:setSelected:getEnabled:useIndex:help:
-ComposableMorph>>#newBracketSliderFor:getValue:setValue:min:max:quantum:help:
-ComposableMorph>>#newAutoAcceptTextEntryFor:get:set:class:getEnabled:help:
-ComposableMorph>>#newMorphDropListFor:list:getSelected:setSelected:help:
-ComposableMorph>>#newTextEntryFor:get:set:class:getEnabled:help:
-ComposableMorph>>#newSliderFor:getValue:setValue:getEnabled:help:
-ComposableMorph>>#newMorphListFor:list:getSelected:setSelected:getEnabled:help:
-ComposableMorph>>#newSliderFor:getValue:setValue:min:max:quantum:getEnabled:help:
-RubCharacterScanner>>#basicScanCharactersFrom:to:in:rightX:stopConditions:kern:
-RubCharacterScanner>>#scanCharactersFrom:to:in:rightX:stopConditions:kern:
-RubCharacterScanner>>#scanMultiCharactersFrom:to:in:rightX:stopConditions:kern:
-RubCharacterScanner>>#scanJapaneseCharactersFrom:to:in:rightX:stopConditions:kern:
-SyntaxErrorNotification class>>#inClass:category:withCode:doitFlag:errorMessage:location:
-NBFFICallback>>#primLeave:stackPtr:contextOop:returnValue:primitiveMethod:
-ImageReadWriter>>#changePadOfBits:width:height:depth:from:to:
-ImageReadWriter>>#unpackBits:depthTo8From:with:height:pad:
-SugsSuggestion class>>#for:named:icon:position:keyText:isValidBlock:
-SugsSuggestion class>>#for:named:icon:position:keyText:
-SugsSuggestion class>>#for:named:icon:position:isValidBlock:
-MetacelloVersionMethodSpec>>#methodSection:pre:last:post:indent:
-AthensCairoPathBuilder>>#curveViaX:Y:viaX:Y:toX:Y:
-AthensCairoPathBuilder>>#arcNegativeCenterX:centerY:radius:startAngle:endAngle:
-AthensCairoPathBuilder>>#arcCenterX:centerY:radius:startAngle:endAngle:
-TEasilyThemed>>#newListFor:list:selected:changeSelected:getEnabled:help:
-TEasilyThemed>>#newDropListFor:list:getSelected:setSelected:getEnabled:useIndex:help:
-TEasilyThemed>>#newCheckboxFor:getSelected:setSelected:label:help:
-TEasilyThemed>>#newAutoAcceptTextEntryFor:get:set:class:getEnabled:help:entryCompletion:
-TEasilyThemed>>#newButtonFor:action:getEnabled:label:help:
-TEasilyThemed>>#newAutoAcceptTextEntryFor:get:set:class:getEnabled:font:help:entryCompletion:
-TEasilyThemed>>#newRadioButtonFor:getSelected:setSelected:getEnabled:label:help:
-TEasilyThemed>>#newButtonFor:getState:action:arguments:getEnabled:labelForm:help:
-TEasilyThemed>>#newCheckboxFor:getSelected:setSelected:getEnabled:getLabel:help:
-TEasilyThemed>>#newDropListFor:list:getSelected:setSelected:getEnabled:help:
-TEasilyThemed>>#newFuzzyLabelFor:label:offset:alpha:getEnabled:
-TEasilyThemed>>#newAutoAcceptTextEntryFor:getText:setText:getEnabled:font:help:
-TEasilyThemed>>#newListFor:list:selected:changeSelected:help:
-TEasilyThemed>>#newListFor:list:selected:changeSelected:icon:getEnabled:help:
-TEasilyThemed>>#newBasicTextEditorFor:getText:setText:getEnabled:menu:
-TEasilyThemed>>#newTextEditorFor:getText:setText:getEnabled:menu:
-TEasilyThemed>>#newMorphListFor:list:getSelected:setSelected:help:
-TEasilyThemed>>#newDropListFor:list:getSelected:setSelected:help:
-TEasilyThemed>>#newIncrementalSliderFor:getValue:setValue:min:max:quantum:getEnabled:help:
-TEasilyThemed>>#newBracketSliderFor:getValue:setValue:min:max:quantum:getEnabled:help:
-TEasilyThemed>>#newColorChooserFor:getColor:setColor:getEnabled:help:
-TEasilyThemed>>#newAutoAcceptTextEntryFor:get:set:class:getEnabled:font:help:
-TEasilyThemed>>#newButtonFor:getState:action:arguments:getEnabled:getLabel:help:
-TEasilyThemed>>#newTextEntryFor:getText:setText:getEnabled:help:
-TEasilyThemed>>#newAutoAcceptTextEntryFor:getText:setText:getEnabled:font:help:entryCompletion:
-TEasilyThemed>>#newTextEntryFor:getText:setText:getEnabled:help:entryCompletion:
-TEasilyThemed>>#newAutoAcceptTextEntryFor:getText:setText:getEnabled:help:entryCompletion:
-TEasilyThemed>>#newButtonFor:getState:action:arguments:getEnabled:label:help:
-TEasilyThemed>>#newMorphDropListFor:list:getSelected:setSelected:getEnabled:help:
-TEasilyThemed>>#newCheckboxFor:getSelected:setSelected:getEnabled:label:help:
-TEasilyThemed>>#newEditableDropListFor:list:getSelected:setSelected:addToList:ghostText:getEnabled:help:
-TEasilyThemed>>#newRadioButtonFor:getSelected:setSelected:label:help:
-TEasilyThemed>>#newEditableDropListFor:list:getSelected:setSelected:addToList:class:default:ghostText:getEnabled:useIndex:help:
-TEasilyThemed>>#newAutoAcceptTextEntryFor:getText:setText:getEnabled:help:
-TEasilyThemed>>#newMorphDropListFor:list:getSelected:setSelected:getEnabled:useIndex:help:
-TEasilyThemed>>#newBracketSliderFor:getValue:setValue:min:max:quantum:help:
-TEasilyThemed>>#newAutoAcceptTextEntryFor:get:set:class:getEnabled:help:
-TEasilyThemed>>#newMorphDropListFor:list:getSelected:setSelected:help:
-TEasilyThemed>>#newTextEntryFor:get:set:class:getEnabled:help:
-TEasilyThemed>>#newSliderFor:getValue:setValue:getEnabled:help:
-TEasilyThemed>>#newMorphListFor:list:getSelected:setSelected:getEnabled:help:
-TEasilyThemed>>#newSliderFor:getValue:setValue:min:max:quantum:getEnabled:help:
-TxTerminalSpan>>#drawOn:from:to:at:font:
-AthensCairoMatrix>>#initx:y:sx:sy:shx:shy:
-FreeTypeSubPixelAntiAliasedGlyphRenderer>>#subGlyphOf:colorValue:mono:subpixelPosition:font:
-BitBltDisplayScanner>>#text:textStyle:foreground:background:fillBlt:ignoreColorChanges:
-InfiniteForm>>#displayOn:at:clippingBox:rule:fillColor:
-HaloMorph>>#addGraphicalHandle:at:on:send:to:
-HaloMorph>>#addHandleAt:color:on:send:to:
-HaloMorph>>#addHandleAt:color:icon:on:send:to:
-SimpleHierarchicalListMorph class>>#on:list:selected:changeSelected:menu:
-SimpleHierarchicalListMorph class>>#on:list:selected:changeSelected:menu:keystroke:
-MCLazyVersionInfo>>#initializeWithName:id:message:date:time:author:ancestors:stepChildren:
-CheckboxMorph>>#listRenderOn:atRow:bounds:color:backgroundColor:from:
-PopupChoiceDialogWindow class>>#chooseIn:title:labels:values:lines:
-Nautilus class>>#openOnPackage:class:category:method:group:sortHierarchically:showHierarchy:showComment:showInstance:showCategories:
-Nautilus class>>#openOnPackage:class:category:method:group:sortHierarchically:showHierarchy:showComment:showInstance:showCategories:inEnvironment:
-HDCoverageReport>>#generateType:indent:total:actual:on:
-StepMessage class>>#scheduledAt:stepTime:receiver:selector:arguments:
-MouseWheelEvent class>>#fromCharacter:position:buttons:hand:stamp:
-TextComposer>>#multiComposeLinesFrom:to:delta:into:priorLines:atY:textStyle:text:container:wantsColumnBreaks:
-TextComposer>>#composeLinesFrom:to:delta:into:priorLines:atY:textStyle:text:container:wantsColumnBreaks:
-PluginBasedJPEGReadWriter>>#primJPEGReadImage:fromByteArray:onForm:doDithering:errorMgr:
-PluginBasedJPEGReadWriter>>#primJPEGWriteImage:onByteArray:form:quality:progressiveJPEG:errorMgr:
-MCTraitDefinition class>>#name:traitComposition:category:comment:commentStamp:
-JapaneseEnvironment class>>#scanMultibyteCharactersFrom:to:in:with:rightX:font:
-MorphTreeNavigationBar>>#buttonLabel:actionSelector:arguments:getEnabled:help:
-MorphTreeNavigationBar>>#textEntryLabel:get:set:help:class:
-AthensCairoGradientPaint>>#primAddColorStopOffset:R:G:B:A:
-AthensCairoGradientPaint>>#initializeRadialBetween:extending:and:extending:withColorRamp:
-MetacelloToolBox>>#importFrom:projectAttributes:inactiveAttributes:updateProjects:updatePackages:versionSpecsDo:
-MetacelloToolBox>>#addSection:repository:requiredProjects:packages:dependencies:groups:versionSpecsDo:
-MetacelloToolBox>>#addSection:repository:requiredProjects:packages:dependencies:includes:files:repositories:preLoadDoIts:postLoadDoIts:supplyingAnswers:groups:versionSpecsDo:
-MetacelloToolBox>>#updateVersionSpec:fullVersionSpec:updateProjects:updatePackages:visited:updated:
-MetacelloToolBox>>#modifySection:sectionIndex:repository:requiredProjects:packages:dependencies:includes:files:repositories:preLoadDoIts:postLoadDoIts:supplyingAnswers:groups:versionSpecsDo:
-MetacelloToolBox>>#modifySection:repository:requiredProjects:packages:dependencies:includes:files:repositories:preLoadDoIts:postLoadDoIts:supplyingAnswers:groups:versionSpecsDo:
-MetacelloToolBox>>#updateVersionMethodForVersion:projectAttributes:updateProjects:updatePackages:versionSpecsDo:
-MetacelloToolBox>>#addSectionsFrom:forBaseline:updateProjects:updatePackages:versionSpecsDo:
-MetacelloToolBox>>#fixedEditVersionSpecsForImport:projectAttributes:active:fullVersionSpec:updateProjects:updatePackages:visited:updated:
-MetacelloToolBox>>#fixedImportFrom:projectAttributes:inactiveAttributes:updateProjects:updatePackages:versionSpecsDo:
-MetacelloToolBox>>#addSection:repository:requiredProjects:packages:dependencies:includes:files:repositories:preLoadDoIts:postLoadDoIts:supplyingAnswers:groups:versionSpecsDo:requiredProjectSpecs:
-MetacelloToolBox>>#addSection:repository:requiredProjects:packages:repositories:dependencies:groups:versionSpecsDo:
-MetacelloToolBox>>#editVersionSpecsForImport:projectAttributes:active:fullVersionSpec:updateProjects:updatePackages:visited:updated:
-CompiledMethod class>>#newBytes:trailerBytes:nArgs:nTemps:nStack:nLits:primitive:flag:
-CompiledMethod class>>#newBytes:trailerBytes:nArgs:nTemps:nStack:nLits:primitive:
-CompiledMethod class>>#primitive:numArgs:numTemps:stackSize:literals:bytecodes:trailer:
-RBRenameInstanceVariableRefactoring class>>#model:rename:to:in:renameAccessors:
-RubDisplayScanner>>#text:textStyle:foreground:background:fillBlt:ignoreColorChanges:
-SpecLayout>>#newRow:origin:corner:offsetOrigin:offsetCorner:
-SpecLayout>>#setOffsetsFor:top:left:bottom:right:borderWidth:
-SpecLayout>>#add:withSpec:origin:corner:offsetOrigin:offsetCorner:
-SpecLayout>>#add:origin:corner:offsetOrigin:offsetCorner:
-SpecLayout>>#add:top:bottom:left:right:
-SpecLayout>>#newColumn:origin:corner:offsetOrigin:offsetCorner:
-SpecLayout>>#add:withSpec:top:bottom:left:right:
-Parser>>#parse:class:category:noPattern:context:notifying:ifFail:
-Parser>>#parse:class:noPattern:context:notifying:ifFail:
-PluggableButtonMorph>>#on:getState:action:label:icon:menu:
-PluggableButtonMorph>>#on:getState:action:label:menu:
-ClassFactoryForTestCase>>#newSubclassOf:uses:instanceVariableNames:classVariableNames:poolDictionaries:category:
-ClassFactoryForTestCase>>#newSubclassOf:uses:instanceVariableNames:classVariableNames:category:
-ChangeRecord>>#file:position:type:class:category:meta:stamp:
-Compiler>>#parse:class:noPattern:context:notifying:ifFail:
-Compiler>>#compileNoPattern:in:context:notifying:ifFail:
-Compiler>>#compile:in:classified:notifying:ifFail:
-Compiler>>#evaluate:in:to:notifying:ifFail:
-Compiler>>#evaluate:in:to:notifying:ifFail:logged:
-Compiler>>#from:class:classified:context:notifying:
-DockingBarMorph>>#add:font:icon:help:subMenu:
-MemoryStore>>#copy:ifAbsent:to:ifPresent:fileSystem:
-TClassDescription>>#compile:classified:withStamp:notifying:logSource:
-GTSpotterExceptionsTest>>#shouldRaise:process:origin:during:do:
-SDL2Constants class>>#definePixelFormat_type:order:layout:bits:bytes:
-SimpleHierarchicalListMorph>>#addMorphsTo:from:allowSorting:withExpandedItems:atLevel:
-SimpleHierarchicalListMorph>>#on:list:selected:changeSelected:menu:keystroke:
-RubScrolledTextMorph>>#on:text:accept:readSelection:menu:
-HaloSpec>>#horizontalPlacement:verticalPlacement:color:iconSymbol:addHandleSelector:
-DecompilerConstructor>>#codeMethod:block:tempVars:primitive:class:
-DebuggerMethodMap>>#blockExtentsInto:from:to:scanner:numberer:
-RBAbstractVariablesRefactoring class>>#model:abstractVariablesIn:from:toAll:ignoring:
-RubPluggableTextMorph>>#on:text:accept:readSelection:menu:setSelection:
-RubPluggableTextMorph>>#on:text:accept:readSelection:menu:
-FinderUI>>#forSelectorsDo:forClassNamesDo:forSourceDo:forExamplesDo:forPragmasDo:
-SelectionMorph>>#undoMove:redo:owner:bounds:predecessor:
-MCDependencySorterTest>>#assertItems:orderAs:withRequired:toLoad:extraProvisions:
-CompressedBoundaryShape class>>#points:leftFills:rightFills:fillStyles:lineWidths:lineFills:
-RBRenameTemporaryRefactoring class>>#model:renameTemporaryFrom:to:in:selector:
-TSortable>>#mergeFirst:middle:last:into:by:
-TSortable>>#mergeSortFrom:to:src:dst:by:
-Class>>#asRingDefinitionWithMethods:withSuperclasses:withSubclasses:withPackageKeys:in:
-Class>>#variableSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
-Class>>#weakSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
-Class>>#subclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
-Class>>#subclass:layout:slots:classVariables:category:
-Class>>#variableWordSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
-Class>>#name:traitComposition:methodDict:localSelectors:organization:
-Class>>#weakSubclass:uses:instanceVariableNames:classVariableNames:category:
-Class>>#variableByteSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
-Class>>#variableWordSubclass:uses:instanceVariableNames:classVariableNames:category:
-Class>>#subclass:uses:instanceVariableNames:classVariableNames:poolDictionaries:category:
-Class>>#subclass:uses:instanceVariableNames:classVariableNames:category:
-Class>>#subclass:layout:slots:classVariables:poolDictionaries:category:
-Class>>#subclass:uses:layout:slots:classVariables:poolDictionaries:category:
-Class>>#variableSubclass:uses:instanceVariableNames:classVariableNames:poolDictionaries:category:
-Class>>#subclass:uses:slots:classVariables:category:
-Class>>#weakSubclass:uses:instanceVariableNames:classVariableNames:poolDictionaries:category:
-Class>>#superclass:methodDict:format:name:organization:instVarNames:classPool:sharedPools:
-Class>>#subclass:uses:slots:classVariables:poolDictionaries:category:
-Class>>#variableByteSubclass:uses:instanceVariableNames:classVariableNames:poolDictionaries:category:
-Class>>#variableSubclass:uses:instanceVariableNames:classVariableNames:category:
-Class>>#subclass:slots:classVariables:poolDictionaries:category:
-Class>>#variableWordSubclass:uses:instanceVariableNames:classVariableNames:poolDictionaries:category:
-Class>>#variableByteSubclass:uses:instanceVariableNames:classVariableNames:category:
-Class>>#subclass:uses:layout:slots:classVariables:category:
-CompiledMethodTest>>#a1:a2:a3:a4:a5:a6:a7:a8:a9:a10:a11:a12:a13:a14:a15:
-MessageTally class>>#spyOn:reportOtherProcesses:cutoff:openResultWindow:closeAfter:
-MessageTally class>>#tallySendsTo:inBlock:showTree:closeAfter:openResultWindow:
-TClass>>#asRingDefinitionWithMethods:withSuperclasses:withSubclasses:withPackageKeys:in:
-TClass>>#variableSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
-TClass>>#weakSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
-TClass>>#subclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
-TClass>>#subclass:layout:slots:classVariables:category:
-TClass>>#variableWordSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
-TClass>>#name:traitComposition:methodDict:localSelectors:organization:
-TClass>>#weakSubclass:uses:instanceVariableNames:classVariableNames:category:
-TClass>>#variableByteSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
-TClass>>#variableWordSubclass:uses:instanceVariableNames:classVariableNames:category:
-TClass>>#subclass:uses:instanceVariableNames:classVariableNames:poolDictionaries:category:
-TClass>>#subclass:uses:instanceVariableNames:classVariableNames:category:
-TClass>>#subclass:layout:slots:classVariables:poolDictionaries:category:
-TClass>>#subclass:uses:layout:slots:classVariables:poolDictionaries:category:
-TClass>>#variableSubclass:uses:instanceVariableNames:classVariableNames:poolDictionaries:category:
-TClass>>#subclass:uses:slots:classVariables:category:
-TClass>>#weakSubclass:uses:instanceVariableNames:classVariableNames:poolDictionaries:category:
-TClass>>#superclass:methodDict:format:name:organization:instVarNames:classPool:sharedPools:
-TClass>>#subclass:uses:slots:classVariables:poolDictionaries:category:
-TClass>>#variableByteSubclass:uses:instanceVariableNames:classVariableNames:poolDictionaries:category:
-TClass>>#variableSubclass:uses:instanceVariableNames:classVariableNames:category:
-TClass>>#subclass:slots:classVariables:poolDictionaries:category:
-TClass>>#variableWordSubclass:uses:instanceVariableNames:classVariableNames:poolDictionaries:category:
-TClass>>#variableByteSubclass:uses:instanceVariableNames:classVariableNames:category:
-TClass>>#subclass:uses:layout:slots:classVariables:category:
-RubCompositionScanner>>#composeFrom:inRectangle:firstLine:leftSide:rightSide:
-RubSegmentIconMenuMorph>>#addToggle:target:selector:getStateSelector:enablementSelector:argumentList:
-NBWin32Window class>>#createWindowExW:lpClassName:lpWindowName:dwStyle:x:y:width:height:hWndParent:hMenu:hInstance:lParam:
-NBWin32Window class>>#createWindowExA:lpClassName:lpWindowName:dwStyle:x:y:width:height:hWndParent:hMenu:hInstance:lParam:
-CornerRounder class>>#roundShadowCornersOf:on:in:displayBlock:borderWidth:corners:
-CornerRounder class>>#roundCornersOf:on:in:displayBlock:borderWidth:corners:
-CommandLineUIManager>>#confirm:trueChoice:falseChoice:cancelChoice:default:
-Socket>>#primSocketCreateNetwork:type:receiveBufferSize:sendBufSize:semaIndex:
-Socket>>#primSocketCreateNetwork:type:receiveBufferSize:sendBufSize:semaIndex:readSemaIndex:writeSemaIndex:
-Socket>>#primSocket:sendUDPData:toHost:port:startIndex:count:
-Socket>>#errorSending:startingAt:count:toHost:port:
-Socket>>#primAcceptFrom:receiveBufferSize:sendBufSize:semaIndex:readSemaIndex:writeSemaIndex:
-ClassCommented class>>#class:oldComment:newComment:oldStamp:newStamp:
-MethodChunk class>>#contents:behaviorName:isMeta:category:stamp:
-DisplayMedium>>#drawLine:from:to:clippingBox:rule:fillColor:
-DisplayMedium>>#copyBits:from:at:clippingBox:rule:fillColor:
-Context>>#initializeWith:stackPtr:method:receiver:sender:
-Context>>#setSender:receiver:method:closure:startpc:
-SystemAnnouncer>>#class:oldComment:newComment:oldStamp:newStamp:
-DateAndTime class>>#year:month:day:hour:minute:second:offset:
-DateAndTime class>>#year:month:day:hour:minute:
-DateAndTime class>>#year:month:day:hour:minute:offset:
-DateAndTime class>>#year:month:day:hour:minute:second:nanoSecond:offset:
-DateAndTime class>>#year:day:hour:minute:second:offset:
-DateAndTime class>>#year:month:day:hour:minute:second:
-DateAndTime class>>#year:day:hour:minute:second:
-GTMockSpotterTask>>#execute:withArguments:callback:priority:delay:
-NBInterpreterProxy>>#showDisplayBits:Left:Top:Right:Bottom:
-UndefinedObject>>#subclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
-AsyncFile>>#primWriteStart:fPosition:fromBuffer:at:count:
-MethodAddition>>#compile:classified:withStamp:notifying:logSource:inClass:
-QSystemTally>>#treePrintOn:tabs:thisTab:total:totalTime:tallyExact:orThreshold:
-MessageNode>>#receiver:selector:arguments:precedence:from:sourceRange:
-MessageNode>>#receiver:selector:arguments:precedence:from:
-Morph>>#undoMove:redo:owner:bounds:predecessor:
-Morph>>#treeRenderOn:bounds:color:font:from:
-Morph>>#listRenderOn:atRow:bounds:color:backgroundColor:from:
-TickDialogWindow class>>#itemsList:itemsHeaderName:wrapBlockOrSelector:title:defaultValue:
-JPEGReadWriter>>#primDecodeBlockInto:component:dcTable:acTable:stream:
-ZnUTF8Encoder>>#replace:from:to:with:startingAt:
-MetacelloVersionValidator class>>#validateProject:version:debug:recurse:visited:
-RBAddParameterRefactoring class>>#model:addParameterToMethod:in:newSelector:initializer:
-DecompilerConstructorForClosures>>#codeMethod:block:tempVars:primitive:class:
-RBSplitClassRefactoring class>>#model:class:instanceVariables:newClassName:referenceVariableName:
-FTPluggableIconListMorphAdaptor>>#on:list:selected:changeSelected:menu:keystroke:wrapSelector:
-FTPluggableIconListMorphAdaptor>>#on:list:primarySelection:changePrimarySelection:listSelection:changeListSelection:menu:keystroke:
-FTPluggableIconListMorphAdaptor>>#on:list:selected:changeSelected:menu:keystroke:
-ColorMappingCanvas>>#drawString:from:to:in:font:color:underline:underlineColor:strikethrough:strikethroughColor:
-ColorMappingCanvas>>#frameAndFillRectangle:fillColor:borderWidth:topLeftColor:bottomRightColor:
-ColorMappingCanvas>>#drawString:from:to:in:font:color:
-MCDiffyVersion>>#initializeWithPackage:info:dependencies:baseInfo:patch:
-DialogItemsChooser class>>#on:unselectedItems:selectedItems:selectedItemsSetterSelector:title:unselectedItemsLabel:selectedItemsLabel:
-PluggableMultiColumnListMorph class>>#on:list:selected:changeSelected:menu:keystroke:wrapSelector:
-PluggableMultiColumnListMorph class>>#on:list:selected:changeSelected:menu:wrapSelector:
-MouseMoveEvent>>#setType:startPoint:endPoint:trail:buttons:hand:stamp:
-CharacterScanner>>#primScanCharactersFrom:to:in:rightX:stopConditions:kern:
-CharacterScanner>>#scanCharactersFrom:to:in:rightX:stopConditions:kern:
-CompressedBoundaryShape>>#setPoints:leftFills:rightFills:fillStyles:lineWidths:lineFills:
-GLMAsyncTask>>#execute:withArguments:callback:priority:delay:
-UITheme>>#chooseFileIn:title:extensions:path:preview:
-UITheme>>#chooseFullFileNameIn:title:patterns:path:preview:
-UITheme>>#newAutoAcceptTextEntryIn:for:get:set:class:getEnabled:help:
-UITheme>>#newEditableDropListIn:for:list:getSelected:setSelected:addToList:class:default:ghostText:getEnabled:useIndex:help:
-UITheme>>#newTextEntryIn:for:get:set:class:getEnabled:help:entryCompletion:
-UITheme>>#newMorphListIn:for:list:getSelected:setSelected:getEnabled:help:
-UITheme>>#fileSaveIn:title:initialAnswer:extensions:path:
-UITheme>>#newTreeIn:for:list:selected:changeSelected:
-UITheme>>#newListIn:for:list:selected:changeSelected:icon:getEnabled:help:
-UITheme>>#textEntryIn:text:title:entryText:entryCompletion:
-UITheme>>#newColorChooserIn:for:getColor:setColor:getEnabled:help:
-UITheme>>#newAutoAcceptTextEntryIn:for:get:set:class:getEnabled:help:entryCompletion:
-UITheme>>#newTextEntryIn:for:get:set:class:getEnabled:help:
-UITheme>>#chooseIn:title:labels:values:lines:
-UITheme>>#newAutoAcceptTextEditorIn:for:getText:setText:getEnabled:
-UITheme>>#newRadioButtonIn:for:getSelected:setSelected:getEnabled:label:help:
-UITheme>>#chooseFileNameIn:title:extensions:path:preview:
-UITheme>>#chooseOrRequestIn:title:labels:values:lines:
-UITheme>>#newButtonIn:for:getState:action:arguments:getEnabled:label:help:
-UITheme>>#newListIn:for:list:selected:changeSelected:getEnabled:help:
-UITheme>>#newBasicTextEditorIn:for:getText:setText:getEnabled:menu:
-UITheme>>#newAutoAcceptTextEntryIn:for:get:set:class:getEnabled:font:help:
-UITheme>>#newHueSelectorIn:for:getHue:setHue:help:
-UITheme>>#newDropListIn:for:list:getSelected:setSelected:getEnabled:useIndex:help:
-UITheme>>#customQuestionIn:text:yesText:noText:title:
-UITheme>>#customQuestionIn:text:yesText:noText:cancelText:default:title:
-UITheme>>#newBracketSliderIn:for:getValue:setValue:min:max:quantum:getEnabled:help:
-UITheme>>#newMorphDropListIn:for:list:getSelected:setSelected:getEnabled:useIndex:help:
-UITheme>>#newFuzzyLabelIn:for:label:offset:alpha:getEnabled:
-UITheme>>#newAutoAcceptTextEntryIn:for:get:set:class:getEnabled:font:help:entryCompletion:
-UITheme>>#fileOpenIn:title:extensions:path:preview:
-UITheme>>#newCheckboxIn:for:getSelected:setSelected:getEnabled:label:help:
-UITheme>>#textEditorIn:text:title:entryText:entryHeight:
-UITheme>>#newSliderIn:for:getValue:setValue:min:max:quantum:getEnabled:help:
-UITheme>>#chooseFullFileNameIn:title:extensions:path:preview:
-UITheme>>#chooseFileNameIn:title:patterns:path:preview:
-UITheme>>#chooseIn:title:message:labels:values:lines:
-UITheme>>#newIncrementalSliderIn:for:getValue:setValue:min:max:quantum:getEnabled:help:
-UITheme>>#newTextEditorIn:for:getText:setText:getEnabled:menu:
-UITheme>>#newAlphaSelectorIn:for:getAlpha:setAlpha:help:
-UITheme>>#newMorphDropListIn:for:list:getSelected:setSelected:getEnabled:help:
-UITheme>>#newCheckboxIn:for:getSelected:setSelected:getEnabled:getLabel:help:
-UITheme>>#newButtonIn:for:getState:action:arguments:getEnabled:getLabel:help:
-UITheme>>#enterOrRequestIn:title:labels:values:lines:
-MCTraitDefinition>>#initializeWithName:traitComposition:category:comment:commentStamp:
-BalloonEngine>>#primAddOvalFrom:to:fillIndex:borderWidth:borderColor:
-BalloonEngine>>#primAddExternalEdge:initialX:initialY:initialZ:leftFillIndex:rightFillIndex:
-BalloonEngine>>#primAddPolygon:segments:fill:lineWidth:lineFill:
-BalloonEngine>>#primAddBitmapFill:colormap:tile:from:along:normal:xIndex:
-BalloonEngine>>#drawRectangle:fill:borderWidth:borderColor:transform:
-BalloonEngine>>#primAddBezierShape:segments:fill:lineWidth:lineFill:
-BalloonEngine>>#drawPolygon:fill:borderWidth:borderColor:transform:
-BalloonEngine>>#primAddCompressedShape:segments:leftFills:rightFills:lineWidths:lineFills:fillIndexList:
-BalloonEngine>>#drawOval:fill:borderWidth:borderColor:transform:
-BalloonEngine>>#drawGeneralPolygon:fill:borderWidth:borderColor:transform:
-BalloonEngine>>#primAddGradientFill:from:along:normal:radial:
-BalloonEngine>>#primAddBezierFrom:to:via:leftFillIndex:rightFillIndex:
-BalloonEngine>>#drawBezierShape:fill:borderWidth:borderColor:transform:
-BalloonEngine>>#drawGeneralBezierShape:fill:borderWidth:borderColor:transform:
-BalloonEngine>>#primAddRectFrom:to:fillIndex:borderWidth:borderColor:
-MorphTreeColumn>>#headerButtonLabel:font:icon:target:actionSelector:arguments:
-MorphTreeColumn>>#headerButtonLabel:font:target:actionSelector:arguments:
-MetacelloVersionConstructor class>>#spawnPackageMethodIn:named:sourceVersion:targetVersion:blessing:
-MetacelloVersionConstructor class>>#spawnPackageMethodIn:category:named:sourceVersion:targetVersion:blessing:
-MetacelloPackagesSpec>>#slideIn:spec:baseIndex:seen:firstTime:
-MCMethodDefinition>>#initializeWithClassName:classIsMeta:selector:category:timeStamp:source:
-NonInteractiveUIManager>>#confirm:trueChoice:falseChoice:cancelChoice:default:
-RubSurfaceSelectionShape class>>#vertices:firstIndex:lastIndex:color:borderWidth:borderColor:
-MCDiffyVersion class>>#package:info:dependencies:baseInfo:patch:
-MCDiffyVersion class>>#package:info:snapshot:dependencies:baseVersion:
-MCMethodDefinition class>>#className:classIsMeta:selector:category:timeStamp:source:
-MCMethodDefinition class>>#className:selector:category:timeStamp:source:
-GLMPresentation>>#populate:icon:on:entitled:with:
-GLMPresentation>>#morphicPopulate:icon:on:entitled:with:
-ZnBase64Encoder>>#decode:and:and:and:to:
-AbstractFont>>#displayString:on:from:to:at:kern:baselineY:
-AbstractFont>>#displayString:on:from:to:at:kern:
-AbstractFont>>#scanMultibyteJapaneseCharactersFrom:to:in:with:rightX:
-AbstractFont>>#scanMultibyteCharactersFrom:to:in:with:rightX:
-AbstractFont>>#scanByteCharactersFrom:to:in:with:rightX:
-Collection class>>#with:with:with:with:with:
-Collection class>>#with:with:with:with:with:with:
-NBFFICalloutTests>>#checkType:class:arity:stackIndex:elementIndex:
-MenuMorph>>#addToggle:target:selector:getStateSelector:enablementSelector:
-MenuMorph>>#addToggle:target:selector:getStateSelector:argumentList:
-MenuMorph>>#addToggle:target:selector:getStateSelector:enablementSelector:argumentList:
-TxCharacterSpan>>#drawOn:from:to:at:font:
-CairoFreetypeFontRenderer>>#convertString:len:ofFont:toGlyphs:numGlyphs:x:y:
-PluggableListMorph class>>#on:list:primarySelection:changePrimarySelection:listSelection:changeListSelection:menu:keystroke:
-PluggableListMorph class>>#on:list:selected:changeSelected:menu:
-PluggableListMorph class>>#on:list:selected:changeSelected:menu:keystroke:
-PluggableListMorph class>>#on:list:primarySelection:changePrimarySelection:listSelection:changeListSelection:menu:
-WarpBlt class>>#rotate:degrees:center:scaleBy:smoothing:
-FTPluggableIconListMorphAdaptor class>>#on:list:primarySelection:changePrimarySelection:listSelection:changeListSelection:menu:keystroke:
-FTPluggableIconListMorphAdaptor class>>#on:list:primarySelection:changePrimarySelection:listSelection:changeListSelection:menu:
-FTPluggableIconListMorphAdaptor class>>#on:list:selected:changeSelected:menu:keystroke:
-FTPluggableIconListMorphAdaptor class>>#on:list:selected:changeSelected:menu:
-FTPluggableIconListMorphAdaptor class>>#on:list:selected:changeSelected:menu:keystroke:wrapSelector:
-FTPluggableIconListMorphAdaptor class>>#on:list:selected:changeSelected:menu:wrapSelector:
-CompoundTextConverterState class>>#g0Size:g1Size:g0Leading:g1Leading:charSize:streamPosition:
-DisplayScreen>>#copyBits:from:at:clippingBox:rule:fillColor:map:
-DisplayScreen>>#copyBits:from:at:clippingBox:rule:fillColor:
-CompositionScanner>>#composeFrom:inRectangle:firstLine:leftSide:rightSide:
-AthensCairoGradientPaint class>>#radialBetween:extending:and:extending:withColorRamp:
-AthensCairoGradientPaint class>>#primCreateRadialXo:yo:radiuso:x1:y1:radius1:
-Heap>>#mergeFirst:middle:last:into:by:
-Heap>>#mergeSortFrom:to:src:dst:by:
-FreeTypeGlyphRenderer>>#glyphOf:colorValue:mono:subpixelPosition:font:
-FreeTypeGlyphRenderer>>#subGlyphOf:colorValue:mono:subpixelPosition:font:
-FreeTypeGlyphRenderer>>#mode41GlyphOf:colorValue:mono:subpixelPosition:font:
-Form>>#drawLine:from:to:clippingBox:rule:fillColor:
-Form>>#displayOn:at:clippingBox:rule:fillColor:
-Form>>#copyBits:from:at:clippingBox:rule:fillColor:map:
-Form>>#listRenderOn:atRow:bounds:color:backgroundColor:from:
-Form>>#copyBits:from:at:clippingBox:rule:fillColor:
-MouseClickState>>#client:click:dblClick:dblClickTime:dblClickTimeout:drag:threshold:event:
-FBDASTBuilder>>#codeMethod:arguments:body:pragmas:class:
-MouseButtonEvent>>#setType:position:which:buttons:hand:stamp:
-SerialPort>>#primOpenPort:baudRate:stopBitsType:parityType:dataBits:inFlowControlType:outFlowControlType:xOnByte:xOffByte:
-SerialPort>>#primOpenPortByName:baudRate:stopBitsType:parityType:dataBits:inFlowControlType:outFlowControlType:xOnByte:xOffByte:
-ExampleBuilderMorph>>#newListFor:list:selected:changeSelected:getEnabled:help:
-ExampleBuilderMorph>>#newDropListFor:list:getSelected:setSelected:getEnabled:useIndex:help:
-ExampleBuilderMorph>>#newCheckboxFor:getSelected:setSelected:label:help:
-ExampleBuilderMorph>>#newAutoAcceptTextEntryFor:get:set:class:getEnabled:help:entryCompletion:
-ExampleBuilderMorph>>#newButtonFor:action:getEnabled:label:help:
-ExampleBuilderMorph>>#newAutoAcceptTextEntryFor:get:set:class:getEnabled:font:help:entryCompletion:
-ExampleBuilderMorph>>#newRadioButtonFor:getSelected:setSelected:getEnabled:label:help:
-ExampleBuilderMorph>>#newButtonFor:getState:action:arguments:getEnabled:labelForm:help:
-ExampleBuilderMorph>>#newCheckboxFor:getSelected:setSelected:getEnabled:getLabel:help:
-ExampleBuilderMorph>>#newDropListFor:list:getSelected:setSelected:getEnabled:help:
-ExampleBuilderMorph>>#newFuzzyLabelFor:label:offset:alpha:getEnabled:
-ExampleBuilderMorph>>#newAutoAcceptTextEntryFor:getText:setText:getEnabled:font:help:
-ExampleBuilderMorph>>#newListFor:list:selected:changeSelected:help:
-ExampleBuilderMorph>>#newListFor:list:selected:changeSelected:icon:getEnabled:help:
-ExampleBuilderMorph>>#newBasicTextEditorFor:getText:setText:getEnabled:menu:
-ExampleBuilderMorph>>#newTextEditorFor:getText:setText:getEnabled:menu:
-ExampleBuilderMorph>>#newMorphListFor:list:getSelected:setSelected:help:
-ExampleBuilderMorph>>#newDropListFor:list:getSelected:setSelected:help:
-ExampleBuilderMorph>>#newIncrementalSliderFor:getValue:setValue:min:max:quantum:getEnabled:help:
-ExampleBuilderMorph>>#newBracketSliderFor:getValue:setValue:min:max:quantum:getEnabled:help:
-ExampleBuilderMorph>>#newColorChooserFor:getColor:setColor:getEnabled:help:
-ExampleBuilderMorph>>#newAutoAcceptTextEntryFor:get:set:class:getEnabled:font:help:
-ExampleBuilderMorph>>#newButtonFor:getState:action:arguments:getEnabled:getLabel:help:
-ExampleBuilderMorph>>#newTextEntryFor:getText:setText:getEnabled:help:
-ExampleBuilderMorph>>#newAutoAcceptTextEntryFor:getText:setText:getEnabled:font:help:entryCompletion:
-ExampleBuilderMorph>>#newTextEntryFor:getText:setText:getEnabled:help:entryCompletion:
-ExampleBuilderMorph>>#newAutoAcceptTextEntryFor:getText:setText:getEnabled:help:entryCompletion:
-ExampleBuilderMorph>>#newButtonFor:getState:action:arguments:getEnabled:label:help:
-ExampleBuilderMorph>>#newMorphDropListFor:list:getSelected:setSelected:getEnabled:help:
-ExampleBuilderMorph>>#newCheckboxFor:getSelected:setSelected:getEnabled:label:help:
-ExampleBuilderMorph>>#newEditableDropListFor:list:getSelected:setSelected:addToList:ghostText:getEnabled:help:
-ExampleBuilderMorph>>#newRadioButtonFor:getSelected:setSelected:label:help:
-ExampleBuilderMorph>>#newEditableDropListFor:list:getSelected:setSelected:addToList:class:default:ghostText:getEnabled:useIndex:help:
-ExampleBuilderMorph>>#newAutoAcceptTextEntryFor:getText:setText:getEnabled:help:
-ExampleBuilderMorph>>#newMorphDropListFor:list:getSelected:setSelected:getEnabled:useIndex:help:
-ExampleBuilderMorph>>#newBracketSliderFor:getValue:setValue:min:max:quantum:help:
-ExampleBuilderMorph>>#newAutoAcceptTextEntryFor:get:set:class:getEnabled:help:
-ExampleBuilderMorph>>#newMorphDropListFor:list:getSelected:setSelected:help:
-ExampleBuilderMorph>>#newTextEntryFor:get:set:class:getEnabled:help:
-ExampleBuilderMorph>>#newSliderFor:getValue:setValue:getEnabled:help:
-ExampleBuilderMorph>>#newMorphListFor:list:getSelected:setSelected:getEnabled:help:
-ExampleBuilderMorph>>#newSliderFor:getValue:setValue:min:max:quantum:getEnabled:help:
-WorldMorph>>#startStepping:at:selector:arguments:stepTime:
-StrikeFont>>#displayString:on:from:to:at:kern:baselineY:
-StrikeFont>>#displayString:on:from:to:at:kern:
-StrikeFont>>#displayMultiString:on:from:to:at:kern:baselineY:
-StrikeFont>>#buildfontNamed:fromForms:startingAtAscii:ascent:descent:maxWid:
-StrikeFont>>#characters:in:displayAt:clippedBy:rule:fillColor:kernDelta:on:
-EditableDropListMorph class>>#on:list:selected:changeSelected:useIndex:addToList:class:getEnabled:
-EditableDropListMorph class>>#on:list:selected:changeSelected:useIndex:addToList:class:getEnabled:default:
-ZdcPluginSSLSession>>#primitiveSSL:decrypt:startingAt:count:into:
-ZdcPluginSSLSession>>#primitiveSSL:connect:startingAt:count:into:
-ZdcPluginSSLSession>>#primitiveSSL:accept:startingAt:count:into:
-ZdcPluginSSLSession>>#primitiveSSL:encrypt:startingAt:count:into:
-Canvas>>#warpImage:transform:at:sourceRect:cellSize:
-Canvas>>#drawString:from:to:in:font:color:underline:underlineColor:strikethrough:strikethroughColor:
-Canvas>>#drawString:from:to:at:font:color:underline:underlineColor:strikethrough:strikethroughColor:
-Canvas>>#line:to:width:color:stepWidth:secondWidth:secondColor:secondStepWidth:
-Canvas>>#line:to:width:colors:dashes:startingOffset:
-Canvas>>#drawString:in:font:color:underline:underlineColor:strikethrough:strikethroughColor:
-Canvas>>#drawString:from:to:at:font:color:
-Canvas>>#drawString:from:to:in:font:color:
-Canvas>>#image:at:sourceRect:rule:alpha:
-Canvas>>#frameRectangle:width:colors:dashes:offset:
-Canvas>>#frameAndFillRectangle:fillColor:borderWidth:topLeftColor:bottomRightColor:
-Canvas>>#line:to:width:color:dashLength:secondColor:secondDashLength:startingOffset:
-SparseLargeTable>>#initChunkSize:size:arrayClass:base:defaultValue:
-ClassDescription>>#compile:classified:withStamp:notifying:logSource:
-GrafPort>>#image:at:sourceRect:rule:alpha:
-RBProgramNode>>#matchList:index:against:index:inContext:
-ClassFactoryWithOrganization>>#newClassNamed:subclassOf:instanceVariableNames:classVariableNames:category:
-SpecDebugger class>>#openOn:context:label:contents:fullView:
-MBAddConfigurationCommand>>#executeAddBaselineForConfigurationNamed:repositoryDescription:versionString:packages:configurations:
-MBAddConfigurationCommand>>#executeAddBaselineForConfigurationNamed:repositoryDescription:versionString:packages:configurations:repositories:
-ChangeSorterModel>>#buildSelectorDescriptionFor:class:selector:prettyPrint:showDiff:
-ChangeSorterModel>>#setContentsOfChangeSet:forClass:andSelector:prettyPrint:showDiff:
-Text>>#treeRenderOn:bounds:color:font:from:
-Text>>#listRenderOn:atRow:bounds:color:backgroundColor:from:
-SparseLargeTable class>>#new:chunkSize:arrayClass:base:defaultValue:
-SparseLargeArray>>#initChunkSize:size:arrayClass:base:defaultValue:
-MCClassDefinition class>>#name:superclassName:category:instVarNames:comment:
-MCClassDefinition class>>#name:superclassName:traitComposition:classTraitComposition:category:instVarNames:classVarNames:poolDictionaryNames:classInstVarNames:type:comment:commentStamp:
-MCClassDefinition class>>#name:superclassName:category:instVarNames:classVarNames:poolDictionaryNames:classInstVarNames:type:comment:
-MCClassDefinition class>>#name:superclassName:category:instVarNames:classVarNames:poolDictionaryNames:classInstVarNames:comment:
-MCClassDefinition class>>#name:superclassName:category:instVarNames:classVarNames:poolDictionaryNames:classInstVarNames:type:comment:commentStamp:
-AthensBezierConverter>>#isFlatBezier2_x1:y1:x2:y2:x3:y3:
-AthensBezierConverter>>#recursiveBezier2_x1:y1:x2:y2:x3:y3:
-AJx86Instruction>>#emitX86RM:size:regOrCode:rm:immSize:
-FixedFaceFont>>#displayString:on:from:to:at:kern:baselineY:
-FixedFaceFont>>#displayString:on:from:to:at:kern:
-FixedFaceFont>>#displayErrorOn:length:at:kern:baselineY:
-FixedFaceFont>>#displayString:on:from:to:at:kern:from:
-FixedFaceFont>>#displayString:on:from:to:at:kern:from:baselineY:
-FixedFaceFont>>#displayPasswordOn:length:at:kern:baselineY:
-NECUntypedModel class>>#class:temporaries:additionals:variables:selectors:
-SequenceableCollection>>#mergeFirst:middle:last:into:by:
-SequenceableCollection>>#mergeSortFrom:to:src:dst:by:
-SUnitTest>>#assertForTestResult:runCount:passed:failed:errors:expectedFailures:
-SUnitTest>>#assertForTestResult:runCount:passed:failed:errors:
-RBExtractToTemporaryRefactoring class>>#model:extract:to:from:in:
-PluggableTextMorph class>>#on:text:accept:readSelection:menu:setSelection:
-PluggableTextMorph class>>#on:text:accept:readSelection:menu:
-DeflateStream>>#findMatch:lastLength:lastMatch:chainLength:goodMatch:
-SyntaxErrorDebugger>>#setClass:code:error:location:debugger:doitFlag:
-DiffChangeMorph class>>#from:label:to:label:contextClass:
-MetacelloVersionConstructor>>#spawnPackageMethodIn:category:named:sourceVersion:targetVersion:blessing:
-ClassModification class>>#modify:extend:withLayoutType:slots:sharedVariables:sharedPools:traitComposition:compactClassIndex:
-NECUntypedModel>>#setClass:temporaries:additionals:variables:selectors:
-EncodedCharSet class>>#scanMultibyteCharactersFrom:to:in:with:rightX:font:
-StandardWindow>>#newListFor:list:selected:changeSelected:getEnabled:help:
-StandardWindow>>#newDropListFor:list:getSelected:setSelected:getEnabled:useIndex:help:
-StandardWindow>>#newCheckboxFor:getSelected:setSelected:label:help:
-StandardWindow>>#newAutoAcceptTextEntryFor:get:set:class:getEnabled:help:entryCompletion:
-StandardWindow>>#newButtonFor:action:getEnabled:label:help:
-StandardWindow>>#newAutoAcceptTextEntryFor:get:set:class:getEnabled:font:help:entryCompletion:
-StandardWindow>>#newRadioButtonFor:getSelected:setSelected:getEnabled:label:help:
-StandardWindow>>#newButtonFor:getState:action:arguments:getEnabled:labelForm:help:
-StandardWindow>>#newCheckboxFor:getSelected:setSelected:getEnabled:getLabel:help:
-StandardWindow>>#newDropListFor:list:getSelected:setSelected:getEnabled:help:
-StandardWindow>>#newFuzzyLabelFor:label:offset:alpha:getEnabled:
-StandardWindow>>#newAutoAcceptTextEntryFor:getText:setText:getEnabled:font:help:
-StandardWindow>>#newListFor:list:selected:changeSelected:help:
-StandardWindow>>#newListFor:list:selected:changeSelected:icon:getEnabled:help:
-StandardWindow>>#newBasicTextEditorFor:getText:setText:getEnabled:menu:
-StandardWindow>>#newTextEditorFor:getText:setText:getEnabled:menu:
-StandardWindow>>#newMorphListFor:list:getSelected:setSelected:help:
-StandardWindow>>#newDropListFor:list:getSelected:setSelected:help:
-StandardWindow>>#newIncrementalSliderFor:getValue:setValue:min:max:quantum:getEnabled:help:
-StandardWindow>>#newBracketSliderFor:getValue:setValue:min:max:quantum:getEnabled:help:
-StandardWindow>>#newColorChooserFor:getColor:setColor:getEnabled:help:
-StandardWindow>>#newAutoAcceptTextEntryFor:get:set:class:getEnabled:font:help:
-StandardWindow>>#newButtonFor:getState:action:arguments:getEnabled:getLabel:help:
-StandardWindow>>#newTextEntryFor:getText:setText:getEnabled:help:
-StandardWindow>>#newAutoAcceptTextEntryFor:getText:setText:getEnabled:font:help:entryCompletion:
-StandardWindow>>#newTextEntryFor:getText:setText:getEnabled:help:entryCompletion:
-StandardWindow>>#newAutoAcceptTextEntryFor:getText:setText:getEnabled:help:entryCompletion:
-StandardWindow>>#newButtonFor:getState:action:arguments:getEnabled:label:help:
-StandardWindow>>#newMorphDropListFor:list:getSelected:setSelected:getEnabled:help:
-StandardWindow>>#newCheckboxFor:getSelected:setSelected:getEnabled:label:help:
-StandardWindow>>#newEditableDropListFor:list:getSelected:setSelected:addToList:ghostText:getEnabled:help:
-StandardWindow>>#newRadioButtonFor:getSelected:setSelected:label:help:
-StandardWindow>>#newEditableDropListFor:list:getSelected:setSelected:addToList:class:default:ghostText:getEnabled:useIndex:help:
-StandardWindow>>#newAutoAcceptTextEntryFor:getText:setText:getEnabled:help:
-StandardWindow>>#newMorphDropListFor:list:getSelected:setSelected:getEnabled:useIndex:help:
-StandardWindow>>#newBracketSliderFor:getValue:setValue:min:max:quantum:help:
-StandardWindow>>#newAutoAcceptTextEntryFor:get:set:class:getEnabled:help:
-StandardWindow>>#newMorphDropListFor:list:getSelected:setSelected:help:
-StandardWindow>>#newTextEntryFor:get:set:class:getEnabled:help:
-StandardWindow>>#newSliderFor:getValue:setValue:getEnabled:help:
-StandardWindow>>#newMorphListFor:list:getSelected:setSelected:getEnabled:help:
-StandardWindow>>#newSliderFor:getValue:setValue:min:max:quantum:getEnabled:help:
-SDL2 class>>#createRGBSurfaceFromPixels:width:height:depth:pitch:rmask:gmask:bmask:amask:
-SDL2 class>>#createWindow:x:y:width:height:flags:
-String>>#treeRenderOn:bounds:color:font:from:
-String>>#listRenderOn:atRow:bounds:color:backgroundColor:from:
-PluggableTextMorph>>#on:text:accept:readSelection:menu:setSelection:
-PluggableTextMorph>>#on:text:accept:readSelection:menu:
-NewVersionBrowser>>#scanVersionsOf:class:meta:category:selector:
-NewVersionBrowser>>#browseVersionsOf:class:meta:category:selector:
-Number class>>#readScaledDecimal:fractionPart:digits:base:sign:from:
+RubSurfaceSelectionShape>>#vertices:firstIndex:lastIndex:color:borderWidth:borderColor: [Rubric]
+GTInspectorPresentationFilter>>#openListChooseLabeled:forInspector:with:select:format:actionSelector: [GT-Inspector]
+FileSystemDirectoryEntry class>>#reference:creation:modification:isDir:size:posixPermissions:isSymlink: [FileSystem-Core]
+FileSystemDirectoryEntry class>>#fileSystem:path:creation:modification:isDir:size:posixPermissions:isSymlink: [FileSystem-Core]
+KeyboardEvent>>#setType:buttons:position:keyValue:charCode:hand:stamp: [Morphic-Core]
+KeyboardEvent>>#setType:buttons:position:keyValue:hand:stamp: [Morphic-Core]
+AbstractMorphicAdapter>>#treeRenderOn:bounds:color:font:from: [Spec-MorphicAdapters]
+AbstractMorphicAdapter>>#listRenderOn:atRow:bounds:color:backgroundColor:from: [Spec-MorphicAdapters]
+BalloonCanvas>>#drawString:from:to:in:font:color:underline:underlineColor:strikethrough:strikethroughColor: [Balloon]
+BalloonCanvas>>#frameAndFillRectangle:fillColor:borderWidth:topLeftColor:bottomRightColor: [Balloon]
+BalloonCanvas>>#drawString:from:to:in:font:color: [Balloon]
+MouseWheelEvent>>#setType:position:direction:buttons:hand:stamp: [Morphic-Core]
+FileSystemStore>>#copy:ifAbsent:to:ifPresent:fileSystem: [FileSystem-Core]
+FileSystemStore>>#rename:ifAbsent:to:ifPresent:fileSystem: [FileSystem-Core]
+InstructionStream>>#interpretNext2ByteSistaV1Instruction:for:extA:extB:startPC: [Kernel]
+InstructionStream>>#interpretNext3ByteSistaV1Instruction:for:extA:extB:startPC: [Kernel]
+SimpleServiceEntry class>>#provider:label:selector:description:buttonLabel: [System-FileRegistry]
+GroupWindowMorph>>#newListFor:list:selected:changeSelected:getEnabled:help: [Polymorph-Widgets]
+GroupWindowMorph>>#newDropListFor:list:getSelected:setSelected:getEnabled:useIndex:help: [Polymorph-Widgets]
+GroupWindowMorph>>#newCheckboxFor:getSelected:setSelected:label:help: [Polymorph-Widgets]
+GroupWindowMorph>>#newAutoAcceptTextEntryFor:get:set:class:getEnabled:help:entryCompletion: [Polymorph-Widgets]
+GroupWindowMorph>>#newButtonFor:action:getEnabled:label:help: [Polymorph-Widgets]
+GroupWindowMorph>>#newAutoAcceptTextEntryFor:get:set:class:getEnabled:font:help:entryCompletion: [Polymorph-Widgets]
+GroupWindowMorph>>#newRadioButtonFor:getSelected:setSelected:getEnabled:label:help: [Polymorph-Widgets]
+GroupWindowMorph>>#newButtonFor:getState:action:arguments:getEnabled:labelForm:help: [Polymorph-Widgets]
+GroupWindowMorph>>#newCheckboxFor:getSelected:setSelected:getEnabled:getLabel:help: [Polymorph-Widgets]
+GroupWindowMorph>>#newDropListFor:list:getSelected:setSelected:getEnabled:help: [Polymorph-Widgets]
+GroupWindowMorph>>#newFuzzyLabelFor:label:offset:alpha:getEnabled: [Polymorph-Widgets]
+GroupWindowMorph>>#newAutoAcceptTextEntryFor:getText:setText:getEnabled:font:help: [Polymorph-Widgets]
+GroupWindowMorph>>#newListFor:list:selected:changeSelected:help: [Polymorph-Widgets]
+GroupWindowMorph>>#newListFor:list:selected:changeSelected:icon:getEnabled:help: [Polymorph-Widgets]
+GroupWindowMorph>>#newBasicTextEditorFor:getText:setText:getEnabled:menu: [Polymorph-Widgets]
+GroupWindowMorph>>#newTextEditorFor:getText:setText:getEnabled:menu: [Polymorph-Widgets]
+GroupWindowMorph>>#newMorphListFor:list:getSelected:setSelected:help: [Polymorph-Widgets]
+GroupWindowMorph>>#newDropListFor:list:getSelected:setSelected:help: [Polymorph-Widgets]
+GroupWindowMorph>>#newIncrementalSliderFor:getValue:setValue:min:max:quantum:getEnabled:help: [Polymorph-Widgets]
+GroupWindowMorph>>#newBracketSliderFor:getValue:setValue:min:max:quantum:getEnabled:help: [Polymorph-Widgets]
+GroupWindowMorph>>#newColorChooserFor:getColor:setColor:getEnabled:help: [Polymorph-Widgets]
+GroupWindowMorph>>#newAutoAcceptTextEntryFor:get:set:class:getEnabled:font:help: [Polymorph-Widgets]
+GroupWindowMorph>>#newButtonFor:getState:action:arguments:getEnabled:getLabel:help: [Polymorph-Widgets]
+GroupWindowMorph>>#newTextEntryFor:getText:setText:getEnabled:help: [Polymorph-Widgets]
+GroupWindowMorph>>#newAutoAcceptTextEntryFor:getText:setText:getEnabled:font:help:entryCompletion: [Polymorph-Widgets]
+GroupWindowMorph>>#newTextEntryFor:getText:setText:getEnabled:help:entryCompletion: [Polymorph-Widgets]
+GroupWindowMorph>>#newAutoAcceptTextEntryFor:getText:setText:getEnabled:help:entryCompletion: [Polymorph-Widgets]
+GroupWindowMorph>>#newButtonFor:getState:action:arguments:getEnabled:label:help: [Polymorph-Widgets]
+GroupWindowMorph>>#newMorphDropListFor:list:getSelected:setSelected:getEnabled:help: [Polymorph-Widgets]
+GroupWindowMorph>>#newCheckboxFor:getSelected:setSelected:getEnabled:label:help: [Polymorph-Widgets]
+GroupWindowMorph>>#newEditableDropListFor:list:getSelected:setSelected:addToList:ghostText:getEnabled:help: [Polymorph-Widgets]
+GroupWindowMorph>>#newRadioButtonFor:getSelected:setSelected:label:help: [Polymorph-Widgets]
+GroupWindowMorph>>#newEditableDropListFor:list:getSelected:setSelected:addToList:class:default:ghostText:getEnabled:useIndex:help: [Polymorph-Widgets]
+GroupWindowMorph>>#newAutoAcceptTextEntryFor:getText:setText:getEnabled:help: [Polymorph-Widgets]
+GroupWindowMorph>>#newMorphDropListFor:list:getSelected:setSelected:getEnabled:useIndex:help: [Polymorph-Widgets]
+GroupWindowMorph>>#newBracketSliderFor:getValue:setValue:min:max:quantum:help: [Polymorph-Widgets]
+GroupWindowMorph>>#newAutoAcceptTextEntryFor:get:set:class:getEnabled:help: [Polymorph-Widgets]
+GroupWindowMorph>>#newMorphDropListFor:list:getSelected:setSelected:help: [Polymorph-Widgets]
+GroupWindowMorph>>#newTextEntryFor:get:set:class:getEnabled:help: [Polymorph-Widgets]
+GroupWindowMorph>>#newSliderFor:getValue:setValue:getEnabled:help: [Polymorph-Widgets]
+GroupWindowMorph>>#newMorphListFor:list:getSelected:setSelected:getEnabled:help: [Polymorph-Widgets]
+GroupWindowMorph>>#newSliderFor:getValue:setValue:min:max:quantum:getEnabled:help: [Polymorph-Widgets]
+DisplayScanner>>#text:textStyle:foreground:background:fillBlt:ignoreColorChanges: [Text-Scanning]
+DisplayObject>>#displayOn:at:clippingBox:rule:fillColor: [Graphics-Display Objects]
+AthensBalloonEngine>>#registerFormFill:origin:direction:normal:tileFlag: [Athens-Balloon]
+FileSystemDirectoryEntry>>#initializeWithRef:creation:modification:isDir:size:posixPermissions:isSymlink: [FileSystem-Core]
+OCPerformTest>>#a1:a2:a3:a4:a5:a6:a7:a8:a9:a10:a11:a12:a13:a14:a15: [OpalCompiler-Tests]
+SpecTreeColumn>>#setHeaderButtonLabel:font:icon:target:actionSelector: [Spec-MorphicAdapters]
+LogicalFont class>>#familyName:fallbackFamilyNames:pointSize:stretchValue:weightValue:slantValue: [FontInfrastructure]
+LogicalFont class>>#familyName:pointSize:stretchValue:weightValue:slantValue: [FontInfrastructure]
+StrikeFontSet>>#displayString:on:from:to:at:kern:baselineY: [Graphics-Fonts]
+StrikeFontSet>>#displayString:on:from:to:at:kern: [Graphics-Fonts]
+StrikeFontSet>>#displayMultiString:on:from:to:at:kern:baselineY: [Graphics-Fonts]
+StrikeFontSet>>#displayString:on:from:to:at:kern:from:baselineY: [Graphics-Fonts]
+StrikeFontSet>>#characters:in:displayAt:clippedBy:rule:fillColor:kernDelta:on: [Graphics-Fonts]
+BitBlt class>>#destForm:sourceForm:halftoneForm:combinationRule:destOrigin:sourceOrigin:extent:clipRect: [Graphics-Primitives]
+BitBlt class>>#destForm:sourceForm:fillColor:combinationRule:destOrigin:sourceOrigin:extent:clipRect: [Graphics-Primitives]
+BitBlt>>#displayString:from:to:at:kern:baselineY:font: [Graphics-Fonts]
+BitBlt>>#primDisplayString:from:to:map:xTable:kern: [Graphics-Primitives]
+BitBlt>>#displayString:from:to:at:kern:font: [Graphics-Fonts]
+BitBlt>>#basicDisplayString:from:to:at:strikeFont:kern: [Graphics-Fonts]
+BitBlt>>#displayGlyph:at:left:right:font: [Graphics-Fonts]
+BitBlt>>#setDestForm:sourceForm:fillColor:combinationRule:destOrigin:sourceOrigin:extent:clipRect: [Graphics-Primitives]
+BitBlt>>#displayString:from:to:at:strikeFont:kern: [Graphics-Fonts]
+BitBlt>>#copy:from:in:halftoneForm:rule: [Graphics-Primitives]
+BitBlt>>#copy:from:in:fillColor:rule: [Graphics-Primitives]
+FreeTypeFont>>#displayString:on:from:to:at:kern:baselineY: [FreeType]
+FreeTypeFont>>#displayString:on:from:to:at:kern: [FreeType]
+FreeTypeFont>>#scanMultibyteCharactersFrom:to:in:with:rightX: [Text-Scanning]
+FreeTypeFont>>#scanByteCharactersFrom:to:in:with:rightX: [Text-Scanning]
+WideString>>#scanCharactersFrom:to:with:rightX:font: [Text-Scanning]
+MetacelloVersionSpec>>#configMethodValueOn:for:selector:last:indent: [Metacello-Core]
+MetacelloVersionSpec>>#configMethodOn:for:selector:last:indent: [Metacello-Core]
+AbstractCompiler>>#parse:class:noPattern:context:notifying:ifFail: [OpalCompiler-Core]
+AbstractCompiler>>#compileNoPattern:in:context:notifying:ifFail: [OpalCompiler-Core]
+AbstractCompiler>>#compile:in:classified:notifying:ifFail: [OpalCompiler-Core]
+AbstractCompiler>>#evaluate:in:to:notifying:ifFail: [OpalCompiler-Core]
+AbstractCompiler>>#evaluate:in:to:notifying:ifFail:logged: [OpalCompiler-Core]
+TableLayout>>#computeGlobalCellArrangement:in:horizontal:wrap:spacing: [Morphic-Base]
+TraitDescription>>#compile:classified:withStamp:notifying:logSource: [Traits]
+AbstractKeymappingTest>>#eventKey:alt:ctrl:command:shift: [Keymapping-Tests]
+AthensCanvasWrapper>>#frameAndFillRectangle:fillColor:borderWidth:topLeftColor:bottomRightColor: [Athens-Morphic]
+AthensCanvasWrapper>>#drawString:from:to:in:font:color:underline:underlineColor:strikethrough:strikethroughColor: [Athens-Morphic]
+AthensCanvasWrapper>>#drawString:in:font:color:underline:underlineColor:strikethrough:strikethroughColor: [Athens-Morphic]
+PluggableMultiColumnListMorph>>#on:list:selected:changeSelected:menu:keystroke:wrapSelector: [Morphic-Widgets-Pluggable]
+LanguageEnvironment class>>#scanMultibyteCharactersFrom:to:in:with:rightX:font: [Multilingual-Languages]
+RBBasicLintRuleTest>>#method:with:lots:of:arguments: [Refactoring-Tests-Core]
+IncrementalSliderMorph class>>#on:getValue:setValue:min:max:quantum: [Morphic-Widgets-Scrolling]
+TextMorph>>#text:textStyle:wrap:color:predecessor:successor: [Morphic-Base]
+ArrayedCollection class>>#with:with:with:with:with: [Collections-Abstract]
+ArrayedCollection class>>#with:with:with:with:with:with: [Collections-Abstract]
+FileStreamTest>>#doTestsForReading:intoBufferWithSize:startingAt:fromFileOfSize:offsetBy: [Tests]
+CompoundTextConverterState>>#g0Size:g1Size:g0Leading:g1Leading:charSize:streamPosition: [Multilingual-TextConversion]
+LogicalFont>>#displayString:on:from:to:at:kern:baselineY: [FontInfrastructure]
+LogicalFont>>#displayString:on:from:to:at:kern: [FontInfrastructure]
+LogicalFont>>#scanMultibyteCharactersFrom:to:in:with:rightX: [Text-Scanning]
+LogicalFont>>#scanByteCharactersFrom:to:in:with:rightX: [Text-Scanning]
+PluggableSliderMorph class>>#on:getValue:setValue:min:max:quantum: [Morphic-Widgets-Scrolling]
+Duration class>>#days:hours:minutes:seconds:nanoSeconds: [Kernel]
+Paragraph>>#multiComposeLinesFrom:to:delta:into:priorLines:atY: [Morphic-Base]
+Paragraph>>#composeLinesFrom:to:delta:into:priorLines:atY: [Morphic-Base]
+AthensCurveFlattener>>#isFlatQuadBezier:y1:x2:y2:x3:y3: [Athens-Core]
+AthensCurveFlattener>>#flattenQuadBezier:y1:x2:y2:x3:y3: [Athens-Core]
+AthensCurveFlattener>>#flattenCubicBezier:y1:x2:y2:x3:y3:x4:y4: [Athens-Core]
+MCMergingTest>>#assertMerge:with:base:gives:conflicts: [Monticello-Tests]
+MCVersionInfo>>#initializeWithName:id:message:date:time:author:ancestors:stepChildren: [Monticello]
+PluggableListMorph>>#on:list:primarySelection:changePrimarySelection:listSelection:changeListSelection:menu:keystroke: [Morphic-Widgets-Pluggable]
+PluggableListMorph>>#on:list:selected:changeSelected:menu:keystroke: [Morphic-Widgets-Pluggable]
+ByteString>>#scanCharactersFrom:to:with:rightX:font: [Text-Scanning]
+PluggableCanvas>>#drawString:from:to:in:font:color:underline:underlineColor:strikethrough:strikethroughColor: [Graphics-Canvas]
+PluggableCanvas>>#drawString:from:to:in:font:color: [Graphics-Canvas]
+MetacelloToolBox class>>#createNewBaselineVersionIn:requiredProjects:packages:dependencies:groups: [Metacello-ToolBox]
+MetacelloToolBox class>>#createBaseline:for:repository:requiredProjects:packages:dependencies:includes:files:repositories:preLoadDoIts:postLoadDoIts:supplyingAnswers:groups: [Metacello-ToolBox]
+MetacelloToolBox class>>#modifyBaselineVersionIn:repository:requiredProjects:packages:dependencies:includes:files:repositories:preLoadDoIts:postLoadDoIts:supplyingAnswers:groups: [Metacello-ToolBox]
+MetacelloToolBox class>>#createBaseline:for:repository:requiredProjects:packages:repositories:dependencies:groups: [Metacello-ToolBox]
+MetacelloToolBox class>>#createDevelopment:for:from:imports:description: [Metacello-ToolBox]
+MetacelloToolBox class>>#modifyVersion:for:projectDo:packageDo:groupDo: [Metacello-ToolBox]
+MetacelloToolBox class>>#createBaseline:for:repository:requiredProjects:packages:repositories:dependencies:groups:requiredProjectSpecs: [Versionner-Core-DependenciesModel]
+MetacelloToolBox class>>#createBaseline:for:from:description:versionSpecsDo: [Metacello-ToolBox]
+MetacelloToolBox class>>#createBaseline:for:repository:requiredProjects:packages:dependencies:groups: [Metacello-ToolBox]
+MetacelloToolBox class>>#modifyDevelopmentVersionIn:imports:requiredProjects:packages:description: [Metacello-ToolBox]
+MetacelloToolBox class>>#modifyVersion:section:for:repository:requiredProjects:packages:dependencies:includes:files:repositories:preLoadDoIts:postLoadDoIts:supplyingAnswers:groups: [Metacello-ToolBox]
+MethodNode>>#selector:arguments:precedence:temporaries:block:encoder:primitive: [Compiler]
+MethodNode>>#selector:arguments:precedence:temporaries:block:encoder:primitive:properties: [Compiler]
+WideSymbol>>#scanCharactersFrom:to:with:rightX:font: [Text-Scanning]
+Encoder>>#name:key:class:type:set: [Compiler]
+TxLineSeparator>>#drawOn:from:to:at:font: [TxText-Model]
+ComposableModel>>#treeRenderOn:bounds:color:font:from: [Spec-MorphicAdapters]
+ComposableModel>>#listRenderOn:atRow:bounds:color:backgroundColor:from: [Spec-MorphicAdapters]
+RubTextComposer>>#composeLinesFrom:to:delta:into:priorLines:atY:textStyle:text:container: [Rubric]
+RubTextComposer>>#composeLinesFrom:to:delta:into:priorLines:atY: [Rubric]
+Integer>>#printSeparatedBy:every:signed:base:on: [Kernel]
+Integer>>#print:on:prefix:length:padded: [Kernel]
+Decompiler>>#scanBlockScopeFor:from:to:with:scanner: [Compiler]
+MCVersionInfo class>>#name:id:message:date:time:author:ancestors: [Monticello]
+MCVersionInfo class>>#name:id:message:date:time:author:ancestors:stepChildren: [Monticello]
+ByteSymbol>>#scanCharactersFrom:to:with:rightX:font: [Text-Scanning]
+MCClassDefinition>>#initializeWithName:superclassName:category:instVarNames:classVarNames:poolDictionaryNames:classInstVarNames:type:comment:commentStamp: [Monticello]
+MCClassDefinition>>#initializeWithName:superclassName:traitComposition:classTraitComposition:category:instVarNames:classVarNames:poolDictionaryNames:classInstVarNames:type:comment:commentStamp: [Monticello]
+PluggableToggleButtonMorph>>#on:getState:action:label:icon:menu: [Morphic-Widgets-Basic]
+ChangeSet class>>#scanFile:category:class:meta:stamp: [System-Changes]
+ChangeSet class>>#scanVersionsOf:class:meta:category:selector: [System-Changes]
+CornerRounder>>#tweakCornersOf:on:in:borderWidth:corners: [Graphics-Canvas]
+CornerRounder>>#tweakShadowCornersOf:on:in:borderWidth:corners: [Graphics-Canvas]
+Trait>>#asRingDefinitionWithMethods:withSuperclasses:withSubclasses:withPackageKeys:in: [Ring-Core-Kernel]
+Trait>>#variableSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category: [Traits]
+Trait>>#weakSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category: [Traits]
+Trait>>#subclass:instanceVariableNames:classVariableNames:poolDictionaries:category: [Traits]
+Trait>>#subclass:layout:slots:classVariables:category: [Traits]
+Trait>>#variableWordSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category: [Traits]
+Trait>>#name:traitComposition:methodDict:localSelectors:organization: [Traits]
+Trait>>#weakSubclass:uses:instanceVariableNames:classVariableNames:category: [Traits]
+Trait>>#variableByteSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category: [Traits]
+Trait>>#variableWordSubclass:uses:instanceVariableNames:classVariableNames:category: [Traits]
+Trait>>#subclass:uses:instanceVariableNames:classVariableNames:poolDictionaries:category: [Traits]
+Trait>>#subclass:uses:instanceVariableNames:classVariableNames:category: [Traits]
+Trait>>#subclass:layout:slots:classVariables:poolDictionaries:category: [Traits]
+Trait>>#subclass:uses:layout:slots:classVariables:poolDictionaries:category: [Traits]
+Trait>>#variableSubclass:uses:instanceVariableNames:classVariableNames:poolDictionaries:category: [Traits]
+Trait>>#subclass:uses:slots:classVariables:category: [Traits]
+Trait>>#weakSubclass:uses:instanceVariableNames:classVariableNames:poolDictionaries:category: [Traits]
+Trait>>#superclass:methodDict:format:name:organization:instVarNames:classPool:sharedPools: [Traits]
+Trait>>#subclass:uses:slots:classVariables:poolDictionaries:category: [Traits]
+Trait>>#variableByteSubclass:uses:instanceVariableNames:classVariableNames:poolDictionaries:category: [Traits]
+Trait>>#variableSubclass:uses:instanceVariableNames:classVariableNames:category: [Traits]
+Trait>>#subclass:slots:classVariables:poolDictionaries:category: [Traits]
+Trait>>#variableWordSubclass:uses:instanceVariableNames:classVariableNames:poolDictionaries:category: [Traits]
+Trait>>#variableByteSubclass:uses:instanceVariableNames:classVariableNames:category: [Traits]
+Trait>>#subclass:uses:layout:slots:classVariables:category: [Traits]
+RubPluggableTextMorph class>>#on:text:accept:readSelection:menu:setSelection: [Rubric]
+RubPluggableTextMorph class>>#on:text:accept:readSelection:menu: [Rubric]
+FBDOptimizedMessagesRewriter>>#convertWhileTrueToToByDo:start:end:by:incrVariable:assignement: [Flashback-Decompiler]
+DropListMorph class>>#on:list:selected:changeSelected:useIndex: [Polymorph-Widgets]
+WorldState>>#startStepping:at:selector:arguments:stepTime: [Morphic-Base]
+MessageTally>>#treePrintOn:tabs:thisTab:total:totalTime:tallyExact:orThreshold: [Tool-Profilers]
+MetacelloAbstractPackageSpec>>#configMethodOn:for:selector:cascading:cascade:indent: [Metacello-Core]
+KMRepository>>#initializeKeymap:executingOn:doing:inCategory:platform:description: [Keymapping-Core]
+KMRepository>>#initializeKeymap:executingOn:doing:inCategory:platform: [Keymapping-Core]
+GLMTablePresentation>>#column:evaluated:width:tags:sortedBy: [Glamour-Presentations]
+SyntaxErrorNotification>>#setClass:category:code:doitFlag:errorMessage:location: [OpalCompiler-Core]
+FormCanvas>>#drawString:from:to:in:font:color: [Graphics-Canvas]
+FormCanvas>>#privateWarp:transform:at:sourceRect:cellSize: [Graphics-Canvas]
+FormCanvas>>#warpImage:transform:at:sourceRect:cellSize: [Graphics-Canvas]
+FormCanvas>>#image:at:sourceRect:rule:alpha: [Graphics-Canvas]
+FormCanvas>>#drawString:from:to:autoBoundAt:font:color: [Morphic-Base]
+FormCanvas>>#drawString:from:to:at:font:color: [Graphics-Canvas]
+FormCanvas>>#frameAndFillRectangle:fillColor:borderWidth:topLeftColor:bottomRightColor: [Graphics-Canvas]
+FormCanvas>>#drawString:from:to:in:font:color:underline:underlineColor:strikethrough:strikethroughColor: [Graphics-Canvas]
+RBRenameMethodRefactoring class>>#model:renameMethod:in:to:permutation: [Refactoring-Core]
+RBAddClassRefactoring class>>#model:addClass:superclass:subclasses:category: [Refactoring-Core]
+CompiledMethod>>#putSource:class:category:withStamp:priorMethod: [Kernel]
+MD5NonPrimitive>>#hhA:B:C:D:M:S:T: [System-Hashing]
+MD5NonPrimitive>>#iiA:B:C:D:M:S:T: [System-Hashing]
+MD5NonPrimitive>>#ggA:B:C:D:M:S:T: [System-Hashing]
+MD5NonPrimitive>>#ffA:B:C:D:M:S:T: [System-Hashing]
+ClassTrait>>#compile:classified:withStamp:notifying:logSource: [Traits]
+PluggableButtonMorph class>>#on:getState:action:label:icon:menu: [Morphic-Widgets-Basic]
+PluggableButtonMorph class>>#newButtonFor:getState:action:arguments:getEnabled:label:help: [Morphic-Widgets-Basic]
+PluggableButtonMorph class>>#on:getState:action:label:menu: [Morphic-Widgets-Basic]
+AthensCairoSurface class>>#testLockSurface:pitch:x:y:w:h: [Athens-Cairo]
+AthensCairoSurface class>>#testGetSurfaceFormat:width:height:depth:isMSB: [Athens-Cairo]
+DatePrintFormatTester>>#dayPosition:monthPosition:yearPosition:delimiter:monthType:yearType: [KernelTests]
+NetNameResolver class>>#primGetAddressInfoHost:service:flags:family:type:protocol: [Network-Kernel]
+DependentsArray class>>#with:with:with:with:with: [Kernel]
+DependentsArray class>>#with:with:with:with:with:with: [Kernel]
+Matrix>>#atRows:to:columns:to:put: [Collections-Unordered]
+Matrix>>#atRows:to:columns:to:ifInvalid: [Collections-Unordered]
+UIManager>>#chooseFrom:values:lines:message:title: [UIManager]
+UIManager>>#confirm:trueChoice:falseChoice:cancelChoice:default: [UIManager]
+NBWin32Shell class>>#shellExecute:operation:file:parameters:directory:show: [NativeBoost-Win32]
+NBWin32Shell class>>#shellExecute:file:parameters:directory:show: [NativeBoost-Win32]
+MorphicUIManager>>#chooseFrom:values:lines:message:title: [Polymorph-Widgets]
+MorphicUIManager>>#newListFor:list:selected:changeSelected:getEnabled:help: [Polymorph-Widgets]
+MorphicUIManager>>#newDropListFor:list:getSelected:setSelected:getEnabled:useIndex:help: [Polymorph-Widgets]
+MorphicUIManager>>#newCheckboxFor:getSelected:setSelected:label:help: [Polymorph-Widgets]
+MorphicUIManager>>#newAutoAcceptTextEntryFor:get:set:class:getEnabled:font:help:entryCompletion: [Polymorph-Widgets]
+MorphicUIManager>>#newButtonFor:action:getEnabled:label:help: [Polymorph-Widgets]
+MorphicUIManager>>#newAutoAcceptTextEntryFor:get:set:class:getEnabled:help:entryCompletion: [Polymorph-Widgets]
+MorphicUIManager>>#newRadioButtonFor:getSelected:setSelected:getEnabled:label:help: [Polymorph-Widgets]
+MorphicUIManager>>#newButtonFor:getState:action:arguments:getEnabled:labelForm:help: [Polymorph-Widgets]
+MorphicUIManager>>#newCheckboxFor:getSelected:setSelected:getEnabled:getLabel:help: [Polymorph-Widgets]
+MorphicUIManager>>#newDropListFor:list:getSelected:setSelected:getEnabled:help: [Polymorph-Widgets]
+MorphicUIManager>>#newFuzzyLabelFor:label:offset:alpha:getEnabled: [Polymorph-Widgets]
+MorphicUIManager>>#newAutoAcceptTextEntryFor:getText:setText:getEnabled:font:help: [Polymorph-Widgets]
+MorphicUIManager>>#newListFor:list:selected:changeSelected:help: [Polymorph-Widgets]
+MorphicUIManager>>#newListFor:list:selected:changeSelected:icon:getEnabled:help: [Polymorph-Widgets]
+MorphicUIManager>>#newBasicTextEditorFor:getText:setText:getEnabled:menu: [Polymorph-Widgets]
+MorphicUIManager>>#newTextEditorFor:getText:setText:getEnabled:menu: [Polymorph-Widgets]
+MorphicUIManager>>#openDebuggerOn:context:label:contents:fullView: [Polymorph-Widgets]
+MorphicUIManager>>#newMorphListFor:list:getSelected:setSelected:help: [Polymorph-Widgets]
+MorphicUIManager>>#newDropListFor:list:getSelected:setSelected:help: [Polymorph-Widgets]
+MorphicUIManager>>#newIncrementalSliderFor:getValue:setValue:min:max:quantum:getEnabled:help: [Polymorph-Widgets]
+MorphicUIManager>>#newBracketSliderFor:getValue:setValue:min:max:quantum:getEnabled:help: [Polymorph-Widgets]
+MorphicUIManager>>#newColorChooserFor:getColor:setColor:getEnabled:help: [Polymorph-Widgets]
+MorphicUIManager>>#newAutoAcceptTextEntryFor:get:set:class:getEnabled:font:help: [Polymorph-Widgets]
+MorphicUIManager>>#newButtonFor:getState:action:arguments:getEnabled:getLabel:help: [Polymorph-Widgets]
+MorphicUIManager>>#newTextEntryFor:getText:setText:getEnabled:help: [Polymorph-Widgets]
+MorphicUIManager>>#newAutoAcceptTextEntryFor:getText:setText:getEnabled:font:help:entryCompletion: [Polymorph-Widgets]
+MorphicUIManager>>#newTextEntryFor:getText:setText:getEnabled:help:entryCompletion: [Polymorph-Widgets]
+MorphicUIManager>>#newAutoAcceptTextEntryFor:getText:setText:getEnabled:help:entryCompletion: [Polymorph-Widgets]
+MorphicUIManager>>#newButtonFor:getState:action:arguments:getEnabled:label:help: [Polymorph-Widgets]
+MorphicUIManager>>#newMorphDropListFor:list:getSelected:setSelected:getEnabled:help: [Polymorph-Widgets]
+MorphicUIManager>>#newCheckboxFor:getSelected:setSelected:getEnabled:label:help: [Polymorph-Widgets]
+MorphicUIManager>>#newRadioButtonFor:getSelected:setSelected:label:help: [Polymorph-Widgets]
+MorphicUIManager>>#openPolymorphComparisonFrom:to:belongingTo:from:labeled:inWindowLabeled: [Polymorph-Widgets]
+MorphicUIManager>>#newEditableDropListFor:list:getSelected:setSelected:addToList:ghostText:getEnabled:help: [Polymorph-Widgets]
+MorphicUIManager>>#confirm:trueChoice:falseChoice:cancelChoice:default: [Polymorph-Widgets]
+MorphicUIManager>>#newEditableDropListFor:list:getSelected:setSelected:addToList:class:default:ghostText:getEnabled:useIndex:help: [Polymorph-Widgets]
+MorphicUIManager>>#openComparisonFrom:to:belongingTo:from:labeled:inWindowLabeled: [Polymorph-Widgets]
+MorphicUIManager>>#newAutoAcceptTextEntryFor:getText:setText:getEnabled:help: [Polymorph-Widgets]
+MorphicUIManager>>#newMorphDropListFor:list:getSelected:setSelected:getEnabled:useIndex:help: [Polymorph-Widgets]
+MorphicUIManager>>#newMorphDropListFor:list:getSelected:setSelected:help: [Polymorph-Widgets]
+MorphicUIManager>>#newAutoAcceptTextEntryFor:get:set:class:getEnabled:help: [Polymorph-Widgets]
+MorphicUIManager>>#newTextEntryFor:get:set:class:getEnabled:help: [Polymorph-Widgets]
+MorphicUIManager>>#newSliderFor:getValue:setValue:getEnabled:help: [Polymorph-Widgets]
+MorphicUIManager>>#newBracketSliderFor:getValue:setValue:min:max:quantum:help: [Polymorph-Widgets]
+MorphicUIManager>>#newMorphListFor:list:getSelected:setSelected:getEnabled:help: [Polymorph-Widgets]
+MorphicUIManager>>#newSliderFor:getValue:setValue:min:max:quantum:getEnabled:help: [Polymorph-Widgets]
+ComposableMorph>>#newListFor:list:selected:changeSelected:getEnabled:help: [Polymorph-Widgets]
+ComposableMorph>>#newDropListFor:list:getSelected:setSelected:getEnabled:useIndex:help: [Polymorph-Widgets]
+ComposableMorph>>#newCheckboxFor:getSelected:setSelected:label:help: [Polymorph-Widgets]
+ComposableMorph>>#newAutoAcceptTextEntryFor:get:set:class:getEnabled:help:entryCompletion: [Polymorph-Widgets]
+ComposableMorph>>#newButtonFor:action:getEnabled:label:help: [Polymorph-Widgets]
+ComposableMorph>>#newAutoAcceptTextEntryFor:get:set:class:getEnabled:font:help:entryCompletion: [Polymorph-Widgets]
+ComposableMorph>>#newRadioButtonFor:getSelected:setSelected:getEnabled:label:help: [Polymorph-Widgets]
+ComposableMorph>>#newButtonFor:getState:action:arguments:getEnabled:labelForm:help: [Polymorph-Widgets]
+ComposableMorph>>#newCheckboxFor:getSelected:setSelected:getEnabled:getLabel:help: [Polymorph-Widgets]
+ComposableMorph>>#newDropListFor:list:getSelected:setSelected:getEnabled:help: [Polymorph-Widgets]
+ComposableMorph>>#newFuzzyLabelFor:label:offset:alpha:getEnabled: [Polymorph-Widgets]
+ComposableMorph>>#newAutoAcceptTextEntryFor:getText:setText:getEnabled:font:help: [Polymorph-Widgets]
+ComposableMorph>>#newListFor:list:selected:changeSelected:help: [Polymorph-Widgets]
+ComposableMorph>>#newListFor:list:selected:changeSelected:icon:getEnabled:help: [Polymorph-Widgets]
+ComposableMorph>>#newBasicTextEditorFor:getText:setText:getEnabled:menu: [Polymorph-Widgets]
+ComposableMorph>>#newTextEditorFor:getText:setText:getEnabled:menu: [Polymorph-Widgets]
+ComposableMorph>>#newMorphListFor:list:getSelected:setSelected:help: [Polymorph-Widgets]
+ComposableMorph>>#newDropListFor:list:getSelected:setSelected:help: [Polymorph-Widgets]
+ComposableMorph>>#newIncrementalSliderFor:getValue:setValue:min:max:quantum:getEnabled:help: [Polymorph-Widgets]
+ComposableMorph>>#newBracketSliderFor:getValue:setValue:min:max:quantum:getEnabled:help: [Polymorph-Widgets]
+ComposableMorph>>#newColorChooserFor:getColor:setColor:getEnabled:help: [Polymorph-Widgets]
+ComposableMorph>>#newAutoAcceptTextEntryFor:get:set:class:getEnabled:font:help: [Polymorph-Widgets]
+ComposableMorph>>#newButtonFor:getState:action:arguments:getEnabled:getLabel:help: [Polymorph-Widgets]
+ComposableMorph>>#newTextEntryFor:getText:setText:getEnabled:help: [Polymorph-Widgets]
+ComposableMorph>>#newAutoAcceptTextEntryFor:getText:setText:getEnabled:font:help:entryCompletion: [Polymorph-Widgets]
+ComposableMorph>>#newTextEntryFor:getText:setText:getEnabled:help:entryCompletion: [Polymorph-Widgets]
+ComposableMorph>>#newAutoAcceptTextEntryFor:getText:setText:getEnabled:help:entryCompletion: [Polymorph-Widgets]
+ComposableMorph>>#newButtonFor:getState:action:arguments:getEnabled:label:help: [Polymorph-Widgets]
+ComposableMorph>>#newMorphDropListFor:list:getSelected:setSelected:getEnabled:help: [Polymorph-Widgets]
+ComposableMorph>>#newCheckboxFor:getSelected:setSelected:getEnabled:label:help: [Polymorph-Widgets]
+ComposableMorph>>#newEditableDropListFor:list:getSelected:setSelected:addToList:ghostText:getEnabled:help: [Polymorph-Widgets]
+ComposableMorph>>#newRadioButtonFor:getSelected:setSelected:label:help: [Polymorph-Widgets]
+ComposableMorph>>#newEditableDropListFor:list:getSelected:setSelected:addToList:class:default:ghostText:getEnabled:useIndex:help: [Polymorph-Widgets]
+ComposableMorph>>#newAutoAcceptTextEntryFor:getText:setText:getEnabled:help: [Polymorph-Widgets]
+ComposableMorph>>#newMorphDropListFor:list:getSelected:setSelected:getEnabled:useIndex:help: [Polymorph-Widgets]
+ComposableMorph>>#newBracketSliderFor:getValue:setValue:min:max:quantum:help: [Polymorph-Widgets]
+ComposableMorph>>#newAutoAcceptTextEntryFor:get:set:class:getEnabled:help: [Polymorph-Widgets]
+ComposableMorph>>#newMorphDropListFor:list:getSelected:setSelected:help: [Polymorph-Widgets]
+ComposableMorph>>#newTextEntryFor:get:set:class:getEnabled:help: [Polymorph-Widgets]
+ComposableMorph>>#newSliderFor:getValue:setValue:getEnabled:help: [Polymorph-Widgets]
+ComposableMorph>>#newMorphListFor:list:getSelected:setSelected:getEnabled:help: [Polymorph-Widgets]
+ComposableMorph>>#newSliderFor:getValue:setValue:min:max:quantum:getEnabled:help: [Polymorph-Widgets]
+RubCharacterScanner>>#basicScanCharactersFrom:to:in:rightX:stopConditions:kern: [Rubric]
+RubCharacterScanner>>#scanCharactersFrom:to:in:rightX:stopConditions:kern: [Rubric]
+RubCharacterScanner>>#scanMultiCharactersFrom:to:in:rightX:stopConditions:kern: [Rubric]
+RubCharacterScanner>>#scanJapaneseCharactersFrom:to:in:rightX:stopConditions:kern: [Rubric]
+SyntaxErrorNotification class>>#inClass:category:withCode:doitFlag:errorMessage:location: [OpalCompiler-Core]
+NBFFICallback>>#primLeave:stackPtr:contextOop:returnValue:primitiveMethod: [NativeBoost-Core]
+ImageReadWriter>>#changePadOfBits:width:height:depth:from:to: [Graphics-Files]
+ImageReadWriter>>#unpackBits:depthTo8From:with:height:pad: [Graphics-Files]
+SugsSuggestion class>>#for:named:icon:position:keyText:isValidBlock: [SmartSuggestions]
+SugsSuggestion class>>#for:named:icon:position:keyText: [SmartSuggestions]
+SugsSuggestion class>>#for:named:icon:position:isValidBlock: [SmartSuggestions]
+MetacelloVersionMethodSpec>>#methodSection:pre:last:post:indent: [Metacello-Core]
+AthensCairoPathBuilder>>#curveViaX:Y:viaX:Y:toX:Y: [Athens-Cairo]
+AthensCairoPathBuilder>>#arcNegativeCenterX:centerY:radius:startAngle:endAngle: [Athens-Cairo]
+AthensCairoPathBuilder>>#arcCenterX:centerY:radius:startAngle:endAngle: [Athens-Cairo]
+TEasilyThemed>>#newListFor:list:selected:changeSelected:getEnabled:help: [Polymorph-Widgets]
+TEasilyThemed>>#newDropListFor:list:getSelected:setSelected:getEnabled:useIndex:help: [Polymorph-Widgets]
+TEasilyThemed>>#newCheckboxFor:getSelected:setSelected:label:help: [Polymorph-Widgets]
+TEasilyThemed>>#newAutoAcceptTextEntryFor:get:set:class:getEnabled:help:entryCompletion: [Polymorph-Widgets]
+TEasilyThemed>>#newButtonFor:action:getEnabled:label:help: [Polymorph-Widgets]
+TEasilyThemed>>#newAutoAcceptTextEntryFor:get:set:class:getEnabled:font:help:entryCompletion: [Polymorph-Widgets]
+TEasilyThemed>>#newRadioButtonFor:getSelected:setSelected:getEnabled:label:help: [Polymorph-Widgets]
+TEasilyThemed>>#newButtonFor:getState:action:arguments:getEnabled:labelForm:help: [Polymorph-Widgets]
+TEasilyThemed>>#newCheckboxFor:getSelected:setSelected:getEnabled:getLabel:help: [Polymorph-Widgets]
+TEasilyThemed>>#newDropListFor:list:getSelected:setSelected:getEnabled:help: [Polymorph-Widgets]
+TEasilyThemed>>#newFuzzyLabelFor:label:offset:alpha:getEnabled: [Polymorph-Widgets]
+TEasilyThemed>>#newAutoAcceptTextEntryFor:getText:setText:getEnabled:font:help: [Polymorph-Widgets]
+TEasilyThemed>>#newListFor:list:selected:changeSelected:help: [Polymorph-Widgets]
+TEasilyThemed>>#newListFor:list:selected:changeSelected:icon:getEnabled:help: [Polymorph-Widgets]
+TEasilyThemed>>#newBasicTextEditorFor:getText:setText:getEnabled:menu: [Polymorph-Widgets]
+TEasilyThemed>>#newTextEditorFor:getText:setText:getEnabled:menu: [Polymorph-Widgets]
+TEasilyThemed>>#newMorphListFor:list:getSelected:setSelected:help: [Polymorph-Widgets]
+TEasilyThemed>>#newDropListFor:list:getSelected:setSelected:help: [Polymorph-Widgets]
+TEasilyThemed>>#newIncrementalSliderFor:getValue:setValue:min:max:quantum:getEnabled:help: [Polymorph-Widgets]
+TEasilyThemed>>#newBracketSliderFor:getValue:setValue:min:max:quantum:getEnabled:help: [Polymorph-Widgets]
+TEasilyThemed>>#newColorChooserFor:getColor:setColor:getEnabled:help: [Polymorph-Widgets]
+TEasilyThemed>>#newAutoAcceptTextEntryFor:get:set:class:getEnabled:font:help: [Polymorph-Widgets]
+TEasilyThemed>>#newButtonFor:getState:action:arguments:getEnabled:getLabel:help: [Polymorph-Widgets]
+TEasilyThemed>>#newTextEntryFor:getText:setText:getEnabled:help: [Polymorph-Widgets]
+TEasilyThemed>>#newAutoAcceptTextEntryFor:getText:setText:getEnabled:font:help:entryCompletion: [Polymorph-Widgets]
+TEasilyThemed>>#newTextEntryFor:getText:setText:getEnabled:help:entryCompletion: [Polymorph-Widgets]
+TEasilyThemed>>#newAutoAcceptTextEntryFor:getText:setText:getEnabled:help:entryCompletion: [Polymorph-Widgets]
+TEasilyThemed>>#newButtonFor:getState:action:arguments:getEnabled:label:help: [Polymorph-Widgets]
+TEasilyThemed>>#newMorphDropListFor:list:getSelected:setSelected:getEnabled:help: [Polymorph-Widgets]
+TEasilyThemed>>#newCheckboxFor:getSelected:setSelected:getEnabled:label:help: [Polymorph-Widgets]
+TEasilyThemed>>#newEditableDropListFor:list:getSelected:setSelected:addToList:ghostText:getEnabled:help: [Polymorph-Widgets]
+TEasilyThemed>>#newRadioButtonFor:getSelected:setSelected:label:help: [Polymorph-Widgets]
+TEasilyThemed>>#newEditableDropListFor:list:getSelected:setSelected:addToList:class:default:ghostText:getEnabled:useIndex:help: [Polymorph-Widgets]
+TEasilyThemed>>#newAutoAcceptTextEntryFor:getText:setText:getEnabled:help: [Polymorph-Widgets]
+TEasilyThemed>>#newMorphDropListFor:list:getSelected:setSelected:getEnabled:useIndex:help: [Polymorph-Widgets]
+TEasilyThemed>>#newBracketSliderFor:getValue:setValue:min:max:quantum:help: [Polymorph-Widgets]
+TEasilyThemed>>#newAutoAcceptTextEntryFor:get:set:class:getEnabled:help: [Polymorph-Widgets]
+TEasilyThemed>>#newMorphDropListFor:list:getSelected:setSelected:help: [Polymorph-Widgets]
+TEasilyThemed>>#newTextEntryFor:get:set:class:getEnabled:help: [Polymorph-Widgets]
+TEasilyThemed>>#newSliderFor:getValue:setValue:getEnabled:help: [Polymorph-Widgets]
+TEasilyThemed>>#newMorphListFor:list:getSelected:setSelected:getEnabled:help: [Polymorph-Widgets]
+TEasilyThemed>>#newSliderFor:getValue:setValue:min:max:quantum:getEnabled:help: [Polymorph-Widgets]
+TxTerminalSpan>>#drawOn:from:to:at:font: [TxText-Model]
+AthensCairoMatrix>>#initx:y:sx:sy:shx:shy: [Athens-Cairo]
+FreeTypeSubPixelAntiAliasedGlyphRenderer>>#subGlyphOf:colorValue:mono:subpixelPosition:font: [FreeType]
+BitBltDisplayScanner>>#text:textStyle:foreground:background:fillBlt:ignoreColorChanges: [Text-Scanning]
+InfiniteForm>>#displayOn:at:clippingBox:rule:fillColor: [Graphics-Display Objects]
+HaloMorph>>#addGraphicalHandle:at:on:send:to: [Morphic-Base]
+HaloMorph>>#addHandleAt:color:on:send:to: [Morphic-Base]
+HaloMorph>>#addHandleAt:color:icon:on:send:to: [Morphic-Base]
+SimpleHierarchicalListMorph class>>#on:list:selected:changeSelected:menu: [Morphic-Widgets-List]
+SimpleHierarchicalListMorph class>>#on:list:selected:changeSelected:menu:keystroke: [Morphic-Widgets-List]
+MCLazyVersionInfo>>#initializeWithName:id:message:date:time:author:ancestors:stepChildren: [Monticello]
+CheckboxMorph>>#listRenderOn:atRow:bounds:color:backgroundColor:from: [Morphic-Widgets-Basic]
+PopupChoiceDialogWindow class>>#chooseIn:title:labels:values:lines: [Polymorph-Widgets]
+Nautilus class>>#openOnPackage:class:category:method:group:sortHierarchically:showHierarchy:showComment:showInstance:showCategories: [Nautilus]
+Nautilus class>>#openOnPackage:class:category:method:group:sortHierarchically:showHierarchy:showComment:showInstance:showCategories:inEnvironment: [Nautilus]
+HDCoverageReport>>#generateType:indent:total:actual:on: [HudsonBuildTools20]
+StepMessage class>>#scheduledAt:stepTime:receiver:selector:arguments: [Morphic-Base]
+MouseWheelEvent class>>#fromCharacter:position:buttons:hand:stamp: [Morphic-Core]
+TextComposer>>#multiComposeLinesFrom:to:delta:into:priorLines:atY:textStyle:text:container:wantsColumnBreaks: [Morphic-Base]
+TextComposer>>#composeLinesFrom:to:delta:into:priorLines:atY:textStyle:text:container:wantsColumnBreaks: [Morphic-Base]
+PluginBasedJPEGReadWriter>>#primJPEGReadImage:fromByteArray:onForm:doDithering:errorMgr: [Graphics-Files]
+PluginBasedJPEGReadWriter>>#primJPEGWriteImage:onByteArray:form:quality:progressiveJPEG:errorMgr: [Graphics-Files]
+MCTraitDefinition class>>#name:traitComposition:category:comment:commentStamp: [Monticello]
+JapaneseEnvironment class>>#scanMultibyteCharactersFrom:to:in:with:rightX:font: [Multilingual-OtherLanguages]
+MorphTreeNavigationBar>>#buttonLabel:actionSelector:arguments:getEnabled:help: [Morphic-Widgets-Tree]
+MorphTreeNavigationBar>>#textEntryLabel:get:set:help:class: [Morphic-Widgets-Tree]
+AthensCairoGradientPaint>>#primAddColorStopOffset:R:G:B:A: [Athens-Cairo]
+AthensCairoGradientPaint>>#initializeRadialBetween:extending:and:extending:withColorRamp: [Athens-Cairo]
+MetacelloToolBox>>#importFrom:projectAttributes:inactiveAttributes:updateProjects:updatePackages:versionSpecsDo: [Metacello-ToolBox]
+MetacelloToolBox>>#addSection:repository:requiredProjects:packages:dependencies:groups:versionSpecsDo: [Metacello-ToolBox]
+MetacelloToolBox>>#addSection:repository:requiredProjects:packages:dependencies:includes:files:repositories:preLoadDoIts:postLoadDoIts:supplyingAnswers:groups:versionSpecsDo: [Metacello-ToolBox]
+MetacelloToolBox>>#updateVersionSpec:fullVersionSpec:updateProjects:updatePackages:visited:updated: [Metacello-ToolBox]
+MetacelloToolBox>>#modifySection:sectionIndex:repository:requiredProjects:packages:dependencies:includes:files:repositories:preLoadDoIts:postLoadDoIts:supplyingAnswers:groups:versionSpecsDo: [Metacello-ToolBox]
+MetacelloToolBox>>#modifySection:repository:requiredProjects:packages:dependencies:includes:files:repositories:preLoadDoIts:postLoadDoIts:supplyingAnswers:groups:versionSpecsDo: [Metacello-ToolBox]
+MetacelloToolBox>>#updateVersionMethodForVersion:projectAttributes:updateProjects:updatePackages:versionSpecsDo: [Metacello-ToolBox]
+MetacelloToolBox>>#addSectionsFrom:forBaseline:updateProjects:updatePackages:versionSpecsDo: [Metacello-ToolBox]
+MetacelloToolBox>>#fixedEditVersionSpecsForImport:projectAttributes:active:fullVersionSpec:updateProjects:updatePackages:visited:updated: [Versionner-Commit]
+MetacelloToolBox>>#fixedImportFrom:projectAttributes:inactiveAttributes:updateProjects:updatePackages:versionSpecsDo: [Versionner-Commit]
+MetacelloToolBox>>#addSection:repository:requiredProjects:packages:dependencies:includes:files:repositories:preLoadDoIts:postLoadDoIts:supplyingAnswers:groups:versionSpecsDo:requiredProjectSpecs: [Versionner-Core-DependenciesModel]
+MetacelloToolBox>>#addSection:repository:requiredProjects:packages:repositories:dependencies:groups:versionSpecsDo: [Metacello-ToolBox]
+MetacelloToolBox>>#editVersionSpecsForImport:projectAttributes:active:fullVersionSpec:updateProjects:updatePackages:visited:updated: [Metacello-ToolBox]
+CompiledMethod class>>#newBytes:trailerBytes:nArgs:nTemps:nStack:nLits:primitive:flag: [Kernel]
+CompiledMethod class>>#newBytes:trailerBytes:nArgs:nTemps:nStack:nLits:primitive: [Kernel]
+CompiledMethod class>>#primitive:numArgs:numTemps:stackSize:literals:bytecodes:trailer: [Kernel]
+RBRenameInstanceVariableRefactoring class>>#model:rename:to:in:renameAccessors: [Refactoring-Core]
+RubDisplayScanner>>#text:textStyle:foreground:background:fillBlt:ignoreColorChanges: [Rubric]
+SpecLayout>>#newRow:origin:corner:offsetOrigin:offsetCorner: [Spec-Layout]
+SpecLayout>>#setOffsetsFor:top:left:bottom:right:borderWidth: [Spec-Layout]
+SpecLayout>>#add:withSpec:origin:corner:offsetOrigin:offsetCorner: [Spec-Layout]
+SpecLayout>>#add:origin:corner:offsetOrigin:offsetCorner: [Spec-Layout]
+SpecLayout>>#add:top:bottom:left:right: [Spec-Layout]
+SpecLayout>>#newColumn:origin:corner:offsetOrigin:offsetCorner: [Spec-Layout]
+SpecLayout>>#add:withSpec:top:bottom:left:right: [Spec-Layout]
+Parser>>#parse:class:category:noPattern:context:notifying:ifFail: [Compiler]
+Parser>>#parse:class:noPattern:context:notifying:ifFail: [Compiler]
+PluggableButtonMorph>>#on:getState:action:label:icon:menu: [Morphic-Widgets-Basic]
+PluggableButtonMorph>>#on:getState:action:label:menu: [Morphic-Widgets-Basic]
+ClassFactoryForTestCase>>#newSubclassOf:uses:instanceVariableNames:classVariableNames:poolDictionaries:category: [SUnit-Core]
+ClassFactoryForTestCase>>#newSubclassOf:uses:instanceVariableNames:classVariableNames:category: [SUnit-Core]
+ChangeRecord>>#file:position:type:class:category:meta:stamp: [System-Changes]
+Compiler>>#parse:class:noPattern:context:notifying:ifFail: [Compiler]
+Compiler>>#compileNoPattern:in:context:notifying:ifFail: [Compiler]
+Compiler>>#compile:in:classified:notifying:ifFail: [Compiler]
+Compiler>>#evaluate:in:to:notifying:ifFail: [Compiler]
+Compiler>>#evaluate:in:to:notifying:ifFail:logged: [Compiler]
+Compiler>>#from:class:classified:context:notifying: [Compiler]
+DockingBarMorph>>#add:font:icon:help:subMenu: [Morphic-Widgets-Extra]
+MemoryStore>>#copy:ifAbsent:to:ifPresent:fileSystem: [FileSystem-Memory]
+TClassDescription>>#compile:classified:withStamp:notifying:logSource: [Traits]
+GTSpotterExceptionsTest>>#shouldRaise:process:origin:during:do: [GT-Tests-Spotter]
+SDL2Constants class>>#definePixelFormat_type:order:layout:bits:bytes: [OSWindow-SDL2]
+SimpleHierarchicalListMorph>>#addMorphsTo:from:allowSorting:withExpandedItems:atLevel: [Morphic-Widgets-List]
+SimpleHierarchicalListMorph>>#on:list:selected:changeSelected:menu:keystroke: [Morphic-Widgets-List]
+RubScrolledTextMorph>>#on:text:accept:readSelection:menu: [Rubric]
+HaloSpec>>#horizontalPlacement:verticalPlacement:color:iconSymbol:addHandleSelector: [Morphic-Base]
+DecompilerConstructor>>#codeMethod:block:tempVars:primitive:class: [Compiler]
+DebuggerMethodMap>>#blockExtentsInto:from:to:scanner:numberer: [Compiler]
+RBAbstractVariablesRefactoring class>>#model:abstractVariablesIn:from:toAll:ignoring: [Refactoring-Core]
+RubPluggableTextMorph>>#on:text:accept:readSelection:menu:setSelection: [Rubric]
+RubPluggableTextMorph>>#on:text:accept:readSelection:menu: [Rubric]
+FinderUI>>#forSelectorsDo:forClassNamesDo:forSourceDo:forExamplesDo:forPragmasDo: [Tool-Finder]
+SelectionMorph>>#undoMove:redo:owner:bounds:predecessor: [Morphic-Base]
+MCDependencySorterTest>>#assertItems:orderAs:withRequired:toLoad:extraProvisions: [Monticello-Tests]
+CompressedBoundaryShape class>>#points:leftFills:rightFills:fillStyles:lineWidths:lineFills: [Balloon]
+RBRenameTemporaryRefactoring class>>#model:renameTemporaryFrom:to:in:selector: [Refactoring-Core]
+TSortable>>#mergeFirst:middle:last:into:by: [Collections-Abstract]
+TSortable>>#mergeSortFrom:to:src:dst:by: [Collections-Abstract]
+Class>>#asRingDefinitionWithMethods:withSuperclasses:withSubclasses:withPackageKeys:in: [Ring-Core-Kernel]
+Class>>#variableSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category: [Traits]
+Class>>#weakSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category: [Traits]
+Class>>#subclass:instanceVariableNames:classVariableNames:poolDictionaries:category: [Kernel]
+Class>>#subclass:layout:slots:classVariables:category: [Traits]
+Class>>#variableWordSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category: [Traits]
+Class>>#name:traitComposition:methodDict:localSelectors:organization: [Traits]
+Class>>#weakSubclass:uses:instanceVariableNames:classVariableNames:category: [Traits]
+Class>>#variableByteSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category: [Traits]
+Class>>#variableWordSubclass:uses:instanceVariableNames:classVariableNames:category: [Traits]
+Class>>#subclass:uses:instanceVariableNames:classVariableNames:poolDictionaries:category: [Traits]
+Class>>#subclass:uses:instanceVariableNames:classVariableNames:category: [Traits]
+Class>>#subclass:layout:slots:classVariables:poolDictionaries:category: [Traits]
+Class>>#subclass:uses:layout:slots:classVariables:poolDictionaries:category: [Traits]
+Class>>#variableSubclass:uses:instanceVariableNames:classVariableNames:poolDictionaries:category: [Traits]
+Class>>#subclass:uses:slots:classVariables:category: [Traits]
+Class>>#weakSubclass:uses:instanceVariableNames:classVariableNames:poolDictionaries:category: [Traits]
+Class>>#superclass:methodDict:format:name:organization:instVarNames:classPool:sharedPools: [Traits]
+Class>>#subclass:uses:slots:classVariables:poolDictionaries:category: [Traits]
+Class>>#variableByteSubclass:uses:instanceVariableNames:classVariableNames:poolDictionaries:category: [Traits]
+Class>>#variableSubclass:uses:instanceVariableNames:classVariableNames:category: [Traits]
+Class>>#subclass:slots:classVariables:poolDictionaries:category: [Traits]
+Class>>#variableWordSubclass:uses:instanceVariableNames:classVariableNames:poolDictionaries:category: [Traits]
+Class>>#variableByteSubclass:uses:instanceVariableNames:classVariableNames:category: [Traits]
+Class>>#subclass:uses:layout:slots:classVariables:category: [Traits]
+CompiledMethodTest>>#a1:a2:a3:a4:a5:a6:a7:a8:a9:a10:a11:a12:a13:a14:a15: [KernelTests]
+MessageTally class>>#spyOn:reportOtherProcesses:cutoff:openResultWindow:closeAfter: [Tool-Profilers]
+MessageTally class>>#tallySendsTo:inBlock:showTree:closeAfter:openResultWindow: [Tool-Profilers]
+TClass>>#asRingDefinitionWithMethods:withSuperclasses:withSubclasses:withPackageKeys:in: [Ring-Core-Kernel]
+TClass>>#variableSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category: [Traits]
+TClass>>#weakSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category: [Traits]
+TClass>>#subclass:instanceVariableNames:classVariableNames:poolDictionaries:category: [Traits]
+TClass>>#subclass:layout:slots:classVariables:category: [Traits]
+TClass>>#variableWordSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category: [Traits]
+TClass>>#name:traitComposition:methodDict:localSelectors:organization: [Traits]
+TClass>>#weakSubclass:uses:instanceVariableNames:classVariableNames:category: [Traits]
+TClass>>#variableByteSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category: [Traits]
+TClass>>#variableWordSubclass:uses:instanceVariableNames:classVariableNames:category: [Traits]
+TClass>>#subclass:uses:instanceVariableNames:classVariableNames:poolDictionaries:category: [Traits]
+TClass>>#subclass:uses:instanceVariableNames:classVariableNames:category: [Traits]
+TClass>>#subclass:layout:slots:classVariables:poolDictionaries:category: [Traits]
+TClass>>#subclass:uses:layout:slots:classVariables:poolDictionaries:category: [Traits]
+TClass>>#variableSubclass:uses:instanceVariableNames:classVariableNames:poolDictionaries:category: [Traits]
+TClass>>#subclass:uses:slots:classVariables:category: [Traits]
+TClass>>#weakSubclass:uses:instanceVariableNames:classVariableNames:poolDictionaries:category: [Traits]
+TClass>>#superclass:methodDict:format:name:organization:instVarNames:classPool:sharedPools: [Traits]
+TClass>>#subclass:uses:slots:classVariables:poolDictionaries:category: [Traits]
+TClass>>#variableByteSubclass:uses:instanceVariableNames:classVariableNames:poolDictionaries:category: [Traits]
+TClass>>#variableSubclass:uses:instanceVariableNames:classVariableNames:category: [Traits]
+TClass>>#subclass:slots:classVariables:poolDictionaries:category: [Traits]
+TClass>>#variableWordSubclass:uses:instanceVariableNames:classVariableNames:poolDictionaries:category: [Traits]
+TClass>>#variableByteSubclass:uses:instanceVariableNames:classVariableNames:category: [Traits]
+TClass>>#subclass:uses:layout:slots:classVariables:category: [Traits]
+RubCompositionScanner>>#composeFrom:inRectangle:firstLine:leftSide:rightSide: [Rubric]
+RubSegmentIconMenuMorph>>#addToggle:target:selector:getStateSelector:enablementSelector:argumentList: [Rubric]
+NBWin32Window class>>#createWindowExW:lpClassName:lpWindowName:dwStyle:x:y:width:height:hWndParent:hMenu:hInstance:lParam: [NativeBoost-Win32]
+NBWin32Window class>>#createWindowExA:lpClassName:lpWindowName:dwStyle:x:y:width:height:hWndParent:hMenu:hInstance:lParam: [NativeBoost-Win32]
+CornerRounder class>>#roundShadowCornersOf:on:in:displayBlock:borderWidth:corners: [Graphics-Canvas]
+CornerRounder class>>#roundCornersOf:on:in:displayBlock:borderWidth:corners: [Graphics-Canvas]
+CommandLineUIManager>>#confirm:trueChoice:falseChoice:cancelChoice:default: [UIManager]
+Socket>>#primSocketCreateNetwork:type:receiveBufferSize:sendBufSize:semaIndex: [Network-Kernel]
+Socket>>#primSocketCreateNetwork:type:receiveBufferSize:sendBufSize:semaIndex:readSemaIndex:writeSemaIndex: [Network-Kernel]
+Socket>>#primSocket:sendUDPData:toHost:port:startIndex:count: [Network-Kernel]
+Socket>>#errorSending:startingAt:count:toHost:port: [Network-Kernel]
+Socket>>#primAcceptFrom:receiveBufferSize:sendBufSize:semaIndex:readSemaIndex:writeSemaIndex: [Network-Kernel]
+ClassCommented class>>#class:oldComment:newComment:oldStamp:newStamp: [System-Announcements]
+MethodChunk class>>#contents:behaviorName:isMeta:category:stamp: [CodeImport]
+DisplayMedium>>#drawLine:from:to:clippingBox:rule:fillColor: [Graphics-Display Objects]
+DisplayMedium>>#copyBits:from:at:clippingBox:rule:fillColor: [Graphics-Display Objects]
+Context>>#initializeWith:stackPtr:method:receiver:sender: [FuelTests]
+Context>>#setSender:receiver:method:closure:startpc: [Kernel]
+SystemAnnouncer>>#class:oldComment:newComment:oldStamp:newStamp: [System-Announcements]
+DateAndTime class>>#year:month:day:hour:minute:second:offset: [Kernel]
+DateAndTime class>>#year:month:day:hour:minute: [Kernel]
+DateAndTime class>>#year:month:day:hour:minute:offset: [Kernel]
+DateAndTime class>>#year:month:day:hour:minute:second:nanoSecond:offset: [Kernel]
+DateAndTime class>>#year:day:hour:minute:second:offset: [Kernel]
+DateAndTime class>>#year:month:day:hour:minute:second: [Kernel]
+DateAndTime class>>#year:day:hour:minute:second: [Kernel]
+GTMockSpotterTask>>#execute:withArguments:callback:priority:delay: [GT-Tests-Spotter]
+NBInterpreterProxy>>#showDisplayBits:Left:Top:Right:Bottom: [NativeBoost-Core]
+UndefinedObject>>#subclass:instanceVariableNames:classVariableNames:poolDictionaries:category: [Kernel]
+AsyncFile>>#primWriteStart:fPosition:fromBuffer:at:count: [Files]
+MethodAddition>>#compile:classified:withStamp:notifying:logSource:inClass: [Monticello]
+QSystemTally>>#treePrintOn:tabs:thisTab:total:totalTime:tallyExact:orThreshold: [Tool-Profilers]
+MessageNode>>#receiver:selector:arguments:precedence:from:sourceRange: [Compiler]
+MessageNode>>#receiver:selector:arguments:precedence:from: [Compiler]
+Morph>>#undoMove:redo:owner:bounds:predecessor: [Morphic-Core]
+Morph>>#treeRenderOn:bounds:color:font:from: [Polymorph-Widgets]
+Morph>>#listRenderOn:atRow:bounds:color:backgroundColor:from: [Morphic-Core]
+TickDialogWindow class>>#itemsList:itemsHeaderName:wrapBlockOrSelector:title:defaultValue: [Polymorph-Widgets]
+JPEGReadWriter>>#primDecodeBlockInto:component:dcTable:acTable:stream: [Graphics-Files]
+ZnUTF8Encoder>>#replace:from:to:with:startingAt: [Zinc-Character-Encoding-Core]
+MetacelloVersionValidator class>>#validateProject:version:debug:recurse:visited: [Metacello-Core]
+RBAddParameterRefactoring class>>#model:addParameterToMethod:in:newSelector:initializer: [Refactoring-Core]
+DecompilerConstructorForClosures>>#codeMethod:block:tempVars:primitive:class: [Compiler]
+RBSplitClassRefactoring class>>#model:class:instanceVariables:newClassName:referenceVariableName: [Refactoring-Core]
+FTPluggableIconListMorphAdaptor>>#on:list:selected:changeSelected:menu:keystroke:wrapSelector: [Morphic-Widgets-FastTable]
+FTPluggableIconListMorphAdaptor>>#on:list:primarySelection:changePrimarySelection:listSelection:changeListSelection:menu:keystroke: [Morphic-Widgets-FastTable]
+FTPluggableIconListMorphAdaptor>>#on:list:selected:changeSelected:menu:keystroke: [Morphic-Widgets-FastTable]
+ColorMappingCanvas>>#drawString:from:to:in:font:color:underline:underlineColor:strikethrough:strikethroughColor: [Graphics-Canvas]
+ColorMappingCanvas>>#frameAndFillRectangle:fillColor:borderWidth:topLeftColor:bottomRightColor: [Graphics-Canvas]
+ColorMappingCanvas>>#drawString:from:to:in:font:color: [Graphics-Canvas]
+MCDiffyVersion>>#initializeWithPackage:info:dependencies:baseInfo:patch: [Monticello]
+DialogItemsChooser class>>#on:unselectedItems:selectedItems:selectedItemsSetterSelector:title:unselectedItemsLabel:selectedItemsLabel: [Tool-Finder]
+PluggableMultiColumnListMorph class>>#on:list:selected:changeSelected:menu:keystroke:wrapSelector: [Morphic-Widgets-Pluggable]
+PluggableMultiColumnListMorph class>>#on:list:selected:changeSelected:menu:wrapSelector: [Morphic-Widgets-Pluggable]
+MouseMoveEvent>>#setType:startPoint:endPoint:trail:buttons:hand:stamp: [Morphic-Core]
+CharacterScanner>>#primScanCharactersFrom:to:in:rightX:stopConditions:kern: [Text-Scanning]
+CharacterScanner>>#scanCharactersFrom:to:in:rightX:stopConditions:kern: [Text-Scanning]
+CompressedBoundaryShape>>#setPoints:leftFills:rightFills:fillStyles:lineWidths:lineFills: [Balloon]
+GLMAsyncTask>>#execute:withArguments:callback:priority:delay: [Glamour-Morphic-Brick]
+UITheme>>#chooseFileIn:title:extensions:path:preview: [Polymorph-Widgets]
+UITheme>>#chooseFullFileNameIn:title:patterns:path:preview: [Polymorph-Widgets]
+UITheme>>#newAutoAcceptTextEntryIn:for:get:set:class:getEnabled:help: [Polymorph-Widgets]
+UITheme>>#newEditableDropListIn:for:list:getSelected:setSelected:addToList:class:default:ghostText:getEnabled:useIndex:help: [Polymorph-Widgets]
+UITheme>>#newTextEntryIn:for:get:set:class:getEnabled:help:entryCompletion: [Polymorph-Widgets]
+UITheme>>#newMorphListIn:for:list:getSelected:setSelected:getEnabled:help: [Polymorph-Widgets]
+UITheme>>#fileSaveIn:title:initialAnswer:extensions:path: [Polymorph-Widgets]
+UITheme>>#newTreeIn:for:list:selected:changeSelected: [Polymorph-Widgets]
+UITheme>>#newListIn:for:list:selected:changeSelected:icon:getEnabled:help: [Polymorph-Widgets]
+UITheme>>#textEntryIn:text:title:entryText:entryCompletion: [Polymorph-Widgets]
+UITheme>>#newColorChooserIn:for:getColor:setColor:getEnabled:help: [Polymorph-Widgets]
+UITheme>>#newAutoAcceptTextEntryIn:for:get:set:class:getEnabled:help:entryCompletion: [Polymorph-Widgets]
+UITheme>>#newTextEntryIn:for:get:set:class:getEnabled:help: [Polymorph-Widgets]
+UITheme>>#chooseIn:title:labels:values:lines: [Polymorph-Widgets]
+UITheme>>#newAutoAcceptTextEditorIn:for:getText:setText:getEnabled: [Polymorph-Widgets]
+UITheme>>#newRadioButtonIn:for:getSelected:setSelected:getEnabled:label:help: [Polymorph-Widgets]
+UITheme>>#chooseFileNameIn:title:extensions:path:preview: [Polymorph-Widgets]
+UITheme>>#chooseOrRequestIn:title:labels:values:lines: [Polymorph-Widgets]
+UITheme>>#newButtonIn:for:getState:action:arguments:getEnabled:label:help: [Polymorph-Widgets]
+UITheme>>#newListIn:for:list:selected:changeSelected:getEnabled:help: [Polymorph-Widgets]
+UITheme>>#newBasicTextEditorIn:for:getText:setText:getEnabled:menu: [Polymorph-Widgets]
+UITheme>>#newAutoAcceptTextEntryIn:for:get:set:class:getEnabled:font:help: [Polymorph-Widgets]
+UITheme>>#newHueSelectorIn:for:getHue:setHue:help: [Polymorph-Widgets]
+UITheme>>#newDropListIn:for:list:getSelected:setSelected:getEnabled:useIndex:help: [Polymorph-Widgets]
+UITheme>>#customQuestionIn:text:yesText:noText:title: [Polymorph-Widgets]
+UITheme>>#customQuestionIn:text:yesText:noText:cancelText:default:title: [Polymorph-Widgets]
+UITheme>>#newBracketSliderIn:for:getValue:setValue:min:max:quantum:getEnabled:help: [Polymorph-Widgets]
+UITheme>>#newMorphDropListIn:for:list:getSelected:setSelected:getEnabled:useIndex:help: [Polymorph-Widgets]
+UITheme>>#newFuzzyLabelIn:for:label:offset:alpha:getEnabled: [Polymorph-Widgets]
+UITheme>>#newAutoAcceptTextEntryIn:for:get:set:class:getEnabled:font:help:entryCompletion: [Polymorph-Widgets]
+UITheme>>#fileOpenIn:title:extensions:path:preview: [Polymorph-Widgets]
+UITheme>>#newCheckboxIn:for:getSelected:setSelected:getEnabled:label:help: [Polymorph-Widgets]
+UITheme>>#textEditorIn:text:title:entryText:entryHeight: [Polymorph-Widgets]
+UITheme>>#newSliderIn:for:getValue:setValue:min:max:quantum:getEnabled:help: [Polymorph-Widgets]
+UITheme>>#chooseFullFileNameIn:title:extensions:path:preview: [Polymorph-Widgets]
+UITheme>>#chooseFileNameIn:title:patterns:path:preview: [Polymorph-Widgets]
+UITheme>>#chooseIn:title:message:labels:values:lines: [Polymorph-Widgets]
+UITheme>>#newIncrementalSliderIn:for:getValue:setValue:min:max:quantum:getEnabled:help: [Polymorph-Widgets]
+UITheme>>#newTextEditorIn:for:getText:setText:getEnabled:menu: [Polymorph-Widgets]
+UITheme>>#newAlphaSelectorIn:for:getAlpha:setAlpha:help: [Polymorph-Widgets]
+UITheme>>#newMorphDropListIn:for:list:getSelected:setSelected:getEnabled:help: [Polymorph-Widgets]
+UITheme>>#newCheckboxIn:for:getSelected:setSelected:getEnabled:getLabel:help: [Polymorph-Widgets]
+UITheme>>#newButtonIn:for:getState:action:arguments:getEnabled:getLabel:help: [Polymorph-Widgets]
+UITheme>>#enterOrRequestIn:title:labels:values:lines: [Polymorph-Widgets]
+MCTraitDefinition>>#initializeWithName:traitComposition:category:comment:commentStamp: [Monticello]
+BalloonEngine>>#primAddOvalFrom:to:fillIndex:borderWidth:borderColor: [Balloon]
+BalloonEngine>>#primAddExternalEdge:initialX:initialY:initialZ:leftFillIndex:rightFillIndex: [Balloon]
+BalloonEngine>>#primAddPolygon:segments:fill:lineWidth:lineFill: [Balloon]
+BalloonEngine>>#primAddBitmapFill:colormap:tile:from:along:normal:xIndex: [Balloon]
+BalloonEngine>>#drawRectangle:fill:borderWidth:borderColor:transform: [Balloon]
+BalloonEngine>>#primAddBezierShape:segments:fill:lineWidth:lineFill: [Balloon]
+BalloonEngine>>#drawPolygon:fill:borderWidth:borderColor:transform: [Balloon]
+BalloonEngine>>#primAddCompressedShape:segments:leftFills:rightFills:lineWidths:lineFills:fillIndexList: [Balloon]
+BalloonEngine>>#drawOval:fill:borderWidth:borderColor:transform: [Balloon]
+BalloonEngine>>#drawGeneralPolygon:fill:borderWidth:borderColor:transform: [Balloon]
+BalloonEngine>>#primAddGradientFill:from:along:normal:radial: [Balloon]
+BalloonEngine>>#primAddBezierFrom:to:via:leftFillIndex:rightFillIndex: [Balloon]
+BalloonEngine>>#drawBezierShape:fill:borderWidth:borderColor:transform: [Balloon]
+BalloonEngine>>#drawGeneralBezierShape:fill:borderWidth:borderColor:transform: [Balloon]
+BalloonEngine>>#primAddRectFrom:to:fillIndex:borderWidth:borderColor: [Balloon]
+MorphTreeColumn>>#headerButtonLabel:font:icon:target:actionSelector:arguments: [Morphic-Widgets-Tree]
+MorphTreeColumn>>#headerButtonLabel:font:target:actionSelector:arguments: [Morphic-Widgets-Tree]
+MetacelloVersionConstructor class>>#spawnPackageMethodIn:named:sourceVersion:targetVersion:blessing: [Metacello-Core]
+MetacelloVersionConstructor class>>#spawnPackageMethodIn:category:named:sourceVersion:targetVersion:blessing: [Metacello-Core]
+MetacelloPackagesSpec>>#slideIn:spec:baseIndex:seen:firstTime: [Metacello-Core]
+MCMethodDefinition>>#initializeWithClassName:classIsMeta:selector:category:timeStamp:source: [Monticello]
+NonInteractiveUIManager>>#confirm:trueChoice:falseChoice:cancelChoice:default: [UIManager]
+RubSurfaceSelectionShape class>>#vertices:firstIndex:lastIndex:color:borderWidth:borderColor: [Rubric]
+MCDiffyVersion class>>#package:info:dependencies:baseInfo:patch: [Monticello]
+MCDiffyVersion class>>#package:info:snapshot:dependencies:baseVersion: [Monticello]
+MCMethodDefinition class>>#className:classIsMeta:selector:category:timeStamp:source: [Monticello]
+MCMethodDefinition class>>#className:selector:category:timeStamp:source: [Monticello]
+GLMPresentation>>#populate:icon:on:entitled:with: [Glamour-Core]
+GLMPresentation>>#morphicPopulate:icon:on:entitled:with: [Glamour-Morphic-Renderer]
+ZnBase64Encoder>>#decode:and:and:and:to: [Zinc-Character-Encoding-Core]
+AbstractFont>>#displayString:on:from:to:at:kern:baselineY: [Graphics-Fonts]
+AbstractFont>>#displayString:on:from:to:at:kern: [Graphics-Fonts]
+AbstractFont>>#scanMultibyteJapaneseCharactersFrom:to:in:with:rightX: [Multilingual-OtherLanguages]
+AbstractFont>>#scanMultibyteCharactersFrom:to:in:with:rightX: [Text-Scanning]
+AbstractFont>>#scanByteCharactersFrom:to:in:with:rightX: [Text-Scanning]
+Collection class>>#with:with:with:with:with: [Collections-Abstract]
+Collection class>>#with:with:with:with:with:with: [Collections-Abstract]
+NBFFICalloutTests>>#checkType:class:arity:stackIndex:elementIndex: [NativeBoost-Tests]
+MenuMorph>>#addToggle:target:selector:getStateSelector:enablementSelector: [Morphic-Base]
+MenuMorph>>#addToggle:target:selector:getStateSelector:argumentList: [Morphic-Base]
+MenuMorph>>#addToggle:target:selector:getStateSelector:enablementSelector:argumentList: [Morphic-Base]
+TxCharacterSpan>>#drawOn:from:to:at:font: [TxText-Model]
+CairoFreetypeFontRenderer>>#convertString:len:ofFont:toGlyphs:numGlyphs:x:y: [Athens-Cairo]
+PluggableListMorph class>>#on:list:primarySelection:changePrimarySelection:listSelection:changeListSelection:menu:keystroke: [Morphic-Widgets-Pluggable]
+PluggableListMorph class>>#on:list:selected:changeSelected:menu: [Morphic-Widgets-Pluggable]
+PluggableListMorph class>>#on:list:selected:changeSelected:menu:keystroke: [Morphic-Widgets-Pluggable]
+PluggableListMorph class>>#on:list:primarySelection:changePrimarySelection:listSelection:changeListSelection:menu: [Morphic-Widgets-Pluggable]
+WarpBlt class>>#rotate:degrees:center:scaleBy:smoothing: [Graphics-Primitives]
+FTPluggableIconListMorphAdaptor class>>#on:list:primarySelection:changePrimarySelection:listSelection:changeListSelection:menu:keystroke: [Morphic-Widgets-FastTable]
+FTPluggableIconListMorphAdaptor class>>#on:list:primarySelection:changePrimarySelection:listSelection:changeListSelection:menu: [Morphic-Widgets-FastTable]
+FTPluggableIconListMorphAdaptor class>>#on:list:selected:changeSelected:menu:keystroke: [Morphic-Widgets-FastTable]
+FTPluggableIconListMorphAdaptor class>>#on:list:selected:changeSelected:menu: [Morphic-Widgets-FastTable]
+FTPluggableIconListMorphAdaptor class>>#on:list:selected:changeSelected:menu:keystroke:wrapSelector: [Morphic-Widgets-FastTable]
+FTPluggableIconListMorphAdaptor class>>#on:list:selected:changeSelected:menu:wrapSelector: [Morphic-Widgets-FastTable]
+CompoundTextConverterState class>>#g0Size:g1Size:g0Leading:g1Leading:charSize:streamPosition: [Multilingual-TextConversion]
+DisplayScreen>>#copyBits:from:at:clippingBox:rule:fillColor:map: [Graphics-Display Objects]
+DisplayScreen>>#copyBits:from:at:clippingBox:rule:fillColor: [Graphics-Display Objects]
+CompositionScanner>>#composeFrom:inRectangle:firstLine:leftSide:rightSide: [Text-Scanning]
+AthensCairoGradientPaint class>>#radialBetween:extending:and:extending:withColorRamp: [Athens-Cairo]
+AthensCairoGradientPaint class>>#primCreateRadialXo:yo:radiuso:x1:y1:radius1: [Athens-Cairo]
+Heap>>#mergeFirst:middle:last:into:by: [Collections-Abstract]
+Heap>>#mergeSortFrom:to:src:dst:by: [Collections-Abstract]
+FreeTypeGlyphRenderer>>#glyphOf:colorValue:mono:subpixelPosition:font: [FreeType]
+FreeTypeGlyphRenderer>>#subGlyphOf:colorValue:mono:subpixelPosition:font: [FreeType]
+FreeTypeGlyphRenderer>>#mode41GlyphOf:colorValue:mono:subpixelPosition:font: [FreeType]
+Form>>#drawLine:from:to:clippingBox:rule:fillColor: [Graphics-Display Objects]
+Form>>#displayOn:at:clippingBox:rule:fillColor: [Graphics-Display Objects]
+Form>>#copyBits:from:at:clippingBox:rule:fillColor:map: [Graphics-Display Objects]
+Form>>#listRenderOn:atRow:bounds:color:backgroundColor:from: [Polymorph-Widgets]
+Form>>#copyBits:from:at:clippingBox:rule:fillColor: [Graphics-Display Objects]
+MouseClickState>>#client:click:dblClick:dblClickTime:dblClickTimeout:drag:threshold:event: [Morphic-Base]
+FBDASTBuilder>>#codeMethod:arguments:body:pragmas:class: [Flashback-Decompiler]
+MouseButtonEvent>>#setType:position:which:buttons:hand:stamp: [Morphic-Core]
+SerialPort>>#primOpenPort:baudRate:stopBitsType:parityType:dataBits:inFlowControlType:outFlowControlType:xOnByte:xOffByte: [System-Serial Port]
+SerialPort>>#primOpenPortByName:baudRate:stopBitsType:parityType:dataBits:inFlowControlType:outFlowControlType:xOnByte:xOffByte: [System-Serial Port]
+ExampleBuilderMorph>>#newListFor:list:selected:changeSelected:getEnabled:help: [Polymorph-Widgets]
+ExampleBuilderMorph>>#newDropListFor:list:getSelected:setSelected:getEnabled:useIndex:help: [Polymorph-Widgets]
+ExampleBuilderMorph>>#newCheckboxFor:getSelected:setSelected:label:help: [Polymorph-Widgets]
+ExampleBuilderMorph>>#newAutoAcceptTextEntryFor:get:set:class:getEnabled:help:entryCompletion: [Polymorph-Widgets]
+ExampleBuilderMorph>>#newButtonFor:action:getEnabled:label:help: [Polymorph-Widgets]
+ExampleBuilderMorph>>#newAutoAcceptTextEntryFor:get:set:class:getEnabled:font:help:entryCompletion: [Polymorph-Widgets]
+ExampleBuilderMorph>>#newRadioButtonFor:getSelected:setSelected:getEnabled:label:help: [Polymorph-Widgets]
+ExampleBuilderMorph>>#newButtonFor:getState:action:arguments:getEnabled:labelForm:help: [Polymorph-Widgets]
+ExampleBuilderMorph>>#newCheckboxFor:getSelected:setSelected:getEnabled:getLabel:help: [Polymorph-Widgets]
+ExampleBuilderMorph>>#newDropListFor:list:getSelected:setSelected:getEnabled:help: [Polymorph-Widgets]
+ExampleBuilderMorph>>#newFuzzyLabelFor:label:offset:alpha:getEnabled: [Polymorph-Widgets]
+ExampleBuilderMorph>>#newAutoAcceptTextEntryFor:getText:setText:getEnabled:font:help: [Polymorph-Widgets]
+ExampleBuilderMorph>>#newListFor:list:selected:changeSelected:help: [Polymorph-Widgets]
+ExampleBuilderMorph>>#newListFor:list:selected:changeSelected:icon:getEnabled:help: [Polymorph-Widgets]
+ExampleBuilderMorph>>#newBasicTextEditorFor:getText:setText:getEnabled:menu: [Polymorph-Widgets]
+ExampleBuilderMorph>>#newTextEditorFor:getText:setText:getEnabled:menu: [Polymorph-Widgets]
+ExampleBuilderMorph>>#newMorphListFor:list:getSelected:setSelected:help: [Polymorph-Widgets]
+ExampleBuilderMorph>>#newDropListFor:list:getSelected:setSelected:help: [Polymorph-Widgets]
+ExampleBuilderMorph>>#newIncrementalSliderFor:getValue:setValue:min:max:quantum:getEnabled:help: [Polymorph-Widgets]
+ExampleBuilderMorph>>#newBracketSliderFor:getValue:setValue:min:max:quantum:getEnabled:help: [Polymorph-Widgets]
+ExampleBuilderMorph>>#newColorChooserFor:getColor:setColor:getEnabled:help: [Polymorph-Widgets]
+ExampleBuilderMorph>>#newAutoAcceptTextEntryFor:get:set:class:getEnabled:font:help: [Polymorph-Widgets]
+ExampleBuilderMorph>>#newButtonFor:getState:action:arguments:getEnabled:getLabel:help: [Polymorph-Widgets]
+ExampleBuilderMorph>>#newTextEntryFor:getText:setText:getEnabled:help: [Polymorph-Widgets]
+ExampleBuilderMorph>>#newAutoAcceptTextEntryFor:getText:setText:getEnabled:font:help:entryCompletion: [Polymorph-Widgets]
+ExampleBuilderMorph>>#newTextEntryFor:getText:setText:getEnabled:help:entryCompletion: [Polymorph-Widgets]
+ExampleBuilderMorph>>#newAutoAcceptTextEntryFor:getText:setText:getEnabled:help:entryCompletion: [Polymorph-Widgets]
+ExampleBuilderMorph>>#newButtonFor:getState:action:arguments:getEnabled:label:help: [Polymorph-Widgets]
+ExampleBuilderMorph>>#newMorphDropListFor:list:getSelected:setSelected:getEnabled:help: [Polymorph-Widgets]
+ExampleBuilderMorph>>#newCheckboxFor:getSelected:setSelected:getEnabled:label:help: [Polymorph-Widgets]
+ExampleBuilderMorph>>#newEditableDropListFor:list:getSelected:setSelected:addToList:ghostText:getEnabled:help: [Polymorph-Widgets]
+ExampleBuilderMorph>>#newRadioButtonFor:getSelected:setSelected:label:help: [Polymorph-Widgets]
+ExampleBuilderMorph>>#newEditableDropListFor:list:getSelected:setSelected:addToList:class:default:ghostText:getEnabled:useIndex:help: [Polymorph-Widgets]
+ExampleBuilderMorph>>#newAutoAcceptTextEntryFor:getText:setText:getEnabled:help: [Polymorph-Widgets]
+ExampleBuilderMorph>>#newMorphDropListFor:list:getSelected:setSelected:getEnabled:useIndex:help: [Polymorph-Widgets]
+ExampleBuilderMorph>>#newBracketSliderFor:getValue:setValue:min:max:quantum:help: [Polymorph-Widgets]
+ExampleBuilderMorph>>#newAutoAcceptTextEntryFor:get:set:class:getEnabled:help: [Polymorph-Widgets]
+ExampleBuilderMorph>>#newMorphDropListFor:list:getSelected:setSelected:help: [Polymorph-Widgets]
+ExampleBuilderMorph>>#newTextEntryFor:get:set:class:getEnabled:help: [Polymorph-Widgets]
+ExampleBuilderMorph>>#newSliderFor:getValue:setValue:getEnabled:help: [Polymorph-Widgets]
+ExampleBuilderMorph>>#newMorphListFor:list:getSelected:setSelected:getEnabled:help: [Polymorph-Widgets]
+ExampleBuilderMorph>>#newSliderFor:getValue:setValue:min:max:quantum:getEnabled:help: [Polymorph-Widgets]
+WorldMorph>>#startStepping:at:selector:arguments:stepTime: [Morphic-Core]
+StrikeFont>>#displayString:on:from:to:at:kern:baselineY: [Graphics-Fonts]
+StrikeFont>>#displayString:on:from:to:at:kern: [Graphics-Fonts]
+StrikeFont>>#displayMultiString:on:from:to:at:kern:baselineY: [Graphics-Fonts]
+StrikeFont>>#buildfontNamed:fromForms:startingAtAscii:ascent:descent:maxWid: [Graphics-Fonts]
+StrikeFont>>#characters:in:displayAt:clippedBy:rule:fillColor:kernDelta:on: [Graphics-Fonts]
+EditableDropListMorph class>>#on:list:selected:changeSelected:useIndex:addToList:class:getEnabled: [Polymorph-Widgets]
+EditableDropListMorph class>>#on:list:selected:changeSelected:useIndex:addToList:class:getEnabled:default: [Polymorph-Widgets]
+ZdcPluginSSLSession>>#primitiveSSL:decrypt:startingAt:count:into: [Zodiac-Core]
+ZdcPluginSSLSession>>#primitiveSSL:connect:startingAt:count:into: [Zodiac-Core]
+ZdcPluginSSLSession>>#primitiveSSL:accept:startingAt:count:into: [Zodiac-Core]
+ZdcPluginSSLSession>>#primitiveSSL:encrypt:startingAt:count:into: [Zodiac-Core]
+Canvas>>#warpImage:transform:at:sourceRect:cellSize: [Graphics-Canvas]
+Canvas>>#drawString:from:to:in:font:color:underline:underlineColor:strikethrough:strikethroughColor: [Graphics-Canvas]
+Canvas>>#drawString:from:to:at:font:color:underline:underlineColor:strikethrough:strikethroughColor: [Graphics-Canvas]
+Canvas>>#line:to:width:color:stepWidth:secondWidth:secondColor:secondStepWidth: [Graphics-Canvas]
+Canvas>>#line:to:width:colors:dashes:startingOffset: [Graphics-Canvas]
+Canvas>>#drawString:in:font:color:underline:underlineColor:strikethrough:strikethroughColor: [Graphics-Canvas]
+Canvas>>#drawString:from:to:at:font:color: [Graphics-Canvas]
+Canvas>>#drawString:from:to:in:font:color: [Graphics-Canvas]
+Canvas>>#image:at:sourceRect:rule:alpha: [Graphics-Canvas]
+Canvas>>#frameRectangle:width:colors:dashes:offset: [Graphics-Canvas]
+Canvas>>#frameAndFillRectangle:fillColor:borderWidth:topLeftColor:bottomRightColor: [Graphics-Canvas]
+Canvas>>#line:to:width:color:dashLength:secondColor:secondDashLength:startingOffset: [Graphics-Canvas]
+SparseLargeTable>>#initChunkSize:size:arrayClass:base:defaultValue: [Collections-Sequenceable]
+ClassDescription>>#compile:classified:withStamp:notifying:logSource: [Traits]
+GrafPort>>#image:at:sourceRect:rule:alpha: [Graphics-Primitives]
+RBProgramNode>>#matchList:index:against:index:inContext: [AST-Core]
+ClassFactoryWithOrganization>>#newClassNamed:subclassOf:instanceVariableNames:classVariableNames:category: [SUnit-Core]
+SpecDebugger class>>#openOn:context:label:contents:fullView: [Spec-Debugger]
+MBAddConfigurationCommand>>#executeAddBaselineForConfigurationNamed:repositoryDescription:versionString:packages:configurations: [Versionner-Core-Commands]
+MBAddConfigurationCommand>>#executeAddBaselineForConfigurationNamed:repositoryDescription:versionString:packages:configurations:repositories: [Versionner-Core-Commands]
+ChangeSorterModel>>#buildSelectorDescriptionFor:class:selector:prettyPrint:showDiff: [Spec-Tools]
+ChangeSorterModel>>#setContentsOfChangeSet:forClass:andSelector:prettyPrint:showDiff: [Spec-Tools]
+Text>>#treeRenderOn:bounds:color:font:from: [Polymorph-Widgets]
+Text>>#listRenderOn:atRow:bounds:color:backgroundColor:from: [Morphic-Base]
+SparseLargeTable class>>#new:chunkSize:arrayClass:base:defaultValue: [Collections-Sequenceable]
+SparseLargeArray>>#initChunkSize:size:arrayClass:base:defaultValue: [Collections-Sequenceable]
+MCClassDefinition class>>#name:superclassName:category:instVarNames:comment: [Monticello]
+MCClassDefinition class>>#name:superclassName:traitComposition:classTraitComposition:category:instVarNames:classVarNames:poolDictionaryNames:classInstVarNames:type:comment:commentStamp: [Monticello]
+MCClassDefinition class>>#name:superclassName:category:instVarNames:classVarNames:poolDictionaryNames:classInstVarNames:type:comment: [Monticello]
+MCClassDefinition class>>#name:superclassName:category:instVarNames:classVarNames:poolDictionaryNames:classInstVarNames:comment: [Monticello]
+MCClassDefinition class>>#name:superclassName:category:instVarNames:classVarNames:poolDictionaryNames:classInstVarNames:type:comment:commentStamp: [Monticello]
+AthensBezierConverter>>#isFlatBezier2_x1:y1:x2:y2:x3:y3: [Athens-Core]
+AthensBezierConverter>>#recursiveBezier2_x1:y1:x2:y2:x3:y3: [Athens-Core]
+AJx86Instruction>>#emitX86RM:size:regOrCode:rm:immSize: [AsmJit-x86]
+FixedFaceFont>>#displayString:on:from:to:at:kern:baselineY: [Graphics-Fonts]
+FixedFaceFont>>#displayString:on:from:to:at:kern: [Graphics-Fonts]
+FixedFaceFont>>#displayErrorOn:length:at:kern:baselineY: [Graphics-Fonts]
+FixedFaceFont>>#displayString:on:from:to:at:kern:from: [Graphics-Fonts]
+FixedFaceFont>>#displayString:on:from:to:at:kern:from:baselineY: [Graphics-Fonts]
+FixedFaceFont>>#displayPasswordOn:length:at:kern:baselineY: [Graphics-Fonts]
+NECUntypedModel class>>#class:temporaries:additionals:variables:selectors: [NECompletion]
+SequenceableCollection>>#mergeFirst:middle:last:into:by: [Collections-Abstract]
+SequenceableCollection>>#mergeSortFrom:to:src:dst:by: [Collections-Abstract]
+SUnitTest>>#assertForTestResult:runCount:passed:failed:errors:expectedFailures: [SUnit-Tests]
+SUnitTest>>#assertForTestResult:runCount:passed:failed:errors: [SUnit-Tests]
+RBExtractToTemporaryRefactoring class>>#model:extract:to:from:in: [Refactoring-Core]
+PluggableTextMorph class>>#on:text:accept:readSelection:menu:setSelection: [Morphic-Widgets-Pluggable]
+PluggableTextMorph class>>#on:text:accept:readSelection:menu: [Morphic-Widgets-Pluggable]
+DeflateStream>>#findMatch:lastLength:lastMatch:chainLength:goodMatch: [Compression]
+SyntaxErrorDebugger>>#setClass:code:error:location:debugger:doitFlag: [Tools]
+DiffChangeMorph class>>#from:label:to:label:contextClass: [Tool-Diff]
+MetacelloVersionConstructor>>#spawnPackageMethodIn:category:named:sourceVersion:targetVersion:blessing: [Metacello-Core]
+ClassModification class>>#modify:extend:withLayoutType:slots:sharedVariables:sharedPools:traitComposition:compactClassIndex: [Slot]
+NECUntypedModel>>#setClass:temporaries:additionals:variables:selectors: [NECompletion]
+EncodedCharSet class>>#scanMultibyteCharactersFrom:to:in:with:rightX:font: [Multilingual-Encodings]
+StandardWindow>>#newListFor:list:selected:changeSelected:getEnabled:help: [Polymorph-Widgets]
+StandardWindow>>#newDropListFor:list:getSelected:setSelected:getEnabled:useIndex:help: [Polymorph-Widgets]
+StandardWindow>>#newCheckboxFor:getSelected:setSelected:label:help: [Polymorph-Widgets]
+StandardWindow>>#newAutoAcceptTextEntryFor:get:set:class:getEnabled:help:entryCompletion: [Polymorph-Widgets]
+StandardWindow>>#newButtonFor:action:getEnabled:label:help: [Polymorph-Widgets]
+StandardWindow>>#newAutoAcceptTextEntryFor:get:set:class:getEnabled:font:help:entryCompletion: [Polymorph-Widgets]
+StandardWindow>>#newRadioButtonFor:getSelected:setSelected:getEnabled:label:help: [Polymorph-Widgets]
+StandardWindow>>#newButtonFor:getState:action:arguments:getEnabled:labelForm:help: [Polymorph-Widgets]
+StandardWindow>>#newCheckboxFor:getSelected:setSelected:getEnabled:getLabel:help: [Polymorph-Widgets]
+StandardWindow>>#newDropListFor:list:getSelected:setSelected:getEnabled:help: [Polymorph-Widgets]
+StandardWindow>>#newFuzzyLabelFor:label:offset:alpha:getEnabled: [Polymorph-Widgets]
+StandardWindow>>#newAutoAcceptTextEntryFor:getText:setText:getEnabled:font:help: [Polymorph-Widgets]
+StandardWindow>>#newListFor:list:selected:changeSelected:help: [Polymorph-Widgets]
+StandardWindow>>#newListFor:list:selected:changeSelected:icon:getEnabled:help: [Polymorph-Widgets]
+StandardWindow>>#newBasicTextEditorFor:getText:setText:getEnabled:menu: [Polymorph-Widgets]
+StandardWindow>>#newTextEditorFor:getText:setText:getEnabled:menu: [Polymorph-Widgets]
+StandardWindow>>#newMorphListFor:list:getSelected:setSelected:help: [Polymorph-Widgets]
+StandardWindow>>#newDropListFor:list:getSelected:setSelected:help: [Polymorph-Widgets]
+StandardWindow>>#newIncrementalSliderFor:getValue:setValue:min:max:quantum:getEnabled:help: [Polymorph-Widgets]
+StandardWindow>>#newBracketSliderFor:getValue:setValue:min:max:quantum:getEnabled:help: [Polymorph-Widgets]
+StandardWindow>>#newColorChooserFor:getColor:setColor:getEnabled:help: [Polymorph-Widgets]
+StandardWindow>>#newAutoAcceptTextEntryFor:get:set:class:getEnabled:font:help: [Polymorph-Widgets]
+StandardWindow>>#newButtonFor:getState:action:arguments:getEnabled:getLabel:help: [Polymorph-Widgets]
+StandardWindow>>#newTextEntryFor:getText:setText:getEnabled:help: [Polymorph-Widgets]
+StandardWindow>>#newAutoAcceptTextEntryFor:getText:setText:getEnabled:font:help:entryCompletion: [Polymorph-Widgets]
+StandardWindow>>#newTextEntryFor:getText:setText:getEnabled:help:entryCompletion: [Polymorph-Widgets]
+StandardWindow>>#newAutoAcceptTextEntryFor:getText:setText:getEnabled:help:entryCompletion: [Polymorph-Widgets]
+StandardWindow>>#newButtonFor:getState:action:arguments:getEnabled:label:help: [Polymorph-Widgets]
+StandardWindow>>#newMorphDropListFor:list:getSelected:setSelected:getEnabled:help: [Polymorph-Widgets]
+StandardWindow>>#newCheckboxFor:getSelected:setSelected:getEnabled:label:help: [Polymorph-Widgets]
+StandardWindow>>#newEditableDropListFor:list:getSelected:setSelected:addToList:ghostText:getEnabled:help: [Polymorph-Widgets]
+StandardWindow>>#newRadioButtonFor:getSelected:setSelected:label:help: [Polymorph-Widgets]
+StandardWindow>>#newEditableDropListFor:list:getSelected:setSelected:addToList:class:default:ghostText:getEnabled:useIndex:help: [Polymorph-Widgets]
+StandardWindow>>#newAutoAcceptTextEntryFor:getText:setText:getEnabled:help: [Polymorph-Widgets]
+StandardWindow>>#newMorphDropListFor:list:getSelected:setSelected:getEnabled:useIndex:help: [Polymorph-Widgets]
+StandardWindow>>#newBracketSliderFor:getValue:setValue:min:max:quantum:help: [Polymorph-Widgets]
+StandardWindow>>#newAutoAcceptTextEntryFor:get:set:class:getEnabled:help: [Polymorph-Widgets]
+StandardWindow>>#newMorphDropListFor:list:getSelected:setSelected:help: [Polymorph-Widgets]
+StandardWindow>>#newTextEntryFor:get:set:class:getEnabled:help: [Polymorph-Widgets]
+StandardWindow>>#newSliderFor:getValue:setValue:getEnabled:help: [Polymorph-Widgets]
+StandardWindow>>#newMorphListFor:list:getSelected:setSelected:getEnabled:help: [Polymorph-Widgets]
+StandardWindow>>#newSliderFor:getValue:setValue:min:max:quantum:getEnabled:help: [Polymorph-Widgets]
+SDL2 class>>#createRGBSurfaceFromPixels:width:height:depth:pitch:rmask:gmask:bmask:amask: [OSWindow-SDL2]
+SDL2 class>>#createWindow:x:y:width:height:flags: [OSWindow-SDL2]
+String>>#treeRenderOn:bounds:color:font:from: [Polymorph-Widgets]
+String>>#listRenderOn:atRow:bounds:color:backgroundColor:from: [Morphic-Base]
+PluggableTextMorph>>#on:text:accept:readSelection:menu:setSelection: [Morphic-Widgets-Pluggable]
+PluggableTextMorph>>#on:text:accept:readSelection:menu: [Morphic-Widgets-Pluggable]
+NewVersionBrowser>>#scanVersionsOf:class:meta:category:selector: [Spec-Tools]
+NewVersionBrowser>>#browseVersionsOf:class:meta:category:selector: [Spec-Tools]
+Number class>>#readScaledDecimal:fractionPart:digits:base:sign:from: [Kernel]

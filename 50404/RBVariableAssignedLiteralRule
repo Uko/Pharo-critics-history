@@ -1,52 +1,52 @@
-HeapTest
-NBCPrinter class
-PluggableTextMorph
-BagTest
-MissingClassError
-MCWorkingCopyBrowser class
-SymbolTest
-IntervalTest
-RBSmalllintTestObject
-ThemeSettings
-TraitsResource
-DictionaryTest
-AJOperand
-NBInterpreterProxy
-VTermOutputDriver
-NBExternalStructure class
-ChunkReadStream
-RxmLookahaed
-NECTestClass
-RubParagraphDecorator
-RBRefactoryTestDataApp
-CompiledMethodTest
-GLMAnimation
-SimpleTestResource
-PharoIssueTest
-WeakFinalizationList
-SetTest
-OrderedCollectionTest
-AthensGenericTransform
-FileList
-SortedCollectionTest
-IdentityBagTest
-SystemVersion
-RubWorkspaceExample
-ZnEntityReader
-LinkedListTest
-ClassTest
-SUnitTest
-GLMPagerScrollSlidingBrick
-OCOpalExamples
-GLMSmalltalkCodePresentation
-ReflectivityExamples
-FreeTypeSettings
-StringTest
-ArrayTest
-FloatArrayTest
-FreeTypeNameParser class
-RubTextComposer
-OSVMWindowHandle
-AthensBezierConverter
-NewListRenderer
-DigitalSignatureAlgorithm
+StringTest [Collections-Tests]
+CompiledMethodTest [Kernel-Tests]
+ZnEntityReader [Zinc-HTTP]
+FreeTypeNameParser class [FreeType]
+AJOperand [AsmJit-Operands]
+RxmLookahaed [Regex-Core]
+RBRefactoryTestDataApp [Refactoring-Tests-Core]
+IdentityBagTest [Collections-Tests]
+ChunkReadStream [CodeImport]
+OrderedCollectionTest [Collections-Tests]
+ReflectivityExamples [Reflectivity-Tests]
+FreeTypeSettings [FreeType]
+NECTestClass [NECompletion-Tests]
+AthensBezierConverter [Athens-Core]
+RBSmalllintTestObject [Refactoring-Tests-Critics]
+BagTest [Collections-Tests]
+GLMPagerScrollSlidingBrick [Glamour-Morphic-Pager]
+HeapTest [Collections-Tests]
+WeakFinalizationList [System-Finalization]
+IntervalTest [Collections-Tests]
+SetTest [Collections-Tests]
+RubWorkspaceExample [Rubric]
+RubParagraphDecorator [Rubric]
+FloatArrayTest [Collections-Tests]
+PluggableTextMorph [Morphic-Widgets-Pluggable]
+GLMSmalltalkCodePresentation [Glamour-Presentations]
+SortedCollectionTest [Collections-Tests]
+DictionaryTest [Collections-Tests]
+VTermOutputDriver [System-CommandLine]
+AthensGenericTransform [Athens-Core]
+SimpleTestResource [SUnit-Tests]
+ClassTest [Kernel-Tests]
+OSVMWindowHandle [OSWindow-VM]
+SymbolTest [Collections-Tests]
+NBCPrinter class [NativeBoost-Examples]
+LinkedListTest [Collections-Tests]
+SystemVersion [System-Support]
+ArrayTest [Collections-Tests]
+FileList [Tool-FileList]
+NewListRenderer [Morphic-Widgets-NewList]
+NBExternalStructure class [NativeBoost-Core]
+RubTextComposer [Rubric]
+PharoIssueTest [IssueTracking-Tests]
+NBInterpreterProxy [NativeBoost-Core]
+OCOpalExamples [OpalCompiler-Tests]
+MissingClassError [CodeImport]
+SUnitTest [SUnit-Tests]
+ThemeSettings [Polymorph-Widgets]
+DigitalSignatureAlgorithm [System-Hashing]
+MCWorkingCopyBrowser class [MonticelloGUI]
+GLMAnimation [Glamour-Morphic-Brick]
+TraitsResource [Tests]

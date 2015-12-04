@@ -1,3 +1,3 @@
-RBSmalllintTestObject>>#returnInEnsure
-RBRefactoryTestDataApp>>#returnInEnsure
-BlockClosure>>#valueUninterruptably
+RBSmalllintTestObject>>#returnInEnsure [Refactoring-Tests-Critics]
+RBRefactoryTestDataApp>>#returnInEnsure [Refactoring-Tests-Core]
+BlockClosure>>#valueUninterruptably [Kernel]

@@ -1,19 +1,19 @@
-MetacelloVersionSpec>>#resolveToLoadableSpecs:forLoad:map:
-PickListModel>>#initializePresenter
-GTExampleOrganizer>>#categoryRemoved:
-TDictionaryCopyingTest>>#testDictionaryConcatenationWithCommonKeysDifferentValues
-MCFileTreeStCypressWriter>>#fileNameMapFor:
-Watchpoint class>>#removeAll
-MetacelloMCVersionSpecLoader>>#load
-MetacelloPlatform>>#useStackCacheDuring:defaultDictionary:
-TDictionaryEnumeratingTest>>#testValuesDo
-TDictionaryEnumeratingTest>>#testCollect
-TDictionaryEnumeratingTest>>#testKeysAndValuesDo
-TDictionaryEnumeratingTest>>#testKeysDo
-TDictionaryEnumeratingTest>>#testAssociationsDo
-TDictionaryEnumeratingTest>>#testSelect
-TDictionaryEnumeratingTest>>#testAssociationsSelect
-MCFileTreeStCypressWriter class>>#initializeSpecials
-MetacelloVersionValidator>>#validateProject:
-MetacelloVersionConstructor>>#prepareForMethodUpdate:sourceVersion:forceUpdate:generating:
-MetacelloMemberListSpec>>#do:
+MetacelloVersionSpec>>#resolveToLoadableSpecs:forLoad:map: [Metacello-Core]
+PickListModel>>#initializePresenter [Spec-PolyWidgets]
+GTExampleOrganizer>>#categoryRemoved: [GT-Inspector]
+TDictionaryCopyingTest>>#testDictionaryConcatenationWithCommonKeysDifferentValues [Collections-Tests]
+MCFileTreeStCypressWriter>>#fileNameMapFor: [MonticelloFileTree-Core]
+Watchpoint class>>#removeAll [Reflectivity-Tools]
+MetacelloMCVersionSpecLoader>>#load [Metacello-MC]
+MetacelloPlatform>>#useStackCacheDuring:defaultDictionary: [Metacello-Core]
+TDictionaryEnumeratingTest>>#testValuesDo [Collections-Tests]
+TDictionaryEnumeratingTest>>#testCollect [Collections-Tests]
+TDictionaryEnumeratingTest>>#testKeysAndValuesDo [Collections-Tests]
+TDictionaryEnumeratingTest>>#testKeysDo [Collections-Tests]
+TDictionaryEnumeratingTest>>#testAssociationsDo [Collections-Tests]
+TDictionaryEnumeratingTest>>#testSelect [Collections-Tests]
+TDictionaryEnumeratingTest>>#testAssociationsSelect [Collections-Tests]
+MCFileTreeStCypressWriter class>>#initializeSpecials [MonticelloFileTree-Core]
+MetacelloVersionValidator>>#validateProject: [Metacello-Core]
+MetacelloVersionConstructor>>#prepareForMethodUpdate:sourceVersion:forceUpdate:generating: [Metacello-Core]
+MetacelloMemberListSpec>>#do: [Metacello-Core]

@@ -1,37 +1,37 @@
-MTVersion
-Integer
-MTProject
-CharacterBlock
-MTDependantProject
-Bag
-DropListItem
-MCOrganizationDefinition
-MCDictionaryRepository
-RBLiteralValueNode
-NBWin32Window
-GLMTreeMorphNodeModel
-KMKeyCombinationChoice
-RBLiteralArrayNode
-TxActionAttribute
-RubCharacterBlock
-NBExternalAddress
-ValueHolder
-SmallDictionary
-NBExternalHandle
-RunArray
-MCScriptDefinition
-SortedCollection
-TxStyle
-BadEqualer
-Dictionary
-FLReplacementMock
-NBExternalEnumeration
-StartupAction
-MTDependency
-Nautilus
-Set
-ScaledDecimal
-Symbol
-Heap
-SugsSuggestion
-Association
+KMKeyCombinationChoice [Keymapping-KeyCombinations]
+RBLiteralArrayNode [AST-Core]
+Nautilus [Nautilus]
+Dictionary [Collections-Unordered]
+MCDictionaryRepository [Monticello]
+MTDependency [Versionner-Core-DependenciesModel]
+SmallDictionary [Collections-Unordered]
+CharacterBlock [Text-Scanning]
+StartupAction [StartupPreferences]
+MCScriptDefinition [Monticello]
+BadEqualer [SUnit-Core]
+GLMTreeMorphNodeModel [Glamour-Morphic-Widgets]
+Association [Collections-Support]
+Heap [Collections-Sequenceable]
+Symbol [Collections-Strings]
+SugsSuggestion [SmartSuggestions]
+Bag [Collections-Unordered]
+RubCharacterBlock [Rubric]
+ValueHolder [NewValueHolder]
+NBExternalAddress [NativeBoost-Core]
+NBWin32Window [NativeBoost-Win32]
+SortedCollection [Collections-Sequenceable]
+NBExternalEnumeration [NativeBoost-Core]
+RunArray [Text-Core]
+MTProject [Versionner-Core-DependenciesModel]
+Integer [Kernel]
+NBExternalHandle [NativeBoost-Core]
+RBLiteralValueNode [AST-Core]
+MTVersion [Versionner-Core-DependenciesModel]
+TxStyle [TxText-Model]
+Set [Collections-Unordered]
+MTDependantProject [Versionner-Core-DependenciesModel]
+MCOrganizationDefinition [Monticello]
+ScaledDecimal [Kernel]
+FLReplacementMock [FuelTests]
+DropListItem [Spec-Core]
+TxActionAttribute [TxText-Model]

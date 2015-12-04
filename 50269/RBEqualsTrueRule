@@ -1,309 +1,309 @@
-MorphicEventHandlerTest>>#testMouseEnterDraggingFromMorph
-MorphicEventHandlerTest>>#testMouseEnterFromMorph
-MorphicEventHandlerTest>>#testDoubleClickTimeoutFromMorph
-MorphicEventHandlerTest>>#testMouseLeaveFromMorph
-MorphicEventHandlerTest>>#testClickFromMorph
-MorphicEventHandlerTest>>#testKeyStrokeFromMorph
-MorphicEventHandlerTest>>#testDoubleClickFromMorph
-EncoderForSistaV1 class>>#method:refersInBytecodeToLiteral:specialSelectorIndex:
-NBExternalTypeValue>>#printOn:
-NBNativeCodeGen class>>#generateCode:andRetry:
-SemaphoreTest>>#testWaitTimeoutMSecs
-DebugContext>>#blockNotFoundDialog:with:
-OkCancelToolbar>>#performCancelAction
-DictionaryTest>>#test0FixtureDictionaryElementAccess
-DictionaryTest>>#test0FixtureDictionaryKeyAccess
-DictionaryTest>>#test0FixtureDictionaryCopyingTest
-DictionaryTest>>#test0FixtureDictionaryIncludes
-DictionaryTest>>#test0FixtureIncludeTest
-DictionaryTest>>#testAsByteArray
-DictionaryTest>>#test0FixtureTConvertTest
-InputWidget>>#initializePresenter
-BitBlt>>#drawFrom:to:withFirstPoint:
-MCVersionMerger>>#resolveConflicts
-RBSmalllintTestObject>>#equalsTrue
-MCWorkingCopy>>#merge:
-RBRefactoryTestDataApp>>#equalsTrue
-BitmapFillStyle>>#isTiled
-OSWindowRenderThread class>>#performAnimationFrames
-TIncludesTest>>#test0FixtureIncludeTest
-NBExternalStructure>>#printOn:
-PasteUpMorph>>#dropEnabled
-NativeBoost class>>#sessionChanged:
-ArrayTest>>#testIndexOfSubCollectionStartingAtIfAbsent
-ArrayTest>>#test0FixtureIterateSequencedReadableTest
-ArrayTest>>#test0FixtureIndexAccessTest
-ArrayTest>>#test0FixtureIncludeTest
-ArrayTest>>#testAtIfAbsent
-ArrayTest>>#test0SortingArrayedTest
-ArrayTest>>#test0FixtureAsSetForIdentityMultiplinessTest
-ArrayTest>>#test0FixtureTConvertAsSetForMultiplinessTest
-ArrayTest>>#test0FixtureTConvertTest
-ArrayTest>>#testAsByteArray
-ArrayTest>>#testPairsCollect
-TextModel>>#accept:notifying:
-FloatArrayTest>>#testIndexOfSubCollectionStartingAtIfAbsent
-FloatArrayTest>>#test0FixtureIterateSequencedReadableTest
-FloatArrayTest>>#test0FixtureIndexAccessTest
-FloatArrayTest>>#test0FixtureIncludeTest
-FloatArrayTest>>#testAtIfAbsent
-FloatArrayTest>>#test0SortingArrayedTest
-FloatArrayTest>>#test0FixtureAsSetForIdentityMultiplinessTest
-FloatArrayTest>>#test0FixtureTConvertAsSetForMultiplinessTest
-FloatArrayTest>>#test0FixtureTConvertTest
-FloatArrayTest>>#testPairsCollect
-EncoderForV3>>#isSpecialLiteralForPush:
-TIncludesWithIdentityCheckTest>>#test0FixtureIncludeTest
-Paragraph>>#composeLinesFrom:to:delta:into:priorLines:atY:
-Paragraph>>#click:for:controller:
-Paragraph>>#move:for:controller:
-Paragraph>>#displayExtraSelectionOnAthensCanvas:
-Paragraph>>#displayExtraSelectionOn:
-Paragraph>>#multiComposeLinesFrom:to:delta:into:priorLines:atY:
-OSWindow>>#deliverEvent:
-IntervalTest>>#test0FixtureIterateSequencedReadableTest
-IntervalTest>>#testIndexOfSubCollectionStartingAtIfAbsent
-IntervalTest>>#test0FixtureIncludeTest
-IntervalTest>>#testAtIfAbsent
-IntervalTest>>#testPairsCollect
-IntervalTest>>#test0FixtureIndexAccessTest
-IntervalTest>>#testAsByteArray
-IntervalTest>>#test0SortingArrayedTest
-IntervalTest>>#test0FixtureTConvertTest
-SettingBrowser>>#settingValueChanged:
-PluggableListMorph>>#itemSelectedAmongMultiple:
-PluggableListMorph>>#keystrokeAction:
-SearchMorph>>#keystrokeAction:
-HandMorph>>#showMouseFocusEvent:
-HandMorph>>#showDebugEvent:
-HandMorph>>#fullDrawOn:
-NewListAdapter>>#keyStrokeAction:
-RBReadBeforeWrittenTester>>#processBlock:
-RBReadBeforeWrittenTester>>#processStatementNode:
-RBReadBeforeWrittenTester>>#processIfTrueIfFalse:
-RBReadBeforeWrittenTester>>#read
-OkToolbar>>#okActionBlock
-TDictionaryIncludesWithIdentityCheckTest>>#test0FixtureDictionaryIncludes
-Number>>#odd
-DisplayScreen class>>#deferUpdates:
-TIndexAccess>>#test0FixtureIndexAccessTest
-TIndexAccess>>#testIndexOfSubCollectionStartingAtIfAbsent
-OpalEncoderForV3>>#isSpecialLiteralForPush:
-CollectionRootTest>>#testDoSeparatedBy
-CollectionRootTest>>#test0FixtureIterateTest
-Integer>>#quo:
-Integer>>#digitSubtract:
-Decompiler>>#pushConstant:
-SortedCollectionTest>>#test0FixtureTRemoveTest
-SortedCollectionTest>>#testIndexOfSubCollectionStartingAtIfAbsent
-SortedCollectionTest>>#test0FixtureIterateSequencedReadableTest
-SortedCollectionTest>>#test0FixtureIncludeTest
-SortedCollectionTest>>#testAtIfAbsent
-SortedCollectionTest>>#test0FixtureAsSetForIdentityMultiplinessTest
-SortedCollectionTest>>#test0FixtureTConvertAsSetForMultiplinessTest
-SortedCollectionTest>>#test0FixtureTConvertTest
-SortedCollectionTest>>#testAsByteArray
-SortedCollectionTest>>#testPairsCollect
-MCPatchOperation>>#remoteChosen
-MCPatchOperation>>#isConflict
-MCPatchOperation>>#localChosen
-FBDOptimizedMessagesRewriter>>#isAnd:
-FBDOptimizedMessagesRewriter>>#isOr:
-WorldState>>#interCyclePause:
-MetacelloAbstractPackageSpec>>#configMethodBodyOn:hasName:cascading:indent:
-Collection>>#reject:
-SettingNode>>#contents
-TSequencedElementAccessTest>>#testAtIfAbsent
-SystemWindow>>#mouseDown:
-SystemWindow>>#mustNotClose
-TDictionaryValueAccessTest>>#test0FixtureDictionaryElementAccess
-TRemoveTest>>#test0FixtureTRemoveTest
-MCRepositoryGroup>>#includesVersionNamed:
-TxTextStyler>>#literalStyleSymbol:
-MorphicUIManager>>#interactiveParserFor:
-ImageMorph>>#isOpaque:
-SmalltalkImage>>#snapshot:andQuit:
-SmalltalkImage>>#handleStartupErrors:
-EncoderForSistaV1>>#isSpecialLiteralForPush:
-TSortTest>>#test0SortingArrayedTest
-ToggleMenuItemMorph>>#icon
-WeakRegistryTest>>#testFinalizationWithOnFork
-WeakRegistryTest>>#testVileFinalizer
-WeakRegistryTest>>#testFinalizationWithBadFinalizer
-MultiByteFileStream>>#wantsLineEndConversion
-MultiByteFileStream>>#next
-MultiByteFileStream>>#nextPut:
-MultiByteFileStream>>#installLineEndConventionInConverter
-MultiByteFileStream>>#detectLineEndConvention
-MultiByteFileStream>>#doConversion
-MultiByteFileStream>>#next:
-AJJumpLabel>>#isSet
-TDictionaryCopyingTest>>#test0FixtureDictionaryCopyingTest
-ListModel>>#getSelectionStateFor:
-DebugSession>>#terminate
-SHRBTextStyler>>#literalStyleSymbol:
-PluggableButtonMorph>>#interactionState
-IRBuilderTest>>#testRemoteTempShadowed
-TIterateTest>>#test0FixtureIterateTest
-TIterateTest>>#testDoSeparatedBy
-UnlimitedInstanceVariableSlotTest>>#testExampleIvarSlot
-UnlimitedInstanceVariableSlotTest>>#testExampleTwoIvarSlots
-Group>>#isReadOnly
-TIterateSequencedReadableTest>>#testPairsCollect
-TIterateSequencedReadableTest>>#test0FixtureIterateSequencedReadableTest
-MCFileBasedRepository>>#cacheAllFileNamesDuring:
-MCFileBasedRepository>>#allFileNames
-MCFileBasedRepository>>#allFileNamesOrCache
-MCFileBasedRepository>>#possiblyNewerVersionsOfAnyOf:
-LinkedListTest>>#testDoSeparatedBy
-LinkedListTest>>#test0FixtureTRemoveTest
-LinkedListTest>>#test0FixtureIterateSequencedReadableTest
-LinkedListTest>>#testIndexOfSubCollectionStartingAtIfAbsent
-LinkedListTest>>#test0FixtureIndexAccessTest
-LinkedListTest>>#test0FixtureIncludeTest
-LinkedListTest>>#testAtIfAbsent
-LinkedListTest>>#test0FixtureTConvertTest
-LinkedListTest>>#testPairsCollect
-LinkedListTest>>#test0FixtureIterateTest
-FalseTest>>#testXor
-RubScrolledTextMorph>>#acceptContents
-SimpleHierarchicalListMorph>>#mouseUp:
-WeakFinalizationList class>>#hasNewFinalization
-SetTest>>#test0FixtureIncludeTest
-SetTest>>#testAsByteArray
-SetTest>>#test0FixtureTRemoveTest
-SetTest>>#test0FixtureTConvertTest
-MethodDictionaryTest>>#test0FixtureIncludeTest
-SimulateKeystrokesSpecification>>#testSimulateCmdKeystroke
-CompiledMethodTest>>#testValueWithReceiverArguments
-AJRoutineStackManager>>#emitPrologue
-Socket>>#setOption:value:
-DelayMicrosecondScheduler>>#startUp
-AthensInteractiveScene>>#eventHandledByScene:
-Context>>#jump:if:
-NBInterpreterProxy>>#usedGate
-DelayScheduler>>#startUp
-MCVersionLoader>>#warnAboutLosingChangesTo:ifCancel:ifMerge:
-MorphExtension>>#isDefault
-MorphExtension>>#sortedPropertyNames
-MorphExtension>>#hasProperty:
-MorphExtension>>#printOn:
-Morph>>#highlightedForMouseDown
-Morph>>#dragEnabled
-Morph>>#findDeepSubmorphThat:ifAbsent:
-Morph>>#submorphsSatisfying:
-Morph>>#separateDragAndDrop
-Morph>>#dropEnabled
-Morph>>#submorphThat:ifNone:
-Morph>>#highlightedForDrop
-Morph>>#clipLayoutCells:
-WorldState class>>#serverMode:
-BlockClosureTest>>#testSupplySameAnswerToAllQuestions
-BlockClosureTest>>#testSupplyAnswerThroughNestedBlocks
-BlockClosureTest>>#testSupplyAnswerUsingRegexMatchOfQuestion
-BlockClosureTest>>#testSupplyAnswerUsingTraditionalMatchOfQuestion
-BlockClosureTest>>#testSupplyAnswerUsingOnlySubstringOfQuestion
-BlockClosureTest>>#testOnForkSplit
-BlockClosureTest>>#testOnForkErrorTakesLessThanOneSecond
-BlockClosureTest>>#testSupplySpecificAnswerToQuestion
-FTPluggableIconListMorphAdaptor>>#keyStrokeAction:
-FTPClient>>#login
-AthensMoveSegment>>#isClosed
-BagTest>>#test0FixtureTConvertAsSetForMultiplinessTest
-BagTest>>#test0FixtureTRemoveTest
-BagTest>>#test0FixtureIncludeTest
-BagTest>>#testAsByteArray
-BagTest>>#test0FixtureTConvertTest
-ZipWriteStream class>>#compressAndDecompress:using:stats:
-LargeInteger>>#''\\''
-LargeInteger>>#rem:
-SymbolTest>>#testIndexOfSubCollectionStartingAtIfAbsent
-SymbolTest>>#test0FixtureIncludeTest
-SymbolTest>>#testAtIfAbsent
-SymbolTest>>#testPairsCollect
-SymbolTest>>#test0FixtureIndexAccessTest
-SymbolTest>>#test0FixtureTConvertAsSetForMultiplinessTest
-SymbolTest>>#test0FixtureTConvertTest
-SymbolTest>>#test0SortingArrayedTest
-SymbolTest>>#test0FixtureIterateSequencedReadableTest
-GradientFillStyle>>#isRadialFill
-PolygonMorph>>#beSmoothCurve
-PolygonMorph>>#beStraightSegments
-TConvertTest>>#testAsByteArray
-TConvertTest>>#test0FixtureTConvertTest
-TDictionaryKeyAccessTest>>#test0FixtureDictionaryKeyAccess
-OpalEncoderForSistaV1 class>>#method:refersInBytecodeToLiteral:specialSelectorIndex:
-MCMethodDefinition>>#isExternalStructureFieldDefinition
-CommandLineUIManager class>>#snapshotErrorImage
-GLMPresentation>>#matches
-StringTest>>#testIndexOfSubCollectionStartingAtIfAbsent
-StringTest>>#test0FixtureIterateSequencedReadableTest
-StringTest>>#test0FixtureIndexAccessTest
-StringTest>>#testIsAllDigits
-StringTest>>#test0FixtureIncludeTest
-StringTest>>#testAtIfAbsent
-StringTest>>#testIsAsciiString
-StringTest>>#test0SortingArrayedTest
-StringTest>>#test0FixtureTConvertTest
-StringTest>>#test0FixtureTConvertAsSetForMultiplinessTest
-StringTest>>#testPairsCollect
-MenuRegistration>>#enabled:
-PluggableTreeMorph>>#wantsDroppedNode:on:
-RubSegmentMorph>>#beSmoothCurve
-RubSegmentMorph>>#beStraightSegments
-MorphicEventDispatcher>>#dispatchMouseDown:with:
-FileDoesNotExistException>>#readOnly
-Object>>#mustBeBooleanIn:
-Object>>#''~=''
-TConvertAsSetForMultiplinessIdentityTest>>#test0FixtureAsSetForIdentityMultiplinessTest
-TConvertAsSetForMultiplinessIdentityTest>>#test0FixtureTConvertAsSetForMultiplinessTest
-TDictionaryIncludesTest>>#test0FixtureDictionaryIncludes
-MorphicEventHandler>>#notifyMorphsOfEvent:ofType:from:
-OrderedCollectionTest>>#test0FixtureTRemoveTest
-OrderedCollectionTest>>#testIndexOfSubCollectionStartingAtIfAbsent
-OrderedCollectionTest>>#test0FixtureIterateSequencedReadableTest
-OrderedCollectionTest>>#test0FixtureIndexAccessTest
-OrderedCollectionTest>>#test0FixtureIncludeTest
-OrderedCollectionTest>>#testAtIfAbsent
-OrderedCollectionTest>>#test0SortingArrayedTest
-OrderedCollectionTest>>#test0FixtureAsSetForIdentityMultiplinessTest
-OrderedCollectionTest>>#test0FixtureTConvertAsSetForMultiplinessTest
-OrderedCollectionTest>>#test0FixtureTConvertTest
-OrderedCollectionTest>>#testAsByteArray
-OrderedCollectionTest>>#testPairsCollect
-RBVariableAssignedLiteralRule>>#checkClass:
-CompositionScanner>>#setStopConditions
-GLMTreeMorphNodeModel>>#shouldBeDisplayedByText
-BooleanSlotTest>>#testExampleTwoBooleanSlotsRemoveOne
-BooleanSlotTest>>#testExampleTwoBooleanSlots
-BooleanSlotTest>>#testExampleBooleanSlot
-MCCacheRepository>>#storeVersion:
-RBBasicLintRuleTest class>>#variableAssignedLiteral
-RBParser>>#patchLiteralMessage
-TextMorphForEditView>>#acceptOnCR
-TextMorphForEditView>>#doAutoAccept:
-TextMorphForEditView>>#keyboardFocusChange:
-HeapTest>>#test0FixtureTConvertAsSetForMultiplinessTest
-HeapTest>>#test0FixtureAsSetForIdentityMultiplinessTest
-HeapTest>>#test0FixtureTRemoveTest
-HeapTest>>#test0FixtureIncludeTest
-HeapTest>>#testAsByteArray
-HeapTest>>#test0FixtureTConvertTest
-NBExternalStructure class>>#isInitialized
-NBExternalStructure class>>#noteCompilationOf:meta:
-Slider>>#descending
-PNGReadWriter>>#debugging
-NBCoreTests>>#testRecursionDetection
-GLMPagerButtonsPaneBrick>>#markButtonsInside:
-TrueTest>>#testXor
-RubParagraph>>#move:for:controller:
-RubParagraph>>#click:for:controller:
-WideStringTest>>#testIsAsciiString
-SUnitTest>>#testRanOnlyOnce
-RBRefactoryTyper>>#typeFor:
-OpalEncoderForSistaV1>>#isSpecialLiteralForPush:
-TRemoveForMultiplenessTest>>#test0FixtureTRemoveTest
-NBProxyFunction>>#requiresAlignment
-PluggableTextMorph>>#acceptBasic
-PluggableTextMorph>>#hasEditingConflicts
-TConvertAsSetForMultiplinessTest>>#test0FixtureTConvertAsSetForMultiplinessTest
+MorphicEventHandlerTest>>#testMouseEnterDraggingFromMorph [MorphicTests]
+MorphicEventHandlerTest>>#testMouseEnterFromMorph [MorphicTests]
+MorphicEventHandlerTest>>#testDoubleClickTimeoutFromMorph [MorphicTests]
+MorphicEventHandlerTest>>#testMouseLeaveFromMorph [MorphicTests]
+MorphicEventHandlerTest>>#testClickFromMorph [MorphicTests]
+MorphicEventHandlerTest>>#testKeyStrokeFromMorph [MorphicTests]
+MorphicEventHandlerTest>>#testDoubleClickFromMorph [MorphicTests]
+EncoderForSistaV1 class>>#method:refersInBytecodeToLiteral:specialSelectorIndex: [Compiler]
+NBExternalTypeValue>>#printOn: [NativeBoost-Core]
+NBNativeCodeGen class>>#generateCode:andRetry: [NativeBoost-Core]
+SemaphoreTest>>#testWaitTimeoutMSecs [KernelTests]
+DebugContext>>#blockNotFoundDialog:with: [DebuggerModel]
+OkCancelToolbar>>#performCancelAction [Spec-Core]
+DictionaryTest>>#test0FixtureDictionaryElementAccess [Collections-Tests]
+DictionaryTest>>#test0FixtureDictionaryKeyAccess [Collections-Tests]
+DictionaryTest>>#test0FixtureDictionaryCopyingTest [Collections-Tests]
+DictionaryTest>>#test0FixtureDictionaryIncludes [Collections-Tests]
+DictionaryTest>>#test0FixtureIncludeTest [Collections-Tests]
+DictionaryTest>>#testAsByteArray [Collections-Tests]
+DictionaryTest>>#test0FixtureTConvertTest [Collections-Tests]
+InputWidget>>#initializePresenter [Spec-PolyWidgets]
+BitBlt>>#drawFrom:to:withFirstPoint: [Graphics-Primitives]
+MCVersionMerger>>#resolveConflicts [Monticello]
+RBSmalllintTestObject>>#equalsTrue [Refactoring-Tests-Critics]
+MCWorkingCopy>>#merge: [Monticello]
+RBRefactoryTestDataApp>>#equalsTrue [Refactoring-Tests-Core]
+BitmapFillStyle>>#isTiled [Balloon]
+OSWindowRenderThread class>>#performAnimationFrames [OSWindow-Core]
+TIncludesTest>>#test0FixtureIncludeTest [Collections-Tests]
+NBExternalStructure>>#printOn: [NativeBoost-Core]
+PasteUpMorph>>#dropEnabled [Morphic-Core]
+NativeBoost class>>#sessionChanged: [NativeBoost-Core]
+ArrayTest>>#testIndexOfSubCollectionStartingAtIfAbsent [Collections-Tests]
+ArrayTest>>#test0FixtureIterateSequencedReadableTest [Collections-Tests]
+ArrayTest>>#test0FixtureIndexAccessTest [Collections-Tests]
+ArrayTest>>#test0FixtureIncludeTest [Collections-Tests]
+ArrayTest>>#testAtIfAbsent [Collections-Tests]
+ArrayTest>>#test0SortingArrayedTest [Collections-Tests]
+ArrayTest>>#test0FixtureAsSetForIdentityMultiplinessTest [Collections-Tests]
+ArrayTest>>#test0FixtureTConvertAsSetForMultiplinessTest [Collections-Tests]
+ArrayTest>>#test0FixtureTConvertTest [Collections-Tests]
+ArrayTest>>#testAsByteArray [Collections-Tests]
+ArrayTest>>#testPairsCollect [Collections-Tests]
+TextModel>>#accept:notifying: [Spec-Core]
+FloatArrayTest>>#testIndexOfSubCollectionStartingAtIfAbsent [Collections-Tests]
+FloatArrayTest>>#test0FixtureIterateSequencedReadableTest [Collections-Tests]
+FloatArrayTest>>#test0FixtureIndexAccessTest [Collections-Tests]
+FloatArrayTest>>#test0FixtureIncludeTest [Collections-Tests]
+FloatArrayTest>>#testAtIfAbsent [Collections-Tests]
+FloatArrayTest>>#test0SortingArrayedTest [Collections-Tests]
+FloatArrayTest>>#test0FixtureAsSetForIdentityMultiplinessTest [Collections-Tests]
+FloatArrayTest>>#test0FixtureTConvertAsSetForMultiplinessTest [Collections-Tests]
+FloatArrayTest>>#test0FixtureTConvertTest [Collections-Tests]
+FloatArrayTest>>#testPairsCollect [Collections-Tests]
+EncoderForV3>>#isSpecialLiteralForPush: [Compiler]
+TIncludesWithIdentityCheckTest>>#test0FixtureIncludeTest [Collections-Tests]
+Paragraph>>#composeLinesFrom:to:delta:into:priorLines:atY: [Morphic-Base]
+Paragraph>>#click:for:controller: [Morphic-Base]
+Paragraph>>#move:for:controller: [Morphic-Base]
+Paragraph>>#displayExtraSelectionOnAthensCanvas: [Athens-Morphic]
+Paragraph>>#displayExtraSelectionOn: [Morphic-Base]
+Paragraph>>#multiComposeLinesFrom:to:delta:into:priorLines:atY: [Morphic-Base]
+OSWindow>>#deliverEvent: [OSWindow-Core]
+IntervalTest>>#test0FixtureIterateSequencedReadableTest [Collections-Tests]
+IntervalTest>>#testIndexOfSubCollectionStartingAtIfAbsent [Collections-Tests]
+IntervalTest>>#test0FixtureIncludeTest [Collections-Tests]
+IntervalTest>>#testAtIfAbsent [Collections-Tests]
+IntervalTest>>#testPairsCollect [Collections-Tests]
+IntervalTest>>#test0FixtureIndexAccessTest [Collections-Tests]
+IntervalTest>>#testAsByteArray [Collections-Tests]
+IntervalTest>>#test0SortingArrayedTest [Collections-Tests]
+IntervalTest>>#test0FixtureTConvertTest [Collections-Tests]
+SettingBrowser>>#settingValueChanged: [System-Settings]
+PluggableListMorph>>#itemSelectedAmongMultiple: [Morphic-Widgets-Pluggable]
+PluggableListMorph>>#keystrokeAction: [Morphic-Widgets-Pluggable]
+SearchMorph>>#keystrokeAction: [Polymorph-Widgets]
+HandMorph>>#showMouseFocusEvent: [Morphic-Core]
+HandMorph>>#showDebugEvent: [Morphic-Core]
+HandMorph>>#fullDrawOn: [Morphic-Core]
+NewListAdapter>>#keyStrokeAction: [Morphic-Widgets-NewList]
+RBReadBeforeWrittenTester>>#processBlock: [AST-Core]
+RBReadBeforeWrittenTester>>#processStatementNode: [AST-Core]
+RBReadBeforeWrittenTester>>#processIfTrueIfFalse: [AST-Core]
+RBReadBeforeWrittenTester>>#read [AST-Core]
+OkToolbar>>#okActionBlock [Spec-Core]
+TDictionaryIncludesWithIdentityCheckTest>>#test0FixtureDictionaryIncludes [Collections-Tests]
+Number>>#odd [Kernel]
+DisplayScreen class>>#deferUpdates: [Graphics-Display Objects]
+TIndexAccess>>#test0FixtureIndexAccessTest [Collections-Tests]
+TIndexAccess>>#testIndexOfSubCollectionStartingAtIfAbsent [Collections-Tests]
+OpalEncoderForV3>>#isSpecialLiteralForPush: [OpalCompiler-Core]
+CollectionRootTest>>#testDoSeparatedBy [Collections-Tests]
+CollectionRootTest>>#test0FixtureIterateTest [Collections-Tests]
+Integer>>#quo: [Kernel]
+Integer>>#digitSubtract: [Kernel]
+Decompiler>>#pushConstant: [Compiler]
+SortedCollectionTest>>#test0FixtureTRemoveTest [Collections-Tests]
+SortedCollectionTest>>#testIndexOfSubCollectionStartingAtIfAbsent [Collections-Tests]
+SortedCollectionTest>>#test0FixtureIterateSequencedReadableTest [Collections-Tests]
+SortedCollectionTest>>#test0FixtureIncludeTest [Collections-Tests]
+SortedCollectionTest>>#testAtIfAbsent [Collections-Tests]
+SortedCollectionTest>>#test0FixtureAsSetForIdentityMultiplinessTest [Collections-Tests]
+SortedCollectionTest>>#test0FixtureTConvertAsSetForMultiplinessTest [Collections-Tests]
+SortedCollectionTest>>#test0FixtureTConvertTest [Collections-Tests]
+SortedCollectionTest>>#testAsByteArray [Collections-Tests]
+SortedCollectionTest>>#testPairsCollect [Collections-Tests]
+MCPatchOperation>>#remoteChosen [Monticello]
+MCPatchOperation>>#isConflict [Monticello]
+MCPatchOperation>>#localChosen [Monticello]
+FBDOptimizedMessagesRewriter>>#isAnd: [Flashback-Decompiler]
+FBDOptimizedMessagesRewriter>>#isOr: [Flashback-Decompiler]
+WorldState>>#interCyclePause: [Morphic-Core]
+MetacelloAbstractPackageSpec>>#configMethodBodyOn:hasName:cascading:indent: [Metacello-Core]
+Collection>>#reject: [Collections-Abstract]
+SettingNode>>#contents [System-Settings]
+TSequencedElementAccessTest>>#testAtIfAbsent [Collections-Tests]
+SystemWindow>>#mouseDown: [Morphic-Widgets-Windows]
+SystemWindow>>#mustNotClose [Morphic-Widgets-Windows]
+TDictionaryValueAccessTest>>#test0FixtureDictionaryElementAccess [Collections-Tests]
+TRemoveTest>>#test0FixtureTRemoveTest [Collections-Tests]
+MCRepositoryGroup>>#includesVersionNamed: [Monticello]
+TxTextStyler>>#literalStyleSymbol: [TxText-Styler]
+MorphicUIManager>>#interactiveParserFor: [Polymorph-Widgets]
+ImageMorph>>#isOpaque: [Morphic-Base]
+SmalltalkImage>>#snapshot:andQuit: [System-Support]
+SmalltalkImage>>#handleStartupErrors: [System-Support]
+EncoderForSistaV1>>#isSpecialLiteralForPush: [Compiler]
+TSortTest>>#test0SortingArrayedTest [Collections-Tests]
+ToggleMenuItemMorph>>#icon [Morphic-Base]
+WeakRegistryTest>>#testFinalizationWithOnFork [Collections-Tests]
+WeakRegistryTest>>#testVileFinalizer [Collections-Tests]
+WeakRegistryTest>>#testFinalizationWithBadFinalizer [Collections-Tests]
+MultiByteFileStream>>#wantsLineEndConversion [Files]
+MultiByteFileStream>>#next [Files]
+MultiByteFileStream>>#nextPut: [Files]
+MultiByteFileStream>>#installLineEndConventionInConverter [Files]
+MultiByteFileStream>>#detectLineEndConvention [Files]
+MultiByteFileStream>>#doConversion [Files]
+MultiByteFileStream>>#next: [Files]
+AJJumpLabel>>#isSet [AsmJit-Instructions]
+TDictionaryCopyingTest>>#test0FixtureDictionaryCopyingTest [Collections-Tests]
+ListModel>>#getSelectionStateFor: [Spec-Core]
+DebugSession>>#terminate [DebuggerModel]
+SHRBTextStyler>>#literalStyleSymbol: [Shout]
+PluggableButtonMorph>>#interactionState [Morphic-Widgets-Basic]
+IRBuilderTest>>#testRemoteTempShadowed [OpalCompiler-Tests]
+TIterateTest>>#test0FixtureIterateTest [Collections-Tests]
+TIterateTest>>#testDoSeparatedBy [Collections-Tests]
+UnlimitedInstanceVariableSlotTest>>#testExampleIvarSlot [Slot-Tests]
+UnlimitedInstanceVariableSlotTest>>#testExampleTwoIvarSlots [Slot-Tests]
+Group>>#isReadOnly [Nautilus-GroupManager]
+TIterateSequencedReadableTest>>#testPairsCollect [Collections-Tests]
+TIterateSequencedReadableTest>>#test0FixtureIterateSequencedReadableTest [Collections-Tests]
+MCFileBasedRepository>>#cacheAllFileNamesDuring: [Monticello]
+MCFileBasedRepository>>#allFileNames [Monticello]
+MCFileBasedRepository>>#allFileNamesOrCache [Monticello]
+MCFileBasedRepository>>#possiblyNewerVersionsOfAnyOf: [Monticello]
+LinkedListTest>>#testDoSeparatedBy [Collections-Tests]
+LinkedListTest>>#test0FixtureTRemoveTest [Collections-Tests]
+LinkedListTest>>#test0FixtureIterateSequencedReadableTest [Collections-Tests]
+LinkedListTest>>#testIndexOfSubCollectionStartingAtIfAbsent [Collections-Tests]
+LinkedListTest>>#test0FixtureIndexAccessTest [Collections-Tests]
+LinkedListTest>>#test0FixtureIncludeTest [Collections-Tests]
+LinkedListTest>>#testAtIfAbsent [Collections-Tests]
+LinkedListTest>>#test0FixtureTConvertTest [Collections-Tests]
+LinkedListTest>>#testPairsCollect [Collections-Tests]
+LinkedListTest>>#test0FixtureIterateTest [Collections-Tests]
+FalseTest>>#testXor [KernelTests]
+RubScrolledTextMorph>>#acceptContents [Rubric]
+SimpleHierarchicalListMorph>>#mouseUp: [Morphic-Widgets-List]
+WeakFinalizationList class>>#hasNewFinalization [System-Finalization]
+SetTest>>#test0FixtureIncludeTest [Collections-Tests]
+SetTest>>#testAsByteArray [Collections-Tests]
+SetTest>>#test0FixtureTRemoveTest [Collections-Tests]
+SetTest>>#test0FixtureTConvertTest [Collections-Tests]
+MethodDictionaryTest>>#test0FixtureIncludeTest [Collections-Tests]
+SimulateKeystrokesSpecification>>#testSimulateCmdKeystroke [SUnit-UITesting]
+CompiledMethodTest>>#testValueWithReceiverArguments [KernelTests]
+AJRoutineStackManager>>#emitPrologue [AsmJit-StackManagement]
+Socket>>#setOption:value: [Network-Kernel]
+DelayMicrosecondScheduler>>#startUp [Kernel]
+AthensInteractiveScene>>#eventHandledByScene: [Athens-Morphic]
+Context>>#jump:if: [Kernel]
+NBInterpreterProxy>>#usedGate [NativeBoost-Core]
+DelayScheduler>>#startUp [Kernel]
+MCVersionLoader>>#warnAboutLosingChangesTo:ifCancel:ifMerge: [Monticello]
+MorphExtension>>#isDefault [Morphic-Core]
+MorphExtension>>#sortedPropertyNames [Morphic-Core]
+MorphExtension>>#hasProperty: [Morphic-Core]
+MorphExtension>>#printOn: [Morphic-Core]
+Morph>>#highlightedForMouseDown [Morphic-Core]
+Morph>>#dragEnabled [Morphic-Core]
+Morph>>#findDeepSubmorphThat:ifAbsent: [Morphic-Core]
+Morph>>#submorphsSatisfying: [Morphic-Core]
+Morph>>#separateDragAndDrop [Morphic-Core]
+Morph>>#dropEnabled [Morphic-Core]
+Morph>>#submorphThat:ifNone: [Morphic-Core]
+Morph>>#highlightedForDrop [Morphic-Core]
+Morph>>#clipLayoutCells: [Morphic-Core]
+WorldState class>>#serverMode: [Morphic-Core]
+BlockClosureTest>>#testSupplySameAnswerToAllQuestions [KernelTests]
+BlockClosureTest>>#testSupplyAnswerThroughNestedBlocks [KernelTests]
+BlockClosureTest>>#testSupplyAnswerUsingRegexMatchOfQuestion [KernelTests]
+BlockClosureTest>>#testSupplyAnswerUsingTraditionalMatchOfQuestion [KernelTests]
+BlockClosureTest>>#testSupplyAnswerUsingOnlySubstringOfQuestion [KernelTests]
+BlockClosureTest>>#testOnForkSplit [KernelTests]
+BlockClosureTest>>#testOnForkErrorTakesLessThanOneSecond [KernelTests]
+BlockClosureTest>>#testSupplySpecificAnswerToQuestion [KernelTests]
+FTPluggableIconListMorphAdaptor>>#keyStrokeAction: [Morphic-Widgets-FastTable]
+FTPClient>>#login [Network-Protocols]
+AthensMoveSegment>>#isClosed [Athens-Core]
+BagTest>>#test0FixtureTConvertAsSetForMultiplinessTest [Collections-Tests]
+BagTest>>#test0FixtureTRemoveTest [Collections-Tests]
+BagTest>>#test0FixtureIncludeTest [Collections-Tests]
+BagTest>>#testAsByteArray [Collections-Tests]
+BagTest>>#test0FixtureTConvertTest [Collections-Tests]
+ZipWriteStream class>>#compressAndDecompress:using:stats: [Compression]
+LargeInteger>>#''\\'' [Kernel]
+LargeInteger>>#rem: [Kernel]
+SymbolTest>>#testIndexOfSubCollectionStartingAtIfAbsent [Collections-Tests]
+SymbolTest>>#test0FixtureIncludeTest [Collections-Tests]
+SymbolTest>>#testAtIfAbsent [Collections-Tests]
+SymbolTest>>#testPairsCollect [Collections-Tests]
+SymbolTest>>#test0FixtureIndexAccessTest [Collections-Tests]
+SymbolTest>>#test0FixtureTConvertAsSetForMultiplinessTest [Collections-Tests]
+SymbolTest>>#test0FixtureTConvertTest [Collections-Tests]
+SymbolTest>>#test0SortingArrayedTest [Collections-Tests]
+SymbolTest>>#test0FixtureIterateSequencedReadableTest [Collections-Tests]
+GradientFillStyle>>#isRadialFill [Balloon]
+PolygonMorph>>#beSmoothCurve [Morphic-Base]
+PolygonMorph>>#beStraightSegments [Morphic-Base]
+TConvertTest>>#testAsByteArray [Collections-Tests]
+TConvertTest>>#test0FixtureTConvertTest [Collections-Tests]
+TDictionaryKeyAccessTest>>#test0FixtureDictionaryKeyAccess [Collections-Tests]
+OpalEncoderForSistaV1 class>>#method:refersInBytecodeToLiteral:specialSelectorIndex: [OpalCompiler-Core]
+MCMethodDefinition>>#isExternalStructureFieldDefinition [Monticello]
+CommandLineUIManager class>>#snapshotErrorImage [UIManager]
+GLMPresentation>>#matches [Glamour-Core]
+StringTest>>#testIndexOfSubCollectionStartingAtIfAbsent [Collections-Tests]
+StringTest>>#test0FixtureIterateSequencedReadableTest [Collections-Tests]
+StringTest>>#test0FixtureIndexAccessTest [Collections-Tests]
+StringTest>>#testIsAllDigits [Collections-Tests]
+StringTest>>#test0FixtureIncludeTest [Collections-Tests]
+StringTest>>#testAtIfAbsent [Collections-Tests]
+StringTest>>#testIsAsciiString [Collections-Tests]
+StringTest>>#test0SortingArrayedTest [Collections-Tests]
+StringTest>>#test0FixtureTConvertTest [Collections-Tests]
+StringTest>>#test0FixtureTConvertAsSetForMultiplinessTest [Collections-Tests]
+StringTest>>#testPairsCollect [Collections-Tests]
+MenuRegistration>>#enabled: [MenuRegistration]
+PluggableTreeMorph>>#wantsDroppedNode:on: [Morphic-Widgets-Pluggable]
+RubSegmentMorph>>#beSmoothCurve [Rubric]
+RubSegmentMorph>>#beStraightSegments [Rubric]
+MorphicEventDispatcher>>#dispatchMouseDown:with: [Morphic-Core]
+FileDoesNotExistException>>#readOnly [Files]
+Object>>#mustBeBooleanIn: [Kernel]
+Object>>#''~='' [Kernel]
+TConvertAsSetForMultiplinessIdentityTest>>#test0FixtureAsSetForIdentityMultiplinessTest [Collections-Tests]
+TConvertAsSetForMultiplinessIdentityTest>>#test0FixtureTConvertAsSetForMultiplinessTest [Collections-Tests]
+TDictionaryIncludesTest>>#test0FixtureDictionaryIncludes [Collections-Tests]
+MorphicEventHandler>>#notifyMorphsOfEvent:ofType:from: [Morphic-Base]
+OrderedCollectionTest>>#test0FixtureTRemoveTest [Collections-Tests]
+OrderedCollectionTest>>#testIndexOfSubCollectionStartingAtIfAbsent [Collections-Tests]
+OrderedCollectionTest>>#test0FixtureIterateSequencedReadableTest [Collections-Tests]
+OrderedCollectionTest>>#test0FixtureIndexAccessTest [Collections-Tests]
+OrderedCollectionTest>>#test0FixtureIncludeTest [Collections-Tests]
+OrderedCollectionTest>>#testAtIfAbsent [Collections-Tests]
+OrderedCollectionTest>>#test0SortingArrayedTest [Collections-Tests]
+OrderedCollectionTest>>#test0FixtureAsSetForIdentityMultiplinessTest [Collections-Tests]
+OrderedCollectionTest>>#test0FixtureTConvertAsSetForMultiplinessTest [Collections-Tests]
+OrderedCollectionTest>>#test0FixtureTConvertTest [Collections-Tests]
+OrderedCollectionTest>>#testAsByteArray [Collections-Tests]
+OrderedCollectionTest>>#testPairsCollect [Collections-Tests]
+RBVariableAssignedLiteralRule>>#checkClass: [Refactoring-Critics]
+CompositionScanner>>#setStopConditions [Text-Scanning]
+GLMTreeMorphNodeModel>>#shouldBeDisplayedByText [Glamour-Morphic-Widgets]
+BooleanSlotTest>>#testExampleTwoBooleanSlotsRemoveOne [Slot-Tests]
+BooleanSlotTest>>#testExampleTwoBooleanSlots [Slot-Tests]
+BooleanSlotTest>>#testExampleBooleanSlot [Slot-Tests]
+MCCacheRepository>>#storeVersion: [Monticello]
+RBBasicLintRuleTest class>>#variableAssignedLiteral [Refactoring-Tests-Core]
+RBParser>>#patchLiteralMessage [AST-Core]
+TextMorphForEditView>>#acceptOnCR [Morphic-Base]
+TextMorphForEditView>>#doAutoAccept: [Morphic-Base]
+TextMorphForEditView>>#keyboardFocusChange: [Morphic-Base]
+HeapTest>>#test0FixtureTConvertAsSetForMultiplinessTest [Collections-Tests]
+HeapTest>>#test0FixtureAsSetForIdentityMultiplinessTest [Collections-Tests]
+HeapTest>>#test0FixtureTRemoveTest [Collections-Tests]
+HeapTest>>#test0FixtureIncludeTest [Collections-Tests]
+HeapTest>>#testAsByteArray [Collections-Tests]
+HeapTest>>#test0FixtureTConvertTest [Collections-Tests]
+NBExternalStructure class>>#isInitialized [NativeBoost-Core]
+NBExternalStructure class>>#noteCompilationOf:meta: [NativeBoost-Core]
+Slider>>#descending [Morphic-Widgets-Scrolling]
+PNGReadWriter>>#debugging [Graphics-Files]
+NBCoreTests>>#testRecursionDetection [NativeBoost-Tests]
+GLMPagerButtonsPaneBrick>>#markButtonsInside: [Glamour-Morphic-Pager]
+TrueTest>>#testXor [KernelTests]
+RubParagraph>>#move:for:controller: [Rubric]
+RubParagraph>>#click:for:controller: [Rubric]
+WideStringTest>>#testIsAsciiString [Collections-Tests]
+SUnitTest>>#testRanOnlyOnce [SUnit-Tests]
+RBRefactoryTyper>>#typeFor: [Refactoring-Core]
+OpalEncoderForSistaV1>>#isSpecialLiteralForPush: [OpalCompiler-Core]
+TRemoveForMultiplenessTest>>#test0FixtureTRemoveTest [Collections-Tests]
+NBProxyFunction>>#requiresAlignment [NativeBoost-Core]
+PluggableTextMorph>>#acceptBasic [Morphic-Widgets-Pluggable]
+PluggableTextMorph>>#hasEditingConflicts [Morphic-Widgets-Pluggable]
+TConvertAsSetForMultiplinessTest>>#test0FixtureTConvertAsSetForMultiplinessTest [Collections-Tests]

@@ -1,588 +1,588 @@
-VSCommitVersion class>>#uniqueInstance
-RGClassDefinition class>>#createSharedPoolNamed:
-ColorChooserMorph class>>#example
-GLMBrick>>#openInBrickWindowLabeled:
-StandardFonts class>>#haloFont
-StandardFonts class>>#printStandardSystemFonts
-StandardFonts class>>#fixSmallDejaVuPunctuationMarks
-StandardFonts class>>#defaultFont:
-StandardFonts class>>#windowTitleFont
-StandardFonts class>>#setAllStandardFontsTo:
-StandardFonts class>>#setDemoFonts
-MCLazyVersionInfo class>>#install
-TextFontChange>>#dominates:
-RadioButtonGroupExample class>>#example
-InstructionStream>>#skipBackBeforeJump
-SetElement>>#asSetElement
-KMDescription class>>#example
-TreeModel class>>#exampleWithNoSpecifiedNodes
-TreeModel class>>#exampleWithCustomColumnsAndNodes
-TreeModel class>>#exampleWithCustomColumnsAndNodesAndChildren
-RBAddTraitChange>>#asUndoOperation
-KMKeyCombinationChoice>>#|
-PragmaType class>>#all
-BIInspector class>>#openBIInspectorButtonAction
-GIFReadWriter class>>#grabScreenAndSaveOnDisk
-GIFReadWriter class>>#exampleAnim
-Locale class>>#switchToID:
-Locale class>>#initKnownLocales
-Locale class>>#localeID:
-Locale class>>#initialize
-Trait class>>#named:uses:category:env:
-TransformationMorph class>>#example1
-SimplestClassListExample class>>#example
-TraitExclusion>>#-
-RubSmalltalkEditor>>#initializeShortcuts:
-RBSmalllintTestObject>>#refersToClass
-Path>>#parentUpTo:
-Random class>>#theItsCompletelyBrokenTest
-RBRefactoryTestDataApp>>#refersToClass
-ClassVariable>>#isSpecial
-SocketStream class>>#finger:
-RBBrowserEnvironment>>#asSystemNavigationEnvironment
-Rectangle>>#expanded
-Rectangle>>#rounded
-Rectangle>>#truncateTo:
-Rectangle>>#expandTo:
-Rectangle>>#translateBy:
-Rectangle>>#merge:
-Rectangle>>#insetOriginBy:cornerBy:
-Rectangle>>#truncated
-Rectangle>>#compressed
-Rectangle>>#quickMerge:
-Rectangle>>#intersect:ifNone:
-Rectangle>>#fuelAccept:
-Rectangle>>#isSelfEvaluating
-Rectangle>>#scaleBy:
-Rectangle>>#roundTo:
-Rectangle>>#encompass:
-Rectangle>>#compressTo:
-Generator class>>#examplePrimes
-LanguageEnvironment class>>#initialize
-Array>>#isSelfEvaluating
-Array>>#elementsExchangeIdentityWith:
-Array>>#shouldBePrintedAsLiteral
-Array>>#isLiteral
-Array>>#hasLiteral:
-TxTextPosition>>#linePosition:
-PolygonMorph class>>#example4
-PolygonMorph class>>#example1
-PolygonMorph class>>#example2
-PolygonMorph class>>#example5
-PolygonMorph class>>#example3
-RBCompositeLintRule class>>#rulesClassifiedFor:
-RBCompositeLintRule class>>#rulesGroupedFor:
-RBCompositeLintRule class>>#allGoodRules
-RBCompositeLintRule class>>#removedRules
-MessageAsTempNode>>#store:from:
-MessageAsTempNode>>#asStorableNode:
-NewListModel class>>#exampleWithMenu2
-NewListModel class>>#exampleWithMenu
-AbstractCompiler class>>#compilerSettingsOn:
-RBMessageNode class>>#gtExampleAddition
-NBFFICallback class>>#callbackEnterMethod
-RunArray>>#isSelfEvaluating
-RunArray>>#=
-RunArray>>#copyFrom:to:
-RunArray>>#,
-GLMErrorPopper class>>#simpleErrorPopper
-NNavNavigation class>>#enableAstHighlightSetting:
-SugsMockContext>>#withSourceContext
-SugsMockContext>>#withClass
-GTPlayPage class>>#basicLoadFromPublishUrl:
-Bag>>#=
-ThemeIcons class>>#uiIconSetChoises
-SimplestClassListWithChunkExample class>>#example
-RGMethodDefinitionTest>>#testAsPassive
-RGMethodDefinitionTest>>#testAsHistorical
-RGMethodDefinitionTest>>#testAsActive
-MethodBrowser class>>#example
-AthensFontDescription class>>#example
-Interval>>#isSelfEvaluating
-WeakArray class>>#restartFinalizationProcess
-WeakArray class>>#addWeakDependent:
-WeakArray class>>#initialize
-UITheme class>>#installFullTheme
-UITheme class>>#initialize
-MouseEvent>>#asMouseOver
-TestCase>>#expectedFailures
-Date>>#addMonths:
-VersionnerSpecBrowser class>>#menuCommandOn:
-ScrollSyncExample class>>#example
-MetacelloToolBox class>>#defaultTopic:for:
-MetacelloToolBox class>>#compiledMethodForVersion:
-MetacelloToolBox class>>#stableVersion:for:platformAttribute:
-LineSegment>>#isArcSegment
-LineSegment>>#asTangentSegment
-MCPackage class>>#gtExampleNoPackage
-Bitmap class>>#newFromStream:
-SettingTree class>>#gtExampleSettingTree
-DropListExample class>>#example
-ComposableModel>>#gtInspectorModelNestingIn:
-KomitRemote class>>#icon
-Integer class>>#basicNew
-Integer class>>#new
-SHRBTextStyler class>>#enableAstHighlightSetting:
-SHRBTextStyler class>>#useAstColoring:
-SHRBTextStyler class>>#useAstColoring
-StringMorph class>>#exampleManyStringMorphs
-Integer>>#digitMultiply:neg:
-Integer>>#digitDiv:neg:
-Integer>>#digitAdd:
-Integer>>#digitRshift:bytes:lookfirst:
-Integer>>#digitLogic:op:length:
-Integer>>#digitSubtract:
-Integer>>#digitLshift:
-PSMCPatchMorph class>>#defaultDiffToolsSettingOn:
-DockingBarMorph class>>#example
-DockingBarMorph class>>#exampleWithMenu
-ChangeSet class>>#cleanUp:
-Trait>>#asFullRingDefinition
-ScrollBar class>>#arrowSamples
-ScrollBar class>>#boxSamples
-Behavior class>>#gtExampleClassVariables
-InstanceVariableSlot>>#isSpecial
-MBCommand class>>#newCommand
-Month class>>#readFrom:
-ClassMethodBrowser class>>#example
-RubFloatingEditorBuilder class>>#exampleCommandLauncher
-RubFloatingEditorBuilder class>>#exampleEditableStringMorph
-BalloonMorph class>>#initialize
-TxBasicTextPosition>>#=
-RBMethod class>>#gtExampleThisMethod
-MorphicTransform>>#inverseTransformation
-Form class>>#shutDown
-Form class>>#dotOfSize:
-Form class>>#gtExampleEmptyForm32x32
-GeneralScrollPane class>>#gtScrollerWithWrappingAndNoSpaceFilling
-GeneralScrollPane class>>#gtScrollerWithWrappingAndSpaceFilling
-PharoClassInstaller class>>#example
-PluggableButtonMorph class>>#exampleButtonNoAction
-SystemWindow>>#activate
-SystemWindow>>#delete
-AthensCairoSurface class>>#testSurfacePluginCallbacks
-ClassTest>>#testDependencies
-ClassTest>>#testCompileAll
-NetNameResolver class>>#localAddressString
-NetNameResolver class>>#promptUserForHostAddress
-NetNameResolver class>>#isConnected
-NetNameResolver class>>#promptUserForHostAddressDefault:
-HTTPProgress class>>#example
-ZnLogEvent class>>#logToTranscript
-Matrix>>#preMultiplyByMatrix:
-Matrix>>#preMultiplyByArray:
-Dictionary class>>#gtExampleEmptyDictionary
-Pragma class>>#gtExamplePragma
-Pragma class>>#gtInspectorAnnotatedMethodsIn:
-UIManager>>#request:regex:
-ColorMap>>#mappingTo:
-ColorMap>>#inverseMap
-SystemVersion class>>#current
-GTSpotterEventRecorder>>#announcementFrom:
-RubPluggableTextMorphExample class>>#example
-Bag class>>#gtExampleEmptyBag
-Bag class>>#gtExampleBagWithOneElement
-SimplestClassListWithPagerExample class>>#example
-Date class>>#orthodoxEasterDateFor:
-Date class>>#easterDateFor:
-TxViewContainer class>>#example2
-TxViewContainer class>>#exampleOneLineEditor
-TxViewContainer class>>#exampleEditorExistingTextWithEmbeddedObjects
-TxViewContainer class>>#example1
-ScrollPane class>>#example1
-ScrollPane class>>#example2
-NetworkSystemSettings class>>#networkSettingsOn:
-SimplestPaginatedClassListExample class>>#example
-MetacelloPlatform class>>#unselect
-MetacelloPlatform class>>#current
-LazyClassListExample class>>#example
-SimpleHierarchicalListMorph class>>#exampleSubmorphs
-GTInspectorMethodListFilter class>>#exampleHelpBrowser
-GTInspectorMethodListFilter class>>#exampleASTBrowser
-GTInspectorMethodListFilter class>>#exampleRawInspector
-GTInspectorMethodListFilter class>>#exampleFullInspector
-GTInspectorMethodListFilter class>>#exampleFileBrowser
-GTInspectorMethodListFilter class>>#exampleCodeBrowser
-MCTestCase class>>#isAbstract
-Float>>#predecessor
-Float>>#successor
-Float>>#ulp
-Float>>#printBinaryLiteralOn:
-GLMPane>>#withAllPanes
-RBAddClassChange>>#asUndoOperation
-MenuMorph class>>#example
-TextComposer>>#slideOneLineDown
-Dictionary>>#fuelAccept:
-Dictionary>>#fuelAfterMaterialization
-JapaneseEnvironment class>>#isBreakableAt:in:
-JapaneseEnvironment class>>#fromJISX0208String:
-PackageManifest class>>#isManifest
-MCRepositoryTest class>>#isAbstract
-CharacterSet>>#byteComplement
-FreeTypeCacheEntry>>#=
-GLMPagerBrick class>>#exampleBasic
-RubTextSelectionColor class>>#oppositeDelimiterSelection
-MCVersionHistoryBrowser>>#spawnHistory
-GLMCompositePresentation>>#composite:
-BasicCommandLineHandler>>#list
-RBBrowserEnvironmentTest>>#testNotEnvironment
-DisplayScanner class>>#new
-GLMBoundPort>>#=
-GLMTabulator class>>#gtExampleSimple
-Time class>>#benchmarkMillisecondClock
-Set>>#fuelAccept:
-Set>>#=
-Set>>#fuelAfterMaterialization
-EntryCompletion class>>#exampleTextEntryWithCompletionDialog
-RubTextEditor class>>#buildPatchShortcutsForSelectAllInWindowsOn:
-RubTextEditor class>>#buildShortcutsOn:
-EventManager class>>#flushEvents
-ScriptLoader class>>#releaseMenu
-ScriptLoader class>>#menuCommandOn:
-OCBytecodeGeneratorTest>>#testStoreLiteralVariable
-MCHttpRepository class>>#repositoryClassFor:
-FileStream class>>#writeSourceCodeFrom:baseName:isSt:
-FileStream class>>#removeLineFeeds:
-ColorForm class>>#mappingWhiteToTransparentFrom:
-CompositeTransform>>#composedWith:
-Parser class>>#primitivePragmaSelectors
-GLMBrick class>>#gtExampleZindex
-Color>>#negated
-Color>>#muchLighter
-ScriptLoader>>#removeUpdateMethods
-ScriptLoader>>#removeScriptMethods
-Character class>>#separators
-Character class>>#allByteCharacters
-Character class>>#nbsp
-MetacelloConfigurationResource>>#project
-Class>>#copy
-MessageTally class>>#gtExampleSimplePrintString
-MessageTally class>>#on:
-RelationSlot>>#linkUp
-SugsMenuBuilder class>>#showMenuFor:
-CommandLineUIManager>>#headlessManager
-ExternalDropHandler class>>#defaultHandler
-ExternalDropHandler class>>#lookupServiceBasedHandler:
-TxSpanTestCase class>>#isAbstract
-TestCase class>>#methodChanged:
-TestCase class>>#lookupHierarchyRoot
-TestCase class>>#isUsed
-Socket>>#accept
-Socket>>#localAddress
-Socket>>#receiveDataWithTimeoutInto:startingAt:
-Socket>>#connectTo:port:
-Socket>>#sendSomeData:startIndex:count:
-Socket>>#localPort
-StartupPreferencesLoader class>>#example
-StartupPreferencesLoader class>>#example4
-StartupPreferencesLoader class>>#example2
-Context>>#doPrimitive:method:receiver:args:
-Context>>#activateReturn:value:
-Context>>#runSimulated:contextAtEachStep:
-Context>>#activateMethod:withArgs:receiver:class:
-Context>>#runUntilErrorOrReturnFrom:
-WideCharacterSet>>#species
-Author class>>#fullName
-Author class>>#fullNamePerSe
-Author class>>#changeStamp
-Author class>>#changeStampPerSe
-Author class>>#requestFullName
-Author class>>#fullName:
-Author class>>#authorSettingOn:
-Timespan>>#union:
-Timespan>>#includes:
-Timespan>>#to:
-Editor class>>#editingSettingsOn:
-SymbolicBytecode class>>#gtExampleSymbolicBytecode
-GradientFillStyle class>>#initPixelRampCache
-InstanceVariableSlot class>>#resetIvarSlots
-NBExternalArray class>>#anonymousSubclassInitElementType:
-NBExternalArray class>>#installAccessors
-NBExternalArray class>>#initialize
-SpecTableLayout>>#createColumn:
-SpecTableLayout>>#createRow:
-Cursor class>>#initMove
-Cursor class>>#initTopRight
-Cursor class>>#initOverEditableText
-Cursor class>>#initXeq
-Cursor class>>#initWrite
-Cursor class>>#initWait
-Cursor class>>#initMarker
-Cursor class>>#initResizeTopLeft
-Cursor class>>#initOrigin
-Cursor class>>#initDown
-Cursor class>>#initResizeLeft
-Cursor class>>#initUp
-Cursor class>>#initialize
-Cursor class>>#initRightArrow
-Cursor class>>#initTopLeft
-Cursor class>>#initCorner
-Cursor class>>#initSquare
-Cursor class>>#initRead
-Cursor class>>#initResizeTop
-Cursor class>>#initBottomLeft
-Cursor class>>#initBottomRight
-Cursor class>>#initTarget
-Cursor class>>#initCrossHair
-Cursor class>>#initNormal
-Cursor class>>#initMenu
-Cursor class>>#initResizeTopRight
-ThumbnailMorph class>>#example1
-GLMAnimation class>>#borderColor
-GLMAnimation class>>#swipeLeft
-GLMAnimation class>>#exampleSimple
-QSystemTally>>#tallyPath:by:
-QSystemTally>>#into:fromSender:
-QSystemTally>>#tallyMethod:by:
-QSystemTally>>#copyWithTally:
-MessageNode>>#transformIfNotNilIfNil:
-MessageNode>>#transformToDo:
-MessageNode>>#transformIfNilIfNotNil:
-MessageNode>>#toDoFromWhileWithInit:
-PackageTreeExample class>>#example
-Morph>>#rowMorphForNode:inColumn:
-Morph>>#wantsSteps
-Morph>>#transparentSpacerOfSize:
-Morph>>#announceKeyboardFocusChange:
-Morph>>#setArrowheads
-Morph>>#showActions
-BorderedMorph class>>#exampleGradient
-MenuItemMorph>>#deselectItem
-OrderedCollection>>#fuelAccept:
-OrderedCollection>>#asOrderedCollection
-NBMemoryBlock>>#reserve:for:
-Socket class>>#pingPortsOn:
-Socket class>>#ping:
-Socket class>>#pingPorts:on:timeOutSecs:
-ClassQueryTest>>#testAllCallsOn
-Canvas class>>#gtExampleWorldCanvas
-Canvas class>>#gtExampleWorldCanvasWithShadow
-Canvas class>>#gtExampleWorldCanvasWithAlpha
-MailMessage>>#makeMultipart
-MailMessage>>#addAttachmentFrom:withName:
-MailMessage>>#cleanedHeader
-MailMessage>>#parseParts
-MailMessage>>#addMixedPart:contentType:
-MailMessage>>#addAlternativePart:contentType:
-MailMessage>>#bodyTextFormatted
-FontSet class>>#acceptsLoggingOfCompilation
-GLMPrintPopper class>>#simpleObjectPopper
-GLMPrintPopper class>>#selectionEvaluationPopper
-ProfStef class>>#menuCommandOn:
-CommandLineHandler class>>#isAbstract
-VariableNode class>>#initialize
-RubTextEditor>>#initializeShortcuts:
-PolygonMorph>>#unrotatedLength:
-PolygonMorph>>#arrowBoundsAt:from:
-PolygonMorph>>#addHandles
-PolygonMorph>>#drawArrowOn:at:from:
-PolygonMorph>>#unrotatedWidth
-PolygonMorph>>#drawArrowOnAthensCanvas:at:from:
-PolygonMorph>>#mouseDown:
-PolygonMorph>>#unrotatedLength
-ClassTreeExample class>>#example
-TagMorphFactory class>>#example
-CommandLineUIManager class>>#uiSettingsOn:
-LineSegment class>>#controlPoints:
-Behavior>>#precodeCommentOrInheritedCommentFor:
-Behavior>>#supermostPrecodeCommentFor:
-Behavior>>#literalScannedAs:notifying:
-String class>>#expandMacro:argument:withExpansions:
-String class>>#new:
-String class>>#initialize
-Fraction>>#+
-Fraction>>#squared
-Fraction>>#reduced
-Fraction>>#*
-Fraction>>#asSmallerPowerOfTwo
-Fraction>>#asLargerPowerOfTwo
-Fraction>>#adaptToInteger:andSend:
-Fraction>>#-
-Fraction>>#raisedToInteger:
-Fraction>>#negated
-GLMPresentation>>#withAllPresentations
-TextStyle class>>#knownTextStyles
-UserInterruptHandler>>#handleUserInterrupt
-SettingBrowser class>>#menuCommandOn:
-Character>>#isSafeForHTTP
-Character>>#isArrow
-Character>>#basicSqueakToIso
-Character>>#to:
-PharoUIThemeIcons class>>#isAbstract
-SmallInteger>>#digitAt:
-SmallInteger>>#quo:
-SmallInteger>>#/
-Point>>#isSelfEvaluating
-ButtonModel class>>#example
-CompiledMethodTrailer>>#testEncoding
-NBExternalTypeValue class>>#getClassForType:
-NBExternalTypeValue class>>#installAccessors
-NBExternalTypeValue class>>#initialize
-MenuMorph>>#deleteIfPopUp
-MenuMorph>>#popUpAt:forHand:in:allowKeyboard:
-Process class>>#allocatePSKey:
-MetacelloScriptingResource>>#versionOfExternal091:
-MetacelloScriptingResource>>#configuration097Issue185:
-MetacelloScriptingResource>>#configuration095Issue185:
-MetacelloScriptingResource>>#configuration091Issue63:
-MetacelloScriptingResource>>#configuration094Issue185:
-MetacelloScriptingResource>>#configuration093Issue185:
-MetacelloScriptingResource>>#baselineGithubReferenceV:
-MetacelloScriptingResource>>#configuration091Issue181:
-MetacelloScriptingResource>>#baselineGithubReferenceVII:
-MetacelloScriptingResource>>#configuration096Issue185:
-MetacelloScriptingResource>>#versionOfXXX:
-MetacelloScriptingResource>>#invalidConfiguration10:
-MetacelloScriptingResource>>#configuration092Issue181:
-MetacelloScriptingResource>>#configurationGithubReferenceV:
-MetacelloScriptingResource>>#baselineGithubReferenceXX:
-MetacelloScriptingResource>>#configurationGithubReferenceXX:
-MetacelloScriptingResource>>#configurationGithubReferenceIV:
-MetacelloScriptingResource>>#configuration092Issue63:
-MetacelloScriptingResource>>#configurationGithubReferenceX:
-MetacelloScriptingResource>>#baselineGithubReferenceVI:
-MetacelloScriptingResource>>#versionOfXX:
-MetacelloScriptingResource>>#invalidConfiguration20:
-GLMWizard class>>#linkedStepsExample
-GLMWizard class>>#genericStepWithGenericSizeExample
-GLMWizard class>>#simpleExample
-WarpBlt class>>#rotate:degrees:center:scaleBy:smoothing:
-Object>>#spotterPreviewIn:inContext:
-Object>>#deepCopy
-Object>>#gtInspectorPresentationsIn:inContext:
-Object>>#spotterProcessorsFor:
-Object>>#gtInspectorActions
-AthensTreeView class>>#example1
-MethodModified class>>#gtExampleMethodModified
-BaseStreamTest class>>#isAbstract
-InputWidget class>>#example2
-POP3Client class>>#example
-DisplayScreen>>#fullscreen:
-SlReporter>>#notifyResponse:
-AthensDemoMorph class>>#example
-OSWindow class>>#vmWindow
-EclipseUIThemeIcons class>>#isAbstract
-RBBrowserEnvironment class>>#default
-TimeProfiler class>>#menuCommandOn:
-TextStyle>>#consolidate
-Form>>#orderedDither32To16
-Form>>#readFromOldFormat:
-Form>>#rotateBy:magnify:smoothing:
-Form>>#collectPixels:
-Form>>#readResourceFrom:
-Form>>#asGrayScale
-Form>>#eraseShape:
-Form>>#rectangleEnclosingPixelsNotOfColor:
-Form>>#scaledIntoFormOfSize:
-Form>>#yTallyPixelValue:orNot:
-Form>>#smear:distance:
-Form>>#pageWarp:at:forward:
-Form>>#contentsOfArea:into:
-Form>>#convexShapeFill:
-Form>>#displayOnPort:at:
-Form>>#replaceColor:withColor:
-Form>>#privateFloodFillValue:
-Form>>#displayScaledOn:
-Form>>#copyBits:from:at:colorMap:
-Form>>#copy:
-Form>>#wipeImage:at:clippingBox:rectForIndex:
-Form>>#mapColors:to:
-Form>>#anyShapeFill
-Form>>#xTallyPixelValue:orNot:
-Form>>#slideImage:at:delta:
-Form>>#findShapeAroundSeedBlock:
-Form>>#mapColor:to:
-Form>>#allocateForm:
-Form>>#fadeImage:at:indexAndMaskDo:
-Form>>#colorReduced
-Form>>#asFormOfDepth:
-Form>>#makeBWForm:
-Form>>#fromDisplay:
-Form>>#asCursorForm
-RBBasicLintRuleTest class>>#modifiesCollection
-CheckBoxExample class>>#example
-RBAddMethodChange>>#asUndoOperation
-StandardFileStream>>#open:forWrite:
-FileSystem class>>#gtExampleZip
-WordArray>>#*
-WordArray>>#-
-WordArray>>#/
-WordArray>>#+
-Float class>>#fromIEEE32Bit:
-SimpleGridExample class>>#example
-Color class>>#gtExampleColorRed
-Color class>>#initializeIndexedColors
-Color class>>#colorPaletteForDepth:extent:
-Color class>>#colorFrom:
-RBRefactoryDefinitionChange class>>#definition:for:
-RxParser class>>#doHandlingMessageNotUnderstood:
-MCWorkingCopy class>>#hasPackageNamed:
-AbstractFont class>>#update:
-Text>>#addAttribute:from:to:
-MCModification>>#inverse
-ReadWriteStream>>#hash
-ReadWriteStream>>#=
-KeyedTree>>#postCopy
-KeyedTree>>#merge:
-KeyedTree>>#subtrees
-Bezier3Segment class>>#convertBezier3ToBezier2:
-TraitAlias>>#@
-GTInspectorTagFilter class>>#exampleBasicInspector
-GTInspectorTagFilter class>>#exampleCustomInspector
-GTInspectorTagFilter class>>#exampleFullInspector
-GTInspectorTagFilter class>>#exampleExampleBrowser
-RubSmalltalkEditor class>>#buildPatchShortcutsForDoItInWindowsOn:
-RubSmalltalkEditor class>>#buildShortcutsOn:
-StrikeFont class>>#limitTo16Bits
-StrikeFont class>>#fromUser:allowKeyboard:
-StrikeFont class>>#saveSpace
-StrikeFont class>>#readStrikeFont2Family:fromDirectory:
-ColorPresenterMorph class>>#example
-Association>>#tail
-Association>>#isSelfEvaluating
-Association>>#head
-CommandLineHandler>>#allHandlers
-HelpTopicListItemWrapper>>#contents
-SequenceableCollection>>#hasEqualElements:
-SimpleTestResourceTestCase>>#testRunSuiteWithResource
-SmalltalkImage class>>#initialize
-GLMPagerPanePreviewMorph class>>#uniqueInstance
-ByteArray>>#asByteArrayOfSize:
-ByteArray>>#isLiteral
-Symbol class>>#selectorsContaining:
-Symbol class>>#possibleSelectorsFor:
-Symbol class>>#initialize
-MethodFinder>>#constLinear
-MethodFinder>>#constUsingData1Value
-MethodFinder>>#constMult
-MethodFinder>>#constPlus
-MethodFinder>>#constDiv
-MethodFinder>>#constMod
-MethodFinder>>#constEquiv
-Text class>>#initialFont:stringOrText:
-SDL2 class>>#checkForError
-SDL2 class>>#isAvailable
-String>>#decodeMimeHeader
-String>>#withInternetLineEndings
-String>>#withSqueakLineEndings
-String>>#asAlphaNumeric:extraChars:mergeUID:
-String>>#asComment
-String>>#withBlanksCondensed
-String>>#zipped
-String>>#keywords
-String>>#compare:with:collated:
-String>>#padLeftTo:with:
-String>>#asUncommentedCode
-String>>#asOctetString
-String>>#withUnixLineEndings
-String>>#findTokens:escapedBy:
-String>>#padRightTo:with:
-String>>#convertToWithConverter:
-String>>#transformSelectorForComparison
-String>>#substrings:
-String>>#wordBefore:
-MCDefinition>>#=
-MCDefinition>>#isRevisionOf:
-HelpTopic class>>#gtExampleComposedTopic
-HelpTopic class>>#gtExampleSingleTopic
-InputEventFetcher class>>#default
+VSCommitVersion class>>#uniqueInstance [Versionner-Commit]
+RGClassDefinition class>>#createSharedPoolNamed: [Ring-Core-Kernel]
+ColorChooserMorph class>>#example [Morphic-Widgets-ColorPicker]
+GLMBrick>>#openInBrickWindowLabeled: [Glamour-Morphic-Brick]
+StandardFonts class>>#haloFont [Graphics-Fonts]
+StandardFonts class>>#printStandardSystemFonts [Graphics-Fonts]
+StandardFonts class>>#fixSmallDejaVuPunctuationMarks [Graphics-Fonts]
+StandardFonts class>>#defaultFont: [Graphics-Fonts]
+StandardFonts class>>#windowTitleFont [Graphics-Fonts]
+StandardFonts class>>#setAllStandardFontsTo: [Graphics-Fonts]
+StandardFonts class>>#setDemoFonts [Graphics-Fonts]
+MCLazyVersionInfo class>>#install [Monticello]
+TextFontChange>>#dominates: [Text-Core]
+RadioButtonGroupExample class>>#example [Spec-Examples]
+InstructionStream>>#skipBackBeforeJump [Kernel]
+SetElement>>#asSetElement [Collections-Support]
+KMDescription class>>#example [Keymapping-Tools-Spec]
+TreeModel class>>#exampleWithNoSpecifiedNodes [Spec-Core]
+TreeModel class>>#exampleWithCustomColumnsAndNodes [Spec-Core]
+TreeModel class>>#exampleWithCustomColumnsAndNodesAndChildren [Spec-Core]
+RBAddTraitChange>>#asUndoOperation [Refactoring-Changes]
+KMKeyCombinationChoice>>#| [Keymapping-KeyCombinations]
+PragmaType class>>#all [GT-SpotterExtensions-Core]
+BIInspector class>>#openBIInspectorButtonAction [BlueInk-Extras]
+GIFReadWriter class>>#grabScreenAndSaveOnDisk [Graphics-Files]
+GIFReadWriter class>>#exampleAnim [Graphics-Files]
+Locale class>>#switchToID: [System-Localization]
+Locale class>>#initKnownLocales [System-Localization]
+Locale class>>#localeID: [System-Localization]
+Locale class>>#initialize [System-Localization]
+Trait class>>#named:uses:category:env: [Traits]
+TransformationMorph class>>#example1 [Morphic-Base]
+SimplestClassListExample class>>#example [Morphic-Examples]
+TraitExclusion>>#- [Traits]
+RubSmalltalkEditor>>#initializeShortcuts: [Rubric]
+RBSmalllintTestObject>>#refersToClass [Refactoring-Tests-Critics]
+Path>>#parentUpTo: [FileSystem-Core]
+Random class>>#theItsCompletelyBrokenTest [Kernel]
+RBRefactoryTestDataApp>>#refersToClass [Refactoring-Tests-Core]
+ClassVariable>>#isSpecial [Slot]
+SocketStream class>>#finger: [Network-Kernel]
+RBBrowserEnvironment>>#asSystemNavigationEnvironment [NautilusCommon]
+Rectangle>>#expanded [Kernel]
+Rectangle>>#rounded [Kernel]
+Rectangle>>#truncateTo: [Kernel]
+Rectangle>>#expandTo: [Kernel]
+Rectangle>>#translateBy: [Kernel]
+Rectangle>>#merge: [Kernel]
+Rectangle>>#insetOriginBy:cornerBy: [Kernel]
+Rectangle>>#truncated [Kernel]
+Rectangle>>#compressed [Kernel]
+Rectangle>>#quickMerge: [Kernel]
+Rectangle>>#intersect:ifNone: [Kernel]
+Rectangle>>#fuelAccept: [Fuel]
+Rectangle>>#isSelfEvaluating [Kernel]
+Rectangle>>#scaleBy: [Kernel]
+Rectangle>>#roundTo: [Kernel]
+Rectangle>>#encompass: [Kernel]
+Rectangle>>#compressTo: [Kernel]
+Generator class>>#examplePrimes [Collections-Streams]
+LanguageEnvironment class>>#initialize [Multilingual-Languages]
+Array>>#isSelfEvaluating [Collections-Sequenceable]
+Array>>#elementsExchangeIdentityWith: [Collections-Sequenceable]
+Array>>#shouldBePrintedAsLiteral [Collections-Sequenceable]
+Array>>#isLiteral [Collections-Sequenceable]
+Array>>#hasLiteral: [Collections-Sequenceable]
+TxTextPosition>>#linePosition: [TxText-Model]
+PolygonMorph class>>#example4 [Morphic-Base]
+PolygonMorph class>>#example1 [Morphic-Base]
+PolygonMorph class>>#example2 [Morphic-Base]
+PolygonMorph class>>#example5 [Morphic-Base]
+PolygonMorph class>>#example3 [Morphic-Base]
+RBCompositeLintRule class>>#rulesClassifiedFor: [Manifest-Core]
+RBCompositeLintRule class>>#rulesGroupedFor: [Refactoring-Critics]
+RBCompositeLintRule class>>#allGoodRules [Manifest-Core]
+RBCompositeLintRule class>>#removedRules [Manifest-Core]
+MessageAsTempNode>>#store:from: [Compiler]
+MessageAsTempNode>>#asStorableNode: [Compiler]
+NewListModel class>>#exampleWithMenu2 [Spec-Core]
+NewListModel class>>#exampleWithMenu [Spec-Core]
+AbstractCompiler class>>#compilerSettingsOn: [OpalCompiler-Core]
+RBMessageNode class>>#gtExampleAddition [GT-InspectorExtensions-Core]
+NBFFICallback class>>#callbackEnterMethod [NativeBoost-Core]
+RunArray>>#isSelfEvaluating [Text-Core]
+RunArray>>#= [Text-Core]
+RunArray>>#copyFrom:to: [Text-Core]
+RunArray>>#, [Text-Core]
+GLMErrorPopper class>>#simpleErrorPopper [Glamour-Morphic-Widgets]
+NNavNavigation class>>#enableAstHighlightSetting: [NodeNavigation]
+SugsMockContext>>#withSourceContext [SmartSuggestions-Tests]
+SugsMockContext>>#withClass [SmartSuggestions-Tests]
+GTPlayPage class>>#basicLoadFromPublishUrl: [GT-Playground]
+Bag>>#= [Collections-Unordered]
+ThemeIcons class>>#uiIconSetChoises [Polymorph-Widgets]
+SimplestClassListWithChunkExample class>>#example [Morphic-Examples]
+RGMethodDefinitionTest>>#testAsPassive [Ring-Tests-Kernel]
+RGMethodDefinitionTest>>#testAsHistorical [Ring-Tests-Kernel]
+RGMethodDefinitionTest>>#testAsActive [Ring-Tests-Kernel]
+MethodBrowser class>>#example [Spec-Examples]
+AthensFontDescription class>>#example [Athens-Cairo]
+Interval>>#isSelfEvaluating [Collections-Sequenceable]
+WeakArray class>>#restartFinalizationProcess [Collections-Weak]
+WeakArray class>>#addWeakDependent: [Collections-Weak]
+WeakArray class>>#initialize [Collections-Weak]
+UITheme class>>#installFullTheme [Polymorph-Widgets]
+UITheme class>>#initialize [Polymorph-Widgets]
+MouseEvent>>#asMouseOver [Morphic-Core]
+TestCase>>#expectedFailures [SUnit-Core]
+Date>>#addMonths: [Kernel]
+VersionnerSpecBrowser class>>#menuCommandOn: [Versionner-Spec-Browser]
+ScrollSyncExample class>>#example [Spec-Examples]
+MetacelloToolBox class>>#defaultTopic:for: [Metacello-ToolBox]
+MetacelloToolBox class>>#compiledMethodForVersion: [Metacello-ToolBox]
+MetacelloToolBox class>>#stableVersion:for:platformAttribute: [Metacello-ToolBox]
+LineSegment>>#isArcSegment [Balloon]
+LineSegment>>#asTangentSegment [Balloon]
+MCPackage class>>#gtExampleNoPackage [GT-SpotterExtensions-Core]
+Bitmap class>>#newFromStream: [Graphics-Primitives]
+SettingTree class>>#gtExampleSettingTree [GT-SpotterExtensions-Core]
+DropListExample class>>#example [Spec-Examples]
+ComposableModel>>#gtInspectorModelNestingIn: [GT-InspectorExtensions-Core]
+KomitRemote class>>#icon [Komitter]
+Integer class>>#basicNew [Kernel]
+Integer class>>#new [Kernel]
+SHRBTextStyler class>>#enableAstHighlightSetting: [Shout]
+SHRBTextStyler class>>#useAstColoring: [Shout]
+SHRBTextStyler class>>#useAstColoring [Shout]
+StringMorph class>>#exampleManyStringMorphs [Morphic-Base]
+Integer>>#digitMultiply:neg: [Kernel]
+Integer>>#digitDiv:neg: [Kernel]
+Integer>>#digitAdd: [Kernel]
+Integer>>#digitRshift:bytes:lookfirst: [Kernel]
+Integer>>#digitLogic:op:length: [Kernel]
+Integer>>#digitSubtract: [Kernel]
+Integer>>#digitLshift: [Kernel]
+PSMCPatchMorph class>>#defaultDiffToolsSettingOn: [Tool-Diff]
+DockingBarMorph class>>#example [Morphic-Widgets-Extra]
+DockingBarMorph class>>#exampleWithMenu [Morphic-Widgets-Extra]
+ChangeSet class>>#cleanUp: [System-Changes]
+Trait>>#asFullRingDefinition [Ring-Core-Kernel]
+ScrollBar class>>#arrowSamples [Morphic-Widgets-Scrolling]
+ScrollBar class>>#boxSamples [Morphic-Widgets-Scrolling]
+Behavior class>>#gtExampleClassVariables [GT-SpotterExtensions-Core]
+InstanceVariableSlot>>#isSpecial [Slot]
+MBCommand class>>#newCommand [Versionner-Core-Commands]
+Month class>>#readFrom: [Kernel]
+ClassMethodBrowser class>>#example [Spec-Examples]
+RubFloatingEditorBuilder class>>#exampleCommandLauncher [Rubric]
+RubFloatingEditorBuilder class>>#exampleEditableStringMorph [Rubric]
+BalloonMorph class>>#initialize [Morphic-Base]
+TxBasicTextPosition>>#= [TxText-Model]
+RBMethod class>>#gtExampleThisMethod [GT-InspectorExtensions-Core]
+MorphicTransform>>#inverseTransformation [Graphics-Transformations]
+Form class>>#shutDown [Graphics-Display Objects]
+Form class>>#dotOfSize: [Graphics-Display Objects]
+Form class>>#gtExampleEmptyForm32x32 [GT-InspectorExtensions-Core]
+GeneralScrollPane class>>#gtScrollerWithWrappingAndNoSpaceFilling [GT-InspectorExtensions-Core]
+GeneralScrollPane class>>#gtScrollerWithWrappingAndSpaceFilling [GT-InspectorExtensions-Core]
+PharoClassInstaller class>>#example [Slot]
+PluggableButtonMorph class>>#exampleButtonNoAction [Morphic-Widgets-Basic]
+SystemWindow>>#activate [Polymorph-Widgets]
+SystemWindow>>#delete [Morphic-Widgets-Windows]
+AthensCairoSurface class>>#testSurfacePluginCallbacks [Athens-Cairo]
+ClassTest>>#testDependencies [KernelTests]
+ClassTest>>#testCompileAll [KernelTests]
+NetNameResolver class>>#localAddressString [Network-Kernel]
+NetNameResolver class>>#promptUserForHostAddress [Network-Kernel]
+NetNameResolver class>>#isConnected [Network-Kernel]
+NetNameResolver class>>#promptUserForHostAddressDefault: [Network-Kernel]
+HTTPProgress class>>#example [Network-Protocols]
+ZnLogEvent class>>#logToTranscript [Zinc-HTTP]
+Matrix>>#preMultiplyByMatrix: [Collections-Arithmetic]
+Matrix>>#preMultiplyByArray: [Collections-Arithmetic]
+Dictionary class>>#gtExampleEmptyDictionary [GT-InspectorExtensions-Core]
+Pragma class>>#gtExamplePragma [GT-InspectorExtensions-Core]
+Pragma class>>#gtInspectorAnnotatedMethodsIn: [GT-InspectorExtensions-Core]
+UIManager>>#request:regex: [Regex-Core]
+ColorMap>>#mappingTo: [Graphics-Primitives]
+ColorMap>>#inverseMap [Graphics-Primitives]
+SystemVersion class>>#current [System-Support]
+GTSpotterEventRecorder>>#announcementFrom: [GT-Spotter-EventRecorder]
+RubPluggableTextMorphExample class>>#example [Rubric]
+Bag class>>#gtExampleEmptyBag [GT-SpotterExtensions-Core]
+Bag class>>#gtExampleBagWithOneElement [GT-SpotterExtensions-Core]
+SimplestClassListWithPagerExample class>>#example [Morphic-Examples]
+Date class>>#orthodoxEasterDateFor: [Kernel]
+Date class>>#easterDateFor: [Kernel]
+TxViewContainer class>>#example2 [TxText-Athens]
+TxViewContainer class>>#exampleOneLineEditor [TxText-Athens]
+TxViewContainer class>>#exampleEditorExistingTextWithEmbeddedObjects [TxText-Athens]
+TxViewContainer class>>#example1 [TxText-Athens]
+ScrollPane class>>#example1 [Morphic-Widgets-Scrolling]
+ScrollPane class>>#example2 [Morphic-Widgets-Scrolling]
+NetworkSystemSettings class>>#networkSettingsOn: [Network-Kernel]
+SimplestPaginatedClassListExample class>>#example [Morphic-Examples]
+MetacelloPlatform class>>#unselect [Metacello-Core]
+MetacelloPlatform class>>#current [Metacello-Core]
+LazyClassListExample class>>#example [Morphic-Examples]
+SimpleHierarchicalListMorph class>>#exampleSubmorphs [Morphic-Widgets-List]
+GTInspectorMethodListFilter class>>#exampleHelpBrowser [GT-Inspector]
+GTInspectorMethodListFilter class>>#exampleASTBrowser [GT-Inspector]
+GTInspectorMethodListFilter class>>#exampleRawInspector [GT-Inspector]
+GTInspectorMethodListFilter class>>#exampleFullInspector [GT-Inspector]
+GTInspectorMethodListFilter class>>#exampleFileBrowser [GT-Inspector]
+GTInspectorMethodListFilter class>>#exampleCodeBrowser [GT-Inspector]
+MCTestCase class>>#isAbstract [Monticello-Tests]
+Float>>#predecessor [Kernel]
+Float>>#successor [Kernel]
+Float>>#ulp [Kernel]
+Float>>#printBinaryLiteralOn: [Kernel]
+GLMPane>>#withAllPanes [Glamour-Core]
+RBAddClassChange>>#asUndoOperation [Refactoring-Changes]
+MenuMorph class>>#example [Morphic-Base]
+TextComposer>>#slideOneLineDown [Morphic-Base]
+Dictionary>>#fuelAccept: [Fuel]
+Dictionary>>#fuelAfterMaterialization [Fuel]
+JapaneseEnvironment class>>#isBreakableAt:in: [Multilingual-OtherLanguages]
+JapaneseEnvironment class>>#fromJISX0208String: [Multilingual-OtherLanguages]
+PackageManifest class>>#isManifest [Kernel]
+MCRepositoryTest class>>#isAbstract [Monticello-Tests]
+CharacterSet>>#byteComplement [Collections-Support]
+FreeTypeCacheEntry>>#= [FreeType]
+GLMPagerBrick class>>#exampleBasic [Glamour-Morphic-Pager]
+RubTextSelectionColor class>>#oppositeDelimiterSelection [Rubric]
+MCVersionHistoryBrowser>>#spawnHistory [MonticelloGUI]
+GLMCompositePresentation>>#composite: [Glamour-Core]
+BasicCommandLineHandler>>#list [System-CommandLineHandler]
+RBBrowserEnvironmentTest>>#testNotEnvironment [Refactoring-Tests-Environment]
+DisplayScanner class>>#new [Text-Scanning]
+GLMBoundPort>>#= [Glamour-Core]
+GLMTabulator class>>#gtExampleSimple [GT-InspectorExtensions-Core]
+Time class>>#benchmarkMillisecondClock [Kernel]
+Set>>#fuelAccept: [Fuel]
+Set>>#= [Collections-Unordered]
+Set>>#fuelAfterMaterialization [Fuel]
+EntryCompletion class>>#exampleTextEntryWithCompletionDialog [Polymorph-Widgets]
+RubTextEditor class>>#buildPatchShortcutsForSelectAllInWindowsOn: [Rubric]
+RubTextEditor class>>#buildShortcutsOn: [Rubric]
+EventManager class>>#flushEvents [System-Object Events]
+ScriptLoader class>>#releaseMenu [ScriptLoader50]
+ScriptLoader class>>#menuCommandOn: [ScriptLoader50]
+OCBytecodeGeneratorTest>>#testStoreLiteralVariable [OpalCompiler-Tests]
+MCHttpRepository class>>#repositoryClassFor: [MonticelloRemoteRepositories]
+FileStream class>>#writeSourceCodeFrom:baseName:isSt: [CodeExport]
+FileStream class>>#removeLineFeeds: [Files]
+ColorForm class>>#mappingWhiteToTransparentFrom: [Graphics-Display Objects]
+CompositeTransform>>#composedWith: [Graphics-Transformations]
+Parser class>>#primitivePragmaSelectors [Compiler]
+GLMBrick class>>#gtExampleZindex [Glamour-Morphic-Brick]
+Color>>#negated [Graphics-Primitives]
+Color>>#muchLighter [Graphics-Primitives]
+ScriptLoader>>#removeUpdateMethods [ScriptLoader50]
+ScriptLoader>>#removeScriptMethods [ScriptLoader50]
+Character class>>#separators [Kernel]
+Character class>>#allByteCharacters [Kernel]
+Character class>>#nbsp [Kernel]
+MetacelloConfigurationResource>>#project [Metacello-TestsMCResources]
+Class>>#copy [Kernel]
+MessageTally class>>#gtExampleSimplePrintString [GT-InspectorExtensions-Core]
+MessageTally class>>#on: [GT-InspectorExtensions-Core]
+RelationSlot>>#linkUp [Slot]
+SugsMenuBuilder class>>#showMenuFor: [SmartSuggestions]
+CommandLineUIManager>>#headlessManager [UIManager]
+ExternalDropHandler class>>#defaultHandler [Morphic-Core]
+ExternalDropHandler class>>#lookupServiceBasedHandler: [Morphic-Core]
+TxSpanTestCase class>>#isAbstract [TxTextTests-Model]
+TestCase class>>#methodChanged: [SUnit-Core]
+TestCase class>>#lookupHierarchyRoot [SUnit-Core]
+TestCase class>>#isUsed [SUnit-Core]
+Socket>>#accept [Network-Kernel]
+Socket>>#localAddress [Network-Kernel]
+Socket>>#receiveDataWithTimeoutInto:startingAt: [Network-Kernel]
+Socket>>#connectTo:port: [Network-Kernel]
+Socket>>#sendSomeData:startIndex:count: [Network-Kernel]
+Socket>>#localPort [Network-Kernel]
+StartupPreferencesLoader class>>#example [StartupPreferences]
+StartupPreferencesLoader class>>#example4 [StartupPreferences]
+StartupPreferencesLoader class>>#example2 [StartupPreferences]
+Context>>#doPrimitive:method:receiver:args: [Kernel]
+Context>>#activateReturn:value: [Kernel]
+Context>>#runSimulated:contextAtEachStep: [Kernel]
+Context>>#activateMethod:withArgs:receiver:class: [Kernel]
+Context>>#runUntilErrorOrReturnFrom: [Kernel]
+WideCharacterSet>>#species [Collections-Support]
+Author class>>#fullName [System-Support]
+Author class>>#fullNamePerSe [System-Support]
+Author class>>#changeStamp [System-Support]
+Author class>>#changeStampPerSe [System-Support]
+Author class>>#requestFullName [System-Support]
+Author class>>#fullName: [System-Support]
+Author class>>#authorSettingOn: [System-Support]
+Timespan>>#union: [Kernel]
+Timespan>>#includes: [Kernel]
+Timespan>>#to: [Kernel]
+Editor class>>#editingSettingsOn: [Text-Edition]
+SymbolicBytecode class>>#gtExampleSymbolicBytecode [GT-InspectorExtensions-Core]
+GradientFillStyle class>>#initPixelRampCache [Balloon]
+InstanceVariableSlot class>>#resetIvarSlots [Slot]
+NBExternalArray class>>#anonymousSubclassInitElementType: [NativeBoost-Core]
+NBExternalArray class>>#installAccessors [NativeBoost-Core]
+NBExternalArray class>>#initialize [NativeBoost-Core]
+SpecTableLayout>>#createColumn: [Spec-Layout]
+SpecTableLayout>>#createRow: [Spec-Layout]
+Cursor class>>#initMove [Graphics-Display Objects]
+Cursor class>>#initTopRight [Graphics-Display Objects]
+Cursor class>>#initOverEditableText [Graphics-Display Objects]
+Cursor class>>#initXeq [Graphics-Display Objects]
+Cursor class>>#initWrite [Graphics-Display Objects]
+Cursor class>>#initWait [Graphics-Display Objects]
+Cursor class>>#initMarker [Graphics-Display Objects]
+Cursor class>>#initResizeTopLeft [Graphics-Display Objects]
+Cursor class>>#initOrigin [Graphics-Display Objects]
+Cursor class>>#initDown [Graphics-Display Objects]
+Cursor class>>#initResizeLeft [Graphics-Display Objects]
+Cursor class>>#initUp [Graphics-Display Objects]
+Cursor class>>#initialize [Graphics-Display Objects]
+Cursor class>>#initRightArrow [Graphics-Display Objects]
+Cursor class>>#initTopLeft [Graphics-Display Objects]
+Cursor class>>#initCorner [Graphics-Display Objects]
+Cursor class>>#initSquare [Graphics-Display Objects]
+Cursor class>>#initRead [Graphics-Display Objects]
+Cursor class>>#initResizeTop [Graphics-Display Objects]
+Cursor class>>#initBottomLeft [Graphics-Display Objects]
+Cursor class>>#initBottomRight [Graphics-Display Objects]
+Cursor class>>#initTarget [Graphics-Display Objects]
+Cursor class>>#initCrossHair [Graphics-Display Objects]
+Cursor class>>#initNormal [Graphics-Display Objects]
+Cursor class>>#initMenu [Graphics-Display Objects]
+Cursor class>>#initResizeTopRight [Graphics-Display Objects]
+ThumbnailMorph class>>#example1 [Morphic-Base]
+GLMAnimation class>>#borderColor [Glamour-Morphic-Brick]
+GLMAnimation class>>#swipeLeft [Glamour-Morphic-Brick]
+GLMAnimation class>>#exampleSimple [Glamour-Morphic-Brick]
+QSystemTally>>#tallyPath:by: [Tool-Profilers]
+QSystemTally>>#into:fromSender: [Tool-Profilers]
+QSystemTally>>#tallyMethod:by: [Tool-Profilers]
+QSystemTally>>#copyWithTally: [Tool-Profilers]
+MessageNode>>#transformIfNotNilIfNil: [Compiler]
+MessageNode>>#transformToDo: [Compiler]
+MessageNode>>#transformIfNilIfNotNil: [Compiler]
+MessageNode>>#toDoFromWhileWithInit: [Compiler]
+PackageTreeExample class>>#example [Morphic-Examples]
+Morph>>#rowMorphForNode:inColumn: [Morphic-Base]
+Morph>>#wantsSteps [Morphic-Core]
+Morph>>#transparentSpacerOfSize: [Morphic-Core]
+Morph>>#announceKeyboardFocusChange: [Morphic-Core]
+Morph>>#setArrowheads [Morphic-Base]
+Morph>>#showActions [Morphic-Core]
+BorderedMorph class>>#exampleGradient [Morphic-Base]
+MenuItemMorph>>#deselectItem [Morphic-Base]
+OrderedCollection>>#fuelAccept: [Fuel]
+OrderedCollection>>#asOrderedCollection [Collections-Sequenceable]
+NBMemoryBlock>>#reserve:for: [NativeBoost-Core]
+Socket class>>#pingPortsOn: [Network-Kernel]
+Socket class>>#ping: [Network-Kernel]
+Socket class>>#pingPorts:on:timeOutSecs: [Network-Kernel]
+ClassQueryTest>>#testAllCallsOn [System-SupportTests]
+Canvas class>>#gtExampleWorldCanvas [GT-InspectorExtensions-Core]
+Canvas class>>#gtExampleWorldCanvasWithShadow [GT-InspectorExtensions-Core]
+Canvas class>>#gtExampleWorldCanvasWithAlpha [GT-InspectorExtensions-Core]
+MailMessage>>#makeMultipart [Network-Mail]
+MailMessage>>#addAttachmentFrom:withName: [Network-Mail]
+MailMessage>>#cleanedHeader [Network-Mail]
+MailMessage>>#parseParts [Network-Mail]
+MailMessage>>#addMixedPart:contentType: [Network-Mail]
+MailMessage>>#addAlternativePart:contentType: [Network-Mail]
+MailMessage>>#bodyTextFormatted [Network-Mail]
+FontSet class>>#acceptsLoggingOfCompilation [Graphics-Fonts]
+GLMPrintPopper class>>#simpleObjectPopper [Glamour-Morphic-Widgets]
+GLMPrintPopper class>>#selectionEvaluationPopper [Glamour-Morphic-Widgets]
+ProfStef class>>#menuCommandOn: [ProfStef-Core]
+CommandLineHandler class>>#isAbstract [System-CommandLineHandler]
+VariableNode class>>#initialize [Compiler]
+RubTextEditor>>#initializeShortcuts: [Rubric]
+PolygonMorph>>#unrotatedLength: [Morphic-Base]
+PolygonMorph>>#arrowBoundsAt:from: [Morphic-Base]
+PolygonMorph>>#addHandles [Morphic-Base]
+PolygonMorph>>#drawArrowOn:at:from: [Morphic-Base]
+PolygonMorph>>#unrotatedWidth [Morphic-Base]
+PolygonMorph>>#drawArrowOnAthensCanvas:at:from: [Athens-Morphic]
+PolygonMorph>>#mouseDown: [Morphic-Base]
+PolygonMorph>>#unrotatedLength [Morphic-Base]
+ClassTreeExample class>>#example [Morphic-Examples]
+TagMorphFactory class>>#example [Versionner-Spec-Browser]
+CommandLineUIManager class>>#uiSettingsOn: [UIManager]
+LineSegment class>>#controlPoints: [Balloon]
+Behavior>>#precodeCommentOrInheritedCommentFor: [Traits]
+Behavior>>#supermostPrecodeCommentFor: [Traits]
+Behavior>>#literalScannedAs:notifying: [Traits]
+String class>>#expandMacro:argument:withExpansions: [Collections-Strings]
+String class>>#new: [Collections-Strings]
+String class>>#initialize [Collections-Strings]
+Fraction>>#+ [Kernel]
+Fraction>>#squared [Kernel]
+Fraction>>#reduced [Kernel]
+Fraction>>#* [Kernel]
+Fraction>>#asSmallerPowerOfTwo [Kernel]
+Fraction>>#asLargerPowerOfTwo [Kernel]
+Fraction>>#adaptToInteger:andSend: [Kernel]
+Fraction>>#- [Kernel]
+Fraction>>#raisedToInteger: [Kernel]
+Fraction>>#negated [Kernel]
+GLMPresentation>>#withAllPresentations [Glamour-Core]
+TextStyle class>>#knownTextStyles [Text-Core]
+UserInterruptHandler>>#handleUserInterrupt [System-VMEvents]
+SettingBrowser class>>#menuCommandOn: [System-Settings]
+Character>>#isSafeForHTTP [Kernel]
+Character>>#isArrow [Kernel]
+Character>>#basicSqueakToIso [Kernel]
+Character>>#to: [Kernel]
+PharoUIThemeIcons class>>#isAbstract [Polymorph-Widgets]
+SmallInteger>>#digitAt: [Kernel]
+SmallInteger>>#quo: [Kernel]
+SmallInteger>>#/ [Kernel]
+Point>>#isSelfEvaluating [Kernel]
+ButtonModel class>>#example [Spec-Core]
+CompiledMethodTrailer>>#testEncoding [Kernel]
+NBExternalTypeValue class>>#getClassForType: [NativeBoost-Core]
+NBExternalTypeValue class>>#installAccessors [NativeBoost-Core]
+NBExternalTypeValue class>>#initialize [NativeBoost-Core]
+MenuMorph>>#deleteIfPopUp [Morphic-Base]
+MenuMorph>>#popUpAt:forHand:in:allowKeyboard: [Morphic-Base]
+Process class>>#allocatePSKey: [Kernel]
+MetacelloScriptingResource>>#versionOfExternal091: [Metacello-TestsMCResources]
+MetacelloScriptingResource>>#configuration097Issue185: [Metacello-TestsMCResources]
+MetacelloScriptingResource>>#configuration095Issue185: [Metacello-TestsMCResources]
+MetacelloScriptingResource>>#configuration091Issue63: [Metacello-TestsMCResources]
+MetacelloScriptingResource>>#configuration094Issue185: [Metacello-TestsMCResources]
+MetacelloScriptingResource>>#configuration093Issue185: [Metacello-TestsMCResources]
+MetacelloScriptingResource>>#baselineGithubReferenceV: [Metacello-TestsMCResources]
+MetacelloScriptingResource>>#configuration091Issue181: [Metacello-TestsMCResources]
+MetacelloScriptingResource>>#baselineGithubReferenceVII: [Metacello-TestsMCResources]
+MetacelloScriptingResource>>#configuration096Issue185: [Metacello-TestsMCResources]
+MetacelloScriptingResource>>#versionOfXXX: [Metacello-TestsMCResources]
+MetacelloScriptingResource>>#invalidConfiguration10: [Metacello-TestsMCResources]
+MetacelloScriptingResource>>#configuration092Issue181: [Metacello-TestsMCResources]
+MetacelloScriptingResource>>#configurationGithubReferenceV: [Metacello-TestsMCResources]
+MetacelloScriptingResource>>#baselineGithubReferenceXX: [Metacello-TestsMCResources]
+MetacelloScriptingResource>>#configurationGithubReferenceXX: [Metacello-TestsMCResources]
+MetacelloScriptingResource>>#configurationGithubReferenceIV: [Metacello-TestsMCResources]
+MetacelloScriptingResource>>#configuration092Issue63: [Metacello-TestsMCResources]
+MetacelloScriptingResource>>#configurationGithubReferenceX: [Metacello-TestsMCResources]
+MetacelloScriptingResource>>#baselineGithubReferenceVI: [Metacello-TestsMCResources]
+MetacelloScriptingResource>>#versionOfXX: [Metacello-TestsMCResources]
+MetacelloScriptingResource>>#invalidConfiguration20: [Metacello-TestsMCResources]
+GLMWizard class>>#linkedStepsExample [Glamour-Browsers]
+GLMWizard class>>#genericStepWithGenericSizeExample [Glamour-Browsers]
+GLMWizard class>>#simpleExample [Glamour-Browsers]
+WarpBlt class>>#rotate:degrees:center:scaleBy:smoothing: [Graphics-Primitives]
+Object>>#spotterPreviewIn:inContext: [GT-Spotter]
+Object>>#deepCopy [Kernel]
+Object>>#gtInspectorPresentationsIn:inContext: [GT-Inspector]
+Object>>#spotterProcessorsFor: [GT-Spotter]
+Object>>#gtInspectorActions [GT-Inspector]
+AthensTreeView class>>#example1 [Athens-Examples]
+MethodModified class>>#gtExampleMethodModified [GT-InspectorExtensions-Core]
+BaseStreamTest class>>#isAbstract [Tests]
+InputWidget class>>#example2 [Spec-PolyWidgets]
+POP3Client class>>#example [Network-Protocols]
+DisplayScreen>>#fullscreen: [Graphics-Display Objects]
+SlReporter>>#notifyResponse: [ShoreLine-Report-Core]
+AthensDemoMorph class>>#example [Athens-Examples]
+OSWindow class>>#vmWindow [OSWindow-VM]
+EclipseUIThemeIcons class>>#isAbstract [Polymorph-Widgets]
+RBBrowserEnvironment class>>#default [Refactoring-Environment]
+TimeProfiler class>>#menuCommandOn: [Tool-Profilers]
+TextStyle>>#consolidate [Text-Core]
+Form>>#orderedDither32To16 [Graphics-Display Objects]
+Form>>#readFromOldFormat: [Graphics-Display Objects]
+Form>>#rotateBy:magnify:smoothing: [Graphics-Display Objects]
+Form>>#collectPixels: [Graphics-Display Objects]
+Form>>#readResourceFrom: [Graphics-Display Objects]
+Form>>#asGrayScale [Graphics-Display Objects]
+Form>>#eraseShape: [Graphics-Display Objects]
+Form>>#rectangleEnclosingPixelsNotOfColor: [Graphics-Display Objects]
+Form>>#scaledIntoFormOfSize: [Morphic-Base]
+Form>>#yTallyPixelValue:orNot: [Graphics-Display Objects]
+Form>>#smear:distance: [Graphics-Display Objects]
+Form>>#pageWarp:at:forward: [Graphics-Display Objects]
+Form>>#contentsOfArea:into: [Graphics-Display Objects]
+Form>>#convexShapeFill: [Graphics-Display Objects]
+Form>>#displayOnPort:at: [Graphics-Display Objects]
+Form>>#replaceColor:withColor: [Graphics-Display Objects]
+Form>>#privateFloodFillValue: [Graphics-Display Objects]
+Form>>#displayScaledOn: [Graphics-Display Objects]
+Form>>#copyBits:from:at:colorMap: [Graphics-Display Objects]
+Form>>#copy: [Graphics-Display Objects]
+Form>>#wipeImage:at:clippingBox:rectForIndex: [Graphics-Display Objects]
+Form>>#mapColors:to: [Graphics-Display Objects]
+Form>>#anyShapeFill [Graphics-Display Objects]
+Form>>#xTallyPixelValue:orNot: [Graphics-Display Objects]
+Form>>#slideImage:at:delta: [Graphics-Display Objects]
+Form>>#findShapeAroundSeedBlock: [Graphics-Display Objects]
+Form>>#mapColor:to: [Graphics-Display Objects]
+Form>>#allocateForm: [Graphics-Display Objects]
+Form>>#fadeImage:at:indexAndMaskDo: [Graphics-Display Objects]
+Form>>#colorReduced [Graphics-Display Objects]
+Form>>#asFormOfDepth: [Graphics-Display Objects]
+Form>>#makeBWForm: [Graphics-Display Objects]
+Form>>#fromDisplay: [Graphics-Display Objects]
+Form>>#asCursorForm [Graphics-Display Objects]
+RBBasicLintRuleTest class>>#modifiesCollection [Refactoring-Tests-Core]
+CheckBoxExample class>>#example [Spec-Examples]
+RBAddMethodChange>>#asUndoOperation [Refactoring-Changes]
+StandardFileStream>>#open:forWrite: [Files]
+FileSystem class>>#gtExampleZip [GT-InspectorExtensions-Core]
+WordArray>>#* [Collections-Arithmetic]
+WordArray>>#- [Collections-Arithmetic]
+WordArray>>#/ [Collections-Arithmetic]
+WordArray>>#+ [Collections-Arithmetic]
+Float class>>#fromIEEE32Bit: [Kernel]
+SimpleGridExample class>>#example [Morphic-Examples]
+Color class>>#gtExampleColorRed [GT-InspectorExtensions-Core]
+Color class>>#initializeIndexedColors [Graphics-Primitives]
+Color class>>#colorPaletteForDepth:extent: [Graphics-Primitives]
+Color class>>#colorFrom: [Graphics-Primitives]
+RBRefactoryDefinitionChange class>>#definition:for: [Refactoring-Changes]
+RxParser class>>#doHandlingMessageNotUnderstood: [Regex-Core]
+MCWorkingCopy class>>#hasPackageNamed: [Monticello]
+AbstractFont class>>#update: [Graphics-Fonts]
+Text>>#addAttribute:from:to: [Text-Core]
+MCModification>>#inverse [Monticello]
+ReadWriteStream>>#hash [Collections-Streams]
+ReadWriteStream>>#= [Collections-Streams]
+KeyedTree>>#postCopy [Collections-Unordered]
+KeyedTree>>#merge: [Collections-Unordered]
+KeyedTree>>#subtrees [Collections-Unordered]
+Bezier3Segment class>>#convertBezier3ToBezier2: [Balloon]
+TraitAlias>>#@ [Traits]
+GTInspectorTagFilter class>>#exampleBasicInspector [GT-Inspector]
+GTInspectorTagFilter class>>#exampleCustomInspector [GT-Inspector]
+GTInspectorTagFilter class>>#exampleFullInspector [GT-Inspector]
+GTInspectorTagFilter class>>#exampleExampleBrowser [GT-Inspector]
+RubSmalltalkEditor class>>#buildPatchShortcutsForDoItInWindowsOn: [Rubric]
+RubSmalltalkEditor class>>#buildShortcutsOn: [Rubric]
+StrikeFont class>>#limitTo16Bits [Graphics-Fonts]
+StrikeFont class>>#fromUser:allowKeyboard: [Graphics-Fonts]
+StrikeFont class>>#saveSpace [Graphics-Fonts]
+StrikeFont class>>#readStrikeFont2Family:fromDirectory: [Graphics-Fonts]
+ColorPresenterMorph class>>#example [Morphic-Widgets-ColorPicker]
+Association>>#tail [Morphic-Base]
+Association>>#isSelfEvaluating [Collections-Support]
+Association>>#head [Morphic-Base]
+CommandLineHandler>>#allHandlers [System-CommandLineHandler]
+HelpTopicListItemWrapper>>#contents [HelpSystem-Core]
+SequenceableCollection>>#hasEqualElements: [Collections-Abstract]
+SimpleTestResourceTestCase>>#testRunSuiteWithResource [SUnit-Tests]
+SmalltalkImage class>>#initialize [System-Support]
+GLMPagerPanePreviewMorph class>>#uniqueInstance [Glamour-Morphic-Pager]
+ByteArray>>#asByteArrayOfSize: [System-Hashing]
+ByteArray>>#isLiteral [Collections-Native]
+Symbol class>>#selectorsContaining: [Collections-Strings]
+Symbol class>>#possibleSelectorsFor: [Collections-Strings]
+Symbol class>>#initialize [Collections-Strings]
+MethodFinder>>#constLinear [Tool-Finder]
+MethodFinder>>#constUsingData1Value [Tool-Finder]
+MethodFinder>>#constMult [Tool-Finder]
+MethodFinder>>#constPlus [Tool-Finder]
+MethodFinder>>#constDiv [Tool-Finder]
+MethodFinder>>#constMod [Tool-Finder]
+MethodFinder>>#constEquiv [Tool-Finder]
+Text class>>#initialFont:stringOrText: [Text-Core]
+SDL2 class>>#checkForError [OSWindow-SDL2]
+SDL2 class>>#isAvailable [OSWindow-SDL2]
+String>>#decodeMimeHeader [Network-MIME]
+String>>#withInternetLineEndings [Collections-Strings]
+String>>#withSqueakLineEndings [Collections-Strings]
+String>>#asAlphaNumeric:extraChars:mergeUID: [Network-UUID]
+String>>#asComment [Collections-Strings]
+String>>#withBlanksCondensed [Collections-Strings]
+String>>#zipped [Compression]
+String>>#keywords [Collections-Strings]
+String>>#compare:with:collated: [Collections-Strings]
+String>>#padLeftTo:with: [Collections-Strings]
+String>>#asUncommentedCode [Collections-Strings]
+String>>#asOctetString [Collections-Strings]
+String>>#withUnixLineEndings [Collections-Strings]
+String>>#findTokens:escapedBy: [Collections-Strings]
+String>>#padRightTo:with: [Collections-Strings]
+String>>#convertToWithConverter: [Multilingual-TextConversion]
+String>>#transformSelectorForComparison [NautilusCommon]
+String>>#substrings: [Collections-Strings]
+String>>#wordBefore: [Collections-Strings]
+MCDefinition>>#= [Monticello]
+MCDefinition>>#isRevisionOf: [Monticello]
+HelpTopic class>>#gtExampleComposedTopic [GT-InspectorExtensions-Core]
+HelpTopic class>>#gtExampleSingleTopic [GT-InspectorExtensions-Core]
+InputEventFetcher class>>#default [System-VMEvents]

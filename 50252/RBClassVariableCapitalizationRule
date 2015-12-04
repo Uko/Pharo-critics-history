@@ -1,4 +1,4 @@
-CodeSimulationTests
-AthensCairoDefs class
-AthensCairoDefs
-TagMorphFactory
+CodeSimulationTests [KernelTests]
+AthensCairoDefs [Athens-CairoPools]
+AthensCairoDefs class [Athens-CairoPools]
+TagMorphFactory [Versionner-Spec-Browser]

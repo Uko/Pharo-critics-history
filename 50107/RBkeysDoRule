@@ -1,17 +1,17 @@
-MetacelloVersionSpec>>#resolveToLoadableSpecs:forLoad:map:
-PickListModel>>#initializePresenter
-TDictionaryCopyingTest>>#testDictionaryConcatenationWithCommonKeysDifferentValues
-MCFileTreeStCypressWriter>>#fileNameMapFor:
-MetacelloMCVersionSpecLoader>>#load
-MetacelloPlatform>>#useStackCacheDuring:defaultDictionary:
-TDictionaryEnumeratingTest>>#testValuesDo
-TDictionaryEnumeratingTest>>#testCollect
-TDictionaryEnumeratingTest>>#testKeysAndValuesDo
-TDictionaryEnumeratingTest>>#testKeysDo
-TDictionaryEnumeratingTest>>#testAssociationsDo
-TDictionaryEnumeratingTest>>#testSelect
-TDictionaryEnumeratingTest>>#testAssociationsSelect
-MCFileTreeStCypressWriter class>>#initializeSpecials
-MetacelloVersionValidator>>#validateProject:
-MetacelloVersionConstructor>>#prepareForMethodUpdate:sourceVersion:forceUpdate:generating:
-MetacelloMemberListSpec>>#do:
+MetacelloVersionSpec>>#resolveToLoadableSpecs:forLoad:map: [Metacello-Core]
+PickListModel>>#initializePresenter [Spec-PolyWidgets]
+TDictionaryCopyingTest>>#testDictionaryConcatenationWithCommonKeysDifferentValues [CollectionsTests]
+MCFileTreeStCypressWriter>>#fileNameMapFor: [MonticelloFileTree-Core]
+MetacelloMCVersionSpecLoader>>#load [Metacello-MC]
+MetacelloPlatform>>#useStackCacheDuring:defaultDictionary: [Metacello-Core]
+TDictionaryEnumeratingTest>>#testValuesDo [CollectionsTests]
+TDictionaryEnumeratingTest>>#testCollect [CollectionsTests]
+TDictionaryEnumeratingTest>>#testKeysAndValuesDo [CollectionsTests]
+TDictionaryEnumeratingTest>>#testKeysDo [CollectionsTests]
+TDictionaryEnumeratingTest>>#testAssociationsDo [CollectionsTests]
+TDictionaryEnumeratingTest>>#testSelect [CollectionsTests]
+TDictionaryEnumeratingTest>>#testAssociationsSelect [CollectionsTests]
+MCFileTreeStCypressWriter class>>#initializeSpecials [MonticelloFileTree-Core]
+MetacelloVersionValidator>>#validateProject: [Metacello-Core]
+MetacelloVersionConstructor>>#prepareForMethodUpdate:sourceVersion:forceUpdate:generating: [Metacello-Core]
+MetacelloMemberListSpec>>#do: [Metacello-Core]

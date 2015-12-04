@@ -1,1 +1,2 @@
-QANautilusPluginMorph>>#buildConfirmationCheckbox:
+RBPharoBootstrapRule>>#dependencyChecker [Refactoring-Critics]
+QANautilusPluginMorph>>#buildConfirmationCheckbox: [QualityAssistant]

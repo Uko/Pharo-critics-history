@@ -1,283 +1,282 @@
-SpecPragmaCollector class
-AthensStrokePaint
-SlReporter
-AJx64Assembler
-OCCleanBockTest
-GLMImplicitBrowser
-RBRefactoringTest
-KMCategoryTest
-FT2GlyphRenderer
-RubParagraphDecorator
-ZipFileMember
-PragmaMenuAndShortcutRegistrationItem
-TreeModel
-ListModel
-GLMInteractableBrick
-PharoChangesCondenser
-MockSocketStream
-AthensBalloonSurface
-MorphTest
-NBFFICallback
-NautilusUITest
-SlotClassVariableTest
-TxHighlightRendererTest
-KMTarget
-TxEditorDecorator
-ConfigurationGenerator
-LiteralVariableNode
-WindowModel
-StringTest
-FT2BitmapSize
-MBAbstractVersionInfo
-RubPluggableTextMorphExample
-MBConfigurationInfoTest
-ReEngine class
-AthensCairoTransform
-FreeTypeCacheTest
-TxWrappingMorph
-TxDeleteOperation
-SpecLayoutFrame
-ToggleMenuItemShortcut
-HookGenerator
-MBAbstractInfoList
-MCMergingTest
-GTSpotterCategoryBrick
-WeakAnnouncementSubscription
-CairoUTF8Converter
-StartupPreferencesHandler
-RBKeywordToken
-FileList
-RBIdentifierToken
-GLMTableColumn
-UnlimitedInstanceVariableSlot
-MenuMorph
-AthensTigerShape
-RubEncryptedDisplayScanner
-MTVersion
-RubColumnDisplayer
-RubScrolledTextModel
-VersionnerToolBox
-FTTableMorph
-MTDependency
-RxsLookaround
-StrikeFont
-AmbiguousSelector
-ChunkFileFormatParser
-WeakKeyDictionary
-AthensCairoCanvas
-AJCallInfo
-RPackageCompleteSetupButForModificationTest
-PluggableButtonMorph
-Workspace
-GLMUpdateAction
-DictionaryTest
-AthensParagraph
-NBFnSpecParserTest
-VSCommitProjectValidator
-PSMCClassChangeWrapper
-MCMockClassB class
-VSCommitProjectAction
-CategoryRenamed
-OrderedCollectionTest
-SlotExampleMovie
-GLMTreeMorphModel
-OCMockCompilationClass
-MCClassDefinitionTest
-RBLintRuleTest
-GIFReadWriter
-SugsMockContext
-GLMPagerScrollBrick
-ProcessorScheduler
-NativeCodeTests
-OCSourceCode2BytecodeTest
-FloatArrayTest
-RPackageOrganizerTest
-GLMMorphicActionListRenderer
-LazyTabGroupMorph
-MetacelloGoferPackage
-AbstractNautilusUI
-AthensEllipticalArcSegment
-GLMExpander
-MCMockASubclass
-GLMMorphicMorphRenderer
-GLMMorphBrick
-AthensPathSegmentConverter
-FLAnalyzer
-SugsMockContext class
-KMShortcutSetting
-IdentityBagTest
-AbstractNautilusUITest
-TxAthensCursor
-MBInfo
-StackFilter
-GLMTransmissionTriggered
-ProcessSpecificVariable class
-GTSpotterCandidatesListProcessor
-MTPlatform
-TxAthensNoWrapStrategy
-InspectorNavigator
-NBFFICalloutTests
-AthensCairoPaintMode
-NewVersionBrowser
-MBBaselineInfoTest
-OCBytecodeGeneratorTest
-PackageWidget
-TextInputFieldModel
-VersionnerProjectPanel
-DebugActionExecuted
-GLMWizard
-MatrixTest
-GLMTextualPresentation
-RubTextSegmentIconBox
-DateAndTimeLeapTest
-ImageModel
-NBNativeFunction
-SlotExamplePerson
-LinkWrapper
-RBAbstractClassRule
-FT2GlyphSlot
-AthensTextScanner
-SystemReporter
-ZipArchiveTest
-AthensGenericTransform
-OSSDL2GLRenderer
-NBFFICalloutIndirectArgumentTests
-DebugContext
-SystemProgressItemMorph
-LinkedListTest
-FLBlockClosureSerializationTest class
-CharacterScanner
-GTSnippets
-IRBuilderTest
-FilterTest
-StartupAction
-DictionaryTest class
-SliderModel
-CairoFontMetricsProvider
-ClassCommented
-KMDispatcher
-HeapTest
-SimpleHierarchicalListMorph class
-BlockNode
-FBDDecompilerTest
-NOCModel
-KMDescription
-NBNativeFunctionGen
-EyeInspector class
-TextMethodLink
-GTSpotterHeaderBrick
-HandMorph
-RBSmalllintTestObject
-MorphicWindowAdapter
-TabWithNoContents
-AthensSimpleTreeNode
-BagTest
-DynamicMessageImplementorTest
-NBCPrinter class
-IntervalTest
-CurveWorkshop
-KMPragmaKeymapBuilder
-InstVarRefLocatorTest
-JobProgressMorph
-GTPlayPage
-DisplayScanner
-RubMethodEditingExample
-IconicButton
-RubTextMethodLink
-NECTestClass
-SplitJoinTest
-FinderUI class
-GLMBrickTests
-PluggableTextMorph
-GlamourousBenchmark
-AJCallArgument
-Locale
-StackTest class
-GLMMorphicValidatorPaneRenderer
-TxAthensLayoutTest
-AJData
-VTermOutputDriver
-AJx86InstructionDescription class
-GLMTreeMorphNodeModel
-FreeTypeFontProvider
-VTermOutputDriver class
-MBProjectInfo
-RxmLookahaed
-AJOperand
-VSUnloadUnit
-BMPReadWriter
-WarpBlt
-TraitsResource
-GLMStringBrick
-TxContextMenuAnnouncement
-AJx86Assembler
-MCFileTreeAbstractStWriter
-NewListAdapter
-TheManifestBuilder
-RBRefactoryTestDataApp
-MCTool
-AnnotationRequest
-AthensDemoMorph
-OSWindowDropEvent
-MetacelloAbstractVersionConstructor
-AthensBalloonPath
-MCMockClassA
-GLMMorphicWatcherRenderer
-RPackageTraitTest
-FT2Version
-CairoFontFace
-JPEGReadWriter
-MBConfigurationInfo
-AthensCairoStrokePaint
-ConfigurationCommandLineHandler
-DebugAction
-GradientPaint
-AJImmediate
-AthensPathConverter
-RBFooLintRuleTest
-GLMMorphicPaneWithoutTitleRenderer
-MCMockClassB
-FontChooser
-MCSnapshotTest
-FTEasyListDataSource
-Nautilus
-PharoClassInstaller
-RubWorkspaceExample
-RubDisplayScanner
-NativeBoost
-FT2Outline
-Encoder
-SmalltalkImage
-DateTest
-MorphicCoreUIManager
-AJReserveTemp
-MCRepositoryTest
-MBPackageInfoTest
-NECTestSuperClass
-RBClassToRename
-SpecDebugger
-MenuRegistration
-ArrayTest
-AuthorTest
-AthensCairoPDFSurface
-GLMTestPane
-MorphHandlingMiddleButton
-CairoFreetypeFontRenderer
-MorphicTabManagerAdapter
-TxTextRenderer
-RPackageReadOnlyCompleteSetupTest
-AthensCurveFlattener
-RubPluggableTextMorph
-FT2Face
-VersionnerToolBoxTest
-AJMem
-GrowlMorph
-GLMPagerScrollSlidingBrick
-GLMAnimation
-AthensCairoSurface
-GLMPaginatedMorphTreeMorph
-AthensCairoPatternSurfacePaint
-RubSurfaceSelectionShape
-CairoScaledFont
-MockForCompilation
-RBClassToRename class
+SplitJoinTest [CollectionsTests]
+GLMStringBrick [Glamour-Morphic-Brick]
+GTSpotterCategoryBrick [GT-Spotter]
+PharoChangesCondenser [System-Sources]
+CharacterScanner [Text-Scanning]
+KMTarget [Keymapping-Core]
+MBProjectInfo [Versionner-Core-Model]
+AthensCairoPaintMode [Athens-Cairo]
+AJCallArgument [AsmJit-StackManagement]
+SugsMockContext [SmartSuggestions-Tests]
+GLMTreeMorphNodeModel [Glamour-Morphic-Widgets]
+AJMem [AsmJit-Operands]
+RPackageTraitTest [RPackage-Tests]
+WeakKeyDictionary [Collections-Weak]
+KMPragmaKeymapBuilder [Keymapping-Pragmas]
+TreeModel [Spec-Core]
+RxsLookaround [Regex-Core]
+KMDispatcher [Keymapping-Core]
+NBFnSpecParserTest [NativeBoost-Tests]
+DebugAction [DebuggerActions]
+RubColumnDisplayer [Rubric]
+MCMergingTest [Monticello-Tests]
+HookGenerator [Reflectivity]
+PharoClassInstaller [Slot]
+AnnotationRequest [NautilusCommon]
+RBRefactoryTestDataApp [Refactoring-Tests-Core]
+KMDescription [Keymapping-Tools-Spec]
+GLMMorphicWatcherRenderer [Glamour-Morphic-Renderer]
+CairoUTF8Converter [Athens-Cairo]
+ImageModel [Spec-Core]
+ClassCommented [System-Announcements]
+LazyTabGroupMorph [Glamour-Morphic-Widgets]
+CairoFontFace [Athens-Cairo]
+OCBytecodeGeneratorTest [OpalCompiler-Tests]
+KMCategoryTest [Keymapping-Tests]
+MetacelloGoferPackage [Metacello-MC]
+GLMMorphicActionListRenderer [Glamour-Morphic-Renderer]
+AthensDemoMorph [Athens-Examples]
+AJOperand [AsmJit-Operands]
+AthensTigerShape [Athens-Examples]
+FloatArrayTest [CollectionsTests]
+RubEncryptedDisplayScanner [Rubric]
+VSUnloadUnit [Versionner-Commit]
+GLMTableColumn [Glamour-Presentations]
+MCMockClassB class [MonticelloMocks]
+GTSpotterCandidatesListProcessor [GT-Spotter]
+WarpBlt [Graphics-Primitives]
+RubMethodEditingExample [Rubric]
+FinderUI class [Tool-Finder]
+AJImmediate [AsmJit-Operands]
+FT2BitmapSize [FreeType]
+GLMTreeMorphModel [Glamour-Morphic-Widgets]
+CurveWorkshop [Athens-Examples]
+WindowModel [Spec-Core]
+ReEngine class [Renraku]
+GLMImplicitBrowser [Glamour-Core]
+Locale [System-Localization]
+AthensCairoSurface [Athens-Cairo]
+MBBaselineInfoTest [Versionner-Tests-Core-Model]
+AmbiguousSelector [Compiler]
+GLMMorphBrick [Glamour-Morphic-Brick]
+MTDependency [Versionner-Core-DependenciesModel]
+LinkedListTest [CollectionsTests]
+NBFFICallback [NativeBoost-Core]
+MetacelloAbstractVersionConstructor [Metacello-Core]
+OCSourceCode2BytecodeTest [OpalCompiler-Tests]
+TextMethodLink [Text-Core]
+FT2Face [FreeType]
+MBAbstractVersionInfo [Versionner-Core-Model]
+GTPlayPage [GT-Playground]
+FileList [Tool-FileList]
+BMPReadWriter [Graphics-Files]
+FontChooser [FontChooser]
+OSWindowDropEvent [OSWindow-Core]
+FilterTest [Debugger-Tests]
+IconicButton [Morphic-Widgets-Basic]
+AJx86Assembler [AsmJit-x86]
+FT2GlyphSlot [FreeType]
+Workspace [Tool-Workspace]
+MCMockClassA [MonticelloMocks]
+ConfigurationCommandLineHandler [ConfigurationCommandLineHandler-Core]
+MCSnapshotTest [Monticello-Tests]
+MorphTest [MorphicTests]
+SlReporter [ShoreLine-Report-Core]
+AthensCairoStrokePaint [Athens-Cairo]
+TraitsResource [Tests]
+RubPluggableTextMorph [Rubric]
+CategoryRenamed [System-Announcements]
+PSMCClassChangeWrapper [Tool-Diff]
+AthensPathSegmentConverter [Athens-Core]
+UnlimitedInstanceVariableSlot [Slot]
+BagTest [CollectionsTests]
+DictionaryTest class [CollectionsTests]
+GLMAnimation [Glamour-Morphic-Brick]
+RubParagraphDecorator [Rubric]
+AthensTextScanner [Athens-Text]
+VersionnerProjectPanel [Versionner-Spec-Browser]
+RPackageReadOnlyCompleteSetupTest [RPackage-Tests]
+MCRepositoryTest [Monticello-Tests]
+ChunkFileFormatParser [CodeImport]
+IntervalTest [CollectionsTests]
+TxAthensNoWrapStrategy [TxText-Athens]
+AthensEllipticalArcSegment [Athens-Core]
+GLMBrickTests [Glamour-Morphic-Brick-Tests]
+HandMorph [Morphic-Core]
+GLMMorphicValidatorPaneRenderer [Glamour-Morphic-Renderer]
+AthensCairoPDFSurface [Athens-Cairo]
+VTermOutputDriver class [System-CommandLine]
+NautilusUITest [Nautilus-Tests]
+SimpleHierarchicalListMorph class [Morphic-Widgets-List]
+JPEGReadWriter [Graphics-Files]
+GrowlMorph [Growl]
+NativeCodeTests [NativeBoost-Tests]
+CairoFreetypeFontRenderer [Athens-Cairo]
+AthensCairoCanvas [Athens-Cairo]
+MBPackageInfoTest [Versionner-Tests-Core-Model]
+MTPlatform [Versionner-Core-DependenciesModel]
+MCFileTreeAbstractStWriter [MonticelloFileTree-Core]
+AthensStrokePaint [Athens-Core]
+GLMUpdateAction [Glamour-Core]
+ZipFileMember [Compression]
+CairoScaledFont [Athens-Cairo]
+TxAthensLayoutTest [TxText-AthensTests]
+RPackageCompleteSetupButForModificationTest [RPackage-Tests]
+PragmaMenuAndShortcutRegistrationItem [MenuRegistration]
+AJReserveTemp [AsmJit-StackManagement]
+FTTableMorph [Morphic-Widgets-FastTable]
+EyeInspector class [Spec-Inspector]
+StrikeFont [Graphics-Fonts]
+OrderedCollectionTest [CollectionsTests]
+Nautilus [Nautilus]
+MorphicTabManagerAdapter [Spec-MorphicAdapters]
+DisplayScanner [Text-Scanning]
+RxmLookahaed [Regex-Core]
+MCMockASubclass [MonticelloMocks]
+JobProgressMorph [Morphic-Base]
+SpecDebugger [Spec-Debugger]
+GradientPaint [Athens-Core]
+DynamicMessageImplementorTest [Tools-Test]
+AbstractNautilusUI [Nautilus]
+MorphHandlingMiddleButton [SUnit-UITesting]
+FT2GlyphRenderer [Athens-Balloon]
+MTVersion [Versionner-Core-DependenciesModel]
+AJx86InstructionDescription class [AsmJit-x86]
+NBNativeFunctionGen [NativeBoost-Core]
+StringTest [CollectionsTests]
+MenuMorph [Morphic-Base]
+SpecLayoutFrame [Spec-Core]
+GLMWizard [Glamour-Browsers]
+RBLintRuleTest [Refactoring-Tests-Core]
+MCTool [MonticelloGUI]
+DictionaryTest [CollectionsTests]
+FBDDecompilerTest [Flashback-Decompiler-Tests]
+DebugActionExecuted [DebuggerActions]
+GLMPaginatedMorphTreeMorph [Glamour-Morphic-Widgets]
+RBSmalllintTestObject [Refactoring-Tests-Critics]
+OCCleanBockTest [OpalCompiler-Tests]
+DebugContext [DebuggerModel]
+AJx64Assembler [AsmJit-x86]
+AthensSimpleTreeNode [Athens-Examples]
+MCMockClassB [MonticelloMocks]
+TxContextMenuAnnouncement [TxText-Athens]
+ConfigurationGenerator [Spec-Tools]
+VersionnerToolBoxTest [Versionner-Tests-Core-DependenciesModel]
+SliderModel [Spec-Core]
+RubDisplayScanner [Rubric]
+FreeTypeFontProvider [FreeType]
+RBFooLintRuleTest [Refactoring-Tests-Core]
+Encoder [Compiler]
+MorphicCoreUIManager [Morphic-Core]
+RubTextSegmentIconBox [Rubric]
+VTermOutputDriver [System-CommandLine]
+NewListAdapter [Morphic-Widgets-NewList]
+PluggableButtonMorph [Morphic-Widgets-Basic]
+TxTextRenderer [TxText-Athens]
+VSCommitProjectValidator [Versionner-Commit]
+NativeBoost [NativeBoost-Core]
+GLMTextualPresentation [Glamour-Presentations]
+SlotClassVariableTest [Slot-Tests]
+AthensBalloonSurface [Athens-Balloon]
+OSSDL2GLRenderer [OSWindow-SDL2]
+NBNativeFunction [NativeBoost-Core]
+MenuRegistration [MenuRegistration]
+RBClassToRename [Refactoring-Tests-Core]
+IRBuilderTest [OpalCompiler-Tests]
+DateTest [KernelTests]
+NBFFICalloutIndirectArgumentTests [NativeBoost-Tests]
+SpecPragmaCollector class [Spec-Core]
+StartupAction [StartupPreferences]
+MockSocketStream [NetworkTests]
+AJData [AsmJit-Instructions]
+GTSpotterHeaderBrick [GT-Spotter]
+TxHighlightRendererTest [TxText-AthensTests]
+DateAndTimeLeapTest [KernelTests]
+PluggableTextMorph [Morphic-Widgets-Pluggable]
+ArrayTest [CollectionsTests]
+AthensCurveFlattener [Athens-Core]
+BlockNode [Compiler]
+FTEasyListDataSource [Morphic-Widgets-FastTable]
+RubTextMethodLink [Rubric]
+SystemReporter [Tool-SystemReporter]
+AthensGenericTransform [Athens-Core]
+MBConfigurationInfo [Versionner-Core-Model]
+MBInfo [Versionner-Core-Model]
+TxEditorDecorator [TxText-Athens]
+KMShortcutSetting [Keymapping-Settings]
+FLAnalyzer [Fuel]
+RBClassToRename class [Refactoring-Tests-Core]
+GIFReadWriter [Graphics-Files]
+GLMPagerScrollBrick [Glamour-Morphic-Pager]
+TxWrappingMorph [TxText-Athens]
+StartupPreferencesHandler [StartupPreferences]
+TxAthensCursor [TxText-Athens]
+AthensParagraph [Athens-Morphic]
+GLMPagerScrollSlidingBrick [Glamour-Morphic-Pager]
+AthensCairoTransform [Athens-Cairo]
+RubScrolledTextModel [Rubric]
+WeakAnnouncementSubscription [Announcements-Core]
+StackTest class [CollectionsTests]
+GLMTestPane [Glamour-Tests-Core]
+VersionnerToolBox [Versionner-Core-DependenciesModel]
+SmalltalkImage [System-Support]
+GlamourousBenchmark [Glamour-Tests-Core]
+RBIdentifierToken [AST-Core]
+AbstractNautilusUITest [Nautilus-Tests]
+RBKeywordToken [AST-Core]
+TabWithNoContents [Morphic-Widgets-Tabs]
+ZipArchiveTest [CompressionTests]
+RPackageOrganizerTest [RPackage-Tests]
+FreeTypeCacheTest [FreeTypeTests]
+GTSnippets [GT-Inspector]
+InspectorNavigator [Spec-Inspector]
+MockForCompilation [OpalCompiler-Tests]
+GLMMorphicPaneWithoutTitleRenderer [Glamour-Morphic-Renderer]
+RubSurfaceSelectionShape [Rubric]
+PackageWidget [Nautilus]
+RubWorkspaceExample [Rubric]
+AJCallInfo [AsmJit-StackManagement]
+AuthorTest [Tests]
+MorphicWindowAdapter [Spec-MorphicAdapters]
+HeapTest [CollectionsTests]
+RBRefactoringTest [Refactoring-Tests-Core]
+SugsMockContext class [SmartSuggestions-Tests]
+NECTestSuperClass [NECompletion-Tests]
+AthensBalloonPath [Athens-Balloon]
+LiteralVariableNode [Compiler]
+MBAbstractInfoList [Versionner-Core-Model]
+SystemProgressItemMorph [Morphic-Base]
+GLMMorphicMorphRenderer [Glamour-Morphic-Renderer]
+SlotExamplePerson [Slot-Tests]
+ListModel [Spec-Core]
+ToggleMenuItemShortcut [Morphic-Base]
+VSCommitProjectAction [Versionner-Commit]
+MBConfigurationInfoTest [Versionner-Tests-Core-Model]
+MCClassDefinitionTest [Monticello-Tests]
+FT2Version [FreeType]
+IdentityBagTest [CollectionsTests]
+GLMInteractableBrick [Glamour-Morphic-Brick]
+GLMTransmissionTriggered [Glamour-Announcements]
+StackFilter [DebuggerFilters]
+AthensCairoPatternSurfacePaint [Athens-Cairo]
+OCMockCompilationClass [OpalCompiler-Tests]
+NECTestClass [NECompletion-Tests]
+NBFFICalloutTests [NativeBoost-Tests]
+TextInputFieldModel [Spec-Core]
+ProcessorScheduler [Kernel]
+FLBlockClosureSerializationTest class [FuelTests]
+AthensPathConverter [Athens-Core]
+NOCModel [NECompletion]
+NewVersionBrowser [Spec-Tools]
+InstVarRefLocatorTest [KernelTests]
+ProcessSpecificVariable class [Kernel]
+RubPluggableTextMorphExample [Rubric]
+SlotExampleMovie [Slot-Tests]
+FT2Outline [FreeType]
+TxDeleteOperation [TxText-Athens]
+MatrixTest [CollectionsTests]
+GLMExpander [Glamour-Browsers]
+LinkWrapper [Reflectivity]
+NBCPrinter class [NativeBoost-Examples]
+TheManifestBuilder [Manifest-Core]
+CairoFontMetricsProvider [Athens-Cairo]

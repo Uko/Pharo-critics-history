@@ -1,6 +1,6 @@
-GB2312 class
-Latin1 class
-JISX0208 class
-EncodedCharSet class
-KSX1001 class
-ZnSingleThreadedServer class
+JISX0208 class [Multilingual-OtherLanguages]
+ZnSingleThreadedServer class [Zinc-HTTP]
+GB2312 class [Multilingual-OtherLanguages]
+EncodedCharSet class [Multilingual-Encodings]
+Latin1 class [Multilingual-Encodings]
+KSX1001 class [Multilingual-OtherLanguages]

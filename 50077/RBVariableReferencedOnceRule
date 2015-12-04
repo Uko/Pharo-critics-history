@@ -1,118 +1,119 @@
-CairoFontFace>>#initializeWithFreetypeFace:
-AmbiguousSelector>>#setName:range:
-AthensTextRenderer>>#setCurrentFont:
-AthensTextRenderer>>#render:lines:on:
-AndreasSystemProfiler>>#startProfiling
-AndreasSystemProfiler>>#runProfilerProcess
-MCMczInstallerTest>>#assertNoChange
-DictionaryTest>>#setUp
-RBSmalllintTestObject>>#variableAssignedLiteral
-FontChooser>>#fontStyleList
-RBRefactoryTestDataApp>>#variableAssignedLiteral
-AthensBalloonSurface>>#form:
-MockSocketStream>>#atEnd:
-TraitFileOutTest>>#setUp
-TabWithNoContents>>#tab:
-NBCPrinter class>>#initialize
-AJCallArgument>>#stackOffset:
-FilterTest>>#setUp
-RubParagraphDecorator>>#handleDrawingOnAthensCanvas:bounds:
-JobProgressMorph>>#max:
-AthensBalloonPath>>#convertFromBuilder:
-TxTextRenderer>>#render:lines:on:
-SystemProgressItemMorph>>#max:
-ArrayTest>>#setUp
-FloatArrayTest>>#setUp
-RPackageReadOnlyCompleteSetupTest>>#setUp
-AthensStrokePaint>>#miterLimit:
-RxmLookahaed>>#initialize
-PragmaMenuAndShortcutRegistrationItem>>#precondition:
-FileList>>#fileEncoding:
-IntervalTest>>#setUp
-HookGenerator>>#hook
-NewListAdapter>>#initialize
-GLMMorphicWizardRenderer>>#render:
-SliderModel>>#initialize
-OCDecompilerConstructor>>#codeMethod:block:tempVars:primitive:class:
-OCDecompilerConstructor>>#method:class:literals:
-KMPragmaKeymapBuilder>>#initialize
-SortedCollectionTest>>#setUp
-ClassCommented>>#oldStamp:
-TimespanDoSpanAYearTest>>#setUp
-MetacelloAbstractVersionConstructor>>#evaluatePragma:
-MBAddConfigurationCommandTest>>#testExecute
-MCSnapshotTest>>#setUp
-RPackageCompleteSetupButForModificationTest>>#setUp
-MTDependencyTest>>#setUp
-VersionnerProjectPanel>>#config:
-NativeBoost>>#extraRootsRegistry
-NBFFICallback>>#initialize
-AbstractNautilusUI>>#setCachedHierarchyClass:
-TxAthensCursor>>#initialize
-AbstractNautilusUITest>>#setUp
-VersionnerToolBox>>#initialize
-GLMPagerScrollBrick>>#initialize
-KMShortcutSetting>>#action:
-ScrollBar>>#resetTimer
-MCFileTreeAbstractStWriter>>#initialize
-ClassRenameFixTest>>#renameClassUsing:
-DebugActionExecuted>>#actionId:
-WeakAnnouncementSubscription>>#initialize
-GLMSystemWindow>>#toolbarBox:
-ProgressBarMorph>>#initialize
-GLMMorphicWrapperRenderer>>#render:
-DateTest>>#setUp
-AthensCairoPatternSurfacePaint>>#direction:
-PharoClassInstaller>>#migrateClasses:to:using:
-NativeBoostWin32>>#initializeExternalHeap
-AthensWrapWorldMorph>>#initialize
-FLFuelCommandLineHandler>>#manageFiles
-AsyncFile>>#open:forWrite:
-AthensGenericTransform>>#loadIdentity
-GTPlayPage>>#publish
-JPEGReadWriter>>#parseAPPn
-JPEGReadWriter>>#parseStartOfFile
-JPEGReadWriter>>#parseStartOfScan
-AthensTigerShape>>#joinStyle:
-AthensTigerShape>>#strokeWidth:
-AthensTigerShape>>#capStyle:
-AthensTigerShape>>#miterLimit:
-NECTestClass>>#initialize:
-AJMem>>#hasLabel:
-MorphicWindowAdapter>>#initialize
-NBNativeFunction>>#initializeWithCode:fnSpec:
-GLMAnimation>>#reset
-CharacterScanner>>#setActualFont:
-BMPReadWriter>>#readHeader
-JobProgressBarMorph>>#initialize
-FLAnalyzer>>#initialize
-AthensPathConverter>>#source:dest:
-GLMPagerPanePreviewMorph>>#updateFor:
-WindowModel>>#initialize
-CairoFontMetricsProvider>>#font:
-CairoFontMetricsProvider>>#initialize
-GLMMorphicSingleSpotter>>#newListMorph
-StringTest>>#setUp
-EllipseMidpointTracer>>#on:
-PluggableTreeMorph>>#setSelectedMorph:
-GrowlMorph>>#initialize
-RBRenameTemporaryRefactoring>>#transform
-CairoFreetypeFontRenderer>>#font:
-CairoFreetypeFontRenderer>>#initialize
-FreeTypeFileInfoAbstract>>#extractAttributesFromNames
-JPEGColorComponent>>#mcuWidth:mcuHeight:dctSize:
-LinkWrapper>>#setClass:
-GLMPagerScrollSlidingBrick>>#mouseDown:
-KMDispatchChain>>#dispatcher:
-MouseClickState>>#handleEvent:from:
-GLMBrickTests>>#setUp
-HeapTest>>#setUp
-TraitsResource>>#setUp
-GLMMorphicValidatorRenderer>>#render:
-AthensParagraph>>#selectionStart:selectionStop:
-AthensParagraph>>#positionWhenComposed:
-AthensCairoPaintMode>>#canvas:
-AthensCairoTransform>>#canvas:
-NECTestSuperClass>>#initialize
-MTDevelopmentWorkfowTestWithXMLParser>>#setUp
-CairoScaledFont>>#initWithFace:
+CairoFontFace>>#initializeWithFreetypeFace: [Athens-Cairo]
+RBPharoBootstrapRule>>#assertNoNewExternalDependency [Refactoring-Critics]
+AmbiguousSelector>>#setName:range: [Compiler]
+AthensTextRenderer>>#setCurrentFont: [Athens-Text]
+AthensTextRenderer>>#render:lines:on: [Athens-Text]
+AndreasSystemProfiler>>#startProfiling [Tool-Profilers]
+AndreasSystemProfiler>>#runProfilerProcess [Tool-Profilers]
+MCMczInstallerTest>>#assertNoChange [Monticello-Tests]
+DictionaryTest>>#setUp [CollectionsTests]
+RBSmalllintTestObject>>#variableAssignedLiteral [Refactoring-Tests-Critics]
+FontChooser>>#fontStyleList [FontChooser]
+RBRefactoryTestDataApp>>#variableAssignedLiteral [Refactoring-Tests-Core]
+AthensBalloonSurface>>#form: [Athens-Balloon]
+MockSocketStream>>#atEnd: [NetworkTests]
+TraitFileOutTest>>#setUp [Tests]
+TabWithNoContents>>#tab: [Morphic-Widgets-Tabs]
+NBCPrinter class>>#initialize [NativeBoost-Examples]
+AJCallArgument>>#stackOffset: [AsmJit-StackManagement]
+FilterTest>>#setUp [Debugger-Tests]
+RubParagraphDecorator>>#handleDrawingOnAthensCanvas:bounds: [Rubric]
+JobProgressMorph>>#max: [Morphic-Base]
+AthensBalloonPath>>#convertFromBuilder: [Athens-Balloon]
+TxTextRenderer>>#render:lines:on: [TxText-Athens]
+SystemProgressItemMorph>>#max: [Morphic-Base]
+ArrayTest>>#setUp [CollectionsTests]
+FloatArrayTest>>#setUp [CollectionsTests]
+RPackageReadOnlyCompleteSetupTest>>#setUp [RPackage-Tests]
+AthensStrokePaint>>#miterLimit: [Athens-Core]
+RxmLookahaed>>#initialize [Regex-Core]
+PragmaMenuAndShortcutRegistrationItem>>#precondition: [MenuRegistration]
+FileList>>#fileEncoding: [Tool-FileList]
+IntervalTest>>#setUp [CollectionsTests]
+HookGenerator>>#hook [Reflectivity]
+NewListAdapter>>#initialize [Morphic-Widgets-NewList]
+GLMMorphicWizardRenderer>>#render: [Glamour-Morphic-Renderer]
+SliderModel>>#initialize [Spec-Core]
+OCDecompilerConstructor>>#codeMethod:block:tempVars:primitive:class: [OpalDecompiler]
+OCDecompilerConstructor>>#method:class:literals: [OpalDecompiler]
+KMPragmaKeymapBuilder>>#initialize [Keymapping-Pragmas]
+SortedCollectionTest>>#setUp [CollectionsTests]
+ClassCommented>>#oldStamp: [System-Announcements]
+TimespanDoSpanAYearTest>>#setUp [KernelTests]
+MetacelloAbstractVersionConstructor>>#evaluatePragma: [Metacello-Core]
+MBAddConfigurationCommandTest>>#testExecute [Versionner-Tests-Core-Commands]
+MCSnapshotTest>>#setUp [Monticello-Tests]
+RPackageCompleteSetupButForModificationTest>>#setUp [RPackage-Tests]
+MTDependencyTest>>#setUp [Versionner-Tests-Core-DependenciesModel]
+VersionnerProjectPanel>>#config: [Versionner-Spec-Browser]
+NativeBoost>>#extraRootsRegistry [NativeBoost-Core]
+NBFFICallback>>#initialize [NativeBoost-Core]
+AbstractNautilusUI>>#setCachedHierarchyClass: [Nautilus]
+TxAthensCursor>>#initialize [TxText-Athens]
+AbstractNautilusUITest>>#setUp [Nautilus-Tests]
+VersionnerToolBox>>#initialize [Versionner-Core-DependenciesModel]
+GLMPagerScrollBrick>>#initialize [Glamour-Morphic-Pager]
+KMShortcutSetting>>#action: [Keymapping-Settings]
+ScrollBar>>#resetTimer [Morphic-Widgets-Scrolling]
+MCFileTreeAbstractStWriter>>#initialize [MonticelloFileTree-Core]
+ClassRenameFixTest>>#renameClassUsing: [Tests]
+DebugActionExecuted>>#actionId: [DebuggerActions]
+WeakAnnouncementSubscription>>#initialize [Announcements-Core]
+GLMSystemWindow>>#toolbarBox: [Glamour-Morphic-Widgets]
+ProgressBarMorph>>#initialize [Morphic-Base]
+GLMMorphicWrapperRenderer>>#render: [Glamour-Morphic-Renderer]
+DateTest>>#setUp [KernelTests]
+AthensCairoPatternSurfacePaint>>#direction: [Athens-Cairo]
+PharoClassInstaller>>#migrateClasses:to:using: [Slot]
+NativeBoostWin32>>#initializeExternalHeap [NativeBoost-Win32]
+AthensWrapWorldMorph>>#initialize [Athens-Morphic]
+FLFuelCommandLineHandler>>#manageFiles [FuelCommandLineHandler]
+AsyncFile>>#open:forWrite: [Files]
+AthensGenericTransform>>#loadIdentity [Athens-Core]
+GTPlayPage>>#publish [GT-Playground]
+JPEGReadWriter>>#parseAPPn [Graphics-Files]
+JPEGReadWriter>>#parseStartOfFile [Graphics-Files]
+JPEGReadWriter>>#parseStartOfScan [Graphics-Files]
+AthensTigerShape>>#joinStyle: [Athens-Examples]
+AthensTigerShape>>#strokeWidth: [Athens-Examples]
+AthensTigerShape>>#capStyle: [Athens-Examples]
+AthensTigerShape>>#miterLimit: [Athens-Examples]
+NECTestClass>>#initialize: [NECompletion-Tests]
+AJMem>>#hasLabel: [AsmJit-Operands]
+MorphicWindowAdapter>>#initialize [Spec-MorphicAdapters]
+NBNativeFunction>>#initializeWithCode:fnSpec: [NativeBoost-Core]
+GLMAnimation>>#reset [Glamour-Morphic-Brick]
+CharacterScanner>>#setActualFont: [Text-Scanning]
+BMPReadWriter>>#readHeader [Graphics-Files]
+JobProgressBarMorph>>#initialize [Morphic-Base]
+FLAnalyzer>>#initialize [Fuel]
+AthensPathConverter>>#source:dest: [Athens-Core]
+GLMPagerPanePreviewMorph>>#updateFor: [Glamour-Morphic-Pager]
+WindowModel>>#initialize [Spec-Core]
+CairoFontMetricsProvider>>#font: [Athens-Cairo]
+CairoFontMetricsProvider>>#initialize [Athens-Cairo]
+GLMMorphicSingleSpotter>>#newListMorph [Glamour-Morphic-Renderer]
+StringTest>>#setUp [CollectionsTests]
+EllipseMidpointTracer>>#on: [Graphics-Primitives]
+PluggableTreeMorph>>#setSelectedMorph: [Morphic-Widgets-Pluggable]
+GrowlMorph>>#initialize [Growl]
+RBRenameTemporaryRefactoring>>#transform [Refactoring-Core]
+CairoFreetypeFontRenderer>>#font: [Athens-Cairo]
+CairoFreetypeFontRenderer>>#initialize [Athens-Cairo]
+FreeTypeFileInfoAbstract>>#extractAttributesFromNames [FreeType]
+JPEGColorComponent>>#mcuWidth:mcuHeight:dctSize: [Graphics-Files]
+LinkWrapper>>#setClass: [Reflectivity]
+GLMPagerScrollSlidingBrick>>#mouseDown: [Glamour-Morphic-Pager]
+KMDispatchChain>>#dispatcher: [Keymapping-Core]
+MouseClickState>>#handleEvent:from: [Morphic-Base]
+GLMBrickTests>>#setUp [Glamour-Morphic-Brick-Tests]
+HeapTest>>#setUp [CollectionsTests]
+TraitsResource>>#setUp [Tests]
+GLMMorphicValidatorRenderer>>#render: [Glamour-Morphic-Renderer]
+AthensParagraph>>#selectionStart:selectionStop: [Athens-Morphic]
+AthensParagraph>>#positionWhenComposed: [Athens-Morphic]
+AthensCairoPaintMode>>#canvas: [Athens-Cairo]
+AthensCairoTransform>>#canvas: [Athens-Cairo]
+NECTestSuperClass>>#initialize [NECompletion-Tests]
+MTDevelopmentWorkfowTestWithXMLParser>>#setUp [Versionner-Tests-Core-DependenciesModel]
+CairoScaledFont>>#initWithFace: [Athens-Cairo]

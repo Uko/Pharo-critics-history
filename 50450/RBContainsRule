@@ -1,49 +1,49 @@
-RBSmalllintTestObject>>#contains
-RBRefactoryTestDataApp>>#contains
-RBMoveVariableDefinitionRefactoring>>#checkNodes:
-ImageReadWriter class>>#readerClassFromStream:
-RBCompositeLintRuleTest>>#isEmpty
-RBCompositeLintRuleTest>>#hasConflicts
-MBConfigurationInfo>>#recalculateIfInterestedInConfigurationInfo:for:
-GoferMetacelloLoad>>#configurationReference
-FLDecoder>>#classNamed:
-RBVariableEnvironment>>#includesClass:
-MessageBrowser>>#sourceIntervalOf:in:
-RBVariableTypeTest>>#testBasicLintRuleTypes
-MCSnapshotBrowser>>#loadClassSelection
-RBRealizeClassRefactoring>>#preconditions
-PickOneSettingDeclaration>>#content
-PickOneSettingDeclaration>>#index
-RBPullUpMethodRefactoring>>#copyDownMethod:
-RBPullUpMethodRefactoring>>#checkSuperSendsFromPushedUpMethods
-GTSpotterStepTest>>#subclassesOf:inPackage:
-RBCondition class>>#subclassesOf:referToSelector:
-RBCondition class>>#hierarchyOf:referencesInstanceVariable:
-RBSuperSendsRule>>#initialize
-VSCommitUnit>>#project
-MorphTreeListManager>>#basicKeyPressed:
-RBExtractMethodRefactoring>>#isParseTreeEquivalentTo:
-RBStringConcatenationRule>>#initialize
-ZnCharacterEncoder class>>#newForEncoding:
-RBAbstractClass>>#hierarchyDefinesInstanceVariable:
-RBAbstractClass>>#hierarchyDefinesPoolDictionary:
-RBAbstractClass>>#hierarchyDefinesClassVariable:
-RBAbstractClass>>#hierarchyDefinesVariable:
-RBTransformationRuleTest>>#superSends
-RBCreateAccessorsForVariableRefactoring>>#usesAssignmentOf:in:classVariable:
-RBUtilityMethodsRule>>#subclassOf:overrides:
-RBAbstractVariablesRefactoring>>#removeDefinedClassVariables
-Form>>#rectangleEnclosingPixelsNotOfColor:
-RBBasicLintRuleTest class>>#stringConcatenation
-RBBasicLintRuleTest class>>#utilityMethods
-RBBasicLintRuleTest class>>#overridesSpecialMessage
-RBBasicLintRuleTest class>>#ifTrueBlocks
-RBBasicLintRuleTest class>>#subclassResponsibilityNotDefined
-RBChildrenToSiblingsRefactoring>>#shouldPushUp:from:
-SmalllintManifestChecker>>#criticsOf:
-RBRemoveMethodRefactoring>>#justSendsSuper:
-ZnServerSessionManager>>#sessionIdFromRequest:
-RBPullUpInstanceVariableRefactoring>>#preconditions
-MCOrganizationDefinition>>#reorderCategories:original:
-MetacelloMemberListSpec>>#deleteSpec:
-String>>#skipDelimiters:startingAt:
+RBSmalllintTestObject>>#contains [Refactoring-Tests-Critics]
+RBRefactoryTestDataApp>>#contains [Refactoring-Tests-Core]
+RBMoveVariableDefinitionRefactoring>>#checkNodes: [Refactoring-Core]
+ImageReadWriter class>>#readerClassFromStream: [Graphics-Files]
+RBCompositeLintRuleTest>>#isEmpty [Refactoring-Tests-Core]
+RBCompositeLintRuleTest>>#hasConflicts [Refactoring-Tests-Core]
+MBConfigurationInfo>>#recalculateIfInterestedInConfigurationInfo:for: [Versionner-Core-Model]
+GoferMetacelloLoad>>#configurationReference [Gofer-Core]
+FLDecoder>>#classNamed: [Fuel]
+RBVariableEnvironment>>#includesClass: [Refactoring-Environment]
+MessageBrowser>>#sourceIntervalOf:in: [Spec-Tools]
+RBVariableTypeTest>>#testBasicLintRuleTypes [Refactoring-Tests-Core]
+MCSnapshotBrowser>>#loadClassSelection [MonticelloGUI]
+RBRealizeClassRefactoring>>#preconditions [Refactoring-Core]
+PickOneSettingDeclaration>>#content [System-Settings]
+PickOneSettingDeclaration>>#index [System-Settings]
+RBPullUpMethodRefactoring>>#copyDownMethod: [Refactoring-Core]
+RBPullUpMethodRefactoring>>#checkSuperSendsFromPushedUpMethods [Refactoring-Core]
+GTSpotterStepTest>>#subclassesOf:inPackage: [GT-Tests-Spotter]
+RBCondition class>>#subclassesOf:referToSelector: [Refactoring-Core]
+RBCondition class>>#hierarchyOf:referencesInstanceVariable: [Refactoring-Core]
+RBSuperSendsRule>>#initialize [Refactoring-Critics]
+VSCommitUnit>>#project [Versionner-Commit]
+MorphTreeListManager>>#basicKeyPressed: [Morphic-Widgets-Tree]
+RBExtractMethodRefactoring>>#isParseTreeEquivalentTo: [Refactoring-Core]
+RBStringConcatenationRule>>#initialize [Refactoring-Critics]
+ZnCharacterEncoder class>>#newForEncoding: [Zinc-Character-Encoding-Core]
+RBAbstractClass>>#hierarchyDefinesInstanceVariable: [Refactoring-Core]
+RBAbstractClass>>#hierarchyDefinesPoolDictionary: [Refactoring-Core]
+RBAbstractClass>>#hierarchyDefinesClassVariable: [Refactoring-Core]
+RBAbstractClass>>#hierarchyDefinesVariable: [Refactoring-Core]
+RBTransformationRuleTest>>#superSends [Refactoring-Tests-Core]
+RBCreateAccessorsForVariableRefactoring>>#usesAssignmentOf:in:classVariable: [Refactoring-Core]
+RBUtilityMethodsRule>>#subclassOf:overrides: [Refactoring-Critics]
+RBAbstractVariablesRefactoring>>#removeDefinedClassVariables [Refactoring-Core]
+Form>>#rectangleEnclosingPixelsNotOfColor: [Graphics-Display Objects]
+RBBasicLintRuleTest class>>#stringConcatenation [Refactoring-Tests-Core]
+RBBasicLintRuleTest class>>#utilityMethods [Refactoring-Tests-Core]
+RBBasicLintRuleTest class>>#overridesSpecialMessage [Refactoring-Tests-Core]
+RBBasicLintRuleTest class>>#ifTrueBlocks [Refactoring-Tests-Core]
+RBBasicLintRuleTest class>>#subclassResponsibilityNotDefined [Refactoring-Tests-Core]
+RBChildrenToSiblingsRefactoring>>#shouldPushUp:from: [Refactoring-Core]
+SmalllintManifestChecker>>#criticsOf: [Manifest-Core]
+RBRemoveMethodRefactoring>>#justSendsSuper: [Refactoring-Core]
+ZnServerSessionManager>>#sessionIdFromRequest: [Zinc-HTTP]
+RBPullUpInstanceVariableRefactoring>>#preconditions [Refactoring-Core]
+MCOrganizationDefinition>>#reorderCategories:original: [Monticello]
+MetacelloMemberListSpec>>#deleteSpec: [Metacello-Core]
+String>>#skipDelimiters:startingAt: [Collections-Strings]

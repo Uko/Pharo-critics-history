@@ -1,22 +1,22 @@
-OSButtonState>>#button4
-OSButtonState>>#button2
-OSButtonState>>#button3
-OSButtonState>>#button5
-OSButtonState>>#button1
-DictionaryTest>>#testAsCommaStringMore
-DictionaryTest>>#testAsStringOnDelimiterLastMore
-RBSmalllintTestObject>>#booleanPrecedence
-RBRefactoryTestDataApp>>#booleanPrecedence
-GLMPagerBrick>>#scrollerSizeShortcutAction:second:
-AJBaseReg>>#requiresRex
-AJBaseReg>>#prohibitsRex
-NBWin32Shell class>>#isNetworkPresent
-TAsStringCommaAndDelimiterTest>>#testAsCommaStringMore
-TAsStringCommaAndDelimiterTest>>#testAsStringOnDelimiterLastMore
-SetTest>>#testAsCommaStringMore
-SetTest>>#testAsStringOnDelimiterLastMore
-GLMBrick class>>#scalePatchForm:size:
-AJx86InstructionDescription>>#emitmov:operand1:operand2:operand3:
-BagTest>>#testAsCommaStringMore
-BagTest>>#testAsStringOnDelimiterLastMore
-AJx64InstructionDescription>>#emitmov:operand1:operand2:operand3:
+OSButtonState>>#button4 [OSWindow-Core]
+OSButtonState>>#button2 [OSWindow-Core]
+OSButtonState>>#button3 [OSWindow-Core]
+OSButtonState>>#button5 [OSWindow-Core]
+OSButtonState>>#button1 [OSWindow-Core]
+DictionaryTest>>#testAsCommaStringMore [Collections-Tests]
+DictionaryTest>>#testAsStringOnDelimiterLastMore [Collections-Tests]
+RBSmalllintTestObject>>#booleanPrecedence [Refactoring-Tests-Critics]
+RBRefactoryTestDataApp>>#booleanPrecedence [Refactoring-Tests-Core]
+GLMPagerBrick>>#scrollerSizeShortcutAction:second: [Glamour-Morphic-Pager]
+AJBaseReg>>#requiresRex [AsmJit-Operands]
+AJBaseReg>>#prohibitsRex [AsmJit-Operands]
+NBWin32Shell class>>#isNetworkPresent [NativeBoost-Win32]
+TAsStringCommaAndDelimiterTest>>#testAsCommaStringMore [Collections-Tests]
+TAsStringCommaAndDelimiterTest>>#testAsStringOnDelimiterLastMore [Collections-Tests]
+SetTest>>#testAsCommaStringMore [Collections-Tests]
+SetTest>>#testAsStringOnDelimiterLastMore [Collections-Tests]
+GLMBrick class>>#scalePatchForm:size: [Glamour-Morphic-Brick]
+AJx86InstructionDescription>>#emitmov:operand1:operand2:operand3: [AsmJit-x86]
+BagTest>>#testAsCommaStringMore [Collections-Tests]
+BagTest>>#testAsStringOnDelimiterLastMore [Collections-Tests]
+AJx64InstructionDescription>>#emitmov:operand1:operand2:operand3: [AsmJit-x86]

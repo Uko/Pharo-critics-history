@@ -1,34 +1,34 @@
-RBSmalllintTestObject>>#endTrueFalse
-RBRefactoryTestDataApp>>#endTrueFalse
-TextLink>>#analyze:with:
-MailComposition>>#breakLines:atWidth:
-TabSelectorMorph>>#calculateVisibleTabs
-ArrayTest>>#testAsIdentitySetWithIdentityEqualsElements
-TraitBehavior>>#updateMethodDictionarySelector:
-SortedCollectionTest>>#testAsIdentitySetWithIdentityEqualsElements
-TBehavior>>#updateMethodDictionarySelector:
-MailAddressTokenizer>>#nextQuotedString
-ThirtyTwoBitRegister>>#leftRotateBy:
-RBMoveInstVarToClassRefactoring>>#collectSendersOfInstVar
-Parser>>#statements:innerBlock:blockNode:
-ZipWriteStream>>#scanBitLength:repeatCount:into:
-ZipWriteStream>>#sendBitLength:repeatCount:tree:
-MailAddressParser>>#grabBasicAddress
-MetacelloSemanticVersionNumber>>#compareLessThan:other:version:
-ZipEncoderNode>>#rotateToHeight:
-MailMessage>>#asSendableText
-GLMAnimation>>#animationStep
-WikiStyleHelpBuilder>>#helpTopicFromFormattedString:title:
-Behavior>>#updateMethodDictionarySelector:
-TConvertAsSetForMultiplinessIdentityTest>>#testAsIdentitySetWithIdentityEqualsElements
-OrderedCollectionTest>>#testAsIdentitySetWithIdentityEqualsElements
-RubPluggableTextMorphExample>>#promptForCancel
-HeapTest>>#testAsIdentitySetWithIdentityEqualsElements
-WordArray>>#/
-WordArray>>#-
-WordArray>>#*
-WordArray>>#+
-GLMMorphic class>>#togglingButtonLabelled:pressed:style:
-PNGReadWriter>>#copyPixelsRGB:
-MetacelloPackageSpec>>#configMethodBodyOn:hasName:indent:
-TextAction>>#analyze:
+RBSmalllintTestObject>>#endTrueFalse [Refactoring-Tests-Critics]
+RBRefactoryTestDataApp>>#endTrueFalse [Refactoring-Tests-Core]
+TextLink>>#analyze:with: [Text-Core]
+MailComposition>>#breakLines:atWidth: [Network-Mail]
+TabSelectorMorph>>#calculateVisibleTabs [Morphic-Widgets-PolyTabs]
+ArrayTest>>#testAsIdentitySetWithIdentityEqualsElements [Collections-Tests]
+TraitBehavior>>#updateMethodDictionarySelector: [Traits]
+SortedCollectionTest>>#testAsIdentitySetWithIdentityEqualsElements [Collections-Tests]
+TBehavior>>#updateMethodDictionarySelector: [Traits]
+MailAddressTokenizer>>#nextQuotedString [Network-Mail]
+ThirtyTwoBitRegister>>#leftRotateBy: [System-Hashing]
+RBMoveInstVarToClassRefactoring>>#collectSendersOfInstVar [Refactoring-Core]
+Parser>>#statements:innerBlock:blockNode: [Compiler]
+ZipWriteStream>>#scanBitLength:repeatCount:into: [Compression]
+ZipWriteStream>>#sendBitLength:repeatCount:tree: [Compression]
+MailAddressParser>>#grabBasicAddress [Network-Mail]
+MetacelloSemanticVersionNumber>>#compareLessThan:other:version: [Metacello-Core]
+ZipEncoderNode>>#rotateToHeight: [Compression]
+MailMessage>>#asSendableText [Network-Mail]
+GLMAnimation>>#animationStep [Glamour-Morphic-Brick]
+WikiStyleHelpBuilder>>#helpTopicFromFormattedString:title: [HelpSystem-Core]
+Behavior>>#updateMethodDictionarySelector: [Traits]
+TConvertAsSetForMultiplinessIdentityTest>>#testAsIdentitySetWithIdentityEqualsElements [Collections-Tests]
+OrderedCollectionTest>>#testAsIdentitySetWithIdentityEqualsElements [Collections-Tests]
+RubPluggableTextMorphExample>>#promptForCancel [Rubric]
+HeapTest>>#testAsIdentitySetWithIdentityEqualsElements [Collections-Tests]
+WordArray>>#/ [Collections-Arithmetic]
+WordArray>>#- [Collections-Arithmetic]
+WordArray>>#* [Collections-Arithmetic]
+WordArray>>#+ [Collections-Arithmetic]
+GLMMorphic class>>#togglingButtonLabelled:pressed:style: [Glamour-Morphic-Widgets]
+PNGReadWriter>>#copyPixelsRGB: [Graphics-Files]
+MetacelloPackageSpec>>#configMethodBodyOn:hasName:indent: [Metacello-MC]
+TextAction>>#analyze: [Text-Core]

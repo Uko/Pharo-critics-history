@@ -1,72 +1,72 @@
-AJRegister
-AJImmediate
-KMNamedCharKeyCombination
-GLMLinearLayout class
-MCVersionInspector
-TxNewLineDisplayCommand
-RBRenameClassChange
-SpecRowLayout
-MCFileRepositoryInspector
-MCReader
-GLMBrickLayoutTraverser class
-SpecColumnLayout
-MCStReader
-AJOperand
-RubSelectorChooserMorph
-AJBaseReg
-SpecTableLayoutSend
-IdentifierChooserMorph
-AbstractCompiler
-Metaclass
-MCSnapshotReader
-AthensCairoPathBuilder
-TxCairoCharacterSpanDisplayCommand
-SpecSplitterHorizontal
-FileReference
-SpecLayout
-AJMem
-AJMMRegister
-RBRenameClassVariableChange
-AbstractFileReference
-TxEmbeddedObjectCommand
-InstructionStream
-GLMBrickHeightTraverser class
-TxTabDisplayCommand
-ZipArchiveMember
-AbstractSpecLayoutAction
-SpecLayoutSend
-SpecSplitterVertical
-MCMcdReader
-OpalCompiler
-MCMczReader
-TxDisplayCommand
-AthensPathBuilder
-Context
-MCFileTreeAbstractReader
-ClassDescription
-MCRepositoryInspector
-AthensSimplePathBuilder
-TxCharacterSpanDisplayCommand
-FileLocator
-GLMBrickWidthTraverser class
-MCVersionReader
-ZipFileMember
-AJxMMRegister
-Class
-ZipStringMember
-GLMVerticalLinearLayout class
-RBCompositeRefactoryChange
-SHTextStylerST80
-RBRenameInstanceVariableChange
-SHTextStyler
-KMUntypeableSingleKeyCombination
-GLMHorizontalLinearLayout class
-Decompiler
-MCFileTreeStCypressReader
-Compiler
-SelectorChooserMorph
-ZipNewFileMember
-RBRenameVariableChange
-KMSingleKeyCombination
-GLMHighlighterTextParserStyler
-AJx87Register
+Class [Kernel]
+AJImmediate [AsmJit-Operands]
+KMNamedCharKeyCombination [Keymapping-KeyCombinations]
+AJRegister [AsmJit-Operands]
+FileReference [FileSystem-Core]
+RBRenameClassChange [Refactoring-Changes]
+SpecRowLayout [Spec-Layout]
+Metaclass [Kernel]
+Decompiler [Compiler]
+RBRenameVariableChange [Refactoring-Changes]
+MCReader [Monticello]
+TxCharacterSpanDisplayCommand [TxText-Athens]
+RBCompositeRefactoryChange [Refactoring-Changes]
+ZipStringMember [Compression]
+SpecSplitterHorizontal [Spec-Layout]
+GLMBrickHeightTraverser class [Glamour-Morphic-Brick]
+RBRenameClassVariableChange [Refactoring-Changes]
+AbstractCompiler [OpalCompiler-Core]
+KMUntypeableSingleKeyCombination [Keymapping-KeyCombinations]
+MCFileTreeStCypressReader [MonticelloFileTree-Core]
+AthensPathBuilder [Athens-Core]
+ClassDescription [Kernel]
+MCFileTreeAbstractReader [MonticelloFileTree-Core]
+SpecColumnLayout [Spec-Layout]
+GLMHighlighterTextParserStyler [Glamour-Rubric-Presentations]
+TxCairoCharacterSpanDisplayCommand [TxText-Athens]
+AJMMRegister [AsmJit-x86]
+SHTextStyler [Shout]
+SpecSplitterVertical [Spec-Layout]
+RubSelectorChooserMorph [Rubric]
+Compiler [Compiler]
+TxNewLineDisplayCommand [TxText-Athens]
+AthensCairoPathBuilder [Athens-Cairo]
+ZipNewFileMember [Compression]
+SpecTableLayoutSend [Spec-Layout]
+Context [Kernel]
+TxEmbeddedObjectCommand [TxText-Athens]
+MCMcdReader [Monticello]
+MCStReader [Monticello]
+AJMem [AsmJit-Operands]
+MCRepositoryInspector [MonticelloGUI]
+AbstractFileReference [FileSystem-Core]
+OpalCompiler [OpalCompiler-Core]
+MCMczReader [Monticello]
+AJxMMRegister [AsmJit-x86]
+KMSingleKeyCombination [Keymapping-KeyCombinations]
+AJBaseReg [AsmJit-Operands]
+ZipArchiveMember [Compression]
+AbstractSpecLayoutAction [Spec-Layout]
+AthensSimplePathBuilder [Athens-Core]
+SpecLayoutSend [Spec-Layout]
+MCSnapshotReader [Monticello]
+GLMHorizontalLinearLayout class [Glamour-Morphic-Brick]
+AJOperand [AsmJit-Operands]
+GLMLinearLayout class [Glamour-Morphic-Brick]
+GLMBrickWidthTraverser class [Glamour-Morphic-Brick]
+MCFileRepositoryInspector [MonticelloGUI]
+IdentifierChooserMorph [Polymorph-Widgets]
+SHTextStylerST80 [Shout]
+SelectorChooserMorph [Text-Edition]
+FileLocator [FileSystem-Core]
+GLMVerticalLinearLayout class [Glamour-Morphic-Brick]
+SpecLayout [Spec-Layout]
+TxTabDisplayCommand [TxText-Athens]
+ZipFileMember [Compression]
+RBRenameInstanceVariableChange [Refactoring-Changes]
+InstructionStream [Kernel]
+TxDisplayCommand [TxText-Athens]
+MCVersionReader [Monticello]
+AJx87Register [AsmJit-x86]
+MCVersionInspector [MonticelloGUI]
+GLMBrickLayoutTraverser class [Glamour-Morphic-Brick]

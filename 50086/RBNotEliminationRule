@@ -1,89 +1,194 @@
-MetacelloLoadingMCSpecLoader>>#savePackageUsing:
-DictionaryTest>>#testAllDictionariesAreHealthy
-BitBlt>>#installStrikeFont:foregroundColor:backgroundColor:
-GTSpotterCandidateLink>>#isFirst
-MetacelloVersionSpec>>#mergeSpec:
-MetacelloVersionSpec>>#configPackagesSpecMethodOn:indent:
-RowLayout>>#layout:in:
-ClassVariable>>#isSpecial
-RPackageOrganizer>>#initializeFromMCMethodsFor:
-TestResult>>#unexpectedPasses
-TestResult>>#expectedDefects
-MBConfigurationInfo>>#versions
-ReleaseTest>>#testObsoleteClasses
-NautilusRefactoring class>>#buildSourceCodeShortcutsOn:
-GLMPresentationTest>>#testEquality
-NativeBoost class>>#sessionChanged:
-GeneralScrollPane>>#extent:
-GeneralScrollPane>>#doLayoutIn:
-ArrayTest>>#test0CopyTest
-StackLayout>>#layout:in:
-IntervalTest>>#test0CopyTest
-ClassModification>>#modifiesSharedPools
-ClassModification>>#modifiesSuperclass
-ClassModification>>#modifiesFormat
-IdentityBagTest>>#testIdentity
-NBNativeCodeGen>>#parseOptions:
-MetacelloMCVersionSpec>>#mergeSpec:
-InstanceVariableSlot>>#isSpecial
-EventManagerTest>>#testRemoveActionsWithReceiver
-GTSpotterStep>>#selected:dueTo:
-MetacelloGoferPackage>>#currentVersionInfo
-MetacelloGoferPackage>>#ancestors
-WindowsStore>>#printPath:on:
-MorphicMenuAdapter>>#menuGroups
-Float>>#asMinimalDecimalFraction
-FileSystemPermission>>#''<=''
-PackageManifest class>>#isManifest
-GLMPagerScrollBrick>>#pageOf:
-TraitAlias class>>#assertValidAliasDefinition:
-GLMExplicitBrowserCopyTest>>#testEquality
-TIterateTest>>#testNoneSatisfy
-TIterateTest>>#testAllSatisfy
-TIterateTest>>#testRejectNoReject
-TIterateTest>>#testReject
-TIterateTest>>#testSelect
-SetTest>>#testCopy
-SetTest>>#testAllSetsAreHealthy
-SetTest>>#testUnion
-SetTest>>#testCopyWithout
-GTSpotterStackedLayout>>#layoutStacked:in:
-GTSpotterRecorderSelectedCandidateChangedEvent>>#isUserSelection
-MethodDictionaryTest>>#testAllMethodDictionariesAreHealthy
-TClass>>#spotterSuperClassMethodsFor:
-AJx86InstructionDescription>>#emitmov:operand1:operand2:operand3:
-RBExtractMethodRefactoring>>#extractMethod
-TestCase class>>#coverageForClass:until:
-TestCase class>>#localCoverageForClass:
-Socket>>#errorSending:startingAt:count:toHost:port:
-AbstractTutorial class>>#tutorials
-MetacelloNullRecordingMCSpecLoader>>#resolvePackageSpecReferences:gofer:
-SettingDeclaration>>#exportSettingAction
-MetacelloCommonMCSpecLoader>>#resolvePackageSpecReferences:gofer:
-MessageNode>>#sizeCodeForCase:value:
-MessageNode>>#emitCodeForIf:encoder:value:
-MessageNode>>#sizeCodeForIf:value:
-Morph>>#addMiscExtrasTo:
-IdentitySetTest>>#testIdentity
-RBRenameInstanceVariableRefactoring>>#renameAccessorsReferences
-BagTest>>#test0CopyTest
-MetacelloPackagesSpec>>#packageSpecsInLoadOrder
-GLMMorphicSingleSpotter>>#listIndex:
-StringTest>>#test0CopyTest
-MenuRegistration>>#buildMenuSpec:
-SmalltalkEditor>>#sendersOfIt
-ToggleMenuItemShortcutWithSymbol>>#drawOn:
-FreeTypeFileInfoAbstract>>#validStyleName
-MetacelloProject>>#sortedAndFilteredVersions
-MetacelloProject>>#latestVersion
-KMDispatcher>>#partialMatch
-TCopyTest>>#test0CopyTest
-ZdcPluginSSLSession>>#logging
-GLMEditableLabelBrick>>#onTextAccepted:
-AJx64InstructionDescription>>#emitmov:operand1:operand2:operand3:
-MetacelloPackageSpec>>#workingCopyName
-WideStringTest>>#testEqual
-MetacelloVersion>>#printOn:
-GLMScrollListBrick>>#gatherInvisibleItems
-GLMBrickLayoutTraverser>>#markDirtyAround:inContext:
-GLMBrickLayoutTraverser>>#markDirtyCustomDependency:inContext:
+MetacelloLoadingMCSpecLoader>>#savePackageUsing: [Metacello-MC]
+MTProjectBFSIterator>>#hasNext [Versionner-Core-DependenciesModel]
+NECModel>>#notEmpty [NECompletion]
+RBSelectorEnvironment>>#includesClass: [Refactoring-Environment]
+DictionaryTest>>#testAllDictionariesAreHealthy [CollectionsTests]
+BitBlt>>#installStrikeFont:foregroundColor:backgroundColor: [Graphics-Fonts]
+GTSpotterCandidateLink>>#isFirst [GT-Spotter]
+MetacelloVersionSpec>>#mergeSpec: [Metacello-Core]
+MetacelloVersionSpec>>#configPackagesSpecMethodOn:indent: [Metacello-Core]
+RowLayout>>#layout:in: [Morphic-Base]
+ClassVariable>>#isSpecial [Slot]
+RPackageOrganizer>>#initializeFromMCMethodsFor: [Monticello]
+TestResult>>#unexpectedPasses [SUnit-Core]
+TestResult>>#expectedDefects [SUnit-Core]
+GTSpotterStepsBreadcrumb>>#isVisible [GT-Spotter]
+KomitPackageNode>>#initialize [Komitter]
+RBCompositeLintRuleTest>>#isEmpty [Refactoring-Tests-Core]
+MBConfigurationInfo>>#versions [Versionner-Core-Model]
+ReleaseTest>>#testObsoleteClasses [ReleaseTests]
+NautilusRefactoring class>>#buildSourceCodeShortcutsOn: [NautilusRefactoring]
+ZdcIOBufferTests>>#testAdvanceWritePointer [Zodiac-Tests]
+ZdcIOBufferTests>>#testCompactDoNothing [Zodiac-Tests]
+GLMPresentationTest>>#testEquality [Glamour-Tests-Core]
+InflateStream>>#createHuffmanTables:counts:from:to: [Compression]
+NativeBoost class>>#sessionChanged: [NativeBoost-Core]
+GLMBrowserTest>>#testUpdateRecomputesMatchingPresentations [Glamour-Tests-Core]
+GeneralScrollPane>>#extent: [Morphic-Widgets-Scrolling]
+GeneralScrollPane>>#doLayoutIn: [Morphic-Widgets-Scrolling]
+ArrayTest>>#test0CopyTest [CollectionsTests]
+RBVariableEnvironment>>#includesCategory: [Refactoring-Environment]
+RBVariableEnvironment>>#includesProtocol:in: [Refactoring-Environment]
+TraitComposition>>#includesMethod: [Traits]
+TraitComposition>>#notEmpty [Traits]
+StackLayout>>#layout:in: [Morphic-Base]
+IntervalTest>>#test0CopyTest [CollectionsTests]
+ClassModification>>#modifiesSharedPools [Slot]
+ClassModification>>#modifiesSuperclass [Slot]
+ClassModification>>#modifiesFormat [Slot]
+MCPackageLoader>>#shouldWarnAboutErrors [Monticello]
+IdentityBagTest>>#testIdentity [CollectionsTests]
+NBNativeCodeGen>>#parseOptions: [NativeBoost-Core]
+GLMTreeBrick>>#hasChildren: [Glamour-Morphic-Brick]
+MCClassDefinition>>#hasClassInstanceVariables [Monticello]
+MetacelloMCVersionSpec>>#configMethodOn:last:indent: [Metacello-MC]
+MetacelloMCVersionSpec>>#mergeSpec: [Metacello-MC]
+InstanceVariableSlot>>#isSpecial [Slot]
+WorldState>>#runLocalStepMethodsIn: [Morphic-Core]
+WorldState>>#triggerAlarmsBefore: [Morphic-Core]
+MetacelloAbstractPackageSpec>>#configMethodBodyOn:hasName:cascading:indent: [Metacello-Core]
+EventManagerTest>>#testCopy [Tests]
+EventManagerTest>>#testRemoveActionsWithReceiver [Tests]
+Collection>>#notEmpty [Collections-Abstract]
+GLMCompositePresentationTest>>#testAdd [Glamour-Tests-Core]
+GTSpotterStep>>#selected:dueTo: [GT-Spotter]
+MetacelloGoferPackage>>#currentVersionInfo [Metacello-MC]
+MetacelloGoferPackage>>#ancestors [Metacello-MC]
+WindowsStore>>#printPath:on: [FileSystem-Disk]
+KomitTreeBuilder class>>#rootsForStagingArea: [Komitter]
+GTObjectVariablesBrowser>>#stringWithoutInitialCommentFrom: [GT-Inspector]
+MorphicMenuAdapter>>#menuGroups [Spec-MorphicAdapters]
+ZnHeaders>>#includesKey: [Zinc-HTTP]
+TestRunner>>#findPackages [SUnit-UI]
+Float>>#asMinimalDecimalFraction [Kernel]
+GLMBrickStructureTrait>>#hasSubbricks [Glamour-Morphic-Brick]
+NautilusPluginManager>>#removeButtonState [NautilusCommon]
+NautilusPluginManager>>#addButtonState [NautilusCommon]
+FileSystemPermission>>#''<='' [FileSystem-Core]
+PackageManifest class>>#isManifest [Kernel]
+GLMPagerScrollBrick>>#pageOf: [Glamour-Morphic-Pager]
+MCDirectoryRepository>>#includesVersionNamed: [Monticello]
+TraitAlias class>>#assertValidAliasDefinition: [Traits]
+GLMExplicitBrowserCopyTest>>#testEquality [Glamour-Tests-Core]
+TIterateTest>>#testNoneSatisfy [CollectionsTests]
+TIterateTest>>#testAllSatisfy [CollectionsTests]
+TIterateTest>>#testRejectNoReject [CollectionsTests]
+TIterateTest>>#testReject [CollectionsTests]
+TIterateTest>>#testSelect [CollectionsTests]
+NavigationHistory>>#basicAdd: [Tool-Base]
+ZnMimeType>>#hasParameters [Zinc-Resource-Meta-Core]
+GTSpotter>>#setText:from: [GT-Spotter]
+RBCondition class>>#hierarchyOf:referencesInstanceVariable: [Refactoring-Core]
+RBCondition class>>#hasInstanceVariable: [SmartSuggestions]
+RBCondition class>>#hasSubclasses: [Refactoring-Core]
+RBCondition class>>#referencesInstanceVariable:in: [Refactoring-Core]
+SetTest>>#testCopy [CollectionsTests]
+SetTest>>#testAllSetsAreHealthy [CollectionsTests]
+SetTest>>#testUnion [CollectionsTests]
+SetTest>>#testCopyWithout [CollectionsTests]
+GTSpotterStackedLayout>>#layoutStacked:in: [GT-Spotter]
+MCFileInTest>>#tearDown [Monticello-Tests]
+GTSpotterRecorderSelectedCandidateChangedEvent>>#isUserSelection [GT-Spotter-EventRecorder]
+RBAddClassRefactoring>>#preconditions [Refactoring-Core]
+TheManifestBuilder>>#isFalsePositive:onRule:version: [Manifest-Core]
+MethodDictionaryTest>>#testAllMethodDictionariesAreHealthy [KernelTests]
+TClass>>#spotterSuperClassMethodsFor: [GT-SpotterExtensions-Core]
+AJx86InstructionDescription>>#emitmov:operand1:operand2:operand3: [AsmJit-x86]
+RBExtractMethodRefactoring>>#extractMethod [Refactoring-Core]
+MetacelloRepositorySpec>>#configMethodCascadeOn:lastCascade: [Metacello-MC]
+TestCase class>>#hasFailedTest [NautilusCommon]
+TestCase class>>#hasErrorTest [NautilusCommon]
+TestCase class>>#coverageForClass:until: [SUnit-Core]
+TestCase class>>#hasPassedTest [NautilusCommon]
+TestCase class>>#localCoverageForClass: [SUnit-Core]
+Socket>>#errorSending:startingAt:count:toHost:port: [Network-Kernel]
+RBUnreferencedVariablesRule>>#checkClass: [Refactoring-Critics]
+AbstractTutorial class>>#tutorials [ProfStef-Core]
+RBAndEnvironment>>#includesCategory: [Refactoring-Environment]
+MetacelloNullRecordingMCSpecLoader>>#resolvePackageSpecReferences:gofer: [Metacello-MC]
+SettingDeclaration>>#exportSettingAction [StartupPreferences]
+MetacelloCommonMCSpecLoader>>#resolvePackageSpecReferences:gofer: [Metacello-MC]
+RBCollectionCopyEmptyRule>>#basicCheck: [Refactoring-Critics]
+MCVersionLoader>>#hasLocalModifications [Monticello]
+MCVersionLoader>>#hasVersions [Monticello]
+AJInstruction>>#printOperandsOn: [AsmJit-Instructions]
+Nautilus>>#shouldOpenOnGroups [Nautilus]
+MailAddressParser>>#grabGroupAddress [Network-Mail]
+MailAddressParser>>#removePhrase [Network-Mail]
+MailAddressParser>>#grabBasicAddress [Network-Mail]
+MailAddressParser>>#grabAddresses [Network-Mail]
+MessageNode>>#sizeCodeForCase:value: [Compiler]
+MessageNode>>#printWhileOn:indent: [Compiler]
+MessageNode>>#emitCodeForIf:encoder:value: [Compiler]
+MessageNode>>#sizeCodeForIf:value: [Compiler]
+Morph>>#addMiscExtrasTo: [Morphic-Core]
+GTPlayPage>>#isInteresting [GT-Playground]
+IdentitySetTest>>#testIdentity [CollectionsTests]
+Workspace>>#openCommand [Tool-Workspace]
+MenuItemMorph>>#hasIconOrMarker [Morphic-Base]
+MenuItemMorph>>#hasMarker [Morphic-Base]
+InputEventSensor>>#someEventInQueue [System-VMEvents]
+RBRenameInstanceVariableRefactoring>>#renameAccessorsReferences [Refactoring-Core]
+ZnMonticelloServerDelegate>>#isValidMczName: [Zinc-FileSystem]
+GTSpotterIterator>>#notEmpty [GT-Spotter]
+BagTest>>#test0CopyTest [CollectionsTests]
+RBNotEnvironment>>#includesCategory: [Refactoring-Environment]
+RBExpandReferencedPoolsRefactoring>>#hasPoolsToMove [Refactoring-Core]
+ZnUrl>>#hasQuery [Zinc-Resource-Meta-Core]
+ZnUrl>>#hasPath [Zinc-Resource-Meta-Core]
+RBRefactoryChangeManager>>#hasUndoableOperations [Refactoring-Changes]
+RBRefactoryChangeManager>>#hasRedoableOperations [Refactoring-Changes]
+MetacelloPackagesSpec>>#packageSpecsInLoadOrder [Metacello-Core]
+RBOnlyReadOrWrittenVariableRule>>#checkClass: [Refactoring-Critics]
+GLMMorphicSingleSpotter>>#listIndex: [Glamour-Morphic-Renderer]
+NautilusUI>>#runTestForAMethod:notifying:priority: [Nautilus]
+NautilusUI>>#runTestForAMethodWithAnHalt: [Nautilus]
+StringTest>>#test0CopyTest [CollectionsTests]
+MenuRegistration>>#buildMenuSpec: [MenuRegistration]
+JPEGReadStream>>#createHuffmanTables:counts:from:to: [Graphics-Files]
+MCDependentsWrapper>>#hasContents [MonticelloGUI]
+PluggableTreeMorph>>#hasNodeContents: [Morphic-Widgets-Pluggable]
+ZnMimePart>>#hasHeaders [Zinc-HTTP]
+SmalltalkEditor>>#sendersOfIt [Text-Edition]
+RBInlineParameterRefactoring>>#myConditions [Refactoring-Core]
+ToggleMenuItemShortcutWithSymbol>>#drawOn: [Morphic-Base]
+FreeTypeFileInfoAbstract>>#validStyleName [FreeType]
+MetacelloProject>>#sortedAndFilteredVersions [Metacello-Core]
+MetacelloProject>>#latestVersion [Metacello-Core]
+NECUntypedModelTest>>#testNarrowWith [NECompletion-Tests]
+ZnStaticFileServerDelegate>>#actualFilenameFor: [Zinc-FileSystem]
+SHParserST80>>#parsingBlockarguments [Shout]
+GTSpotterContext>>#notEmpty [GT-Spotter]
+GTSpotterContext>>#matches: [GT-Spotter]
+TxWorkspace>>#buildContextMenu: [Tool-TxWorkspace]
+KMDispatcher>>#partialMatch [Keymapping-Core]
+TCopyTest>>#test0CopyTest [CollectionsTests]
+RBBasicLintRuleTest class>>#unreferencedVariables [Refactoring-Tests-Core]
+RBBasicLintRuleTest class>>#collectionCopyEmpty [Refactoring-Tests-Core]
+RBBasicLintRuleTest class>>#classNotReferenced [Refactoring-Tests-Core]
+RBBasicLintRuleTest class>>#onlyReadOrWritten [Refactoring-Tests-Core]
+KeymapBrowser>>#initializePresenter [Spec-Tools]
+ZdcPluginSSLSession>>#logging [Zodiac-Core]
+HeapTest>>#testHeap [CollectionsTests]
+HeapTest>>#testAdd [CollectionsTests]
+GLMEditableLabelBrick>>#onTextAccepted: [Glamour-Morphic-Brick]
+AJx64InstructionDescription>>#emitmov:operand1:operand2:operand3: [AsmJit-x86]
+MetacelloPackageSpec>>#workingCopyName [Metacello-MC]
+ListItemWrapper>>#hasContents [Morphic-Widgets-List]
+ZnMessage>>#hasHeaders [Zinc-HTTP]
+WideStringTest>>#testEqual [CollectionsTests]
+MetacelloVersion>>#printOn: [Metacello-Core]
+GLMScrollListBrick>>#gatherInvisibleItems [Glamour-Morphic-Brick]
+GLMScrollListBrick>>#updateVisible [Glamour-Morphic-Brick]
+RBVariableEnvironment class>>#on:referencesToInstanceVariable:in: [Refactoring-Environment]
+GLMBrickLayoutTraverser>>#markDirtyAround:inContext: [Glamour-Morphic-Brick]
+GLMBrickLayoutTraverser>>#markDirtyCustomDependency:inContext: [Glamour-Morphic-Brick]
+GLMBrickLayoutTraverser>>#hasCustomDependencies: [Glamour-Morphic-Brick]
+MCMergeResolutionRequest>>#hasConflicts [Monticello]
+MethodFinder>>#constLinear [Tool-Finder]
+MethodFinder>>#constUsingData1Value [Tool-Finder]
+MethodFinder>>#constMult [Tool-Finder]
+MethodFinder>>#search: [Tool-Finder]
+MethodFinder>>#constPlus [Tool-Finder]
+MethodFinder>>#constDiv [Tool-Finder]
+MethodFinder>>#constEquiv [Tool-Finder]

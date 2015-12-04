@@ -1,83 +1,83 @@
-NumberParserTest>>#testcheckForCoverage
-NumberParserTest>>#testFloatFromStreamAsNumber
-NumberParserTest>>#testFloatFromStreamWithExponent
-NumberParserTest>>#testFloatmin
-NumberParserTest>>#testFloatReadWithRadix
-OCClosureCompilerTest>>#doTestDebuggerTempAccessWith:with:
-RBSmalllintTestObject>>#floatEqualityComparison
-FloatTest>>#testHash
-FloatTest>>#testComparisonWhenPrimitiveFails
-FloatTest>>#testCopy
-FloatTest>>#testCharacterization
-FloatTest>>#testReciprocal
-FloatTest>>#testDivide
-FloatTest>>#testStringAsNumber
-FloatTest>>#testFloatPrinting
-FloatTest>>#testRounding
-FloatTest>>#testComparison
-FloatTest>>#testFractionAsFloatWithUnderflow
-IntervalTest>>#testNumericTypes
-AlphaImageMorph>>#cachedForm
-RenderBugsTest>>#testHeading
-RenderBugsTest>>#testForward
-RenderBugsTest>>#testSetForward
-NumberParsingTest>>#testFloatReadWithRadix
-NumberParsingTest>>#testFloatFromStreamAsNumber
-NumberParsingTest>>#testFloatFromStringAsNumber
-NumberParsingTest>>#testFloatFromStreamWithExponent
-NumberParsingTest>>#testFloatFromStringWithExponent
-MorphicTransform>>#isPureTranslation
-AthensCubicBezier>>#recursiveSubDiv:level:
-HaloMorph>>#doRot:with:
-HaloMorph>>#doScale:with:
-HaloMorph>>#drawSubmorphsOn:
-Float>>#successor
-Float>>#/
-Float>>#isZero
-Float>>#closeTo:
-Float>>#asIEEE32BitWord
-Float>>#asMinimalDecimalFraction
-Float>>#adaptToInteger:andCompare:
-Float>>#hash
-Float>>#reciprocalLogBase2
-Float>>#predecessor
-Float>>#absPrintInexactlyOn:base:
-Float>>#exp
-Float>>#ulp
-Float>>#withNegativeSign
-Float>>#sqrt
-Float>>#storeOn:base:
-Float>>#exponent
-Float>>#arcSin
-Float>>#isFinite
-Float>>#printOn:base:
-Float>>#asApproximateFractionAtOrder:
-Float>>#arcTan:
-NBObjectFormat32Tests>>#testPushingFloats
-ScrollBar>>#mouseDownInSlider:
-NumberTest>>#testFractionPart
-NumberTest>>#testIntegerPart
-NumberTest>>#testRaisedToIntegerWithFloats
-NumberTest>>#testOne
-NumberTest>>#testReadFrom
-Color>>#initializeHue:saturation:brightness:alpha:
-Color>>#hue
-Color>>#initializeHue:saturation:lightness:alpha:
-Color>>#setHue:saturation:brightness:
-BitBltTest>>#testAlphaCompositing
-BitBltTest>>#testAlphaCompositingSimulated
-MatrixTransform2x3>>#isPureTranslation
-MatrixTransform2x3>>#isIdentity
-MatrixTransform2x3>>#invertPoint:
-MetacelloValueHolderSpecTestCase>>#testValueHolderMergeSpec
-TransformMorph>>#drawSubmorphsOn:
-NBFFIExternalStructTests>>#testStructAccess
-NBFFIExternalStructTests>>#testExternallyAllocatedStructure
-ComplexBorder>>#intersectFrom:with:to:with:
-ByteArrayTest>>#testFourthByteArraysReturnTheCorrectValues
-LineSegment class>>#intersectFrom:with:to:with:
-FractionTest>>#testInexactRaisedTo
-FractionTest>>#testInexactSqrt
-Color class>>#initializeGrayToIndexMap
-Color class>>#computeIndexedColorConvertingMap:from:to:
-Number class>>#readRemainderOf:from:base:withSign:
+NumberParserTest>>#testcheckForCoverage [AST-Tests-Core]
+NumberParserTest>>#testFloatFromStreamAsNumber [AST-Tests-Core]
+NumberParserTest>>#testFloatFromStreamWithExponent [AST-Tests-Core]
+NumberParserTest>>#testFloatmin [AST-Tests-Core]
+NumberParserTest>>#testFloatReadWithRadix [AST-Tests-Core]
+OCClosureCompilerTest>>#doTestDebuggerTempAccessWith:with: [OpalCompiler-Tests]
+RBSmalllintTestObject>>#floatEqualityComparison [Refactoring-Tests-Critics]
+FloatTest>>#testHash [KernelTests]
+FloatTest>>#testComparisonWhenPrimitiveFails [KernelTests]
+FloatTest>>#testCopy [KernelTests]
+FloatTest>>#testCharacterization [KernelTests]
+FloatTest>>#testReciprocal [KernelTests]
+FloatTest>>#testDivide [KernelTests]
+FloatTest>>#testStringAsNumber [KernelTests]
+FloatTest>>#testFloatPrinting [KernelTests]
+FloatTest>>#testRounding [KernelTests]
+FloatTest>>#testComparison [KernelTests]
+FloatTest>>#testFractionAsFloatWithUnderflow [KernelTests]
+IntervalTest>>#testNumericTypes [Collections-Tests]
+AlphaImageMorph>>#cachedForm [Morphic-Base]
+RenderBugsTest>>#testHeading [MorphicTests]
+RenderBugsTest>>#testForward [MorphicTests]
+RenderBugsTest>>#testSetForward [MorphicTests]
+NumberParsingTest>>#testFloatReadWithRadix [AST-Tests-Core]
+NumberParsingTest>>#testFloatFromStreamAsNumber [AST-Tests-Core]
+NumberParsingTest>>#testFloatFromStringAsNumber [AST-Tests-Core]
+NumberParsingTest>>#testFloatFromStreamWithExponent [AST-Tests-Core]
+NumberParsingTest>>#testFloatFromStringWithExponent [AST-Tests-Core]
+MorphicTransform>>#isPureTranslation [Graphics-Transformations]
+AthensCubicBezier>>#recursiveSubDiv:level: [Athens-Core]
+HaloMorph>>#doRot:with: [Morphic-Base]
+HaloMorph>>#doScale:with: [Morphic-Base]
+HaloMorph>>#drawSubmorphsOn: [Morphic-Base]
+Float>>#successor [Kernel]
+Float>>#/ [Kernel]
+Float>>#isZero [Kernel]
+Float>>#closeTo: [Kernel]
+Float>>#asIEEE32BitWord [Kernel]
+Float>>#asMinimalDecimalFraction [Kernel]
+Float>>#adaptToInteger:andCompare: [Kernel]
+Float>>#hash [Kernel]
+Float>>#reciprocalLogBase2 [Kernel]
+Float>>#predecessor [Kernel]
+Float>>#absPrintInexactlyOn:base: [Kernel]
+Float>>#exp [Kernel]
+Float>>#ulp [Kernel]
+Float>>#withNegativeSign [Kernel]
+Float>>#sqrt [Kernel]
+Float>>#storeOn:base: [Kernel]
+Float>>#exponent [Kernel]
+Float>>#arcSin [Kernel]
+Float>>#isFinite [Kernel]
+Float>>#printOn:base: [Kernel]
+Float>>#asApproximateFractionAtOrder: [Kernel]
+Float>>#arcTan: [Kernel]
+NBObjectFormat32Tests>>#testPushingFloats [NativeBoost-Tests]
+ScrollBar>>#mouseDownInSlider: [Morphic-Widgets-Scrolling]
+NumberTest>>#testFractionPart [KernelTests]
+NumberTest>>#testIntegerPart [KernelTests]
+NumberTest>>#testRaisedToIntegerWithFloats [KernelTests]
+NumberTest>>#testOne [KernelTests]
+NumberTest>>#testReadFrom [KernelTests]
+Color>>#initializeHue:saturation:brightness:alpha: [Graphics-Primitives]
+Color>>#hue [Graphics-Primitives]
+Color>>#initializeHue:saturation:lightness:alpha: [Graphics-Primitives]
+Color>>#setHue:saturation:brightness: [Graphics-Primitives]
+BitBltTest>>#testAlphaCompositing [Graphics-Tests]
+BitBltTest>>#testAlphaCompositingSimulated [Graphics-Tests]
+MatrixTransform2x3>>#isPureTranslation [Graphics-Transformations]
+MatrixTransform2x3>>#isIdentity [Graphics-Transformations]
+MatrixTransform2x3>>#invertPoint: [Graphics-Transformations]
+MetacelloValueHolderSpecTestCase>>#testValueHolderMergeSpec [Metacello-TestsCore]
+TransformMorph>>#drawSubmorphsOn: [FreeType]
+NBFFIExternalStructTests>>#testStructAccess [NativeBoost-Tests]
+NBFFIExternalStructTests>>#testExternallyAllocatedStructure [NativeBoost-Tests]
+ComplexBorder>>#intersectFrom:with:to:with: [Morphic-Base]
+ByteArrayTest>>#testFourthByteArraysReturnTheCorrectValues [Collections-Tests]
+LineSegment class>>#intersectFrom:with:to:with: [Balloon]
+FractionTest>>#testInexactRaisedTo [KernelTests]
+FractionTest>>#testInexactSqrt [KernelTests]
+Color class>>#initializeGrayToIndexMap [Graphics-Primitives]
+Color class>>#computeIndexedColorConvertingMap:from:to: [Graphics-Primitives]
+Number class>>#readRemainderOf:from:base:withSign: [Kernel]

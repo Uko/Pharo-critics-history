@@ -1,51 +1,51 @@
-HeapTest
-BagTest
-MissingClassError
-SymbolTest
-TraitsResource
-IntervalTest
-RBSmalllintTestObject
-ThemeSettings
-FreeTypeNameParser class
-DictionaryTest
-AJOperand
-NBInterpreterProxy
-VTermOutputDriver
-NBCPrinter class
-RxmLookahaed
-MCWorkingCopyBrowser class
-RubParagraphDecorator
-RBRefactoryTestDataApp
-CompiledMethodTest
-NECTestClass
-GLMAnimation
-SimpleTestResource
-PharoIssueTest
-WeakFinalizationList
-SetTest
-OrderedCollectionTest
-NBExternalStructure class
-AthensGenericTransform
-FileList
-SortedCollectionTest
-IdentityBagTest
-SystemVersion
-RubWorkspaceExample
-ZnEntityReader
-LinkedListTest
-ClassTest
-SUnitTest
-GLMPagerScrollSlidingBrick
-OCOpalExamples
-GLMSmalltalkCodePresentation
-ReflectivityExamples
-FreeTypeSettings
-StringTest
-ArrayTest
-FloatArrayTest
-RubTextComposer
-OSVMWindowHandle
-AthensBezierConverter
-PluggableTextMorph
-NewListRenderer
-DigitalSignatureAlgorithm
+OCOpalExamples [OpalCompiler-Tests]
+NewListRenderer [Morphic-Widgets-NewList]
+NBExternalStructure class [NativeBoost-Core]
+OSVMWindowHandle [OSWindow-VM]
+DigitalSignatureAlgorithm [System-Hashing]
+SystemVersion [System-Support]
+LinkedListTest [CollectionsTests]
+MissingClassError [CodeImport]
+NBInterpreterProxy [NativeBoost-Core]
+RxmLookahaed [Regex-Core]
+AJOperand [AsmJit-Operands]
+FreeTypeNameParser class [FreeType]
+IdentityBagTest [CollectionsTests]
+RBRefactoryTestDataApp [Refactoring-Tests-Core]
+GLMAnimation [Glamour-Morphic-Brick]
+StringTest [CollectionsTests]
+FreeTypeSettings [FreeType]
+SUnitTest [SUnit-Tests]
+ThemeSettings [Polymorph-Widgets]
+ReflectivityExamples [Reflectivity-Tests]
+TraitsResource [Tests]
+MCWorkingCopyBrowser class [MonticelloGUI]
+RBSmalllintTestObject [Refactoring-Tests-Critics]
+OrderedCollectionTest [CollectionsTests]
+ZnEntityReader [Zinc-HTTP]
+WeakFinalizationList [System-Finalization]
+IntervalTest [CollectionsTests]
+CompiledMethodTest [KernelTests]
+FloatArrayTest [CollectionsTests]
+RubParagraphDecorator [Rubric]
+SortedCollectionTest [CollectionsTests]
+GLMPagerScrollSlidingBrick [Glamour-Morphic-Pager]
+AthensBezierConverter [Athens-Core]
+DictionaryTest [CollectionsTests]
+NECTestClass [NECompletion-Tests]
+RubWorkspaceExample [Rubric]
+BagTest [CollectionsTests]
+HeapTest [CollectionsTests]
+PluggableTextMorph [Morphic-Widgets-Pluggable]
+ClassTest [KernelTests]
+SetTest [CollectionsTests]
+VTermOutputDriver [System-CommandLine]
+NBCPrinter class [NativeBoost-Examples]
+FileList [Tool-FileList]
+GLMSmalltalkCodePresentation [Glamour-Presentations]
+ArrayTest [CollectionsTests]
+RubTextComposer [Rubric]
+PharoIssueTest [IssueTracking-Tests]
+AthensGenericTransform [Athens-Core]
+SymbolTest [CollectionsTests]
+SimpleTestResource [SUnit-Tests]

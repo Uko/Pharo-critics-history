@@ -1,55 +1,55 @@
-RBSmalllintTestObject>>#sendsDifferentSuper
-DAAssemblyNode>>#initializeWith:
-RBRefactoryTestDataApp>>#sendsDifferentSuper
-RFASTTranslator>>#emitMetaLinkInstead:
-GLMFoundationBrick>>#themer
-PaginatedMorphTreeMorph>>#currentNodelist
-StrikeFontSet class>>#newFontArray:
-TextMorph>>#updateFromParagraph
-OSEnvironment>>#initializeWith:
-CheckboxButtonMorph>>#borderWidth:
-FLGlobalSendMock>>#initializeWith:
-CharacterBlock>>#stringIndex:text:topLeft:extent:
-RBRenameClassChange>>#=
-Decompiler>>#decompile:in:method:using:
-AbstractWidgetModel>>#initialize
-AJBaseReg>>#initializeWithCode:name:
-SystemWindow>>#setBoundsWithFlex:
-SystemWindow>>#basicIsSticky
-FT2GlyphSlot class>>#fromFace:
-DADependenciesHTMLPublisher>>#initializeWithReport:stream:
-Date class>>#starting:
-MultiByteFileStream>>#fileInEncodingName:
-MultiByteFileStream>>#basicSetToEnd
-MultiByteFileStream>>#basicSkip:
-MultiByteFileStream>>#basicVerbatim:
-MultiByteFileStream>>#basicPosition
-MultiByteFileStream>>#detectLineEndConvention
-MultiByteFileStream>>#basicPosition:
-MultiByteFileStream>>#basicNextInto:
-MultiByteFileStream>>#basicNext:into:
-RubHighlightSegmentMorph>>#registerTextArea
-LongTestCase class>>#allTestSelectors
-Parser>>#init:notifying:failBlock:
-MetacelloPackageLoadDirective>>#spec:externalReference:loader:
-SelectionMorph>>#doneExtending
-StartupPreferencesLoader class>>#default
-SortedCollection class>>#sortBlock:
-CharacterSetComplement class>>#of:
-GTSpotterBreadcrumbSeparatorRenderer>>#render:on:
-MCDiffyVersion>>#initializeWithPackage:info:dependencies:baseInfo:patch:
-LargeInteger>>#digitAt:put:
-LargeInteger>>#digitAt:
-NBNativeFunction>>#initializeWithCode:fnSpec:
-TextIndent class>>#amount:
-RelationSlot class>>#named:inverse:inClass:
-RemoteTempVectorNode>>#emitCodeForLoadFor:stack:encoder:
-RemoteTempVectorNode>>#sizeCodeForLoadFor:encoder:
-RxsLookaround>>#initializePiece:
-PluggableTextAttribute class>>#evalBlock:
-AthensTextMorph>>#contents:wrappedTo:
-EditableDropListMorph class>>#on:list:selected:changeSelected:useIndex:addToList:class:getEnabled:default:
-DAPackageDependencyWrapper>>#initializeFrom:
-TempVariableNode>>#name:index:type:scope:
-FLProxyThatBecomesItsContent>>#initializeWith:
-SyntaxErrorDebugger>>#release
+RBSmalllintTestObject>>#sendsDifferentSuper [Refactoring-Tests-Critics]
+DAAssemblyNode>>#initializeWith: [Tool-DependencyAnalyser-UI]
+RBRefactoryTestDataApp>>#sendsDifferentSuper [Refactoring-Tests-Core]
+RFASTTranslator>>#emitMetaLinkInstead: [Reflectivity]
+GLMFoundationBrick>>#themer [Glamour-Morphic-Brick]
+PaginatedMorphTreeMorph>>#currentNodelist [Morphic-Widgets-Tree]
+StrikeFontSet class>>#newFontArray: [Graphics-Fonts]
+TextMorph>>#updateFromParagraph [Morphic-Base]
+OSEnvironment>>#initializeWith: [System-OSEnvironments]
+CheckboxButtonMorph>>#borderWidth: [Morphic-Widgets-Basic]
+FLGlobalSendMock>>#initializeWith: [FuelTests]
+CharacterBlock>>#stringIndex:text:topLeft:extent: [Text-Scanning]
+RBRenameClassChange>>#= [Refactoring-Changes]
+Decompiler>>#decompile:in:method:using: [Compiler]
+AbstractWidgetModel>>#initialize [Spec-Core]
+AJBaseReg>>#initializeWithCode:name: [AsmJit-Operands]
+SystemWindow>>#setBoundsWithFlex: [Morphic-Widgets-Windows]
+SystemWindow>>#basicIsSticky [Polymorph-Widgets]
+FT2GlyphSlot class>>#fromFace: [FreeType]
+DADependenciesHTMLPublisher>>#initializeWithReport:stream: [Tool-DependencyAnalyser-Checker]
+Date class>>#starting: [Kernel]
+MultiByteFileStream>>#fileInEncodingName: [Files]
+MultiByteFileStream>>#basicSetToEnd [Files]
+MultiByteFileStream>>#basicSkip: [Files]
+MultiByteFileStream>>#basicVerbatim: [Files]
+MultiByteFileStream>>#basicPosition [Files]
+MultiByteFileStream>>#detectLineEndConvention [Files]
+MultiByteFileStream>>#basicPosition: [Files]
+MultiByteFileStream>>#basicNextInto: [Files]
+MultiByteFileStream>>#basicNext:into: [Files]
+RubHighlightSegmentMorph>>#registerTextArea [Rubric]
+LongTestCase class>>#allTestSelectors [SUnit-Core]
+Parser>>#init:notifying:failBlock: [Compiler]
+MetacelloPackageLoadDirective>>#spec:externalReference:loader: [Metacello-MC]
+SelectionMorph>>#doneExtending [Morphic-Base]
+StartupPreferencesLoader class>>#default [StartupPreferences]
+SortedCollection class>>#sortBlock: [Collections-Sequenceable]
+CharacterSetComplement class>>#of: [Collections-Support]
+GTSpotterBreadcrumbSeparatorRenderer>>#render:on: [GT-Spotter]
+MCDiffyVersion>>#initializeWithPackage:info:dependencies:baseInfo:patch: [Monticello]
+LargeInteger>>#digitAt:put: [Kernel]
+LargeInteger>>#digitAt: [Kernel]
+NBNativeFunction>>#initializeWithCode:fnSpec: [NativeBoost-Core]
+TextIndent class>>#amount: [Text-Core]
+RelationSlot class>>#named:inverse:inClass: [Slot]
+RemoteTempVectorNode>>#emitCodeForLoadFor:stack:encoder: [Compiler]
+RemoteTempVectorNode>>#sizeCodeForLoadFor:encoder: [Compiler]
+RxsLookaround>>#initializePiece: [Regex-Core]
+PluggableTextAttribute class>>#evalBlock: [Text-Core]
+AthensTextMorph>>#contents:wrappedTo: [Athens-Morphic]
+EditableDropListMorph class>>#on:list:selected:changeSelected:useIndex:addToList:class:getEnabled:default: [Polymorph-Widgets]
+DAPackageDependencyWrapper>>#initializeFrom: [Tool-DependencyAnalyser]
+TempVariableNode>>#name:index:type:scope: [Compiler]
+FLProxyThatBecomesItsContent>>#initializeWith: [FuelTests]
+SyntaxErrorDebugger>>#release [Tools]

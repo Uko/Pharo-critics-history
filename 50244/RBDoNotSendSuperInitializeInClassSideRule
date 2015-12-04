@@ -1,10 +1,10 @@
-MetacelloPharoPlatform class>>#initialize
-CCompilationContext class>>#initialize
-OCASTTranslator class>>#initialize
-OSWindowGLAttributes class>>#initialize
-TestCase class>>#initialize
-GLMSmalltalkEditor class>>#initialize
-NECTestClass class>>#initialize
-DialogItemsChooserUI class>>#initialize
-EmbeddedFreeTypeFontInstaller class>>#initialize
-CompilationContext class>>#initialize
+MetacelloPharoPlatform class>>#initialize [Metacello-Platform]
+CCompilationContext class>>#initialize [OpalCompiler-Core]
+OCASTTranslator class>>#initialize [OpalCompiler-Core]
+OSWindowGLAttributes class>>#initialize [OSWindow-Core]
+TestCase class>>#initialize [SUnit-Core]
+GLMSmalltalkEditor class>>#initialize [Glamour-Morphic-Widgets]
+NECTestClass class>>#initialize [NECompletion-Tests]
+DialogItemsChooserUI class>>#initialize [Tool-Finder]
+EmbeddedFreeTypeFontInstaller class>>#initialize [EmbeddedFreeType]
+CompilationContext class>>#initialize [OpalCompiler-Core]

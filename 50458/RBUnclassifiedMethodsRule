@@ -1,1127 +1,1127 @@
-AbstractFontSelectorDialogWindow>>#toggleUnderlined
-AbstractFontSelectorDialogWindow>>#updateSelectedFont
-AbstractFontSelectorDialogWindow>>#toggleBold
-AbstractFontSelectorDialogWindow>>#defaultPreviewText
-AbstractFontSelectorDialogWindow>>#matchingFont
-AbstractFontSelectorDialogWindow>>#updateFromSelectedFont
-AbstractFontSelectorDialogWindow>>#toggleStruckOut
-AbstractFontSelectorDialogWindow>>#fontSizes
-AbstractFontSelectorDialogWindow>>#defaultFontFamilies
-AbstractFontSelectorDialogWindow>>#textEmphasisCode
-AbstractFontSelectorDialogWindow>>#toggleItalic
-NBTestStructure2 class>>#fieldsDesc
-MulticolumnLazyListMorph>>#drawBoundsForRow:
-PSMCMergePatchMorph>>#keepCurrentVersion
-PSMCMergePatchMorph>>#markAsConflict
-PSMCMergePatchMorph>>#allConflictsMenu
-PSMCMergePatchMorph>>#selectionIsNotNil
-PSMCMergePatchMorph>>#updateSource
-PSMCMergePatchMorph>>#selectionIsRemoteChosen
-PSMCMergePatchMorph>>#useIncomingVersion
-PSMCMergePatchMorph>>#markAllAsConflict
-PSMCMergePatchMorph>>#notAllConflictsResolved
-PSMCMergePatchMorph>>#selectNextConflict
-PSMCMergePatchMorph>>#hasAnyNonConflictConflicts
-PSMCMergePatchMorph>>#hasAnyNonKeptConflicts
-PSMCMergePatchMorph>>#hasAnyNonIncomingConflicts
-PSMCMergePatchMorph>>#toggleApplySelectedChange
-PSMCMergePatchMorph>>#hasConflicts
-PSMCMergePatchMorph>>#nextConflict
-PSMCMergePatchMorph>>#keepAllCurrentVersion
-PSMCMergePatchMorph>>#changeTreeKey:
-PSMCMergePatchMorph>>#changesMenu:
-PSMCMergePatchMorph>>#allConflicts
-PSMCMergePatchMorph>>#useAllIncomingVersion
-AthensTextRenderer>>#renderBackground:
-AthensTextRenderer>>#initialize
-AthensTextRenderer>>#render:lines:on:
-AthensTextRenderer>>#setCurrentColor:
-AthensTextRenderer>>#renderBackground:width:
-AthensTextRenderer>>#renderCharactersFrom:to:
-AthensTextRenderer>>#setCurrentFont:
-CustomQuestionDialogWindow>>#default:
-CustomQuestionDialogWindow>>#newButtons
-CustomQuestionDialogWindow>>#defaultCancelButton
-CustomQuestionDialogWindow>>#cancelText:help:
-CustomQuestionDialogWindow>>#defaultNoButton
-CustomQuestionDialogWindow>>#yesText:help:
-CustomQuestionDialogWindow>>#defaultYesButton
-CustomQuestionDialogWindow>>#noText:help:
-GTSpotterDoubleLinkedList>>#removeCycledLink:
-TextFontChange>>#fontNumber:
-TextFontChange>>#dominates:
-TextFontChange>>#hash
-TextFontChange>>#writeScanOn:
-TextFontChange>>#fontNumber
-TextFontChange>>#forFontInStyle:do:
-TextFontChange>>#=
-TestAutoFractionComputation class>>#defaultSpec
-FLCompiledMethodSerializationTest>>#testInstalledModified
-TimeMeasuringTest>>#workingCopyPredicate
-TimeMeasuringTest>>#versionInfoForWorkingCopiesThat:
-TimeMeasuringTest>>#runCase
-TimeMeasuringTest>>#openDebuggerOnFailingTestMethod
-TimeMeasuringTest>>#measure:
-TimeMeasuringTest>>#setToDebug
-TimeMeasuringTest>>#reportPerformance
-TimeMeasuringTest>>#versionInformation
-TimeMeasuringTest>>#debug
-TxApplicationWithToolbar class>>#defaultSpec
-MCMczInstallerTest>>#testInstallFromStream
-MCMczInstallerTest>>#setUp
-MCMczInstallerTest>>#fileStream
-MCMczInstallerTest>>#assertNoChange
-MCMczInstallerTest>>#fileName
-MCMczInstallerTest>>#testInstallFromFile
-MCMczInstallerTest>>#assertDict:matchesInfo:
-MCMczInstallerTest>>#assertVersionInfoPresent
-MCMczInstallerTest>>#tearDown
-MCMczInstallerTest>>#deleteFile
-NBTestUnionWithCallback class>>#fieldsDesc
-TxDisplayCommand>>#notifyRemovedFrom:
-InlineTextDiffBuilder>>#split:
-SDL_Version class>>#fieldsDesc
-TextPrintIt>>#actOnClick:for:in:editor:
-RubEditingArea>>#withoutShoutStyler
-RubEditingArea>>#shoutStyler
-RubEditingArea>>#textArea
-RubEditingArea>>#shoutAboutToStyle:
-RubEditingArea>>#classOrMetaClass:
-StrikeFontSet>>#fontArray:
-StrikeFontSet>>#ascentKern
-StrikeFontSet>>#initializeWithFontArray:
-StrikeFontSet>>#emphasis
-StrikeFontSet>>#fontNameWithPointSize
-StrikeFontSet>>#emphasis:
-StrikeFontSet>>#displayLine:at:
-StrikeFontSet>>#glyphs
-StrikeFontSet>>#superscript
-StrikeFontSet>>#glyphsEncoding:
-StrikeFontSet>>#xTableEncoding:
-StrikeFontSet>>#bonk:with:at:
-StrikeFontSet>>#name:
-StrikeFontSet>>#descentKern
-StrikeFontSet>>#installOn:
-StrikeFontSet>>#familySizeFace
-StrikeFontSet>>#emphasized:
-StrikeFontSet>>#maxEncoding
-StrikeFontSet>>#maxWidth
-StrikeFontSet>>#reset
-StrikeFontSet>>#subscript
-KOI8RTextConverter class>>#initialize
-AthensBezier3Scene>>#initFromArray:
-AthensBezier3Scene>>#curvePathBlock
-AthensBezier3Scene>>#renderOn:
-RBFooLintRuleTest>>#foo
-RowLayout>>#flushLayoutCache
-RowLayout>>#minExtentOf:in:
-RowLayout>>#layout:in:
-AthensTextComposer class>>#scan:for:
-RBSmalllintTestObject>>#unclassifiedMethods
-SimpleEditor class>>#initializeShiftCmdKeyShortcuts
-SimpleEditor class>>#initializeCmdKeyShortcuts
-SimpleEditor class>>#initialize
-ObjectStringConverter class>>#forClass:
-ExpanderMorph class>>#titleText:
-GLMPagerModel>>#doNotNotifyDuring:
-GLMPagerModel>>#updatePreview:
-GLMPagerModel>>#recomputeState:
-GLMPagerModel>>#normalizePaneIndex:
-GLMPagerModel>>#recomputeState
-LazyTabGroupMorph>>#newTabSelectorMorph
-LazyTabGroupMorph>>#updatePageAtIndex:withLabel:toolbar:action:
-RBRefactoryTestDataApp>>#demoRenameMethod:PermuteArgs:
-LabelMorph>>#initialColorInSystemWindow:
-TxAthensLayoutPosition class>>#textPosition:layout:
-ClassVariable>>#astNodes
-AthensCairoCanvas class>>#nbLibraryNameOrHandle
-AthensCairoCanvas class>>#asNBExternalType:
-AthensCairoCanvas class>>#on:
-AthensCairoCanvas class>>#primCreate:
-SVColorSelectorMorph>>#updateGradients
-SVColorSelectorMorph>>#updateSelectedLocation
-SVColorSelectorMorph>>#hideLocation
-SVColorSelectorMorph>>#selectColorAt:
-SVColorSelectorMorph>>#selectedLocation
-SVColorSelectorMorph>>#gradient
-SVColorSelectorMorph>>#basicColor:
-SVColorSelectorMorph>>#showLocation
-SVColorSelectorMorph>>#blackGradientMorph
-SVColorSelectorMorph>>#blackGradient
-DropListMorph>>#toggleEnabled
-DropListMorph>>#enabledString
-AbstractKeymappingTest>>#setUp
-AbstractKeymappingTest>>#eventKey:shift:
-AbstractKeymappingTest>>#eventKey:alt:
-AbstractKeymappingTest>>#eventKey:alt:ctrl:command:shift:
-AbstractKeymappingTest>>#eventKey:command:
-AbstractKeymappingTest>>#tearDown
-AbstractKeymappingTest>>#eventKey:ctrl:
-AbstractKeymappingTest>>#eventKey:
-BIConfigurableFormatterFormattingTest class>>#shouldInheritSelectors
-LinearGradientPaint class>>#from:to:
-ErrorDialogWindow>>#icon
-NBCPrinter class>>#printf:
-NBCPrinter class>>#initialize
-AthensTextRenderTest class>>#testWindowRender
-AthensTextRenderTest class>>#test5
-AthensTextRenderTest class>>#testBlitting
-AthensTextRenderTest class>>#surfaceClass
-AthensTextRenderTest class>>#test4
-AthensTextRenderTest class>>#testWindow
-AthensTextRenderTest class>>#test2
-AthensTextRenderTest class>>#test1
-AthensTextRenderTest class>>#testText
-AthensTextRenderTest class>>#test3
-QuestionDialogWindow>>#newButtons
-QuestionDialogWindow>>#no
-QuestionDialogWindow>>#yes
-QuestionDialogWindow>>#answer:
-QuestionDialogWindow>>#answer
-AthensSceneView>>#stopStepping
-GTSpotterCandidatesListTest>>#testAddOneCandidateA1A2A3
-GTSpotterCandidatesListTest>>#testAddOneCandidateA1
-GTSpotterCandidatesListTest>>#testAddTwoCandidateA1
-GTSpotterCandidatesListTest>>#testAddTwoCandidateA1A2
-GTSpotterCandidatesListTest>>#testNextA1Category
-GTSpotterCandidatesListTest>>#hasCategories:
-GTSpotterCandidatesListTest>>#testNextA1A2EmptyCategory
-GTSpotterCandidatesListTest>>#testAddThreeCandidateA1
-GTSpotterCandidatesListTest>>#testNextA1A2Category
-GTSpotterCandidatesListTest>>#testCategoryLinkByCandidateLinkThreeA1A2A3
-GTSpotterCandidatesListTest>>#testAddCategories
-GTSpotterCandidatesListTest>>#testPreviousA1Category
-GTSpotterCandidatesListTest>>#testRemoveCandidatesA1A2A3FromA1A2A3
-GTSpotterCandidatesListTest>>#addCategories:
-GTSpotterCandidatesListTest>>#testAddOneCandidateA1A2
-GTSpotterCandidatesListTest>>#testAddThreeCandidateA1A2
-GTSpotterCandidatesListTest>>#testPreviousA1A2Category
-GTSpotterCandidatesListTest>>#testAddTwoCandidateA1A2A3
-GTSpotterCandidatesListTest>>#testAddThreeCandidateA1A2A3
-GTSpotterCandidatesListTest>>#testAddThreeCandidateA1A2A3Shuffled
-GTSpotterCandidatesListTest>>#testRemoveCandidatesA1FromA1A2A3
-GTSpotterCandidatesListTest>>#testRemoveCandidatesA1A3FromA1A2A3
-GTSpotterCandidatesListTest>>#testPreviousA1A2EmptyCategory
-MCPackageManagerTest>>#testClassAdded
-MCPackageManagerTest>>#testClassRemoved
-MCPackageManagerTest>>#setUp
-MCPackageManagerTest>>#tearDown
-ZipStore class>>#reference:
-MergeJoinSection>>#containsPoint:
-MergeJoinSection>>#stateIcon
-MergeJoinSection>>#clicked
-MergeJoinSection>>#stateIconBounds
-MergeJoinSection>>#defaultStateIcons
-MergeJoinSection>>#borderColorToUse
-MergeJoinSection>>#wantsClick
-MergeJoinSection>>#appendToCompositeText:
-MergeJoinSection>>#selectionStates
-MergeJoinSection>>#selectNextState
-MergeJoinSection>>#drawOn:
-SimpleButtonMorph class>>#newWithLabel:
-DiffJoinMorph class>>#splitterWidth
-ExpanderMorphAnnouncement class>>#on:
-MultistateLabelMorph>>#disabledColor
-MultistateLabelMorph>>#selectedColor:
-MultistateLabelMorph>>#defaultColorMap
-MultistateLabelMorph>>#pressedColor:
-MultistateLabelMorph>>#selectedMouseOverColor:
-MultistateLabelMorph>>#mouseOverColor:
-MultistateLabelMorph>>#interactionState:
-MultistateLabelMorph>>#selectedDisabledColor:
-MultistateLabelMorph>>#initWithContents:font:emphasis:
-MultistateLabelMorph>>#drawOn:
-MultistateLabelMorph>>#normalColor:
-MultistateLabelMorph>>#selectedPressedColor:
-MultistateLabelMorph>>#disabledColor:
-GLMScrollPaneBrick class>>#defaultScrollTimeReset
-GLMScrollPaneBrick class>>#defaultScrollAcceleration
-GLMScrollPaneBrick class>>#defaultScrollVelocity
-GLMScrollPaneBrick class>>#defaultScrollTurboTime
-GLMScrollPaneBrick class>>#defaultMaxVelocity
-UndeclaredVariable>>#openMenuIn:
-UndeclaredVariable>>#setParser:name:range:
-StrikeFontSet class>>#newFontArray:
-StrikeFontSet class>>#familyName:size:
-StrikeFontSet class>>#findMaximumLessThan:in:
-StrikeFontSet class>>#familyName:size:emphasized:
-StyleChunk>>#accept:
-CairoTextExtents class>>#fieldsDesc
-IncrementalSliderMorph class>>#on:getValue:setValue:
-IncrementalSliderMorph class>>#on:getValue:setValue:min:max:quantum:
-PluggableDialogWindow>>#statusValue
-PluggableDialogWindow>>#defaultFocusMorph:
-PluggableDialogWindow>>#newContentMorph
-PluggableDialogWindow>>#statusValue:
-PluggableDialogWindow>>#applyChanges
-PluggableDialogWindow>>#defaultFocusMorph
-PluggableDialogWindow>>#newButtons
-PluggableDialogWindow>>#useOKDefaultCancelButton
-PluggableDialogWindow>>#useDefaultOKCancelButton
-PluggableDialogWindow>>#useDefaultOKButton
-CheckboxButtonMorph>>#toggleEnabled
-CheckboxButtonMorph>>#imageToUse
-CheckboxButtonMorph>>#imageFromName:
-CheckboxButtonMorph>>#checkboxFillStyleToUse
-CheckboxButtonMorph>>#checkboxBorderStyleToUse
-CheckboxButtonMorph>>#enabledString
-CheckboxButtonMorph>>#radioBorderStyleToUse
-CheckboxButtonMorph>>#radioFillStyleToUse
-TextHighlight class>>#on:
-RBRefactoring class>>#cleanUp
-TxAthensRenderingTest class>>#newText
-TxAthensRenderingTest class>>#test
-NBExternalEnumTests>>#testCallbackEnumFromInt
-NBExternalEnumTests>>#testCallbackAAA
-NBExternalEnumTests>>#primExecuteCallbackEnumReturn:
-MetacelloMCBaselineProject>>#setBaselineRepositoryDescription:
-TxTextRenderer>>#render:lines:on:
-TxTextRenderer>>#initialize
-TxTextRenderer>>#renderLines:on:
-TxTextRenderer>>#advance:
-TxTextRenderer>>#canvas
-ArrayTest>>#testSorted
-NBTestStructure class>>#fieldsDesc
-ImagePreviewMorph>>#newTextMorph
-ImagePreviewMorph>>#cornerStyle:
-ImagePreviewMorph>>#image:size:
-ImagePreviewMorph>>#newImageMorph
-ImagePreviewMorph>>#defaultImageFormOfSize:
-PluggableSliderMorph class>>#on:getValue:setValue:
-PluggableSliderMorph class>>#on:getValue:setValue:min:max:quantum:
-MetacelloMCProjectSpec>>#hasConflictWithBaseline:
-RGMethodDefinitionTest>>#foo
-MCFileRepositoryInspector class>>#versionSearchList
-MCFileRepositoryInspector class>>#order
-MCFileRepositoryInspector class>>#packageSearchList
-MCFileRepositoryInspector class>>#repository:workingCopy:
-MCFileRepositoryInspector class>>#order:
-FloatArrayTest>>#testSorted
-ColorChooserMorph>>#toggleEnabled
-ColorChooserMorph>>#enabledString
-PharoSourcesCondenser>>#writeClassComment:
-HistoryNodeTest>>#testOneGroup
-HistoryNodeTest>>#testTwoGroups
-HistoryNodeTest>>#testGroup
-HistoryNodeTest>>#testTwoConsecutiveCloseGroup
-HistoryNodeTest>>#testOneItem
-HistoryNodeTest>>#testReset
-HistoryNodeTest>>#testClose
-HistoryNodeTest>>#testEmptyHistory
-TabsExample>>#title
-WeakFinalizerItem class>>#new
-AthensBalloonSolidColorPaint>>#strokeRect:on:strokeWidth:
-LongMessageDialogWindow>>#newTextMorph
-LongMessageDialogWindow>>#newContentMorph
-LongMessageDialogWindow>>#isResizeable
-TextLink class>>#scanFrom:
-MetacelloProjectSpec>>#hasLoadConflicts:
-NBTestUnion2Pointers class>>#fieldsDesc
-GLMPagerScrollButtonBrick>>#checkedIcon:
-GLMPagerScrollButtonBrick>>#click:
-GLMPagerScrollButtonBrick>>#deselect
-GLMPagerScrollButtonBrick>>#initialize
-GLMPagerScrollButtonBrick>>#checkedFocusedIcon:
-GLMPagerScrollButtonBrick>>#checkedFocusedIcon
-GLMPagerScrollButtonBrick>>#isFocused
-GLMPagerScrollButtonBrick>>#select
-GLMPagerScrollButtonBrick>>#setNotFocused
-GLMPagerScrollButtonBrick>>#checkedIcon
-GLMPagerScrollButtonBrick>>#setFocused
-StackLayout>>#flushLayoutCache
-StackLayout>>#minExtentOf:in:
-StackLayout>>#layout:in:
-ZipStringMember class>>#newFrom:named:
-GlyphRenderer class>>#test
-GlyphRenderer class>>#forFont:
-IntervalTest>>#testSorted
-MCMergeBrowser class>>#resolveConflictsInMerger:
-ArchiveMember class>>#newFromString:
-ArchiveMember class>>#newFromFile:
-ArchiveMember class>>#newDirectoryNamed:
-AthensTextLine>>#renderOn:x:y:
-AthensTextLine>>#initialize
-AthensTextLine>>#width
-AthensTextLine>>#addCommand:
-AthensTextLine>>#top:
-AthensTextLine>>#startIndex:
-AthensTextLine>>#maxHeight:
-AthensTextLine>>#addWidth:
-AthensTextLine>>#text:
-ReTransformationCritic class>>#for:by:tree:
-GTSpotterStreamMock>>#addObject:inProcessor:
-GTSpotterStreamMock>>#initialize
-ParserNotification>>#openMenuIn:
-ParserNotification>>#setName:
-ParserNotification>>#defaultAction
-ParserNotification class>>#name:
-RubNotificationStrategy>>#editor
-RubNotificationStrategy>>#editor:
-RubNotificationStrategy>>#notify:at:in:
-MCMockClassA class>>#initializationOrder
-MCMockClassA class>>#initialize
-MCMockClassA class>>#touchCVar
-MCMockClassA class>>#one
-MCMockClassA class>>#cVar
-SimpleGridNodeExample>>#secondNameMorph
-SimpleGridNodeExample>>#firstNameMorph
-SimpleGridNodeExample>>#ageMorph
-SimpleGridNodeExample>>#marriedMorph
-TextFontReference class>>#toFont:
-MCMockASubclass class>>#initialize
-TxAthensLayout>>#hideEmbeddedObject:
-PSMCMergeMorph class>>#forMerger:
-KMShortcutSetting class>>#settingInputWidgetForNode:
-KMShortcutSetting class>>#for:in:
-TextKern>>#reset
-TextKern>>#kern:
-TextKern>>#dominates:
-TextKern>>#hash
-TextKern>>#kern
-TextKern>>#writeScanOn:
-TextKern>>#set
-TextKern>>#dominatedByCmd0
-TextKern>>#=
-FreeTypeFontSelectorDialogWindow>>#updateFromSelectedFont
-FreeTypeFontSelectorDialogWindow>>#matchingFont
-FreeTypeFontSelectorDialogWindow>>#defaultFontFamilies
-TxEmbeddedObjectTest>>#testInsertingObject
-TxEmbeddedObjectTest>>#testBuildingLayoutWithObject
-TextURL>>#actOnClick:for:in:editor:
-AthensPluggableTextMorph>>#textMorphClass
-TxAthensLayoutTest>>#layout
-SystemVersionTest>>#testMajorMinorVersion
-SystemVersionTest>>#testMajorMinorWithSeparatingString
-SystemVersionTest>>#testUpgrade
-SystemVersionTest>>#testUpgradeState
-SystemVersionTest>>#testParseShortVersionString
-TxInsertOperation>>#undo
-TxInsertOperation>>#text:
-ZipFileMember class>>#newFrom:named:
-TabLabelMorph>>#focusBounds
-TxViewDecoratorMorph>>#computeBoundsIn:
-NBTestUnion1Byte class>>#fieldsDesc
-RBBrowserEnvironmentTest class>>#packageNamesUnderTest
-GLMTreeBrick>>#headerFor:in:
-GLMTreeBrick>>#collapsableFor:
-MorphTreeResizerMorph>>#updateFromEvent:
-MorphTreeResizerMorph>>#normalFillStyle
-MorphTreeResizerMorph>>#getOldColor
-MorphTreeResizerMorph>>#pressedFillStyle
-MorphTreeResizerMorph>>#normalizedY:
-MorphTreeResizerMorph>>#splitsTopAndBottom
-MorphTreeResizerMorph>>#resizeCursor
-MorphTreeResizerMorph>>#container:index:
-MorphTreeResizerMorph>>#setGrabbedColor
-MorphTreeResizerMorph>>#normalizedX:
-PopupChoiceDialogWindow>>#newMenuWith:
-PopupChoiceDialogWindow>>#deleteIfPopUp:
-PopupChoiceDialogWindow>>#rootMenu
-PopupChoiceDialogWindow>>#newContentMorph
-PopupChoiceDialogWindow>>#selectFirstEnabledItem
-PopupChoiceDialogWindow>>#newButtons
-PopupChoiceDialogWindow>>#scrollPane
-PopupChoiceDialogWindow>>#newFilterEntry
-PopupChoiceDialogWindow>>#newChoicesMorph
-PopupChoiceDialogWindow>>#newChoiceButtonFor:
-PopupChoiceDialogWindow>>#activate:
-PopupChoiceDialogWindow>>#switchToNextColumn
-PopupChoiceDialogWindow>>#switchToPreviousColumn
-PopupChoiceDialogWindow>>#selectLastEnabledItem
-PopupChoiceDialogWindow>>#choose:
-NBTestEnumerationFromPairs class>>#enumDecl
-TextStream>>#applyAttribute:beginningAt:
-DropListMorph class>>#on:list:selected:changeSelected:
-DropListMorph class>>#on:list:selected:changeSelected:useIndex:
-SpecWindowTest>>#testIsDisplayed
-PSMCMergeMorph>>#updateCode
-PSMCMergeMorph>>#compositeText:
-PSMCMergeMorph>>#defaultTitle
-PSMCMergeMorph>>#allConflictsResolved
-PSMCMergeMorph>>#notAllConflictsResolved
-PSMCMergeMorph>>#conflictCountString
-PSMCMergeMorph>>#conflictCount
-PSMCMergeMorph>>#selectNextConflict
-SugsNautilusContext>>#selectedInterval
-MBAddRepositoryCommand>>#newRepository
-GLMPhlowTableBrick>>#setAdaptor
-GLMTablePresentation>>#column:evaluated:modified:
-TextDoIt class>>#scanFrom:
-TextDoIt class>>#evalString:
-SimplestClassListExample>>#plugOne
-SimplestClassListExample>>#rootItemsOrig
-SimplestClassListExample>>#rootItemsTest
-SimplestClassListExample>>#openDialogOn:
-GLMCompositePresentationTest>>#testCompositeWithinCompositePanePropagation
-GLMCompositePresentationTest>>#testCompositeWithinCompositeOuterPortEvents
-TextFontChange class>>#fontNumber:
-TextFontChange class>>#defaultFontChange
-TextFontChange class>>#font2
-TextFontChange class>>#font1
-TextFontChange class>>#font4
-TextFontChange class>>#font3
-LazyMorphListMorph>>#selectionFrameForRow:
-LazyMorphListMorph>>#adjustHeight
-LazyMorphListMorph>>#drawBoundsForRow:
-LazyMorphListMorph>>#selectRow:
-LazyMorphListMorph>>#listChanged
-LazyMorphListMorph>>#drawSubmorphsOn:
-LazyMorphListMorph>>#rowAtLocation:
-LazyMorphListMorph>>#hUnadjustedScrollRange
-LazyMorphListMorph>>#userString
-LazyMorphListMorph>>#adjustWidth
-LazyMorphListMorph>>#display:atRow:on:
-MBAddConfigurationCommandTest>>#testExecute
-OSTouchScrollEvent class>>#id
-ImageFillStyle class>>#form:
-TextSelectionColor>>#emphasizeScanner:
-TextSelectionColor>>#dominates:
-ReflectiveMethod class>>#on:
-GLMPortReference>>#postCopy
-GLMPaginatedResizableMorphTreeMorph>>#resizeColumns
-SmalllintManifestCheckerTest class>>#DoIt
-MCClassDefinitionTest class>>#classACommentStamp
-MCClassDefinitionTest class>>#restoreClassAComment
-MCClassDefinitionTest class>>#classAComment
-MalTEdgeNode>>#nextEdges
-MalTEdgeNode>>#previousEdges
-MalTEdgeNode>>#from:edge:
-MalTEdgeNode>>#to:edge:
-DockingBarMenuMorph>>#veryDeepInner:
-DockingBarMenuMorph>>#roundedCorners
-DockingBarMenuMorph>>#activeSubmenu:
-MemoryFileSystemEntry class>>#named:
-TextEditorTest>>#keyboardEvent
-AthensCairoSurface class>>#asNBExternalType:
-VMWindowDriver>>#createWindowWithAttributes:osWindow:
-PopupChoiceOrRequestDialogWindow class>>#minWidth
-GLMPagePoped>>#initialize
-MTDependencyTest>>#testRemoveGroup
-MTDependencyTest>>#testRemove
-MTDependencyTest>>#testProject
-MTDependencyTest>>#setUp
-MalDisjointSets>>#nodeClass
-MalDisjointSets>>#components
-MalDisjointSets>>#run
-FT2GlyphRenderer class>>#forFont:surface:
-MBSetUserCommand>>#title
-MBSetUserCommand>>#execute
-MBSetUserCommand>>#documentation
-KMPerInstanceTests>>#testAddMoreThanOneHandler
-OSWindowGLAttributes class>>#defaultRedSize
-OSWindowGLAttributes class>>#defaultDoubleBuffer
-OSWindowGLAttributes class>>#initialize
-OSWindowGLAttributes class>>#defaultGreenSize
-OSWindowGLAttributes class>>#defaultBlueSize
-OSWindowGLAttributes class>>#defaultSwapControl
-OSWindowGLAttributes class>>#defaultStencilSize
-OSWindowGLAttributes class>>#defaultDepthSize
-OSWindowGLAttributes class>>#defaultAlphaSize
-OSTouchComplexEvent class>>#id
-MCMczInstallerTest class>>#isAbstract
-MCMczInstallerTest class>>#suite
-GLMHorizontalScrollPaneBrick>>#calculateMaxVelocity
-AthensBezierConverter class>>#initialize
-PackageTreeExample>>#open
-PackageTreeExample>>#menu:shifted:
-PackageTreeExample>>#rootNodeClassFromItem:
-PackageTreeExample>>#defaultTreeMorph
-PackageTreeExample>>#doubleClick
-PackageTreeExample>>#keyStroke:from:
-PackageTreeExample>>#rootItems
-SDL2MappedEvent class>>#fromSdlEvent:
-RBMoveInstVarToClassRefactoring class>>#model:variable:class:oldClass:
-SugsSuggestionSwapMethodTest>>#testLabelForSwapInstanceMethodRefersToClass
-SugsSuggestionSwapMethodTest>>#testLabelForSwapWithoutSelectedMethodIsGeneric
-SugsSuggestionSwapMethodTest>>#testLabelForSwapClassMethodRefersToInstance
-PluggableTextEditorMorph>>#toggleEnabled
-PluggableTextEditorMorph>>#enabledString
-PluggableTextEditorMorph>>#textMorphClass
-TextMethodLink class>>#selector:
-TextMethodLink class>>#selector:senders:
-AthensCairoTransform class>>#for:
-CollectionRootTest class>>#isAbstract
-CairoPNGPaint class>>#fileNamed:
-BaselineOfRenraku>>#unsubscribeReEngine
-SDL2TouchExample class>>#example
-CP1253TextConverter class>>#initialize
-DashedBorder class>>#width:dashColors:dashLengths:
-MethodIsExampleAction>>#isActionHandled
-MethodIsExampleAction>>#privateActionIcon
-MethodIsExampleAction>>#actionOrder
-InfiniteForm>>#addFillStyleMenuItems:hand:from:
-AthensTreeView>>#root:
-AthensTreeView>>#rowAt:
-AthensTreeView>>#root:extentBlock:childsBlock:
-AthensTreeView>>#renderOn:
-AthensTreeView>>#layOutGeometry
-AthensTreeView>>#buildSubtreeFor:level:
-AthensTreeView>>#spacingBetweenRows
-GLMPagerWidgetThemer>>#previewPaneStyleFor:
-GLMPagerWidgetThemer>>#selectedPaneStyleFor:
-GLMPagerWidgetThemer>>#defaultScrollButtonStyleFor:
-JoinSection>>#containsPoint:
-JoinSection>>#createHighlights
-JoinSection>>#clicked
-JoinSection>>#updateShape
-JoinSection>>#drawMapOn:in:scale:
-JoinSection>>#borderColorToUse
-JoinSection>>#wantsClick
-JoinSection>>#createHighlightsFrom:to:
-JoinSection>>#drawOn:
-JoinSection>>#newHighlight
-JoinSection>>#fillStyleFor:
-JoinSection>>#addHighlightsFrom:to:to:color:
-ContextTempEyeElement class>>#host:tempName:tempIndex:
-SourceSansProRegular>>#fontContents
-MCTestCase class>>#isAbstract
-MCTestCase class>>#resources
-GTDummyExampleWithAssertions class>>#gtExamplesProvider
-SimplestPaginatedClassListExample>>#itemsForTest
-SimplestPaginatedClassListExample>>#openDialogOn:
-NBTestUnionWithStructure class>>#fieldsDesc
-TSortTest>>#testSorted
-CheckboxMorph>>#toggleEnabled
-CheckboxMorph>>#enabledString
-ListItemWrapper class>>#with:model:
-ListItemWrapper class>>#with:
-KeymapBuilderTest class>>#keymapEventBuilderClass
-ProportionalSplitterMorph class>>#splitterWidth
-NBUTF8StringExample>>#pushAsValue:
-NBUTF8StringExample>>#prepareArgumentUsing:
-ModelDependentDialogWindow>>#addInitialPanel
-ModelDependentDialogWindow>>#model:
-SDL_SysWMinfo class>>#fieldsDesc
-MetacelloMCProject>>#setBaselineRepositoryDescription:
-RBExplicitRequirementMethodsRule>>#group
-GTSpotterSmokeTest>>#tearDown
-Model>>#announcer
-AthensTextRenderer class>>#textGoryDetails
-WindowAnnouncement>>#isDeActivated
-WindowAnnouncement>>#isActivated
-ExecutionDisplayMorph>>#step
-ExecutionDisplayMorph>>#stepTime
-ExecutionDisplayMorph>>#wantsSteps
-ExecutionDisplayMorph>>#noteExecuted
-DebugActionExecuted class>>#forDebuggingAction:
-CurveWorkshop>>#draw
-CurveWorkshop>>#drawQuadFrom:via:to:on:
-CurveWorkshop>>#drawOn:
-TaskbarTask class>>#morph:state:icon:label:
-NBMockExternalObject class>>#finalizeResourceData:
-TEnableOnHaloMenu>>#toggleEnabled
-TEnableOnHaloMenu>>#enabledString
-SDL2TouchStateMachine class>>#for:
-WeakKeyDictionaryTest class>>#timingLarge
-WeakKeyDictionaryTest class>>#timingMany
-WindowExpanded>>#isExpanded
-SDL_KeyboardEvent class>>#fieldsDesc
-GLMMorphicSpotterTest>>#creation
-OSNullWindowHandle class>>#fromAttributes:for:
-PopupChoiceDialogWindowWithMessage>>#newIconMorph
-PopupChoiceDialogWindowWithMessage>>#newTextMorph
-PopupChoiceDialogWindowWithMessage>>#initialExtent
-PopupChoiceDialogWindowWithMessage>>#newContentMorph
-OCClosureCompilerTest class>>#compilerClass
-ObjectsAsMethodsExample>>#run:with:in:
-ObjectsAsMethodsExample>>#add:with:
-ObjectsAsMethodsExample>>#answer42
-UnlimitedInstanceVariableSlotTest>>#testExampleIvarSlot
-UnlimitedInstanceVariableSlotTest>>#testExampleTwoIvarSlots
-WindowCollapsed>>#isCollapsed
-SugsSuggestionFactory class>>#cleanUp
-AthensTextScanner>>#resetBackground
-AthensTextScanner>>#defaultFont
-AthensTextScanner>>#addCharacter:
-AthensTextScanner>>#defaultColor
-AthensTextScanner>>#applyAttributes
-AthensTextScanner>>#initialize
-AthensTextScanner>>#addCommand:
-AthensTextScanner>>#defaultTextStyle
-AthensTextScanner>>#lines
-AthensTextScanner>>#textStyle
-AthensTextScanner>>#endLine:
-AthensTextScanner>>#newLine:
-AthensTextScanner>>#text:
-AthensTextScanner>>#setAttributes:
-AthensBalloonSurface class>>#extent:
-GLMSpecPresentation>>#renderGlamorouslyOn:
-TxAthensNullViewContainer>>#layoutIsAboutToResetIn:
-TxAthensNullViewContainer>>#viewChanged:
-TxAthensNullViewContainer>>#newEmbeddedObjectCommand:
-DebugActionExecuted>>#actionId:
-TextEmphasis class>>#narrow
-TextEmphasis class>>#struckOut
-TextEmphasis class>>#bold
-TextEmphasis class>>#normal
-TextEmphasis class>>#italic
-TextEmphasis class>>#underlined
-SpecDebugger>>#refactor
-SpecDebugger>>#browsedEnvironment
-SpecDebugger>>#selectedMessage
-SpecDebugger>>#selectedClass
-SpecDebugger>>#selectedMethods
-SpecDebugger>>#selectedMethod
-ToolDockingBarMorph>>#updateColor
-ToolDockingBarMorph>>#normalFillStyle
-ToolDockingBarMorph>>#wantsYellowButtonMenu
-ToolDockingBarMorph>>#gradientRamp
-SimplestClassListWithPagerExample>>#defaultTreeMorph
-SystemProgressMorph>>#openInWorld
-RBSmalllintTest>>#testRBMissingSubclassResponsibilityRule
-NBTestStructure9bytes class>>#fieldsDesc
-WeakOrderedCollection class>>#arrayType
-BracketSliderMorph>>#gradient
-TxTextAdapter>>#classOrMetaClass:
-TxTextAdapter>>#getText
-TxTextAdapter>>#pendingText:
-TxTextAdapter>>#buildWidget
-TxTextAdapter>>#editorDo:
-TxTextAdapter>>#font:
-TxTextAdapter>>#takeKeyboardFocus
-TxTextAdapter>>#adapt:
-TxTextAdapter>>#setScrollValue:
-TxTextAdapter>>#setSelectionFromModel:
-MockContainer class>>#for:
-HashTesterTest>>#testBasicBehaviour
-PointerFinderTest>>#testNoPointingObject
-PointerFinderTest>>#testBasic1
-PointerFinderTest>>#testCycle
-SDL2Constants class>>#initializeWM
-DoesNotUnderstandDebugAction class>>#actionType
-SDL2Handle class>>#nbLibraryNameOrHandle
-ColorFillStyle>>#fillRectangle:on:
-ColorFillStyle>>#isOrientedFill
-DiffMapMorph>>#mouseDown:
-DiffMapMorph>>#mappingsHeight
-DiffMapMorph>>#handlesMouseDown:
-AthensSimpleTreeNode>>#children:
-AthensSimpleTreeNode>>#children
-AthensSimpleTreeNode>>#midTop
-AthensSimpleTreeNode>>#midBottom
-AthensSimpleTreeNode>>#renderOn:
-ColorForm class>>#mappingWhiteToTransparentFrom:
-OSKeySymbols class>>#initializeKeycodes2
-OSKeySymbols class>>#initializeKeycodes
-OSKeySymbols class>>#initializeKeycodes3
-OSKeySymbols class>>#initialize
-MCFileTreeStSnapshotWriter>>#writeMethodHolderDefinitions:extension:to:do:
-GTSpotterStackedLayout>>#gatherStacked:
-GTSpotterStackedLayout>>#cutAllowedBoundsBottom:
-GTSpotterStackedLayout>>#shrinkBottom:with:
-GTSpotterStackedLayout>>#layoutAllowedBottom:
-GTSpotterStackedLayout>>#shrinkTop:with:
-GTSpotterStackedLayout>>#increaseZindex:
-GTSpotterStackedLayout>>#layoutAllowedTop:
-GTSpotterStackedLayout>>#layoutProportional:in:position:
-GTSpotterStackedLayout>>#decreaseZindex:
-GTSpotterStackedLayout>>#deltaBottom:
-GTSpotterStackedLayout>>#deltaTop:
-GTSpotterStackedLayout>>#layoutStacked:in:
-GTSpotterStackedLayout>>#cutAllowedBoundsTop:
-RFCondition class>>#for:
-RubTextInsertionStrategy>>#notify:at:in:
-AthensCairoPatternSurfacePaint>>#setMatrix:
-AthensCairoPatternSurfacePaint>>#direction:
-AthensCairoPatternSurfacePaint>>#origin:
-NBTestNestedStructure class>>#fieldsDesc
-NBMemoryPage>>#firstBlock
-NBMemoryPage>>#totalAllocatedMemory
-NBMemoryPage>>#address
-NBMemoryPage>>#length
-GLMStringBrick class>>#example
-VSUnloadUnit>>#execute
-UserOfFooSharedPool>>#simpleMethod
-PragmaType>>#spotterSendersFor:
-TextKern class>>#kern:
-FTTableMorph class>>#with:
-OSTouchRotationEvent class>>#id
-MCRepositoryInspector class>>#repository:workingCopy:
-ReMissingMethodCritic class>>#for:by:class:selector:
-NBTestCallbackReturnEnum class>>#fnSpec
-MCMockRPackage>>#name
-MCMockRPackage>>#classNames
-MCMockRPackage>>#classes
-MCMockRPackage>>#packageName
-MCMockRPackage>>#systemCategories
-MCMockRPackage>>#includesSystemCategory:
-MCMockRPackage>>#includesClass:
-AJRoutineStackManager>>#stackFrameCheck
-AJRoutineStackManager>>#analyzeInstructions:assembler:
-AJRoutineStackManager>>#noStackFrame
-AJRoutineStackManager>>#newStdCall
-AJRoutineStackManager>>#emitEpilogue:assembler:
-AJRoutineStackManager>>#newCdeclCall
-AJRoutineStackManager>>#reserveExtraBytesOnStack:
-AJRoutineStackManager>>#releaseTemps:
-AJRoutineStackManager>>#reserveTemp:
-OSTouchPinchEvent class>>#id
-ExampleRadioButtonModel>>#beRight
-ExampleRadioButtonModel>>#isRight
-ExampleRadioButtonModel>>#isLeft
-ExampleRadioButtonModel>>#beCenter
-ExampleRadioButtonModel>>#isCenter
-ExampleRadioButtonModel>>#beLeft
-NBWin32Window class>>#DefWindowProcA
-NBWin32Window class>>#DefWindowProcW
-NBWin32Window class>>#createWindowExW:lpClassName:lpWindowName:dwStyle:x:y:width:height:hWndParent:hMenu:hInstance:lParam:
-NBWin32Window class>>#createWindowExA:lpClassName:lpWindowName:dwStyle:x:y:width:height:hWndParent:hMenu:hInstance:lParam:
-AthensCurveFlattener class>>#initialize
-CairoGlyph class>>#byteAlignment
-OSTouchDoubleTapEvent class>>#id
-TxAthensLayoutStrategy>>#fontMetricsProviderFor:
-TxAthensLayoutStrategy>>#alignTab:
-MFClassA>>#method
-OCScopesCollector>>#visitBlockNode:
-OCScopesCollector>>#visitMethodNode:
-AthensCairoDefs class>>#initialize_cairo_format_t
-AthensCairoDefs class>>#init_cairo_subpixel_order_t
-AthensCairoDefs class>>#initialize_cairo_hint_metrics_t
-AthensCairoDefs class>>#initialize_cairo_line_cap_t
-AthensCairoDefs class>>#initialize_cairo_antialias_t
-AthensCairoDefs class>>#initialize_cairo_hint_style_t
-AthensCairoDefs class>>#initialize_cairo_font_slant_t
-AthensCairoDefs class>>#initialize
-AthensCairoDefs class>>#initialize_types
-AthensCairoDefs class>>#initialize_cairo_line_join_t
-AthensCairoDefs class>>#initialize_cairo_status_t
-AthensCairoDefs class>>#initialize_cairo_operator_t
-AthensCairoDefs class>>#initialize_cairo_font_weight_t
-AthensCairoDefs class>>#initialize_cairo_font_type_t
-AthensCairoDefs class>>#initialize_cairo_extend_t
-SDL2TouchGestureExample2 class>>#example
-InterpolatedGradientFillStyle>>#interpolatedAlphaMix:of:and:
-InterpolatedGradientFillStyle>>#computePixelRampOfSize:
-AthensCairoPDFSurface class>>#finalizeResourceData:
-AthensCairoPDFSurface class>>#extent:fileName:
-AthensCairoPDFSurface class>>#registerSurface:
-MetacelloPlatform>>#downloadErrorFileNameFor:
-TextVariableLink class>>#variableName:
-BytecodeEncoder>>#sizeCallPrimitive:
-KeymapBuilderTest>>#testAddKeymapCreatesCategory
-KeymapBuilderTest>>#testAddKeymapCreatesShortcut
-KeymapBuilderTest>>#testAttachKeymapAndExecuteExecutes
-ThumbnailMorph class>>#recursionReset
-MalBfsNode>>#to:edge:
-AthensTextComposer>>#scan:for:
-AthensTextComposer>>#lines
-AthensTextComposer>>#renderOn:
-SDL2TouchGestureExample class>>#example
-MacRomanTextConverter class>>#initialize
-KMDispatcherTestCase class>>#keymapEventBuilderClass
-AbsolutePath class>>#addEmptyElementTo:
-AbsolutePath class>>#from:delimiter:
-MalWeightedHitsNode>>#from:edge:
-MalWeightedHitsNode>>#to:edge:
-UndefinedVariable>>#openMenuIn:
-MCMock class>>#wantsChangeSetLogging
-TraitsTestCase class>>#resources
-RBDeprecateMethodRefactoring class>>#model:deprecateMethod:in:using:
-UndeclaredVariable class>>#signalFor:name:inRange:
-NBTestUnionWithUnion class>>#fieldsDesc
-TextSelectionColor class>>#cleanUp
-MFClassB>>#method2
-MFClassB>>#method3
-AthensTigerShape>>#setPath:
-AthensTigerShape>>#fillRule:
-AthensTigerShape>>#miterLimit:
-AthensTigerShape>>#capStyle:
-AthensTigerShape>>#initialize
-AthensTigerShape>>#joinStyle:
-AthensTigerShape>>#fillRule
-AthensTigerShape>>#prepareFor:
-AthensTigerShape>>#strokeWidth:
-AthensTigerShape>>#addFill
-AthensTigerShape>>#strokePaint:
-AthensTigerShape>>#fillPaint:
-AthensTigerShape>>#renderOn:
-AthensTigerShape>>#addStroke
-RFMessageNode>>#debugHighlightRange
-AJx86RegisterTests>>#testAsLowByte
-AJx86RegisterTests>>#testRegisterWidthConversions
-AJx86RegisterTests>>#testAsHighByte
-NullSoundTheme class>>#themeName
-AbstractEnumerationVisitorTest class>>#isAbstract
-SimplestClassListWithChunkExample>>#defaultTreeMorph
-WeakOrderedCollectionTest>>#testWeakOrderedCollectionSomeGarbageCollected
-WeakOrderedCollectionTest>>#testWeakOrderedCollectionAllGarbageCollected
-GLMBrowserWithoutBlocksExample>>#displayList:
-GLMBrowserWithoutBlocksExample>>#compose
-TxSliderAnnouncement class>>#source:
-WeakFinalizersTest>>#testNewFinalizationSupported
-DiffMorph class>>#from:to:
-DiffMorph class>>#from:to:contextClass:
-RubFindReplaceService>>#initialize
-ProfStef class>>#goToNextLesson
-UnusedVariable>>#openMenuIn:
-NBTestEnumeration class>>#enumDecl
-NBTestCallbackReturnEnum1 class>>#fnSpec
-SQSurfaceDispatch class>>#fieldsDesc
-NautilusKeyPressed class>>#key:
-CursorWithMask class>>#derivedFrom:
-DiffJoinMorph>>#compositeText
-DiffJoinMorph>>#updateMappings
-MalGraphNode class>>#with:
-CP1250TextConverter class>>#initialize
-RBFooLintRuleTest1>>#foo
-ReStringSearchCritic class>>#for:by:badSubstring:
-SymbolTest>>#testSorted
-ProceedDialogWindow>>#newButtons
-ProceedDialogWindow>>#no
-ProceedDialogWindow>>#icon
-ProceedDialogWindow>>#yes
-ProceedDialogWindow>>#handlesKeyboard:
-ProceedDialogWindow>>#keyStroke:
-AbstractEnumerationVisitorTest>>#setUp
-AbstractEnumerationVisitorTest>>#root
-AbstractEnumerationVisitorTest>>#assertEntries:are:
-LimitedWriteStream>>#setLimit:limitBlock:
-ButtonModelTest>>#testAskBeforeChanging
-OSTouchHoldEvent class>>#id
-JobProgressBarMorph>>#value:
-JobProgressBarMorph>>#decrement
-JobProgressBarMorph>>#progress:
-JobProgressBarMorph>>#increment
-JobProgressBarMorph>>#progress
-MalDijkstraNode>>#to:edge:
-UnknownSelector>>#openMenuIn:
-EdgeGripMorph>>#pressedFillStyle
-EdgeGripMorph>>#adoptPaneColor:
-EdgeGripMorph>>#defaultHeight
-EdgeGripMorph>>#positionPoint:
-EdgeGripMorph>>#defaultWidth
-EdgeGripMorph>>#mouseUp:
-EdgeGripMorph>>#leftLayoutFrame
-EdgeGripMorph>>#gripLayoutFrame
-EdgeGripMorph>>#themeChanged
-EdgeGripMorph>>#isHorizontal
-EdgeGripMorph>>#setLayoutSizingFor:
-EdgeGripMorph>>#normalFillStyle
-EdgeGripMorph>>#bottomLayoutFrame
-EdgeGripMorph>>#splitsTopAndBottom
-EdgeGripMorph>>#setTargetBounds:
-EdgeGripMorph>>#topLayoutFrame
-EdgeGripMorph>>#fitTargetBoundsInOwner:
-EdgeGripMorph>>#rightLayoutFrame
-EdgeGripMorph>>#targetPoint:
-EdgeGripMorph>>#targetPoint
-AverageCost>>#total
-WeakValueAssociation class>>#new
-KMBuffer class>>#resetUniqueInstance
-KMBuffer class>>#uniqueInstance:
-KMBuffer class>>#uniqueInstance
-TxTextRenderer class>>#textGoryDetails
-OSNullWindowDriver class>>#isSupported
-MCMockClassE class>>#two
-JoinSide>>#highlight
-TextComposer class>>#characterForColumnBreak
-StringTest>>#testSorted
-KMCombinationTests>>#testWindowsDependentShortcut
-KMCombinationTests>>#testCombinationOfSimpleShortcuts
-KMCombinationTests>>#testMacDependentShortcut
-KMCombinationTests>>#testShortcutIsSimpleCombination
-KMCombinationTests>>#testUnixDependentShortcut
-KMCombinationTests>>#testPlatformDependentShortcut
-KMCombinationTests>>#testCombinationSeveralShortcuts
-TxAthensLayoutLine>>#notifyRemovedFrom:
-GlyphRenderer>>#initForFont:
-KMKeymapBuilder class>>#for:platform:
-TotalCost>>#total
-MCMockClassD>>#one
-AthensCairoPathBuilder class>>#buildPathFrom:
-AthensQuartzSurface class>>#finalizeResourceData:
-AthensQuartzSurface class>>#primImage:width:height:
-AthensQuartzSurface class>>#registerSurface:
-MalGraphEdge class>>#with:
-OverflowRowMorph>>#moreButtonLabel
-OverflowRowMorph>>#desiredMoreMorphPosition
-OverflowRowMorph>>#fitBaseMorphs
-OverflowRowMorph>>#baseMorph:
-OverflowRowMorph>>#recreateMoreMorph
-OverflowRowMorph>>#hideMore
-OverflowRowMorph>>#moreMorphs
-OverflowRowMorph>>#moreVisible
-OverflowRowMorph>>#popMore
-OverflowRowMorph>>#showMore
-AthensCairoMatrix class>>#fieldsDesc
-GLMRubricTextMorphicTest>>#expectedFailures
-BaseStreamTest class>>#isAbstract
-BaseStreamTest class>>#isUnitTest
-ZipDirectoryMember class>>#newNamed:
-FileDirectoryWrapper>>#settingSelector
-FileDirectoryWrapper>>#directoriesFor:
-GLMPagerScrollSlidingBrick>>#computeWidth
-GLMPagerScrollSlidingBrick>>#computeScrollValue:
-GLMPagerScrollSlidingBrick>>#setWidthAfterResizing
-MorphTest>>#testHaloIsDisable
-NBTestUnionIntSize class>>#fieldsDesc
-TxTextStylesTest>>#setUp
-TxTextStylesTest>>#testAddingSameStyleTwice
-TxTextStylesTest>>#testAddingCopyOfSameStyleReturnsOriginalStyle
-OrderedCollectionTest>>#testSorted
-ChooseDropListDialogWindow>>#newListMorph
-ChooseDropListDialogWindow>>#newContentMorph
-ChooseDropListDialogWindow>>#icon
-ChooseDropListDialogWindow>>#selectedItem
-ChooseDropListDialogWindow>>#selectionIndex
-FileDirectoryWrapper class>>#with:name:model:
-TxDeleteOperation>>#do
-TextEntryDialogWindow>>#newTextEditorMorph
-TextEntryDialogWindow>>#initialExtent
-AthensTextMorph>>#selectionColor:
-AthensTextMorph>>#paragraph
-AthensTextMorph>>#contents:wrappedTo:
-AthensTextMorph>>#createParagraph
-AthensCairoSurfaceExamples class>>#exampleInterop
-AthensCairoSurfaceExamples class>>#newSurface:
-TextURL class>>#scanFrom:
-AthensCairoGradientPaint class>>#radialBetween:extending:and:extending:withColorRamp:
-AthensCairoGradientPaint class>>#createLinearGradient:start:stop:
-AJImmediate class>>#ivalue:
-MBPackageInfo>>#cmdLoad
-MBPackageInfo>>#versions
-MBPackageInfo>>#mbPacakgeName
-OSWindowMorphicEventHandler class>>#initialize
-OSWindowMorphicEventHandler class>>#for:
-SoundTheme class>>#beCurrent
-SoundTheme class>>#isCurrent
-SoundTheme class>>#themeName
-SoundTheme class>>#current
-SoundTheme class>>#allThemeClasses
-SoundTheme class>>#current:
-SoundTheme class>>#newDefault
-SoundTheme class>>#isAbstract
-PathShape class>>#vertices:
-PluggableTextEditorMorph class>>#stylingClass
-ContributingToTheCatalogHelp class>>#bookName
-ContributingToTheCatalogHelp class>>#pages
-MCMockASubclass>>#variables2
-MCMockASubclass>>#variables
-QuestionWithoutCancelDialogWindow>>#escapePressed
-QuestionWithoutCancelDialogWindow>>#newButtons
-ExampleBuilderMorph>>#openModal:
-EyePointerExplorer class>>#registerToolsOn:
-KMDispatchChainTest>>#testTargetDoesNotIterateTheNil
-KMDispatchChainTest>>#testPassesOnTheTarget
-KMDispatchChainTest>>#testGlobalIsFirst
-AthensFlakeDemo>>#circle
-AthensFlakeDemo>>#initialize
-AthensFlakeDemo>>#defaultExtent
-AthensFlakeDemo>>#render
-AthensFlakeDemo>>#drawSpike:
-AthensFlakeDemo>>#step
-AthensFlakeDemo>>#stepTime
-AthensFlakeDemo>>#drawCircles:
-AthensFlakeDemo>>#drawOn:
-EditableDropListMorph class>>#on:list:selected:changeSelected:useIndex:addToList:class:getEnabled:
-EditableDropListMorph class>>#on:list:selected:changeSelected:useIndex:addToList:class:getEnabled:default:
-KeyedTreeTest>>#testAtPathIfAbsent
-KeyedTreeTest>>#testRemovePath
-KeyedTreeTest>>#testMerge
-KeyedTreeTest>>#testSubtrees
-KeyedTreeTest>>#testAtPathPut
-KeyedTreeTest>>#testCopy
-KeyedTreeTest>>#testAtPathIfAbsentPut
-KeyedTreeTest>>#testAtPath
-KeyedTreeTest>>#testRemovePathIfAbsent
-TextMorphForEditView>>#autoAccept:
-TextMorphForEditView>>#autoAccept
-TextMorphForEditView>>#doAutoAccept:
-TextMorphForEditView>>#acceptOnFocusChange
-TextMorphForEditView>>#acceptOnFocusChange:
-KMCategoryTest>>#testCreateExistentCategoryFails
-KMCategoryTest>>#categoryContainer
-KMCategoryTest>>#testAddKeymapToCategory
-KMCategoryTest>>#testCreateUnexistentCategory
-IRBuilderTest class>>#compilerClass
-GLMDropDownMorphicTest>>#testSelectionTriggeredOnSelectedIndex
-NBTestStructureWithPointer1 class>>#fieldsDesc
-TextFontReference>>#forFontInStyle:do:
-TextFontReference>>#toFont:
-TextFontReference>>#font
-TextFontReference>>#writeScanOn:
-GLMDynamicPresentation>>#outerPortEvent:
-OSTouchSwipeEvent class>>#id
-GLMActionsToolbarMorphicTest>>#expectedFailures
-TTwo>>#two
-AbstractFont class>>#emphasisStringFor:
-AthensParagraph>>#selectionStart:selectionStop:
-AthensParagraph>>#compose:style:in:
-AthensParagraph>>#text
-AthensParagraph>>#characterBlockForIndex:
-AthensParagraph>>#caretRect
-AthensParagraph>>#defaultCharacterBlock
-AthensParagraph>>#secondarySelection:
-AthensParagraph>>#textOwner:
-AthensParagraph>>#selectionColor:
-AthensParagraph>>#focused:
-AthensParagraph>>#extraSelectionChanged
-AthensParagraph>>#showCared
-AthensParagraph>>#selectionRects
-AthensParagraph>>#compose:style:from:in:
-AthensParagraph>>#positionWhenComposed:
-AthensParagraph>>#extent
-AthensParagraph>>#showCaret:
-AthensParagraph>>#focused
-AthensParagraph>>#findReplaceSelectionRegex:
-AthensParagraph>>#showCaret
-NBTestStructure1byte class>>#fieldsDesc
-GLMPopperNotificationStrategy>>#notify:at:in:
-KMLog class>>#log:
-KMLog class>>#setDebug
-KMLog class>>#removeDebug
-MockSourceEditor>>#selectionInterval
-MockSourceEditor>>#insertAndSelect:at:
-MockSourceEditor>>#selectionAsStream
-MockSourceEditor>>#text
-MockSourceEditor>>#selection
-MockSourceEditor>>#startIndex
-MockSourceEditor>>#editor
-MockSourceEditor>>#selectFrom:to:
-MockSourceEditor>>#notify:at:in:
-MockSourceEditor>>#contents:
-MockSourceEditor>>#cut
-FileHandle class>>#registry
-FileHandle class>>#register:
-AthensFontChange class>>#font:
-TxApplicationWithToolbar>>#text
-TxApplicationWithToolbar>>#openWithSpec
-TxApplicationWithToolbar>>#initializeWidgets
-SizeMismatch>>#standardMessageText
-SizeMismatch>>#messageText
-GLMMorphicDropDownRenderer>>#render:
-GLMMorphicDropDownRenderer>>#actOnPresentationUpdated:
-GLMMorphicDropDownRenderer>>#actOnContextChanged:
-WindowDeActivated>>#isDeActivated
-NBTestStructureWithCallback class>>#fieldsDesc
-RBRemoveAssignmentWithoutEffectRule>>#longDescription
-FuzzyLabelMorph>>#measureContents
-FuzzyLabelMorph>>#setWidth:
-FuzzyLabelMorph>>#initWithContents:font:emphasis:
-FuzzyLabelMorph>>#drawOn:
-KMKeymapTest class>>#keymapEventBuilderClass
-TextClassLink class>>#className:
-TextClassLink class>>#class:
-CairoGlyphsArray class>>#initialize
-AJx64AssemblerTests class>>#shouldInheritSelectors
-AthensCairoPatternSurfacePaint class>>#createForSurface:
-AthensCairoPatternSurfacePaint class>>#primCreateForSurface:
-CairoFontExtents class>>#fieldsDesc
-PluggableSet class>>#integerSet
-AthensDisplayScanner class>>#for:on:
-AthensDisplayScanner class>>#on:
-RBRemoveInstanceVariableRefactoring class>>#remove:from:
-RBRemoveInstanceVariableRefactoring class>>#model:remove:from:
-AnnouncementLogger>>#subscribeTo:
-AnnouncementLogger>>#logAnnouncement:
-RBLocalMethodsOfAClassNotInItsTraitComposition>>#group
-OSEvent class>>#for:
-PluggableDictionary class>>#integerDictionary
-RubAbstractSmalltalkMode>>#isCodeCompletionAllowed
-WindowActivated>>#isActivated
-AthensPathBuilder class>>#initialize
-CairoScaledFont>>#lock
-CairoScaledFont>>#unlock
-CheckboxMorph class>>#on:selected:changeSelected:
-GLMPhlowListBrick>>#setAdaptor
-GLMPhlowListBrick>>#displayLogic
+AbstractFontSelectorDialogWindow>>#toggleUnderlined [FontChooser]
+AbstractFontSelectorDialogWindow>>#updateSelectedFont [FontChooser]
+AbstractFontSelectorDialogWindow>>#toggleBold [FontChooser]
+AbstractFontSelectorDialogWindow>>#defaultPreviewText [FontChooser]
+AbstractFontSelectorDialogWindow>>#matchingFont [FontChooser]
+AbstractFontSelectorDialogWindow>>#updateFromSelectedFont [FontChooser]
+AbstractFontSelectorDialogWindow>>#toggleStruckOut [FontChooser]
+AbstractFontSelectorDialogWindow>>#fontSizes [FontChooser]
+AbstractFontSelectorDialogWindow>>#defaultFontFamilies [FontChooser]
+AbstractFontSelectorDialogWindow>>#textEmphasisCode [FontChooser]
+AbstractFontSelectorDialogWindow>>#toggleItalic [FontChooser]
+NBTestStructure2 class>>#fieldsDesc [NativeBoost-Tests]
+MulticolumnLazyListMorph>>#drawBoundsForRow: [Morphic-Widgets-Pluggable]
+PSMCMergePatchMorph>>#keepCurrentVersion [Tool-Diff]
+PSMCMergePatchMorph>>#markAsConflict [Tool-Diff]
+PSMCMergePatchMorph>>#allConflictsMenu [Tool-Diff]
+PSMCMergePatchMorph>>#selectionIsNotNil [Tool-Diff]
+PSMCMergePatchMorph>>#updateSource [Tool-Diff]
+PSMCMergePatchMorph>>#selectionIsRemoteChosen [Tool-Diff]
+PSMCMergePatchMorph>>#useIncomingVersion [Tool-Diff]
+PSMCMergePatchMorph>>#markAllAsConflict [Tool-Diff]
+PSMCMergePatchMorph>>#notAllConflictsResolved [Tool-Diff]
+PSMCMergePatchMorph>>#selectNextConflict [Tool-Diff]
+PSMCMergePatchMorph>>#hasAnyNonConflictConflicts [Tool-Diff]
+PSMCMergePatchMorph>>#hasAnyNonKeptConflicts [Tool-Diff]
+PSMCMergePatchMorph>>#hasAnyNonIncomingConflicts [Tool-Diff]
+PSMCMergePatchMorph>>#toggleApplySelectedChange [Tool-Diff]
+PSMCMergePatchMorph>>#hasConflicts [Tool-Diff]
+PSMCMergePatchMorph>>#nextConflict [Tool-Diff]
+PSMCMergePatchMorph>>#keepAllCurrentVersion [Tool-Diff]
+PSMCMergePatchMorph>>#changeTreeKey: [Tool-Diff]
+PSMCMergePatchMorph>>#changesMenu: [Tool-Diff]
+PSMCMergePatchMorph>>#allConflicts [Tool-Diff]
+PSMCMergePatchMorph>>#useAllIncomingVersion [Tool-Diff]
+AthensTextRenderer>>#renderBackground: [Athens-Text]
+AthensTextRenderer>>#initialize [Athens-Text]
+AthensTextRenderer>>#render:lines:on: [Athens-Text]
+AthensTextRenderer>>#setCurrentColor: [Athens-Text]
+AthensTextRenderer>>#renderBackground:width: [Athens-Text]
+AthensTextRenderer>>#renderCharactersFrom:to: [Athens-Text]
+AthensTextRenderer>>#setCurrentFont: [Athens-Text]
+CustomQuestionDialogWindow>>#default: [Polymorph-Widgets]
+CustomQuestionDialogWindow>>#newButtons [Polymorph-Widgets]
+CustomQuestionDialogWindow>>#defaultCancelButton [Polymorph-Widgets]
+CustomQuestionDialogWindow>>#cancelText:help: [Polymorph-Widgets]
+CustomQuestionDialogWindow>>#defaultNoButton [Polymorph-Widgets]
+CustomQuestionDialogWindow>>#yesText:help: [Polymorph-Widgets]
+CustomQuestionDialogWindow>>#defaultYesButton [Polymorph-Widgets]
+CustomQuestionDialogWindow>>#noText:help: [Polymorph-Widgets]
+GTSpotterDoubleLinkedList>>#removeCycledLink: [GT-Spotter]
+TextFontChange>>#fontNumber: [Text-Core]
+TextFontChange>>#dominates: [Text-Core]
+TextFontChange>>#hash [Text-Core]
+TextFontChange>>#writeScanOn: [Text-Core]
+TextFontChange>>#fontNumber [Text-Core]
+TextFontChange>>#forFontInStyle:do: [Text-Core]
+TextFontChange>>#= [Text-Core]
+TestAutoFractionComputation class>>#defaultSpec [Spec-Tests]
+FLCompiledMethodSerializationTest>>#testInstalledModified [FuelTests]
+TimeMeasuringTest>>#workingCopyPredicate [Tests]
+TimeMeasuringTest>>#versionInfoForWorkingCopiesThat: [Tests]
+TimeMeasuringTest>>#runCase [Tests]
+TimeMeasuringTest>>#openDebuggerOnFailingTestMethod [Tests]
+TimeMeasuringTest>>#measure: [Tests]
+TimeMeasuringTest>>#setToDebug [Tests]
+TimeMeasuringTest>>#reportPerformance [Tests]
+TimeMeasuringTest>>#versionInformation [Tests]
+TimeMeasuringTest>>#debug [Tests]
+TxApplicationWithToolbar class>>#defaultSpec [TxText-Athens]
+MCMczInstallerTest>>#testInstallFromStream [Monticello-Tests]
+MCMczInstallerTest>>#setUp [Monticello-Tests]
+MCMczInstallerTest>>#fileStream [Monticello-Tests]
+MCMczInstallerTest>>#assertNoChange [Monticello-Tests]
+MCMczInstallerTest>>#fileName [Monticello-Tests]
+MCMczInstallerTest>>#testInstallFromFile [Monticello-Tests]
+MCMczInstallerTest>>#assertDict:matchesInfo: [Monticello-Tests]
+MCMczInstallerTest>>#assertVersionInfoPresent [Monticello-Tests]
+MCMczInstallerTest>>#tearDown [Monticello-Tests]
+MCMczInstallerTest>>#deleteFile [Monticello-Tests]
+NBTestUnionWithCallback class>>#fieldsDesc [NativeBoost-Tests]
+TxDisplayCommand>>#notifyRemovedFrom: [TxText-Athens]
+InlineTextDiffBuilder>>#split: [Tool-Diff]
+SDL_Version class>>#fieldsDesc [OSWindow-SDL2]
+TextPrintIt>>#actOnClick:for:in:editor: [Text-Core]
+RubEditingArea>>#withoutShoutStyler [Rubric]
+RubEditingArea>>#shoutStyler [Rubric]
+RubEditingArea>>#textArea [Rubric]
+RubEditingArea>>#shoutAboutToStyle: [Rubric]
+RubEditingArea>>#classOrMetaClass: [Rubric]
+StrikeFontSet>>#fontArray: [Graphics-Fonts]
+StrikeFontSet>>#ascentKern [Graphics-Fonts]
+StrikeFontSet>>#initializeWithFontArray: [Graphics-Fonts]
+StrikeFontSet>>#emphasis [Graphics-Fonts]
+StrikeFontSet>>#fontNameWithPointSize [Graphics-Fonts]
+StrikeFontSet>>#emphasis: [Graphics-Fonts]
+StrikeFontSet>>#displayLine:at: [Graphics-Fonts]
+StrikeFontSet>>#glyphs [Graphics-Fonts]
+StrikeFontSet>>#superscript [Graphics-Fonts]
+StrikeFontSet>>#glyphsEncoding: [Graphics-Fonts]
+StrikeFontSet>>#xTableEncoding: [Graphics-Fonts]
+StrikeFontSet>>#bonk:with:at: [Graphics-Fonts]
+StrikeFontSet>>#name: [Graphics-Fonts]
+StrikeFontSet>>#descentKern [Graphics-Fonts]
+StrikeFontSet>>#installOn: [Graphics-Fonts]
+StrikeFontSet>>#familySizeFace [Graphics-Fonts]
+StrikeFontSet>>#emphasized: [Graphics-Fonts]
+StrikeFontSet>>#maxEncoding [Graphics-Fonts]
+StrikeFontSet>>#maxWidth [Graphics-Fonts]
+StrikeFontSet>>#reset [Graphics-Fonts]
+StrikeFontSet>>#subscript [Graphics-Fonts]
+KOI8RTextConverter class>>#initialize [Multilingual-OtherLanguages]
+AthensBezier3Scene>>#initFromArray: [Athens-Core]
+AthensBezier3Scene>>#curvePathBlock [Athens-Core]
+AthensBezier3Scene>>#renderOn: [Athens-Core]
+RBFooLintRuleTest>>#foo [Refactoring-Tests-Core]
+RowLayout>>#flushLayoutCache [Morphic-Base]
+RowLayout>>#minExtentOf:in: [Morphic-Base]
+RowLayout>>#layout:in: [Morphic-Base]
+AthensTextComposer class>>#scan:for: [Athens-Text]
+RBSmalllintTestObject>>#unclassifiedMethods [Refactoring-Tests-Critics]
+SimpleEditor class>>#initializeShiftCmdKeyShortcuts [Text-Edition]
+SimpleEditor class>>#initializeCmdKeyShortcuts [Text-Edition]
+SimpleEditor class>>#initialize [Text-Edition]
+ObjectStringConverter class>>#forClass: [Polymorph-Widgets]
+ExpanderMorph class>>#titleText: [Polymorph-Widgets]
+GLMPagerModel>>#doNotNotifyDuring: [Glamour-Morphic-Pager]
+GLMPagerModel>>#updatePreview: [Glamour-Morphic-Pager]
+GLMPagerModel>>#recomputeState: [Glamour-Morphic-Pager]
+GLMPagerModel>>#normalizePaneIndex: [Glamour-Morphic-Pager]
+GLMPagerModel>>#recomputeState [Glamour-Morphic-Pager]
+LazyTabGroupMorph>>#newTabSelectorMorph [Glamour-Morphic-Widgets]
+LazyTabGroupMorph>>#updatePageAtIndex:withLabel:toolbar:action: [Glamour-Morphic-Widgets]
+RBRefactoryTestDataApp>>#demoRenameMethod:PermuteArgs: [Refactoring-Tests-Core]
+LabelMorph>>#initialColorInSystemWindow: [Morphic-Widgets-Basic]
+TxAthensLayoutPosition class>>#textPosition:layout: [TxText-Athens]
+ClassVariable>>#astNodes [Slot]
+AthensCairoCanvas class>>#nbLibraryNameOrHandle [Athens-Cairo]
+AthensCairoCanvas class>>#asNBExternalType: [Athens-Cairo]
+AthensCairoCanvas class>>#on: [Athens-Cairo]
+AthensCairoCanvas class>>#primCreate: [Athens-Cairo]
+SVColorSelectorMorph>>#updateGradients [Morphic-Widgets-ColorPicker]
+SVColorSelectorMorph>>#updateSelectedLocation [Morphic-Widgets-ColorPicker]
+SVColorSelectorMorph>>#hideLocation [Morphic-Widgets-ColorPicker]
+SVColorSelectorMorph>>#selectColorAt: [Morphic-Widgets-ColorPicker]
+SVColorSelectorMorph>>#selectedLocation [Morphic-Widgets-ColorPicker]
+SVColorSelectorMorph>>#gradient [Morphic-Widgets-ColorPicker]
+SVColorSelectorMorph>>#basicColor: [Morphic-Widgets-ColorPicker]
+SVColorSelectorMorph>>#showLocation [Morphic-Widgets-ColorPicker]
+SVColorSelectorMorph>>#blackGradientMorph [Morphic-Widgets-ColorPicker]
+SVColorSelectorMorph>>#blackGradient [Morphic-Widgets-ColorPicker]
+DropListMorph>>#toggleEnabled [Polymorph-Widgets]
+DropListMorph>>#enabledString [Polymorph-Widgets]
+AbstractKeymappingTest>>#setUp [Keymapping-Tests]
+AbstractKeymappingTest>>#eventKey:shift: [Keymapping-Tests]
+AbstractKeymappingTest>>#eventKey:alt: [Keymapping-Tests]
+AbstractKeymappingTest>>#eventKey:alt:ctrl:command:shift: [Keymapping-Tests]
+AbstractKeymappingTest>>#eventKey:command: [Keymapping-Tests]
+AbstractKeymappingTest>>#tearDown [Keymapping-Tests]
+AbstractKeymappingTest>>#eventKey:ctrl: [Keymapping-Tests]
+AbstractKeymappingTest>>#eventKey: [Keymapping-Tests]
+BIConfigurableFormatterFormattingTest class>>#shouldInheritSelectors [BlueInk-Tests]
+LinearGradientPaint class>>#from:to: [Athens-Core]
+ErrorDialogWindow>>#icon [Polymorph-Widgets]
+NBCPrinter class>>#printf: [NativeBoost-Examples]
+NBCPrinter class>>#initialize [NativeBoost-Examples]
+AthensTextRenderTest class>>#testWindowRender [Athens-Text]
+AthensTextRenderTest class>>#test5 [Athens-Text]
+AthensTextRenderTest class>>#testBlitting [Athens-Text]
+AthensTextRenderTest class>>#surfaceClass [Athens-Text]
+AthensTextRenderTest class>>#test4 [Athens-Text]
+AthensTextRenderTest class>>#testWindow [Athens-Text]
+AthensTextRenderTest class>>#test2 [Athens-Text]
+AthensTextRenderTest class>>#test1 [Athens-Text]
+AthensTextRenderTest class>>#testText [Athens-Text]
+AthensTextRenderTest class>>#test3 [Athens-Text]
+QuestionDialogWindow>>#newButtons [Polymorph-Widgets]
+QuestionDialogWindow>>#no [Polymorph-Widgets]
+QuestionDialogWindow>>#yes [Polymorph-Widgets]
+QuestionDialogWindow>>#answer: [Polymorph-Widgets]
+QuestionDialogWindow>>#answer [Polymorph-Widgets]
+AthensSceneView>>#stopStepping [Athens-Morphic]
+GTSpotterCandidatesListTest>>#testAddOneCandidateA1A2A3 [GT-Tests-Spotter]
+GTSpotterCandidatesListTest>>#testAddOneCandidateA1 [GT-Tests-Spotter]
+GTSpotterCandidatesListTest>>#testAddTwoCandidateA1 [GT-Tests-Spotter]
+GTSpotterCandidatesListTest>>#testAddTwoCandidateA1A2 [GT-Tests-Spotter]
+GTSpotterCandidatesListTest>>#testNextA1Category [GT-Tests-Spotter]
+GTSpotterCandidatesListTest>>#hasCategories: [GT-Tests-Spotter]
+GTSpotterCandidatesListTest>>#testNextA1A2EmptyCategory [GT-Tests-Spotter]
+GTSpotterCandidatesListTest>>#testAddThreeCandidateA1 [GT-Tests-Spotter]
+GTSpotterCandidatesListTest>>#testNextA1A2Category [GT-Tests-Spotter]
+GTSpotterCandidatesListTest>>#testCategoryLinkByCandidateLinkThreeA1A2A3 [GT-Tests-Spotter]
+GTSpotterCandidatesListTest>>#testAddCategories [GT-Tests-Spotter]
+GTSpotterCandidatesListTest>>#testPreviousA1Category [GT-Tests-Spotter]
+GTSpotterCandidatesListTest>>#testRemoveCandidatesA1A2A3FromA1A2A3 [GT-Tests-Spotter]
+GTSpotterCandidatesListTest>>#addCategories: [GT-Tests-Spotter]
+GTSpotterCandidatesListTest>>#testAddOneCandidateA1A2 [GT-Tests-Spotter]
+GTSpotterCandidatesListTest>>#testAddThreeCandidateA1A2 [GT-Tests-Spotter]
+GTSpotterCandidatesListTest>>#testPreviousA1A2Category [GT-Tests-Spotter]
+GTSpotterCandidatesListTest>>#testAddTwoCandidateA1A2A3 [GT-Tests-Spotter]
+GTSpotterCandidatesListTest>>#testAddThreeCandidateA1A2A3 [GT-Tests-Spotter]
+GTSpotterCandidatesListTest>>#testAddThreeCandidateA1A2A3Shuffled [GT-Tests-Spotter]
+GTSpotterCandidatesListTest>>#testRemoveCandidatesA1FromA1A2A3 [GT-Tests-Spotter]
+GTSpotterCandidatesListTest>>#testRemoveCandidatesA1A3FromA1A2A3 [GT-Tests-Spotter]
+GTSpotterCandidatesListTest>>#testPreviousA1A2EmptyCategory [GT-Tests-Spotter]
+MCPackageManagerTest>>#testClassAdded [Monticello-Tests]
+MCPackageManagerTest>>#testClassRemoved [Monticello-Tests]
+MCPackageManagerTest>>#setUp [Monticello-Tests]
+MCPackageManagerTest>>#tearDown [Monticello-Tests]
+ZipStore class>>#reference: [FileSystem-Zip]
+MergeJoinSection>>#containsPoint: [Tool-Diff]
+MergeJoinSection>>#stateIcon [Tool-Diff]
+MergeJoinSection>>#clicked [Tool-Diff]
+MergeJoinSection>>#stateIconBounds [Tool-Diff]
+MergeJoinSection>>#defaultStateIcons [Tool-Diff]
+MergeJoinSection>>#borderColorToUse [Tool-Diff]
+MergeJoinSection>>#wantsClick [Tool-Diff]
+MergeJoinSection>>#appendToCompositeText: [Tool-Diff]
+MergeJoinSection>>#selectionStates [Tool-Diff]
+MergeJoinSection>>#selectNextState [Tool-Diff]
+MergeJoinSection>>#drawOn: [Tool-Diff]
+SimpleButtonMorph class>>#newWithLabel: [Morphic-Widgets-Basic]
+DiffJoinMorph class>>#splitterWidth [Tool-Diff]
+ExpanderMorphAnnouncement class>>#on: [Polymorph-Widgets]
+MultistateLabelMorph>>#disabledColor [Deprecated50]
+MultistateLabelMorph>>#selectedColor: [Deprecated50]
+MultistateLabelMorph>>#defaultColorMap [Deprecated50]
+MultistateLabelMorph>>#pressedColor: [Deprecated50]
+MultistateLabelMorph>>#selectedMouseOverColor: [Deprecated50]
+MultistateLabelMorph>>#mouseOverColor: [Deprecated50]
+MultistateLabelMorph>>#interactionState: [Deprecated50]
+MultistateLabelMorph>>#selectedDisabledColor: [Deprecated50]
+MultistateLabelMorph>>#initWithContents:font:emphasis: [Deprecated50]
+MultistateLabelMorph>>#drawOn: [Deprecated50]
+MultistateLabelMorph>>#normalColor: [Deprecated50]
+MultistateLabelMorph>>#selectedPressedColor: [Deprecated50]
+MultistateLabelMorph>>#disabledColor: [Deprecated50]
+GLMScrollPaneBrick class>>#defaultScrollTimeReset [Glamour-Morphic-Brick]
+GLMScrollPaneBrick class>>#defaultScrollAcceleration [Glamour-Morphic-Brick]
+GLMScrollPaneBrick class>>#defaultScrollVelocity [Glamour-Morphic-Brick]
+GLMScrollPaneBrick class>>#defaultScrollTurboTime [Glamour-Morphic-Brick]
+GLMScrollPaneBrick class>>#defaultMaxVelocity [Glamour-Morphic-Brick]
+UndeclaredVariable>>#openMenuIn: [Compiler]
+UndeclaredVariable>>#setParser:name:range: [Compiler]
+StrikeFontSet class>>#newFontArray: [Graphics-Fonts]
+StrikeFontSet class>>#familyName:size: [Graphics-Fonts]
+StrikeFontSet class>>#findMaximumLessThan:in: [Graphics-Fonts]
+StrikeFontSet class>>#familyName:size:emphasized: [Graphics-Fonts]
+StyleChunk>>#accept: [CodeImport]
+CairoTextExtents class>>#fieldsDesc [Athens-Cairo]
+IncrementalSliderMorph class>>#on:getValue:setValue: [Morphic-Widgets-Scrolling]
+IncrementalSliderMorph class>>#on:getValue:setValue:min:max:quantum: [Morphic-Widgets-Scrolling]
+PluggableDialogWindow>>#statusValue [Polymorph-Widgets]
+PluggableDialogWindow>>#defaultFocusMorph: [Polymorph-Widgets]
+PluggableDialogWindow>>#newContentMorph [Polymorph-Widgets]
+PluggableDialogWindow>>#statusValue: [Polymorph-Widgets]
+PluggableDialogWindow>>#applyChanges [Polymorph-Widgets]
+PluggableDialogWindow>>#defaultFocusMorph [Polymorph-Widgets]
+PluggableDialogWindow>>#newButtons [Polymorph-Widgets]
+PluggableDialogWindow>>#useOKDefaultCancelButton [Polymorph-Widgets]
+PluggableDialogWindow>>#useDefaultOKCancelButton [Polymorph-Widgets]
+PluggableDialogWindow>>#useDefaultOKButton [Polymorph-Widgets]
+CheckboxButtonMorph>>#toggleEnabled [Polymorph-Widgets]
+CheckboxButtonMorph>>#imageToUse [Morphic-Widgets-Basic]
+CheckboxButtonMorph>>#imageFromName: [Morphic-Widgets-Basic]
+CheckboxButtonMorph>>#checkboxFillStyleToUse [Morphic-Widgets-Basic]
+CheckboxButtonMorph>>#checkboxBorderStyleToUse [Morphic-Widgets-Basic]
+CheckboxButtonMorph>>#enabledString [Polymorph-Widgets]
+CheckboxButtonMorph>>#radioBorderStyleToUse [Morphic-Widgets-Basic]
+CheckboxButtonMorph>>#radioFillStyleToUse [Morphic-Widgets-Basic]
+TextHighlight class>>#on: [Polymorph-Widgets]
+RBRefactoring class>>#cleanUp [Refactoring-Core]
+TxAthensRenderingTest class>>#newText [TxText-AthensTests]
+TxAthensRenderingTest class>>#test [TxText-AthensTests]
+NBExternalEnumTests>>#testCallbackEnumFromInt [NativeBoost-Tests]
+NBExternalEnumTests>>#testCallbackAAA [NativeBoost-Tests]
+NBExternalEnumTests>>#primExecuteCallbackEnumReturn: [NativeBoost-Tests]
+MetacelloMCBaselineProject>>#setBaselineRepositoryDescription: [Metacello-MC]
+TxTextRenderer>>#render:lines:on: [TxText-Athens]
+TxTextRenderer>>#initialize [TxText-Athens]
+TxTextRenderer>>#renderLines:on: [TxText-Athens]
+TxTextRenderer>>#advance: [TxText-Athens]
+TxTextRenderer>>#canvas [TxText-Athens]
+ArrayTest>>#testSorted [Collections-Tests]
+NBTestStructure class>>#fieldsDesc [NativeBoost-Tests]
+ImagePreviewMorph>>#newTextMorph [Morphic-Base]
+ImagePreviewMorph>>#cornerStyle: [Morphic-Base]
+ImagePreviewMorph>>#image:size: [Morphic-Base]
+ImagePreviewMorph>>#newImageMorph [Morphic-Base]
+ImagePreviewMorph>>#defaultImageFormOfSize: [Morphic-Base]
+PluggableSliderMorph class>>#on:getValue:setValue: [Morphic-Widgets-Scrolling]
+PluggableSliderMorph class>>#on:getValue:setValue:min:max:quantum: [Morphic-Widgets-Scrolling]
+MetacelloMCProjectSpec>>#hasConflictWithBaseline: [Metacello-MC]
+RGMethodDefinitionTest>>#foo [Ring-Tests-Kernel]
+MCFileRepositoryInspector class>>#versionSearchList [MonticelloGUI]
+MCFileRepositoryInspector class>>#order [MonticelloGUI]
+MCFileRepositoryInspector class>>#packageSearchList [MonticelloGUI]
+MCFileRepositoryInspector class>>#repository:workingCopy: [MonticelloGUI]
+MCFileRepositoryInspector class>>#order: [MonticelloGUI]
+FloatArrayTest>>#testSorted [Collections-Tests]
+ColorChooserMorph>>#toggleEnabled [Polymorph-Widgets]
+ColorChooserMorph>>#enabledString [Polymorph-Widgets]
+PharoSourcesCondenser>>#writeClassComment: [System-Sources]
+HistoryNodeTest>>#testOneGroup [System-History-Tests]
+HistoryNodeTest>>#testTwoGroups [System-History-Tests]
+HistoryNodeTest>>#testGroup [System-History-Tests]
+HistoryNodeTest>>#testTwoConsecutiveCloseGroup [System-History-Tests]
+HistoryNodeTest>>#testOneItem [System-History-Tests]
+HistoryNodeTest>>#testReset [System-History-Tests]
+HistoryNodeTest>>#testClose [System-History-Tests]
+HistoryNodeTest>>#testEmptyHistory [System-History-Tests]
+TabsExample>>#title [Spec-Examples]
+WeakFinalizerItem class>>#new [System-Finalization]
+AthensBalloonSolidColorPaint>>#strokeRect:on:strokeWidth: [Athens-Balloon]
+LongMessageDialogWindow>>#newTextMorph [Polymorph-Widgets]
+LongMessageDialogWindow>>#newContentMorph [Polymorph-Widgets]
+LongMessageDialogWindow>>#isResizeable [Polymorph-Widgets]
+TextLink class>>#scanFrom: [Text-Core]
+MetacelloProjectSpec>>#hasLoadConflicts: [Metacello-Core]
+NBTestUnion2Pointers class>>#fieldsDesc [NativeBoost-Tests]
+GLMPagerScrollButtonBrick>>#checkedIcon: [Glamour-Morphic-Pager]
+GLMPagerScrollButtonBrick>>#click: [Glamour-Morphic-Pager]
+GLMPagerScrollButtonBrick>>#deselect [Glamour-Morphic-Pager]
+GLMPagerScrollButtonBrick>>#initialize [Glamour-Morphic-Pager]
+GLMPagerScrollButtonBrick>>#checkedFocusedIcon: [Glamour-Morphic-Pager]
+GLMPagerScrollButtonBrick>>#checkedFocusedIcon [Glamour-Morphic-Pager]
+GLMPagerScrollButtonBrick>>#isFocused [Glamour-Morphic-Pager]
+GLMPagerScrollButtonBrick>>#select [Glamour-Morphic-Pager]
+GLMPagerScrollButtonBrick>>#setNotFocused [Glamour-Morphic-Pager]
+GLMPagerScrollButtonBrick>>#checkedIcon [Glamour-Morphic-Pager]
+GLMPagerScrollButtonBrick>>#setFocused [Glamour-Morphic-Pager]
+StackLayout>>#flushLayoutCache [Morphic-Base]
+StackLayout>>#minExtentOf:in: [Morphic-Base]
+StackLayout>>#layout:in: [Morphic-Base]
+ZipStringMember class>>#newFrom:named: [Compression]
+GlyphRenderer class>>#test [Athens-Text]
+GlyphRenderer class>>#forFont: [Athens-Text]
+IntervalTest>>#testSorted [Collections-Tests]
+MCMergeBrowser class>>#resolveConflictsInMerger: [MonticelloGUI]
+ArchiveMember class>>#newFromString: [Compression]
+ArchiveMember class>>#newFromFile: [Compression]
+ArchiveMember class>>#newDirectoryNamed: [Compression]
+AthensTextLine>>#renderOn:x:y: [Athens-Text]
+AthensTextLine>>#initialize [Athens-Text]
+AthensTextLine>>#width [Athens-Text]
+AthensTextLine>>#addCommand: [Athens-Text]
+AthensTextLine>>#top: [Athens-Text]
+AthensTextLine>>#startIndex: [Athens-Text]
+AthensTextLine>>#maxHeight: [Athens-Text]
+AthensTextLine>>#addWidth: [Athens-Text]
+AthensTextLine>>#text: [Athens-Text]
+ReTransformationCritic class>>#for:by:tree: [Renraku]
+GTSpotterStreamMock>>#addObject:inProcessor: [GT-Tests-Spotter]
+GTSpotterStreamMock>>#initialize [GT-Tests-Spotter]
+ParserNotification>>#openMenuIn: [Compiler]
+ParserNotification>>#setName: [Compiler]
+ParserNotification>>#defaultAction [Compiler]
+ParserNotification class>>#name: [Compiler]
+RubNotificationStrategy>>#editor [Rubric]
+RubNotificationStrategy>>#editor: [Rubric]
+RubNotificationStrategy>>#notify:at:in: [Rubric]
+MCMockClassA class>>#initializationOrder [MonticelloMocks]
+MCMockClassA class>>#initialize [MonticelloMocks]
+MCMockClassA class>>#touchCVar [MonticelloMocks]
+MCMockClassA class>>#one [MonticelloMocks]
+MCMockClassA class>>#cVar [MonticelloMocks]
+SimpleGridNodeExample>>#secondNameMorph [Morphic-Examples]
+SimpleGridNodeExample>>#firstNameMorph [Morphic-Examples]
+SimpleGridNodeExample>>#ageMorph [Morphic-Examples]
+SimpleGridNodeExample>>#marriedMorph [Morphic-Examples]
+TextFontReference class>>#toFont: [Text-Core]
+MCMockASubclass class>>#initialize [MonticelloMocks]
+TxAthensLayout>>#hideEmbeddedObject: [TxText-Athens]
+PSMCMergeMorph class>>#forMerger: [Tool-Diff]
+KMShortcutSetting class>>#settingInputWidgetForNode: [Keymapping-Settings]
+KMShortcutSetting class>>#for:in: [Keymapping-Settings]
+TextKern>>#reset [Text-Core]
+TextKern>>#kern: [Text-Core]
+TextKern>>#dominates: [Text-Core]
+TextKern>>#hash [Text-Core]
+TextKern>>#kern [Text-Core]
+TextKern>>#writeScanOn: [Text-Core]
+TextKern>>#set [Text-Core]
+TextKern>>#dominatedByCmd0 [Text-Core]
+TextKern>>#= [Text-Core]
+FreeTypeFontSelectorDialogWindow>>#updateFromSelectedFont [FontChooser]
+FreeTypeFontSelectorDialogWindow>>#matchingFont [FontChooser]
+FreeTypeFontSelectorDialogWindow>>#defaultFontFamilies [FontChooser]
+TxEmbeddedObjectTest>>#testInsertingObject [TxText-AthensTests]
+TxEmbeddedObjectTest>>#testBuildingLayoutWithObject [TxText-AthensTests]
+TextURL>>#actOnClick:for:in:editor: [Text-Core]
+AthensPluggableTextMorph>>#textMorphClass [Athens-Morphic]
+TxAthensLayoutTest>>#layout [TxText-AthensTests]
+SystemVersionTest>>#testMajorMinorVersion [Tests]
+SystemVersionTest>>#testMajorMinorWithSeparatingString [Tests]
+SystemVersionTest>>#testUpgrade [Tests]
+SystemVersionTest>>#testUpgradeState [Tests]
+SystemVersionTest>>#testParseShortVersionString [Tests]
+TxInsertOperation>>#undo [TxText-Athens]
+TxInsertOperation>>#text: [TxText-Athens]
+ZipFileMember class>>#newFrom:named: [Compression]
+TabLabelMorph>>#focusBounds [Morphic-Widgets-PolyTabs]
+TxViewDecoratorMorph>>#computeBoundsIn: [TxText-Athens]
+NBTestUnion1Byte class>>#fieldsDesc [NativeBoost-Tests]
+RBBrowserEnvironmentTest class>>#packageNamesUnderTest [Refactoring-Tests-Environment]
+GLMTreeBrick>>#headerFor:in: [Glamour-Morphic-Brick]
+GLMTreeBrick>>#collapsableFor: [Glamour-Morphic-Brick]
+MorphTreeResizerMorph>>#updateFromEvent: [Morphic-Widgets-Tree]
+MorphTreeResizerMorph>>#normalFillStyle [Morphic-Widgets-Tree]
+MorphTreeResizerMorph>>#getOldColor [Morphic-Widgets-Tree]
+MorphTreeResizerMorph>>#pressedFillStyle [Morphic-Widgets-Tree]
+MorphTreeResizerMorph>>#normalizedY: [Morphic-Widgets-Tree]
+MorphTreeResizerMorph>>#splitsTopAndBottom [Morphic-Widgets-Tree]
+MorphTreeResizerMorph>>#resizeCursor [Morphic-Widgets-Tree]
+MorphTreeResizerMorph>>#container:index: [Morphic-Widgets-Tree]
+MorphTreeResizerMorph>>#setGrabbedColor [Morphic-Widgets-Tree]
+MorphTreeResizerMorph>>#normalizedX: [Morphic-Widgets-Tree]
+PopupChoiceDialogWindow>>#newMenuWith: [Polymorph-Widgets]
+PopupChoiceDialogWindow>>#deleteIfPopUp: [Polymorph-Widgets]
+PopupChoiceDialogWindow>>#rootMenu [Polymorph-Widgets]
+PopupChoiceDialogWindow>>#newContentMorph [Polymorph-Widgets]
+PopupChoiceDialogWindow>>#selectFirstEnabledItem [Polymorph-Widgets]
+PopupChoiceDialogWindow>>#newButtons [Polymorph-Widgets]
+PopupChoiceDialogWindow>>#scrollPane [Polymorph-Widgets]
+PopupChoiceDialogWindow>>#newFilterEntry [Polymorph-Widgets]
+PopupChoiceDialogWindow>>#newChoicesMorph [Polymorph-Widgets]
+PopupChoiceDialogWindow>>#newChoiceButtonFor: [Polymorph-Widgets]
+PopupChoiceDialogWindow>>#activate: [Polymorph-Widgets]
+PopupChoiceDialogWindow>>#switchToNextColumn [Polymorph-Widgets]
+PopupChoiceDialogWindow>>#switchToPreviousColumn [Polymorph-Widgets]
+PopupChoiceDialogWindow>>#selectLastEnabledItem [Polymorph-Widgets]
+PopupChoiceDialogWindow>>#choose: [Polymorph-Widgets]
+NBTestEnumerationFromPairs class>>#enumDecl [NativeBoost-Tests]
+TextStream>>#applyAttribute:beginningAt: [Text-Core]
+DropListMorph class>>#on:list:selected:changeSelected: [Polymorph-Widgets]
+DropListMorph class>>#on:list:selected:changeSelected:useIndex: [Polymorph-Widgets]
+SpecWindowTest>>#testIsDisplayed [Spec-Tests]
+PSMCMergeMorph>>#updateCode [Tool-Diff]
+PSMCMergeMorph>>#compositeText: [Tool-Diff]
+PSMCMergeMorph>>#defaultTitle [Tool-Diff]
+PSMCMergeMorph>>#allConflictsResolved [Tool-Diff]
+PSMCMergeMorph>>#notAllConflictsResolved [Tool-Diff]
+PSMCMergeMorph>>#conflictCountString [Tool-Diff]
+PSMCMergeMorph>>#conflictCount [Tool-Diff]
+PSMCMergeMorph>>#selectNextConflict [Tool-Diff]
+SugsNautilusContext>>#selectedInterval [SmartSuggestions]
+MBAddRepositoryCommand>>#newRepository [Versionner-Core-Commands]
+GLMPhlowTableBrick>>#setAdaptor [Glamour-Morphic-Brick]
+GLMTablePresentation>>#column:evaluated:modified: [Glamour-Presentations]
+TextDoIt class>>#scanFrom: [Text-Core]
+TextDoIt class>>#evalString: [Text-Core]
+SimplestClassListExample>>#plugOne [Morphic-Examples]
+SimplestClassListExample>>#rootItemsOrig [Morphic-Examples]
+SimplestClassListExample>>#rootItemsTest [Morphic-Examples]
+SimplestClassListExample>>#openDialogOn: [Morphic-Examples]
+GLMCompositePresentationTest>>#testCompositeWithinCompositePanePropagation [Glamour-Tests-Core]
+GLMCompositePresentationTest>>#testCompositeWithinCompositeOuterPortEvents [Glamour-Tests-Core]
+TextFontChange class>>#fontNumber: [Text-Core]
+TextFontChange class>>#defaultFontChange [Text-Core]
+TextFontChange class>>#font2 [Text-Core]
+TextFontChange class>>#font1 [Text-Core]
+TextFontChange class>>#font4 [Text-Core]
+TextFontChange class>>#font3 [Text-Core]
+LazyMorphListMorph>>#selectionFrameForRow: [Morphic-Widgets-Pluggable]
+LazyMorphListMorph>>#adjustHeight [Morphic-Widgets-Pluggable]
+LazyMorphListMorph>>#drawBoundsForRow: [Morphic-Widgets-Pluggable]
+LazyMorphListMorph>>#selectRow: [Morphic-Widgets-Pluggable]
+LazyMorphListMorph>>#listChanged [Morphic-Widgets-Pluggable]
+LazyMorphListMorph>>#drawSubmorphsOn: [Morphic-Widgets-Pluggable]
+LazyMorphListMorph>>#rowAtLocation: [Morphic-Widgets-Pluggable]
+LazyMorphListMorph>>#hUnadjustedScrollRange [Morphic-Widgets-Pluggable]
+LazyMorphListMorph>>#userString [Morphic-Widgets-Pluggable]
+LazyMorphListMorph>>#adjustWidth [Morphic-Widgets-Pluggable]
+LazyMorphListMorph>>#display:atRow:on: [Morphic-Widgets-Pluggable]
+MBAddConfigurationCommandTest>>#testExecute [Versionner-Tests-Core-Commands]
+OSTouchScrollEvent class>>#id [OSWindow-Core]
+ImageFillStyle class>>#form: [Balloon]
+TextSelectionColor>>#emphasizeScanner: [Text-Edition]
+TextSelectionColor>>#dominates: [Text-Edition]
+ReflectiveMethod class>>#on: [Reflectivity]
+GLMPortReference>>#postCopy [Glamour-Core]
+GLMPaginatedResizableMorphTreeMorph>>#resizeColumns [Glamour-Morphic-Widgets]
+SmalllintManifestCheckerTest class>>#DoIt [Manifest-Tests]
+MCClassDefinitionTest class>>#classACommentStamp [Monticello-Tests]
+MCClassDefinitionTest class>>#restoreClassAComment [Monticello-Tests]
+MCClassDefinitionTest class>>#classAComment [Monticello-Tests]
+MalTEdgeNode>>#nextEdges [Moose-Algos-Graph]
+MalTEdgeNode>>#previousEdges [Moose-Algos-Graph]
+MalTEdgeNode>>#from:edge: [Moose-Algos-Graph]
+MalTEdgeNode>>#to:edge: [Moose-Algos-Graph]
+DockingBarMenuMorph>>#veryDeepInner: [Morphic-Widgets-Extra]
+DockingBarMenuMorph>>#roundedCorners [Morphic-Widgets-Extra]
+DockingBarMenuMorph>>#activeSubmenu: [Morphic-Widgets-Extra]
+MemoryFileSystemEntry class>>#named: [FileSystem-Memory]
+TextEditorTest>>#keyboardEvent [Text-Edition-Tests]
+AthensCairoSurface class>>#asNBExternalType: [Athens-Cairo]
+VMWindowDriver>>#createWindowWithAttributes:osWindow: [OSWindow-VM]
+PopupChoiceOrRequestDialogWindow class>>#minWidth [Polymorph-Widgets]
+GLMPagePoped>>#initialize [Glamour-Morphic-Pager]
+MTDependencyTest>>#testRemoveGroup [Versionner-Tests-Core-DependenciesModel]
+MTDependencyTest>>#testRemove [Versionner-Tests-Core-DependenciesModel]
+MTDependencyTest>>#testProject [Versionner-Tests-Core-DependenciesModel]
+MTDependencyTest>>#setUp [Versionner-Tests-Core-DependenciesModel]
+MalDisjointSets>>#nodeClass [Moose-Algos-Graph]
+MalDisjointSets>>#components [Moose-Algos-Graph]
+MalDisjointSets>>#run [Moose-Algos-Graph]
+FT2GlyphRenderer class>>#forFont:surface: [Athens-Balloon]
+MBSetUserCommand>>#title [Versionner-Core-Commands]
+MBSetUserCommand>>#execute [Versionner-Core-Commands]
+MBSetUserCommand>>#documentation [Versionner-Core-Commands]
+KMPerInstanceTests>>#testAddMoreThanOneHandler [Keymapping-Tests]
+OSWindowGLAttributes class>>#defaultRedSize [OSWindow-Core]
+OSWindowGLAttributes class>>#defaultDoubleBuffer [OSWindow-Core]
+OSWindowGLAttributes class>>#initialize [OSWindow-Core]
+OSWindowGLAttributes class>>#defaultGreenSize [OSWindow-Core]
+OSWindowGLAttributes class>>#defaultBlueSize [OSWindow-Core]
+OSWindowGLAttributes class>>#defaultSwapControl [OSWindow-Core]
+OSWindowGLAttributes class>>#defaultStencilSize [OSWindow-Core]
+OSWindowGLAttributes class>>#defaultDepthSize [OSWindow-Core]
+OSWindowGLAttributes class>>#defaultAlphaSize [OSWindow-Core]
+OSTouchComplexEvent class>>#id [OSWindow-Core]
+MCMczInstallerTest class>>#isAbstract [Monticello-Tests]
+MCMczInstallerTest class>>#suite [Monticello-Tests]
+GLMHorizontalScrollPaneBrick>>#calculateMaxVelocity [Glamour-Morphic-Brick]
+AthensBezierConverter class>>#initialize [Athens-Core]
+PackageTreeExample>>#open [Morphic-Examples]
+PackageTreeExample>>#menu:shifted: [Morphic-Examples]
+PackageTreeExample>>#rootNodeClassFromItem: [Morphic-Examples]
+PackageTreeExample>>#defaultTreeMorph [Morphic-Examples]
+PackageTreeExample>>#doubleClick [Morphic-Examples]
+PackageTreeExample>>#keyStroke:from: [Morphic-Examples]
+PackageTreeExample>>#rootItems [Morphic-Examples]
+SDL2MappedEvent class>>#fromSdlEvent: [OSWindow-SDL2]
+RBMoveInstVarToClassRefactoring class>>#model:variable:class:oldClass: [Refactoring-Core]
+SugsSuggestionSwapMethodTest>>#testLabelForSwapInstanceMethodRefersToClass [SmartSuggestions-Tests]
+SugsSuggestionSwapMethodTest>>#testLabelForSwapWithoutSelectedMethodIsGeneric [SmartSuggestions-Tests]
+SugsSuggestionSwapMethodTest>>#testLabelForSwapClassMethodRefersToInstance [SmartSuggestions-Tests]
+PluggableTextEditorMorph>>#toggleEnabled [Polymorph-Widgets]
+PluggableTextEditorMorph>>#enabledString [Polymorph-Widgets]
+PluggableTextEditorMorph>>#textMorphClass [Morphic-Widgets-Pluggable]
+TextMethodLink class>>#selector: [Text-Core]
+TextMethodLink class>>#selector:senders: [Text-Core]
+AthensCairoTransform class>>#for: [Athens-Cairo]
+CollectionRootTest class>>#isAbstract [Collections-Tests]
+CairoPNGPaint class>>#fileNamed: [Athens-Cairo]
+BaselineOfRenraku>>#unsubscribeReEngine [BaselineOfRenraku]
+SDL2TouchExample class>>#example [OSWindow-SDL2-Examples]
+CP1253TextConverter class>>#initialize [Multilingual-TextConverterOtherLanguages]
+DashedBorder class>>#width:dashColors:dashLengths: [Morphic-Base]
+MethodIsExampleAction>>#isActionHandled [Nautilus]
+MethodIsExampleAction>>#privateActionIcon [Nautilus]
+MethodIsExampleAction>>#actionOrder [Nautilus]
+InfiniteForm>>#addFillStyleMenuItems:hand:from: [Graphics-Display Objects]
+AthensTreeView>>#root: [Athens-Examples]
+AthensTreeView>>#rowAt: [Athens-Examples]
+AthensTreeView>>#root:extentBlock:childsBlock: [Athens-Examples]
+AthensTreeView>>#renderOn: [Athens-Examples]
+AthensTreeView>>#layOutGeometry [Athens-Examples]
+AthensTreeView>>#buildSubtreeFor:level: [Athens-Examples]
+AthensTreeView>>#spacingBetweenRows [Athens-Examples]
+GLMPagerWidgetThemer>>#previewPaneStyleFor: [Glamour-Morphic-Pager]
+GLMPagerWidgetThemer>>#selectedPaneStyleFor: [Glamour-Morphic-Pager]
+GLMPagerWidgetThemer>>#defaultScrollButtonStyleFor: [Glamour-Morphic-Pager]
+JoinSection>>#containsPoint: [Tool-Diff]
+JoinSection>>#createHighlights [Tool-Diff]
+JoinSection>>#clicked [Tool-Diff]
+JoinSection>>#updateShape [Tool-Diff]
+JoinSection>>#drawMapOn:in:scale: [Tool-Diff]
+JoinSection>>#borderColorToUse [Tool-Diff]
+JoinSection>>#wantsClick [Tool-Diff]
+JoinSection>>#createHighlightsFrom:to: [Tool-Diff]
+JoinSection>>#drawOn: [Tool-Diff]
+JoinSection>>#newHighlight [Tool-Diff]
+JoinSection>>#fillStyleFor: [Tool-Diff]
+JoinSection>>#addHighlightsFrom:to:to:color: [Tool-Diff]
+ContextTempEyeElement class>>#host:tempName:tempIndex: [Spec-Inspector]
+SourceSansProRegular>>#fontContents [EmbeddedFreeType]
+MCTestCase class>>#isAbstract [Monticello-Tests]
+MCTestCase class>>#resources [Monticello-Tests]
+GTDummyExampleWithAssertions class>>#gtExamplesProvider [GT-Inspector]
+SimplestPaginatedClassListExample>>#itemsForTest [Morphic-Examples]
+SimplestPaginatedClassListExample>>#openDialogOn: [Morphic-Examples]
+NBTestUnionWithStructure class>>#fieldsDesc [NativeBoost-Tests]
+TSortTest>>#testSorted [Collections-Tests]
+CheckboxMorph>>#toggleEnabled [Polymorph-Widgets]
+CheckboxMorph>>#enabledString [Polymorph-Widgets]
+ListItemWrapper class>>#with:model: [Morphic-Widgets-List]
+ListItemWrapper class>>#with: [Morphic-Widgets-List]
+KeymapBuilderTest class>>#keymapEventBuilderClass [Keymapping-Tests]
+ProportionalSplitterMorph class>>#splitterWidth [Morphic-Widgets-Windows]
+NBUTF8StringExample>>#pushAsValue: [NativeBoost-Examples]
+NBUTF8StringExample>>#prepareArgumentUsing: [NativeBoost-Examples]
+ModelDependentDialogWindow>>#addInitialPanel [Polymorph-Widgets]
+ModelDependentDialogWindow>>#model: [Polymorph-Widgets]
+SDL_SysWMinfo class>>#fieldsDesc [OSWindow-SDL2]
+MetacelloMCProject>>#setBaselineRepositoryDescription: [Metacello-MC]
+RBExplicitRequirementMethodsRule>>#group [Refactoring-Critics]
+GTSpotterSmokeTest>>#tearDown [GT-Tests-Spotter]
+Model>>#announcer [System-Model]
+AthensTextRenderer class>>#textGoryDetails [Athens-Text]
+WindowAnnouncement>>#isDeActivated [Morphic-Widgets-Windows]
+WindowAnnouncement>>#isActivated [Morphic-Widgets-Windows]
+ExecutionDisplayMorph>>#step [Reflectivity-Examples]
+ExecutionDisplayMorph>>#stepTime [Reflectivity-Examples]
+ExecutionDisplayMorph>>#wantsSteps [Reflectivity-Examples]
+ExecutionDisplayMorph>>#noteExecuted [Reflectivity-Examples]
+DebugActionExecuted class>>#forDebuggingAction: [DebuggerActions]
+CurveWorkshop>>#draw [Athens-Examples]
+CurveWorkshop>>#drawQuadFrom:via:to:on: [Athens-Examples]
+CurveWorkshop>>#drawOn: [Athens-Examples]
+TaskbarTask class>>#morph:state:icon:label: [Morphic-Widgets-Taskbar]
+NBMockExternalObject class>>#finalizeResourceData: [NativeBoost-Tests]
+TEnableOnHaloMenu>>#toggleEnabled [Polymorph-Widgets]
+TEnableOnHaloMenu>>#enabledString [Polymorph-Widgets]
+SDL2TouchStateMachine class>>#for: [OSWindow-SDL2-Examples]
+WeakKeyDictionaryTest class>>#timingLarge [Collections-Tests]
+WeakKeyDictionaryTest class>>#timingMany [Collections-Tests]
+WindowExpanded>>#isExpanded [Morphic-Widgets-Windows]
+SDL_KeyboardEvent class>>#fieldsDesc [OSWindow-SDL2]
+GLMMorphicSpotterTest>>#creation [Glamour-Morphic-Renderer]
+OSNullWindowHandle class>>#fromAttributes:for: [OSWindow-Core]
+PopupChoiceDialogWindowWithMessage>>#newIconMorph [Polymorph-Widgets]
+PopupChoiceDialogWindowWithMessage>>#newTextMorph [Polymorph-Widgets]
+PopupChoiceDialogWindowWithMessage>>#initialExtent [Polymorph-Widgets]
+PopupChoiceDialogWindowWithMessage>>#newContentMorph [Polymorph-Widgets]
+OCClosureCompilerTest class>>#compilerClass [OpalCompiler-Tests]
+ObjectsAsMethodsExample>>#run:with:in: [Tests]
+ObjectsAsMethodsExample>>#add:with: [Tests]
+ObjectsAsMethodsExample>>#answer42 [Tests]
+UnlimitedInstanceVariableSlotTest>>#testExampleIvarSlot [Slot-Tests]
+UnlimitedInstanceVariableSlotTest>>#testExampleTwoIvarSlots [Slot-Tests]
+WindowCollapsed>>#isCollapsed [Morphic-Widgets-Windows]
+SugsSuggestionFactory class>>#cleanUp [SmartSuggestions]
+AthensTextScanner>>#resetBackground [Athens-Text]
+AthensTextScanner>>#defaultFont [Athens-Text]
+AthensTextScanner>>#addCharacter: [Athens-Text]
+AthensTextScanner>>#defaultColor [Athens-Text]
+AthensTextScanner>>#applyAttributes [Athens-Text]
+AthensTextScanner>>#initialize [Athens-Text]
+AthensTextScanner>>#addCommand: [Athens-Text]
+AthensTextScanner>>#defaultTextStyle [Athens-Text]
+AthensTextScanner>>#lines [Athens-Text]
+AthensTextScanner>>#textStyle [Athens-Text]
+AthensTextScanner>>#endLine: [Athens-Text]
+AthensTextScanner>>#newLine: [Athens-Text]
+AthensTextScanner>>#text: [Athens-Text]
+AthensTextScanner>>#setAttributes: [Athens-Text]
+AthensBalloonSurface class>>#extent: [Athens-Balloon]
+GLMSpecPresentation>>#renderGlamorouslyOn: [Glamour-Presentations]
+TxAthensNullViewContainer>>#layoutIsAboutToResetIn: [TxText-Athens]
+TxAthensNullViewContainer>>#viewChanged: [TxText-Athens]
+TxAthensNullViewContainer>>#newEmbeddedObjectCommand: [TxText-Athens]
+DebugActionExecuted>>#actionId: [DebuggerActions]
+TextEmphasis class>>#narrow [Text-Core]
+TextEmphasis class>>#struckOut [Text-Core]
+TextEmphasis class>>#bold [Text-Core]
+TextEmphasis class>>#normal [Text-Core]
+TextEmphasis class>>#italic [Text-Core]
+TextEmphasis class>>#underlined [Text-Core]
+SpecDebugger>>#refactor [Spec-Debugger]
+SpecDebugger>>#browsedEnvironment [Spec-Debugger]
+SpecDebugger>>#selectedMessage [Spec-Debugger]
+SpecDebugger>>#selectedClass [Spec-Debugger]
+SpecDebugger>>#selectedMethods [Spec-Debugger]
+SpecDebugger>>#selectedMethod [Spec-Debugger]
+ToolDockingBarMorph>>#updateColor [Polymorph-Widgets]
+ToolDockingBarMorph>>#normalFillStyle [Polymorph-Widgets]
+ToolDockingBarMorph>>#wantsYellowButtonMenu [Polymorph-Widgets]
+ToolDockingBarMorph>>#gradientRamp [Polymorph-Widgets]
+SimplestClassListWithPagerExample>>#defaultTreeMorph [Morphic-Examples]
+SystemProgressMorph>>#openInWorld [Morphic-Base]
+RBSmalllintTest>>#testRBMissingSubclassResponsibilityRule [Refactoring-Tests-Critics]
+NBTestStructure9bytes class>>#fieldsDesc [NativeBoost-Tests]
+WeakOrderedCollection class>>#arrayType [Collections-Weak]
+BracketSliderMorph>>#gradient [Morphic-Widgets-Scrolling]
+TxTextAdapter>>#classOrMetaClass: [TxText-Athens]
+TxTextAdapter>>#getText [TxText-Athens]
+TxTextAdapter>>#pendingText: [TxText-Athens]
+TxTextAdapter>>#buildWidget [TxText-Athens]
+TxTextAdapter>>#editorDo: [TxText-Athens]
+TxTextAdapter>>#font: [TxText-Athens]
+TxTextAdapter>>#takeKeyboardFocus [TxText-Athens]
+TxTextAdapter>>#adapt: [TxText-Athens]
+TxTextAdapter>>#setScrollValue: [TxText-Athens]
+TxTextAdapter>>#setSelectionFromModel: [TxText-Athens]
+MockContainer class>>#for: [SmartSuggestions-Tests]
+HashTesterTest>>#testBasicBehaviour [SUnit-Core]
+PointerFinderTest>>#testNoPointingObject [Tools-Test]
+PointerFinderTest>>#testBasic1 [Tools-Test]
+PointerFinderTest>>#testCycle [Tools-Test]
+SDL2Constants class>>#initializeWM [OSWindow-SDL2]
+DoesNotUnderstandDebugAction class>>#actionType [DebuggerActions]
+SDL2Handle class>>#nbLibraryNameOrHandle [OSWindow-SDL2]
+ColorFillStyle>>#fillRectangle:on: [Balloon]
+ColorFillStyle>>#isOrientedFill [Balloon]
+DiffMapMorph>>#mouseDown: [Tool-Diff]
+DiffMapMorph>>#mappingsHeight [Tool-Diff]
+DiffMapMorph>>#handlesMouseDown: [Tool-Diff]
+AthensSimpleTreeNode>>#children: [Athens-Examples]
+AthensSimpleTreeNode>>#children [Athens-Examples]
+AthensSimpleTreeNode>>#midTop [Athens-Examples]
+AthensSimpleTreeNode>>#midBottom [Athens-Examples]
+AthensSimpleTreeNode>>#renderOn: [Athens-Examples]
+ColorForm class>>#mappingWhiteToTransparentFrom: [Graphics-Display Objects]
+OSKeySymbols class>>#initializeKeycodes2 [OSWindow-Core]
+OSKeySymbols class>>#initializeKeycodes [OSWindow-Core]
+OSKeySymbols class>>#initializeKeycodes3 [OSWindow-Core]
+OSKeySymbols class>>#initialize [OSWindow-Core]
+MCFileTreeStSnapshotWriter>>#writeMethodHolderDefinitions:extension:to:do: [MonticelloFileTree-Core]
+GTSpotterStackedLayout>>#gatherStacked: [GT-Spotter]
+GTSpotterStackedLayout>>#cutAllowedBoundsBottom: [GT-Spotter]
+GTSpotterStackedLayout>>#shrinkBottom:with: [GT-Spotter]
+GTSpotterStackedLayout>>#layoutAllowedBottom: [GT-Spotter]
+GTSpotterStackedLayout>>#shrinkTop:with: [GT-Spotter]
+GTSpotterStackedLayout>>#increaseZindex: [GT-Spotter]
+GTSpotterStackedLayout>>#layoutAllowedTop: [GT-Spotter]
+GTSpotterStackedLayout>>#layoutProportional:in:position: [GT-Spotter]
+GTSpotterStackedLayout>>#decreaseZindex: [GT-Spotter]
+GTSpotterStackedLayout>>#deltaBottom: [GT-Spotter]
+GTSpotterStackedLayout>>#deltaTop: [GT-Spotter]
+GTSpotterStackedLayout>>#layoutStacked:in: [GT-Spotter]
+GTSpotterStackedLayout>>#cutAllowedBoundsTop: [GT-Spotter]
+RFCondition class>>#for: [Reflectivity]
+RubTextInsertionStrategy>>#notify:at:in: [Rubric]
+AthensCairoPatternSurfacePaint>>#setMatrix: [Athens-Cairo]
+AthensCairoPatternSurfacePaint>>#direction: [Athens-Cairo]
+AthensCairoPatternSurfacePaint>>#origin: [Athens-Cairo]
+NBTestNestedStructure class>>#fieldsDesc [NativeBoost-Tests]
+NBMemoryPage>>#firstBlock [NativeBoost-Core]
+NBMemoryPage>>#totalAllocatedMemory [NativeBoost-Core]
+NBMemoryPage>>#address [NativeBoost-Core]
+NBMemoryPage>>#length [NativeBoost-Core]
+GLMStringBrick class>>#example [Glamour-Morphic-Brick]
+VSUnloadUnit>>#execute [Versionner-Commit]
+UserOfFooSharedPool>>#simpleMethod [Tests]
+PragmaType>>#spotterSendersFor: [GT-SpotterExtensions-Core]
+TextKern class>>#kern: [Text-Core]
+FTTableMorph class>>#with: [Morphic-Widgets-FastTable]
+OSTouchRotationEvent class>>#id [OSWindow-Core]
+MCRepositoryInspector class>>#repository:workingCopy: [MonticelloGUI]
+ReMissingMethodCritic class>>#for:by:class:selector: [Renraku]
+NBTestCallbackReturnEnum class>>#fnSpec [NativeBoost-Tests]
+MCMockRPackage>>#name [RPackage-Tests]
+MCMockRPackage>>#classNames [RPackage-Tests]
+MCMockRPackage>>#classes [RPackage-Tests]
+MCMockRPackage>>#packageName [RPackage-Tests]
+MCMockRPackage>>#systemCategories [RPackage-Tests]
+MCMockRPackage>>#includesSystemCategory: [RPackage-Tests]
+MCMockRPackage>>#includesClass: [RPackage-Tests]
+AJRoutineStackManager>>#stackFrameCheck [AsmJit-StackManagement]
+AJRoutineStackManager>>#analyzeInstructions:assembler: [AsmJit-StackManagement]
+AJRoutineStackManager>>#noStackFrame [AsmJit-StackManagement]
+AJRoutineStackManager>>#newStdCall [AsmJit-StackManagement]
+AJRoutineStackManager>>#emitEpilogue:assembler: [AsmJit-StackManagement]
+AJRoutineStackManager>>#newCdeclCall [AsmJit-StackManagement]
+AJRoutineStackManager>>#reserveExtraBytesOnStack: [AsmJit-StackManagement]
+AJRoutineStackManager>>#releaseTemps: [AsmJit-StackManagement]
+AJRoutineStackManager>>#reserveTemp: [AsmJit-StackManagement]
+OSTouchPinchEvent class>>#id [OSWindow-Core]
+ExampleRadioButtonModel>>#beRight [Morphic-Examples]
+ExampleRadioButtonModel>>#isRight [Morphic-Examples]
+ExampleRadioButtonModel>>#isLeft [Morphic-Examples]
+ExampleRadioButtonModel>>#beCenter [Morphic-Examples]
+ExampleRadioButtonModel>>#isCenter [Morphic-Examples]
+ExampleRadioButtonModel>>#beLeft [Morphic-Examples]
+NBWin32Window class>>#DefWindowProcA [NativeBoost-Win32]
+NBWin32Window class>>#DefWindowProcW [NativeBoost-Win32]
+NBWin32Window class>>#createWindowExW:lpClassName:lpWindowName:dwStyle:x:y:width:height:hWndParent:hMenu:hInstance:lParam: [NativeBoost-Win32]
+NBWin32Window class>>#createWindowExA:lpClassName:lpWindowName:dwStyle:x:y:width:height:hWndParent:hMenu:hInstance:lParam: [NativeBoost-Win32]
+AthensCurveFlattener class>>#initialize [Athens-Core]
+CairoGlyph class>>#byteAlignment [Athens-Cairo]
+OSTouchDoubleTapEvent class>>#id [OSWindow-Core]
+TxAthensLayoutStrategy>>#fontMetricsProviderFor: [TxText-Athens]
+TxAthensLayoutStrategy>>#alignTab: [TxText-Athens]
+MFClassA>>#method [Manifest-Resources-Tests]
+OCScopesCollector>>#visitBlockNode: [OpalCompiler-Tests]
+OCScopesCollector>>#visitMethodNode: [OpalCompiler-Tests]
+AthensCairoDefs class>>#initialize_cairo_format_t [Athens-CairoPools]
+AthensCairoDefs class>>#init_cairo_subpixel_order_t [Athens-CairoPools]
+AthensCairoDefs class>>#initialize_cairo_hint_metrics_t [Athens-CairoPools]
+AthensCairoDefs class>>#initialize_cairo_line_cap_t [Athens-CairoPools]
+AthensCairoDefs class>>#initialize_cairo_antialias_t [Athens-CairoPools]
+AthensCairoDefs class>>#initialize_cairo_hint_style_t [Athens-CairoPools]
+AthensCairoDefs class>>#initialize_cairo_font_slant_t [Athens-CairoPools]
+AthensCairoDefs class>>#initialize [Athens-CairoPools]
+AthensCairoDefs class>>#initialize_types [Athens-CairoPools]
+AthensCairoDefs class>>#initialize_cairo_line_join_t [Athens-CairoPools]
+AthensCairoDefs class>>#initialize_cairo_status_t [Athens-CairoPools]
+AthensCairoDefs class>>#initialize_cairo_operator_t [Athens-CairoPools]
+AthensCairoDefs class>>#initialize_cairo_font_weight_t [Athens-CairoPools]
+AthensCairoDefs class>>#initialize_cairo_font_type_t [Athens-CairoPools]
+AthensCairoDefs class>>#initialize_cairo_extend_t [Athens-CairoPools]
+SDL2TouchGestureExample2 class>>#example [OSWindow-SDL2-Examples]
+InterpolatedGradientFillStyle>>#interpolatedAlphaMix:of:and: [Balloon]
+InterpolatedGradientFillStyle>>#computePixelRampOfSize: [Balloon]
+AthensCairoPDFSurface class>>#finalizeResourceData: [Athens-Cairo]
+AthensCairoPDFSurface class>>#extent:fileName: [Athens-Cairo]
+AthensCairoPDFSurface class>>#registerSurface: [Athens-Cairo]
+MetacelloPlatform>>#downloadErrorFileNameFor: [Metacello-Core]
+TextVariableLink class>>#variableName: [Text-Core]
+BytecodeEncoder>>#sizeCallPrimitive: [Compiler]
+KeymapBuilderTest>>#testAddKeymapCreatesCategory [Keymapping-Tests]
+KeymapBuilderTest>>#testAddKeymapCreatesShortcut [Keymapping-Tests]
+KeymapBuilderTest>>#testAttachKeymapAndExecuteExecutes [Keymapping-Tests]
+ThumbnailMorph class>>#recursionReset [Morphic-Base]
+MalBfsNode>>#to:edge: [Moose-Algos-Graph]
+AthensTextComposer>>#scan:for: [Athens-Text]
+AthensTextComposer>>#lines [Athens-Text]
+AthensTextComposer>>#renderOn: [Athens-Text]
+SDL2TouchGestureExample class>>#example [OSWindow-SDL2-Examples]
+MacRomanTextConverter class>>#initialize [Multilingual-TextConversion]
+KMDispatcherTestCase class>>#keymapEventBuilderClass [Keymapping-Tests]
+AbsolutePath class>>#addEmptyElementTo: [FileSystem-Core]
+AbsolutePath class>>#from:delimiter: [FileSystem-Core]
+MalWeightedHitsNode>>#from:edge: [Moose-Algos-Graph]
+MalWeightedHitsNode>>#to:edge: [Moose-Algos-Graph]
+UndefinedVariable>>#openMenuIn: [Compiler]
+MCMock class>>#wantsChangeSetLogging [Monticello]
+TraitsTestCase class>>#resources [Tests]
+RBDeprecateMethodRefactoring class>>#model:deprecateMethod:in:using: [Refactoring-Core]
+UndeclaredVariable class>>#signalFor:name:inRange: [Compiler]
+NBTestUnionWithUnion class>>#fieldsDesc [NativeBoost-Tests]
+TextSelectionColor class>>#cleanUp [Text-Edition]
+MFClassB>>#method2 [Manifest-Resources-Tests]
+MFClassB>>#method3 [Manifest-Resources-Tests]
+AthensTigerShape>>#setPath: [Athens-Examples]
+AthensTigerShape>>#fillRule: [Athens-Examples]
+AthensTigerShape>>#miterLimit: [Athens-Examples]
+AthensTigerShape>>#capStyle: [Athens-Examples]
+AthensTigerShape>>#initialize [Athens-Examples]
+AthensTigerShape>>#joinStyle: [Athens-Examples]
+AthensTigerShape>>#fillRule [Athens-Examples]
+AthensTigerShape>>#prepareFor: [Athens-Examples]
+AthensTigerShape>>#strokeWidth: [Athens-Examples]
+AthensTigerShape>>#addFill [Athens-Examples]
+AthensTigerShape>>#strokePaint: [Athens-Examples]
+AthensTigerShape>>#fillPaint: [Athens-Examples]
+AthensTigerShape>>#renderOn: [Athens-Examples]
+AthensTigerShape>>#addStroke [Athens-Examples]
+RFMessageNode>>#debugHighlightRange [Reflectivity]
+AJx86RegisterTests>>#testAsLowByte [AsmJit-Tests]
+AJx86RegisterTests>>#testRegisterWidthConversions [AsmJit-Tests]
+AJx86RegisterTests>>#testAsHighByte [AsmJit-Tests]
+NullSoundTheme class>>#themeName [Polymorph-Widgets]
+AbstractEnumerationVisitorTest class>>#isAbstract [FileSystem-Tests-Core]
+SimplestClassListWithChunkExample>>#defaultTreeMorph [Morphic-Examples]
+WeakOrderedCollectionTest>>#testWeakOrderedCollectionSomeGarbageCollected [Collections-Tests]
+WeakOrderedCollectionTest>>#testWeakOrderedCollectionAllGarbageCollected [Collections-Tests]
+GLMBrowserWithoutBlocksExample>>#displayList: [Glamour-Examples]
+GLMBrowserWithoutBlocksExample>>#compose [Glamour-Examples]
+TxSliderAnnouncement class>>#source: [TxText-Athens]
+WeakFinalizersTest>>#testNewFinalizationSupported [Collections-Tests]
+DiffMorph class>>#from:to: [Tool-Diff]
+DiffMorph class>>#from:to:contextClass: [Tool-Diff]
+RubFindReplaceService>>#initialize [Rubric]
+ProfStef class>>#goToNextLesson [ProfStef-Core]
+UnusedVariable>>#openMenuIn: [Compiler]
+NBTestEnumeration class>>#enumDecl [NativeBoost-Tests]
+NBTestCallbackReturnEnum1 class>>#fnSpec [NativeBoost-Tests]
+SQSurfaceDispatch class>>#fieldsDesc [Athens-Cairo]
+NautilusKeyPressed class>>#key: [NautilusCommon]
+CursorWithMask class>>#derivedFrom: [Graphics-Display Objects]
+DiffJoinMorph>>#compositeText [Tool-Diff]
+DiffJoinMorph>>#updateMappings [Tool-Diff]
+MalGraphNode class>>#with: [Moose-Algos-Graph]
+CP1250TextConverter class>>#initialize [Multilingual-TextConversion]
+RBFooLintRuleTest1>>#foo [Refactoring-Tests-Core]
+ReStringSearchCritic class>>#for:by:badSubstring: [Renraku]
+SymbolTest>>#testSorted [Collections-Tests]
+ProceedDialogWindow>>#newButtons [Polymorph-Widgets]
+ProceedDialogWindow>>#no [Polymorph-Widgets]
+ProceedDialogWindow>>#icon [Polymorph-Widgets]
+ProceedDialogWindow>>#yes [Polymorph-Widgets]
+ProceedDialogWindow>>#handlesKeyboard: [Polymorph-Widgets]
+ProceedDialogWindow>>#keyStroke: [Polymorph-Widgets]
+AbstractEnumerationVisitorTest>>#setUp [FileSystem-Tests-Core]
+AbstractEnumerationVisitorTest>>#root [FileSystem-Tests-Core]
+AbstractEnumerationVisitorTest>>#assertEntries:are: [FileSystem-Tests-Core]
+LimitedWriteStream>>#setLimit:limitBlock: [Collections-Streams]
+ButtonModelTest>>#testAskBeforeChanging [Spec-Tests]
+OSTouchHoldEvent class>>#id [OSWindow-Core]
+JobProgressBarMorph>>#value: [Morphic-Base]
+JobProgressBarMorph>>#decrement [Morphic-Base]
+JobProgressBarMorph>>#progress: [Morphic-Base]
+JobProgressBarMorph>>#increment [Morphic-Base]
+JobProgressBarMorph>>#progress [Morphic-Base]
+MalDijkstraNode>>#to:edge: [Moose-Algos-Graph]
+UnknownSelector>>#openMenuIn: [Compiler]
+EdgeGripMorph>>#pressedFillStyle [Morphic-Widgets-Windows]
+EdgeGripMorph>>#adoptPaneColor: [Morphic-Widgets-Windows]
+EdgeGripMorph>>#defaultHeight [Morphic-Widgets-Windows]
+EdgeGripMorph>>#positionPoint: [Morphic-Widgets-Windows]
+EdgeGripMorph>>#defaultWidth [Morphic-Widgets-Windows]
+EdgeGripMorph>>#mouseUp: [Morphic-Widgets-Windows]
+EdgeGripMorph>>#leftLayoutFrame [Morphic-Widgets-Windows]
+EdgeGripMorph>>#gripLayoutFrame [Morphic-Widgets-Windows]
+EdgeGripMorph>>#themeChanged [Morphic-Widgets-Windows]
+EdgeGripMorph>>#isHorizontal [Morphic-Widgets-Windows]
+EdgeGripMorph>>#setLayoutSizingFor: [Morphic-Widgets-Windows]
+EdgeGripMorph>>#normalFillStyle [Morphic-Widgets-Windows]
+EdgeGripMorph>>#bottomLayoutFrame [Morphic-Widgets-Windows]
+EdgeGripMorph>>#splitsTopAndBottom [Morphic-Widgets-Windows]
+EdgeGripMorph>>#setTargetBounds: [Morphic-Widgets-Windows]
+EdgeGripMorph>>#topLayoutFrame [Morphic-Widgets-Windows]
+EdgeGripMorph>>#fitTargetBoundsInOwner: [Morphic-Widgets-Windows]
+EdgeGripMorph>>#rightLayoutFrame [Morphic-Widgets-Windows]
+EdgeGripMorph>>#targetPoint: [Morphic-Widgets-Windows]
+EdgeGripMorph>>#targetPoint [Morphic-Widgets-Windows]
+AverageCost>>#total [OpalCompiler-Tests]
+WeakValueAssociation class>>#new [Collections-Support]
+KMBuffer class>>#resetUniqueInstance [Keymapping-Core]
+KMBuffer class>>#uniqueInstance: [Keymapping-Core]
+KMBuffer class>>#uniqueInstance [Keymapping-Core]
+TxTextRenderer class>>#textGoryDetails [TxText-Athens]
+OSNullWindowDriver class>>#isSupported [OSWindow-Core]
+MCMockClassE class>>#two [MonticelloMocks]
+JoinSide>>#highlight [Tool-Diff]
+TextComposer class>>#characterForColumnBreak [Morphic-Base]
+StringTest>>#testSorted [Collections-Tests]
+KMCombinationTests>>#testWindowsDependentShortcut [Keymapping-Tests]
+KMCombinationTests>>#testCombinationOfSimpleShortcuts [Keymapping-Tests]
+KMCombinationTests>>#testMacDependentShortcut [Keymapping-Tests]
+KMCombinationTests>>#testShortcutIsSimpleCombination [Keymapping-Tests]
+KMCombinationTests>>#testUnixDependentShortcut [Keymapping-Tests]
+KMCombinationTests>>#testPlatformDependentShortcut [Keymapping-Tests]
+KMCombinationTests>>#testCombinationSeveralShortcuts [Keymapping-Tests]
+TxAthensLayoutLine>>#notifyRemovedFrom: [TxText-Athens]
+GlyphRenderer>>#initForFont: [Athens-Text]
+KMKeymapBuilder class>>#for:platform: [Keymapping-Pragmas]
+TotalCost>>#total [OpalCompiler-Tests]
+MCMockClassD>>#one [MonticelloMocks]
+AthensCairoPathBuilder class>>#buildPathFrom: [Athens-Cairo]
+AthensQuartzSurface class>>#finalizeResourceData: [Athens-Cairo]
+AthensQuartzSurface class>>#primImage:width:height: [Athens-Cairo]
+AthensQuartzSurface class>>#registerSurface: [Athens-Cairo]
+MalGraphEdge class>>#with: [Moose-Algos-Graph]
+OverflowRowMorph>>#moreButtonLabel [Polymorph-Widgets]
+OverflowRowMorph>>#desiredMoreMorphPosition [Polymorph-Widgets]
+OverflowRowMorph>>#fitBaseMorphs [Polymorph-Widgets]
+OverflowRowMorph>>#baseMorph: [Polymorph-Widgets]
+OverflowRowMorph>>#recreateMoreMorph [Polymorph-Widgets]
+OverflowRowMorph>>#hideMore [Polymorph-Widgets]
+OverflowRowMorph>>#moreMorphs [Polymorph-Widgets]
+OverflowRowMorph>>#moreVisible [Polymorph-Widgets]
+OverflowRowMorph>>#popMore [Polymorph-Widgets]
+OverflowRowMorph>>#showMore [Polymorph-Widgets]
+AthensCairoMatrix class>>#fieldsDesc [Athens-Cairo]
+GLMRubricTextMorphicTest>>#expectedFailures [Glamour-Tests-Rubric]
+BaseStreamTest class>>#isAbstract [Tests]
+BaseStreamTest class>>#isUnitTest [Tests]
+ZipDirectoryMember class>>#newNamed: [Compression]
+FileDirectoryWrapper>>#settingSelector [Tool-FileList]
+FileDirectoryWrapper>>#directoriesFor: [Tool-FileList]
+GLMPagerScrollSlidingBrick>>#computeWidth [Glamour-Morphic-Pager]
+GLMPagerScrollSlidingBrick>>#computeScrollValue: [Glamour-Morphic-Pager]
+GLMPagerScrollSlidingBrick>>#setWidthAfterResizing [Glamour-Morphic-Pager]
+MorphTest>>#testHaloIsDisable [Morphic-Tests]
+NBTestUnionIntSize class>>#fieldsDesc [NativeBoost-Tests]
+TxTextStylesTest>>#setUp [TxTextTests-Model]
+TxTextStylesTest>>#testAddingSameStyleTwice [TxTextTests-Model]
+TxTextStylesTest>>#testAddingCopyOfSameStyleReturnsOriginalStyle [TxTextTests-Model]
+OrderedCollectionTest>>#testSorted [Collections-Tests]
+ChooseDropListDialogWindow>>#newListMorph [Polymorph-Widgets]
+ChooseDropListDialogWindow>>#newContentMorph [Polymorph-Widgets]
+ChooseDropListDialogWindow>>#icon [Polymorph-Widgets]
+ChooseDropListDialogWindow>>#selectedItem [Polymorph-Widgets]
+ChooseDropListDialogWindow>>#selectionIndex [Polymorph-Widgets]
+FileDirectoryWrapper class>>#with:name:model: [Tool-FileList]
+TxDeleteOperation>>#do [TxText-Athens]
+TextEntryDialogWindow>>#newTextEditorMorph [Polymorph-Widgets]
+TextEntryDialogWindow>>#initialExtent [Polymorph-Widgets]
+AthensTextMorph>>#selectionColor: [Athens-Morphic]
+AthensTextMorph>>#paragraph [Athens-Morphic]
+AthensTextMorph>>#contents:wrappedTo: [Athens-Morphic]
+AthensTextMorph>>#createParagraph [Athens-Morphic]
+AthensCairoSurfaceExamples class>>#exampleInterop [Athens-Examples]
+AthensCairoSurfaceExamples class>>#newSurface: [Athens-Examples]
+TextURL class>>#scanFrom: [Text-Core]
+AthensCairoGradientPaint class>>#radialBetween:extending:and:extending:withColorRamp: [Athens-Cairo]
+AthensCairoGradientPaint class>>#createLinearGradient:start:stop: [Athens-Cairo]
+AJImmediate class>>#ivalue: [AsmJit-Operands]
+MBPackageInfo>>#cmdLoad [Versionner-Core-Model]
+MBPackageInfo>>#versions [Versionner-Core-Model]
+MBPackageInfo>>#mbPacakgeName [Versionner-Core-Model]
+OSWindowMorphicEventHandler class>>#initialize [OSWindow-Core]
+OSWindowMorphicEventHandler class>>#for: [OSWindow-Core]
+SoundTheme class>>#beCurrent [Polymorph-Widgets]
+SoundTheme class>>#isCurrent [Polymorph-Widgets]
+SoundTheme class>>#themeName [Polymorph-Widgets]
+SoundTheme class>>#current [Polymorph-Widgets]
+SoundTheme class>>#allThemeClasses [Polymorph-Widgets]
+SoundTheme class>>#current: [Polymorph-Widgets]
+SoundTheme class>>#newDefault [Polymorph-Widgets]
+SoundTheme class>>#isAbstract [Polymorph-Widgets]
+PathShape class>>#vertices: [Graphics-Shapes]
+PluggableTextEditorMorph class>>#stylingClass [Morphic-Widgets-Pluggable]
+ContributingToTheCatalogHelp class>>#bookName [ContributingToTheCatalogHelp]
+ContributingToTheCatalogHelp class>>#pages [ContributingToTheCatalogHelp]
+MCMockASubclass>>#variables2 [MonticelloMocks]
+MCMockASubclass>>#variables [MonticelloMocks]
+QuestionWithoutCancelDialogWindow>>#escapePressed [Polymorph-Widgets]
+QuestionWithoutCancelDialogWindow>>#newButtons [Polymorph-Widgets]
+ExampleBuilderMorph>>#openModal: [Morphic-Examples]
+EyePointerExplorer class>>#registerToolsOn: [Spec-Inspector]
+KMDispatchChainTest>>#testTargetDoesNotIterateTheNil [Keymapping-Tests]
+KMDispatchChainTest>>#testPassesOnTheTarget [Keymapping-Tests]
+KMDispatchChainTest>>#testGlobalIsFirst [Keymapping-Tests]
+AthensFlakeDemo>>#circle [Athens-Examples]
+AthensFlakeDemo>>#initialize [Athens-Examples]
+AthensFlakeDemo>>#defaultExtent [Athens-Examples]
+AthensFlakeDemo>>#render [Athens-Examples]
+AthensFlakeDemo>>#drawSpike: [Athens-Examples]
+AthensFlakeDemo>>#step [Athens-Examples]
+AthensFlakeDemo>>#stepTime [Athens-Examples]
+AthensFlakeDemo>>#drawCircles: [Athens-Examples]
+AthensFlakeDemo>>#drawOn: [Athens-Examples]
+EditableDropListMorph class>>#on:list:selected:changeSelected:useIndex:addToList:class:getEnabled: [Polymorph-Widgets]
+EditableDropListMorph class>>#on:list:selected:changeSelected:useIndex:addToList:class:getEnabled:default: [Polymorph-Widgets]
+KeyedTreeTest>>#testAtPathIfAbsent [Collections-Tests]
+KeyedTreeTest>>#testRemovePath [Collections-Tests]
+KeyedTreeTest>>#testMerge [Collections-Tests]
+KeyedTreeTest>>#testSubtrees [Collections-Tests]
+KeyedTreeTest>>#testAtPathPut [Collections-Tests]
+KeyedTreeTest>>#testCopy [Collections-Tests]
+KeyedTreeTest>>#testAtPathIfAbsentPut [Collections-Tests]
+KeyedTreeTest>>#testAtPath [Collections-Tests]
+KeyedTreeTest>>#testRemovePathIfAbsent [Collections-Tests]
+TextMorphForEditView>>#autoAccept: [Morphic-Base]
+TextMorphForEditView>>#autoAccept [Morphic-Base]
+TextMorphForEditView>>#doAutoAccept: [Morphic-Base]
+TextMorphForEditView>>#acceptOnFocusChange [Morphic-Base]
+TextMorphForEditView>>#acceptOnFocusChange: [Morphic-Base]
+KMCategoryTest>>#testCreateExistentCategoryFails [Keymapping-Tests]
+KMCategoryTest>>#categoryContainer [Keymapping-Tests]
+KMCategoryTest>>#testAddKeymapToCategory [Keymapping-Tests]
+KMCategoryTest>>#testCreateUnexistentCategory [Keymapping-Tests]
+IRBuilderTest class>>#compilerClass [OpalCompiler-Tests]
+GLMDropDownMorphicTest>>#testSelectionTriggeredOnSelectedIndex [Glamour-Tests-Morphic]
+NBTestStructureWithPointer1 class>>#fieldsDesc [NativeBoost-Tests]
+TextFontReference>>#forFontInStyle:do: [Text-Core]
+TextFontReference>>#toFont: [Text-Core]
+TextFontReference>>#font [Text-Core]
+TextFontReference>>#writeScanOn: [Text-Core]
+GLMDynamicPresentation>>#outerPortEvent: [Glamour-Presentations]
+OSTouchSwipeEvent class>>#id [OSWindow-Core]
+GLMActionsToolbarMorphicTest>>#expectedFailures [Glamour-Tests-Morphic]
+TTwo>>#two [Slot-Tests]
+AbstractFont class>>#emphasisStringFor: [FreeType]
+AthensParagraph>>#selectionStart:selectionStop: [Athens-Morphic]
+AthensParagraph>>#compose:style:in: [Athens-Morphic]
+AthensParagraph>>#text [Athens-Morphic]
+AthensParagraph>>#characterBlockForIndex: [Athens-Morphic]
+AthensParagraph>>#caretRect [Athens-Morphic]
+AthensParagraph>>#defaultCharacterBlock [Athens-Morphic]
+AthensParagraph>>#secondarySelection: [Athens-Morphic]
+AthensParagraph>>#textOwner: [Athens-Morphic]
+AthensParagraph>>#selectionColor: [Athens-Morphic]
+AthensParagraph>>#focused: [Athens-Morphic]
+AthensParagraph>>#extraSelectionChanged [Athens-Morphic]
+AthensParagraph>>#showCared [Athens-Morphic]
+AthensParagraph>>#selectionRects [Athens-Morphic]
+AthensParagraph>>#compose:style:from:in: [Athens-Morphic]
+AthensParagraph>>#positionWhenComposed: [Athens-Morphic]
+AthensParagraph>>#extent [Athens-Morphic]
+AthensParagraph>>#showCaret: [Athens-Morphic]
+AthensParagraph>>#focused [Athens-Morphic]
+AthensParagraph>>#findReplaceSelectionRegex: [Athens-Morphic]
+AthensParagraph>>#showCaret [Athens-Morphic]
+NBTestStructure1byte class>>#fieldsDesc [NativeBoost-Tests]
+GLMPopperNotificationStrategy>>#notify:at:in: [Glamour-Morphic-Widgets]
+KMLog class>>#log: [Keymapping-Core]
+KMLog class>>#setDebug [Keymapping-Core]
+KMLog class>>#removeDebug [Keymapping-Core]
+MockSourceEditor>>#selectionInterval [OpalCompiler-Tests]
+MockSourceEditor>>#insertAndSelect:at: [OpalCompiler-Tests]
+MockSourceEditor>>#selectionAsStream [OpalCompiler-Tests]
+MockSourceEditor>>#text [OpalCompiler-Tests]
+MockSourceEditor>>#selection [OpalCompiler-Tests]
+MockSourceEditor>>#startIndex [OpalCompiler-Tests]
+MockSourceEditor>>#editor [OpalCompiler-Tests]
+MockSourceEditor>>#selectFrom:to: [OpalCompiler-Tests]
+MockSourceEditor>>#notify:at:in: [OpalCompiler-Tests]
+MockSourceEditor>>#contents: [OpalCompiler-Tests]
+MockSourceEditor>>#cut [OpalCompiler-Tests]
+FileHandle class>>#registry [FileSystem-Disk]
+FileHandle class>>#register: [FileSystem-Disk]
+AthensFontChange class>>#font: [Athens-Text]
+TxApplicationWithToolbar>>#text [TxText-Athens]
+TxApplicationWithToolbar>>#openWithSpec [TxText-Athens]
+TxApplicationWithToolbar>>#initializeWidgets [TxText-Athens]
+SizeMismatch>>#standardMessageText [Collections-Abstract]
+SizeMismatch>>#messageText [Collections-Abstract]
+GLMMorphicDropDownRenderer>>#render: [Glamour-Morphic-Renderer]
+GLMMorphicDropDownRenderer>>#actOnPresentationUpdated: [Glamour-Morphic-Renderer]
+GLMMorphicDropDownRenderer>>#actOnContextChanged: [Glamour-Morphic-Renderer]
+WindowDeActivated>>#isDeActivated [Morphic-Widgets-Windows]
+NBTestStructureWithCallback class>>#fieldsDesc [NativeBoost-Tests]
+RBRemoveAssignmentWithoutEffectRule>>#longDescription [Refactoring-Critics]
+FuzzyLabelMorph>>#measureContents [Morphic-Widgets-Basic]
+FuzzyLabelMorph>>#setWidth: [Morphic-Widgets-Basic]
+FuzzyLabelMorph>>#initWithContents:font:emphasis: [Morphic-Widgets-Basic]
+FuzzyLabelMorph>>#drawOn: [Morphic-Widgets-Basic]
+KMKeymapTest class>>#keymapEventBuilderClass [Keymapping-Tests]
+TextClassLink class>>#className: [Text-Core]
+TextClassLink class>>#class: [Text-Core]
+CairoGlyphsArray class>>#initialize [Athens-Cairo]
+AJx64AssemblerTests class>>#shouldInheritSelectors [AsmJit-Tests]
+AthensCairoPatternSurfacePaint class>>#createForSurface: [Athens-Cairo]
+AthensCairoPatternSurfacePaint class>>#primCreateForSurface: [Athens-Cairo]
+CairoFontExtents class>>#fieldsDesc [Athens-Cairo]
+PluggableSet class>>#integerSet [Collections-Unordered]
+AthensDisplayScanner class>>#for:on: [Athens-Morphic]
+AthensDisplayScanner class>>#on: [Athens-Morphic]
+RBRemoveInstanceVariableRefactoring class>>#remove:from: [Refactoring-Core]
+RBRemoveInstanceVariableRefactoring class>>#model:remove:from: [Refactoring-Core]
+AnnouncementLogger>>#subscribeTo: [System-Announcements]
+AnnouncementLogger>>#logAnnouncement: [System-Announcements]
+RBLocalMethodsOfAClassNotInItsTraitComposition>>#group [Refactoring-Critics]
+OSEvent class>>#for: [OSWindow-Core]
+PluggableDictionary class>>#integerDictionary [Collections-Unordered]
+RubAbstractSmalltalkMode>>#isCodeCompletionAllowed [Rubric]
+WindowActivated>>#isActivated [Morphic-Widgets-Windows]
+AthensPathBuilder class>>#initialize [Athens-Core]
+CairoScaledFont>>#lock [Athens-Cairo]
+CairoScaledFont>>#unlock [Athens-Cairo]
+CheckboxMorph class>>#on:selected:changeSelected: [Morphic-Widgets-Basic]
+GLMPhlowListBrick>>#setAdaptor [Glamour-Morphic-Brick]
+GLMPhlowListBrick>>#displayLogic [Glamour-Morphic-Brick]

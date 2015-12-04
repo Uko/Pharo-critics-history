@@ -1,15 +1,15 @@
-GLMBrickGeometryTrait>>#hasProperty:
-CairoGlyph>>#x:
-CairoGlyph>>#y:
-CairoGlyph>>#x
-CairoGlyph>>#y
-CairoGlyph>>#index
-CairoGlyph>>#index:
-GLMBrickPropertiesTrait>>#hasProperty:
-NBExternalAddress>>#byteAt:
-NBExternalAddress>>#longAt:
-NBExternalAddress>>#longAt:put:
-NBExternalAddress>>#ulongAt:
-NBExternalAddress>>#byteAt:put:
-NBExternalAddress>>#ulongAt:put:
-MOPTestClassD>>#c3
+GLMBrickGeometryTrait>>#hasProperty: [nil]
+CairoGlyph>>#x: [nil]
+CairoGlyph>>#y: [nil]
+CairoGlyph>>#x [nil]
+CairoGlyph>>#y [nil]
+CairoGlyph>>#index [nil]
+CairoGlyph>>#index: [nil]
+GLMBrickPropertiesTrait>>#hasProperty: [nil]
+NBExternalAddress>>#byteAt: [nil]
+NBExternalAddress>>#longAt: [nil]
+NBExternalAddress>>#longAt:put: [nil]
+NBExternalAddress>>#ulongAt: [nil]
+NBExternalAddress>>#byteAt:put: [nil]
+NBExternalAddress>>#ulongAt:put: [nil]
+MOPTestClassD>>#c3 [nil]

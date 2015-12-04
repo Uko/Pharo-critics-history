@@ -1,418 +1,417 @@
-DelayExperimentalSpinScheduler>>#schedule:
-DelayExperimentalSpinScheduler>>#unschedule:
-GLMBrick>>#drawSubmorphsOn:
-GLMBrick>>#drawSubmorphsOnAthensCanvas:
-GTSpotterProcessor>>#exceptionHandler
-KeyboardEvent>>#modifiedCharacter
-TaskListMorph>>#newPreviewMorph
-NBNativeCodeGen class>>#generateCode:andRetry:
-RPackageCategorySynchronisationTest>>#testAddCategoryCreatesPackage
-RPackageCategorySynchronisationTest>>#testAddCategoryIsAlreadyAPackageDoesNotCreatePackage
-MCWorkingCopyBrowser>>#editRepository
-ProcessBrowser class>>#dumpTallyOnTranscript:
-FileCompilerRequestor>>#notify:at:in:
-TreeModel class>>#example
-TreeModel class>>#exampleWithCustomColumnsAndNodes
-TreeModel class>>#exampleWithCustomColumnsAndNodesAndChildren
-AJx86Registers class>>#code:
-GLMHighlighterTextParserStyler>>#privateFormat:
-GLMHighlighterTextParserStyler>>#privateStyle:
-GTFilterFileReference>>#queryForItem:
-DictionaryTest>>#expectedSizeAfterReject
-GLMMorphBrick>>#drawSubmorphsOn:
-GTSpotterItemBrick>>#newLabelBrick
-RPackage>>#updateDefinedClassNamed:withNewName:
-RPackage>>#includesMethodReference:
-RPackage>>#spotterPreviewCodeIn:
-RPackage>>#extensionClasses
-RPackage>>#classesAndMetaClasses
-RPackage>>#extensionCategoriesForClass:
-RPackage>>#removeDefinedMethod:forClass:
-RPackage>>#includesMethod:ofClass:
-RPackage>>#coreCategoriesForClass:
-GLMMorphicRubricTextRenderer>>#morph
-RBSmalllintTestObject>>#codeCruftLeftInMethods
-RBSmalllintTestObject>>#debbuggingMessageSent
-RBSmalllintTestObject>>#haltClassMentioned
-RBSmalllintTestObject>>#transcriptMentioned
-RBSmalllintTestObject>>#flagged
-Random class>>#bucketTest:
-MCWorkingCopy>>#spotterAncestorsFor:
-MCWorkingCopy>>#spotterPackageFor:
-LazyTabGroupMorph>>#updatePageIndex:
-RBRefactoryTestDataApp>>#cruft
-TableLayout>>#computeGlobalCellArrangement:in:horizontal:wrap:spacing:
-TableLayout>>#indexForInserting:inList:horizontal:target:
-ThemeIcons>>#spotterForIconsFor:
-GLMBrickGeometryTrait>>#extent:
-MBConfigurationRoot>>#categoryModified:
-SocketStream class>>#finger:
-GLMCompositeBrick>>#custom:
-RPackageOrganizer>>#systemMethodModifiedActionFrom:
-RPackageOrganizer>>#systemClassRenamedActionFrom:
-RPackageOrganizer>>#systemCategoryRemovedActionFrom:
-RPackageOrganizer>>#packageOfClassNamed:
-RPackageOrganizer>>#registerInterestToAnnouncer:
-ReturnNode>>#analyseTempsWithin:rootNode:assignmentPools:
-UnhandledError>>#defaultAction
-FilterTest>>#setUp
-RGContainer>>#addClass:
-RGContainer>>#includesClassNamed:
-AthensCanvasWrapper>>#image:at:sourceRect:rule:
-AthensCanvasWrapper>>#drawString:in:font:color:
-AthensCanvasWrapper>>#fillColor:
-AthensCanvasWrapper>>#cache:using:during:
-AthensCanvasWrapper>>#asShadowDrawingCanvas
-Generator class>>#examplePrimes
-FileSystemHandleTest>>#testCreatedOpen
-TabExample>>#freshListTab
-PasteUpMorph>>#defaultDesktopCommandKeyTriplets
-NewListModel class>>#exampleWithMenu
-EnvironmentChooser>>#chooseNewEnvironment
-GLMExamplesBrowser>>#exampleIn:
-TextMorph>>#passKeyboardFocusTo:
-OCCompilerNotifyingTest>>#testTooManyTemporaries
-OCCompilerNotifyingTest>>#testEmptyCaseStatement
-GTFilterImplementor>>#itemFilterNameFor:
-ConfigurationCommandLineHandler>>#hasConfiguration
-NBExternalEnumTests>>#primExecuteCallbackEnumReturn:
-ZipArchiveTest>>#testCreateWithRelativeNames
-ZipArchiveTest>>#testZip
-MetacelloMCProjectSpec>>#loadVersion:
-MetacelloMCProjectSpec>>#version
-EncoderForV3>>#genSend:numArgs:
-SourceFileArray>>#sourcedDataAt:
-ZipArchiveMember>>#desiredCompressionMethod:
-ZipArchiveMember>>#refreshLocalFileHeaderTo:
-FileReference>>#spotterPreviewItemsIn:
-MCVersionInfo>>#spotterAncestorsFor:
-MethodClassifier>>#classifyByOtherImplementors:
-GLMWhitespaceTheme>>#windowEdgeNormalFillStyleFor:
-GLMWhitespaceTheme>>#resizerGripNormalFillStyleFor:
-TextMethodLink>>#actOnClick:for:in:editor:
-PluggableCanvas>>#fillOval:fillStyle:borderWidth:borderColor:
-MetacelloToolBox class>>#releaseEarlyAccessVersion:for:from:
-HandMorph>>#generateKeyboardEvent:
-NewListAdapter>>#getHeaderHeight
-Breakpoint>>#haltNow
-DelayBenchmark class>>#runAll
-NECMenuMorph>>#drawModelMessageOn:in:
-NECMenuMorph>>#insertCommonPrefix
-NECMenuMorph>>#detailMessage
-NECMenuMorph>>#insertCommonPrefixOrSelected
-NECMenuMorph>>#mouseDown:
-OCDecompilerConstructor>>#codeMessage:selector:arguments:
-Encoder>>#bindTemp:in:
-ComposableModel>>#private_buildWithSpec:
-DiskStore>>#isReadable:
-DiskStore>>#isWritable:
-NBNativeCodeGen>>#generatedCode
-ZipNewFileMember>>#from:
-RPackageMonticelloSynchronisationTest>>#testUnloadMCPackageRemovesRPackage
-FLInMemoryBasicSerializationTest>>#testStringGlobalsAndClosure
-RBMethodNode>>#tempNames
-StartupPreferencesHandler>>#lookInFolder:
-TxModel>>#postCopy
-CodeImporter>>#selectTextConverterForCode
-DoItChunk>>#importFor:
-TxBlockCursor>>#drawOnAthensCanvas:
-TxCharacterSpanDisplayCommand>>#contains:
-PackageTreeNautilusUI>>#registerSelectionGroup:
-WorldState>>#interCyclePause:
-WorldState>>#runStepMethodsIn:
-PlatformResolver class>>#primitiveGetUntrustedUserDirectory
-WindowsStore class>>#maxFileNameLength
-RFArgumentsReification>>#genForRBProgramNode
-RubTextAreaExamples class>>#textFieldWithCRAction
-Collection>>#includesAnyOf:
-Collection>>#includesAllOf:
-FormCanvas>>#fillOval:fillStyle:borderWidth:borderColor:
-ProtoObjectTest>>#testIfNotNil
-ProtoObjectTest>>#testFlag
-ProtoObjectTest>>#testIfNil
-ProtoObjectTest>>#testIfNotNilIfNil
-ProtoObjectTest>>#testIfNilIfNotNil
-DigitalSignatureAlgorithm>>#isProbablyPrime:
-DigitalSignatureAlgorithm>>#generateKeySet
-KMCategoryTarget>>#verifyMatchWith:notifying:thenDoing:
-MCConfiguration class>>#whatChangedFrom:to:
-TreeListMorph>>#addSubmorphsAfter:fromCollection:allowSorting:
-GLMStringBrick>>#onDrawAthensCanvas:
-CompiledMethod>>#packageFromOrganizer:
-CompiledMethod>>#spotterPreviewCodeIn:
-CodeSimulationTests>>#methodWithHalt
-CodeSimulationTests>>#methodWithTranscript
-SlotErrorsTest>>#assertInvalidClassName:
-MCCacheRepository class>>#default
-TxTextStyler>>#resolveStyleFor:
-ZnLogEvent class>>#logToTranscript
-PluggableMenuSpec class>>#exampleWithOneSingleItem
-PluggableMenuSpec class>>#exampleWithTwoSimpleItems
-MultiCanvas>>#apply:
-AthensBalloonStrokePaint>>#capRound
-AthensBalloonStrokePaint>>#capButt
-AthensBalloonStrokePaint>>#capSquare
-AthensBalloonStrokePaint>>#joinRound
-AthensBalloonStrokePaint>>#joinMiter
-AthensBalloonStrokePaint>>#joinBevel
-ColorMap>>#mappingTo:
-KMCategoryBinding>>#verifyMatchWith:notifying:thenDoing:
-AbstractNautilusUI>>#moveInPackage
-SmalltalkImage>>#select:
-SmalltalkImage>>#associationAt:ifAbsent:
-SmalltalkImage>>#includes:
-SmalltalkImage>>#keys
-SmalltalkImage>>#removeKey:ifAbsent:
-SmalltalkImage>>#keyAtValue:
-SmalltalkImage>>#size
-SmalltalkImage>>#removeKey:
-SmalltalkImage>>#do:
-SmalltalkImage>>#keyAtIdentityValue:ifAbsent:
-SmalltalkImage>>#keysAndValuesDo:
-ObjectTest>>#testHaltIf
-ObjectTest>>#b1
-ObjectTest>>#testHaltOnCount
-ObjectTest>>#b
-ObjectTest>>#testHaltOnce
-RGMethodDefinition>>#''<=''
-RGMethodDefinition>>#isSameRevisionAs:
-StringMorphEditor>>#keyStroke:
-GTSimpleMethodsBrowser>>#updateOuterPaneFrom:for:
-InfiniteForm>>#displayOnPort:at:
-StringMorph>>#addOptionalHandlesTo:box:
-SpecDebuggerStack>>#contextMenu:
-HaloMorph>>#popUpFor:event:
-ToggleMenuItemMorph>>#icon
-GLMPane>>#postCopy
-GTSpotterResultsBrick>>#onCandidateSelected:
-MemoryFileSystemFile>>#at:
-FLMigrationTest>>#testBadDestinationVariableRename
-Model>>#hasUnacceptedEdits
-GLMBrowser>>#resolveDestinationPort:
-GLMBrowser>>#postCopy
-Slot>>#link:
-GLMPagerScrollBrick>>#paneMargin
-GLMFinder>>#passivelyFromPrevious:
-GLMFinder>>#fromPrevious:
-NBNativeFunctionGen>>#generateInstructions:
-FLHookedSubstitutionTest>>#testProxyByTargetAnalisysIsPropagated
-Termcap>>#reset
-PropertySlot>>#layoutChanged:
-DebugSession>>#unwindAndRestartToContext:
-DebugSession>>#downInContext:
-DebugSession>>#returnValueFrom:
-DebugSession>>#peelToFirstLike:
-DebugSession>>#returnValue:from:
-MCFileTreeAbstractStWriter>>#visitScriptDefinition:
-FLPrimitiveCluster>>#registerIndexesOn:
-FLBitsObjectCluster>>#registerIndexesOn:
-ClippingCanvas>>#contentsOfArea:into:
-Editor>>#setIndices:forward:
-BooleanSlot>>#layoutChanged:
-MacStore>>#mimeTypesAt:
-SpecDebugger>>#process:controller:context:
-SpecDebugger>>#openFullNoSuspendLabel:
-SpecDebugger>>#initializePresenter
-SystemProgressMorph>>#show:
-SystemProgressMorph>>#show:from:to:
-IRJumpIf>>#nextBytecodeOffsetAfterJump
-GLMSystemWindow>>#acceptContents:
-GLMSystemWindow>>#acceptAction:
-TClassDescription>>#noteMethodRemoved:
-TClassDescription>>#noteMethodChanged:to:
-ScriptLoader class>>#initialize
-TxTextAdapter>>#setSelectionFromModel:
-TxTextAdapter>>#pendingText:
-TxTextAdapter>>#getText
-ChangesBrowser>>#updateChanges
-MCDataStream class>>#initialize
-RubTextMethodLink>>#actOnClick:for:in:editor:
-GLMTransmission>>#transmitIn:
-GTSpotterStepTest>>#testContextChange
-GTSpotterStepTest>>#basicSearch:
-FileStream class>>#standardIOStreamNamed:forWrite:
-GTSpotter>>#spotterStfxFor:
-GTSpotter>>#spotterConcreteMethodFor:
-GTSpotter>>#spotterForFilesFor:
-GTSpotter>>#fileReferencesBy:inContext:usingFilter:
-GTSpotter>>#spotterImplementorsFor:
-GTSpotter>>#spotterForExpressionsFor:
-GTSpotter>>#spotterForDirectoriesFor:
-VirtualMachine>>#isPharoVM
-GTSpotterStackedLayout>>#layoutStacked:in:
-AbstractCategoryWidget>>#categoryIconFor:
-Color>>#isTranslucentColor
-UndefinedObjectTest>>#testIfNotNilIfNil
-UndefinedObjectTest>>#testIfNilIfNotNil
-UndefinedObjectTest>>#testIfNil
-FinderUI>>#guessTypeForName:
-DualChangeSorterApplication class>>#changesListMenu:
-DualChangeSorterApplication class>>#messageListMenu:
-DualChangeSorterApplication class>>#classListMenu:
-AbstractClassInstaller>>#installTraitComposition:on:
-NBMacSpecificTest>>#testSystemCall
-SelectorNode>>#sizeCode:args:super:
-TClass>>#spotterPreviewCodeIn:
-GLMTreeMorphModel>>#wantsDroppedMorph:event:inMorph:
-ScrollPane>>#mouseDown:
-MBConfigurationRootTest>>#test0050BasicVersionLoad
-GLMPresentationBoundPort>>#value
-GLMListingPresentation>>#columns
-GLMListingPresentation>>#childrenValueOf:
-GLMListingPresentation>>#childrenValueOf:atLevel:
-ClassCommented class>>#classCommented:
-RubAbstractTextArea>>#handleSelectionChange:
-MFClassA>>#method
-NBExternalType class>>#pointerSize
-StartupPreferencesLoader class>>#example3
-Context>>#completeCallee:
-RBNamespaceTest>>#testModelImplementorsSenders
-GLMSingleUpdateAction>>#computeAnnouncerObjects
-PSMCPatchMorph>>#expandChangeTree
-Timespan>>#includesAnyOf:
-Timespan>>#includesAllOf:
-GLMMorphicStackerRenderer>>#render:
-UndefinedObject>>#haltIfNil
-ZipWriteStream>>#flushBlock:
-SpecLayoutAdd>>#offsets
-AJInstruction>>#insert:
-NECController>>#handleKeystrokeBefore:editor:
-EvaluateCommandLineHandler>>#evaluateStdIn
-LinkWrapperGlobal>>#emitValue:
-TPrintOnSequencedTest>>#testPrintNameOn
-Morph>>#rootMorphsAt:
-Morph>>#transferHalo:from:
-Morph>>#tabHitWithEvent:
-GTPlayPage>>#acceptContents:
-GTPlayPage>>#spotterPreviewCodeIn:
-NBFFICallout>>#generateInstructions:
-GTSpotterTest>>#testInitialText
-GTSpotterTest>>#testNewSpotter
-GTSpotterTest>>#testEmptyTextInput
-Workspace>>#hasUnacceptedEdits
-MenuItemMorph>>#invokeWithEvent:
-MenuItemMorph>>#contents:withMarkers:inverse:
-MenuItemMorph>>#spotterPreviewMenuIn:
-Socket class>>#loopbackTest
-WorldState class>>#setHaltOnce
-WorldState class>>#systemOn:
-WorldState class>>#clearHaltOnce
-GLMMorphicWidgetRenderer>>#morph:withTitleOf:
-MFClassB>>#method3
-BlockClosureTest>>#testOnForkErrorTakesLessThanOneSecond
-VariableNode>>#sizeCodeForValue:
-VariableNode>>#emitCodeForValue:encoder:
-UITestCase>>#runCase
-Stdio class>>#standardIOStreamNamed:forWrite:
-MorphicWindowAdapter>>#title
-GTSpotterWidgetThemer>>#itemIconStyleFor:
-ZipWriteStream class>>#printRegressionStats:from:
-ZipWriteStream class>>#regressionTestFrom:
-ZipWriteStream class>>#compressAndDecompress:using:stats:
-MCConfigurationBrowser>>#showChangeLog
-RubTextEditor>>#saveContentsInFile
-RubTextEditor>>#inOutdent:delta:
-RubTextEditor>>#setIndices:forward:
-FileLocatorTest>>#testResolveRelativeReference
-GTPlayground class>>#edit:label:
-MetacelloFetchingMCSpecLoader>>#resolveDependencies:nearest:into:
-MCTraitDefinition>>#=
-LiteralVariableNode>>#emitCodeForStore:encoder:
-DelayBenchmark>>#bench
-Behavior>>#instSize
-GLMLipsumWithSegmentsExample>>#presentation
-NautilusUI>>#selectedMethod:
-GLMPresentation>>#status:
-GLMPresentation>>#registerAnnouncements
-GLMPresentation>>#postCopy
-GLMPresentation>>#copy
-IRSequence>>#splitAfter:
-GLMMockPagerModel>>#popPane:
-GLMMockPagerModel>>#scrollToPane:callback:
-HelpTopic>>#spotterPreviewSubtopicsHelpIn:
-HelpTopic>>#spotterPreviewContentHelpIn:
-HelpTopic>>#spotterForHelpTopicFor:
-MenuMorph>>#addWithLabel:enablement:action:
-MenuMorph>>#addUpdating:target:selector:argumentList:
-MenuMorph>>#spotterItemsFor:
-NewList>>#updateRenderer
-Context class>>#trace:
-Tab>>#mouseDown:
-RGCommentDefinition>>#selector
-RGCommentDefinition>>#methodClass
-HandleMorph>>#keyStroke:
-HandleMorph>>#justDroppedInto:event:
-HandleMorph>>#startStepping
-Object>>#haltIf:
-Object>>#nbLibraryNameOrHandle
-Object>>#halt:
-Object>>#log:
-Object>>#haltIfShiftPressed
-Object>>#spotterPreviewRawIn:
-Object>>#haltOnCount:
-Object>>#halt
-Object>>#nominallyUnsent:
-Object>>#trace:
-Object>>#inspectOnce
-Object>>#haltOnce
-MetacelloProject>>#spotterForVersionsFor:
-MetacelloProject>>#latestVersion
-NewListRenderer>>#updateRectFor:and:
-NewListRenderer>>#updateRectFor:
-NewListRenderer>>#drawItem:at:on:
-LinkWrapper>>#emitValue:
-OCASTTranslator>>#visitBlockNode:
-AJReserveTemp>>#prohibitsRex
-VTermOutputDriver>>#here
-VTermOutputDriver>>#overwrite:
-GTSpotterContext>>#exceptionHandler
-SystemProgressMorph class>>#show:from:to:during:
-SystemProgressMorph class>>#show:from:to:
-SystemProgressMorph class>>#endJob:
-MCStReader>>#classInstVarNamesFor:
-RubTextSegmentMorph>>#textChangedFrom:to:delta:
-NumberParser>>#makeIntegerOrScaledInteger
-TxWorkspace>>#updateSyntaxHighlighting
-GLMTreeMorphNodeModel>>#shouldBeDisplayedByText
-GLMTreeMorphNodeModel>>#shouldBeDisplayedByTags
-BalloonBezierSimulation>>#quickPrint:first:
-IRBuilder>>#addBlockReturnTopIfRequired
-DebugSession class>>#debuggingActionsForPragmas:for:
-StrikeFont>>#characters:in:displayAt:clippedBy:rule:fillColor:kernDelta:on:
-TraitTest>>#testRemoveFromSystem
-TraitTest>>#testTraitRemoval
-TextMorphForEditView>>#mouseDown:
-OCCompilerTest>>#testInBlockArgumentInstanceVariableShadowing
-DebugAction>>#shortcutCommand
-SmalllintManifestChecker>>#runRules:onPackage:withoutTestCase:
-MetacelloVersionValidator>>#recordValidationCriticalWarning:versionString:callSite:reasonCode:
-MetacelloVersionValidator>>#recordValidationError:versionString:callSite:reasonCode:
-MetacelloVersionValidator>>#recordValidationWarning:versionString:callSite:reasonCode:
-AbstractLayout>>#resolveSlot:
-GLMPagerButtonsPaneBrick>>#markButtonsInside:
-GTPlayBook>>#initialize
-SpecDebugger class>>#informExistingDebugger:label:
-AthensParagraph>>#findReplaceSelectionRegex:
-AthensParagraph>>#extraSelectionChanged
-AthensParagraph>>#secondarySelection:
-GLMTextMorphForEditView>>#acceptContents
-GLMMorphicPaneRenderer>>#actOnMatchingPresentationChanged:
-GLMMorphicListingRenderer>>#actOnUpdatedPresentation:
-ZnMessage>>#writeToTranscript
-KMLog class>>#log:
-Transcripter class>>#startTranscriptProcess
-GLMMorphicSmalltalkCodeRenderer>>#actOnVariableBindingsUpdated:
-GLMBasicExamples>>#interdependentPanes
-GLMBasicExamples>>#onChangeOfPortAction
-GLMBasicExamples>>#wizard
-UpdateStreamer>>#groupUpdatesByVersion:
-UpdateStreamer>>#extractVersion:from:
-FLLightGeneralMapper>>#visitCharacter:
-BalloonEngine class>>#printStats
-FileHandle>>#open
-FileHandle>>#at:write:startingAt:count:
-FileHandle>>#at:read:startingAt:count:
-FileHandle>>#flush
-FileHandle>>#size
-GTFilter>>#exceptionHandler
-String>>#isLiteralSymbol
+DelayExperimentalSpinScheduler>>#schedule: [Kernel]
+DelayExperimentalSpinScheduler>>#unschedule: [Kernel]
+GLMBrick>>#drawSubmorphsOn: [Glamour-Morphic-Brick]
+GLMBrick>>#drawSubmorphsOnAthensCanvas: [Glamour-Morphic-Brick]
+GTSpotterProcessor>>#exceptionHandler [GT-Spotter]
+KeyboardEvent>>#modifiedCharacter [Keymapping-KeyCombinations]
+TaskListMorph>>#newPreviewMorph [Morphic-Widgets-Taskbar]
+NBNativeCodeGen class>>#generateCode:andRetry: [NativeBoost-Core]
+RPackageCategorySynchronisationTest>>#testAddCategoryCreatesPackage [RPackage-Tests]
+RPackageCategorySynchronisationTest>>#testAddCategoryIsAlreadyAPackageDoesNotCreatePackage [RPackage-Tests]
+MCWorkingCopyBrowser>>#editRepository [MonticelloGUI]
+ProcessBrowser class>>#dumpTallyOnTranscript: [Tool-ProcessBrowser]
+FileCompilerRequestor>>#notify:at:in: [CodeImport]
+TreeModel class>>#example [Spec-Core]
+TreeModel class>>#exampleWithCustomColumnsAndNodes [Spec-Core]
+TreeModel class>>#exampleWithCustomColumnsAndNodesAndChildren [Spec-Core]
+AJx86Registers class>>#code: [AsmJit-x86]
+GLMHighlighterTextParserStyler>>#privateFormat: [Glamour-Rubric-Presentations]
+GLMHighlighterTextParserStyler>>#privateStyle: [Glamour-Rubric-Presentations]
+GTFilterFileReference>>#queryForItem: [GT-SpotterExtensions-Core]
+DictionaryTest>>#expectedSizeAfterReject [CollectionsTests]
+GLMMorphBrick>>#drawSubmorphsOn: [Glamour-Morphic-Brick]
+GTSpotterItemBrick>>#newLabelBrick [GT-Spotter]
+RPackage>>#updateDefinedClassNamed:withNewName: [RPackage-Core]
+RPackage>>#includesMethodReference: [RPackage-Core]
+RPackage>>#spotterPreviewCodeIn: [GT-SpotterExtensions-Core]
+RPackage>>#extensionClasses [RPackage-Core]
+RPackage>>#classesAndMetaClasses [RPackage-Core]
+RPackage>>#extensionCategoriesForClass: [RPackage-Core]
+RPackage>>#removeDefinedMethod:forClass: [RPackage-Core]
+RPackage>>#includesMethod:ofClass: [RPackage-Core]
+RPackage>>#coreCategoriesForClass: [RPackage-Core]
+GLMMorphicRubricTextRenderer>>#morph [Glamour-Morphic-Renderer]
+RBSmalllintTestObject>>#codeCruftLeftInMethods [Refactoring-Tests-Critics]
+RBSmalllintTestObject>>#debbuggingMessageSent [Refactoring-Tests-Critics]
+RBSmalllintTestObject>>#haltClassMentioned [Refactoring-Tests-Critics]
+RBSmalllintTestObject>>#transcriptMentioned [Refactoring-Tests-Critics]
+RBSmalllintTestObject>>#flagged [Refactoring-Tests-Critics]
+Random class>>#bucketTest: [Kernel]
+MCWorkingCopy>>#spotterAncestorsFor: [GT-SpotterExtensions-Core]
+MCWorkingCopy>>#spotterPackageFor: [GT-SpotterExtensions-Core]
+LazyTabGroupMorph>>#updatePageIndex: [Glamour-Morphic-Widgets]
+RBRefactoryTestDataApp>>#cruft [Refactoring-Tests-Core]
+TableLayout>>#computeGlobalCellArrangement:in:horizontal:wrap:spacing: [Morphic-Base]
+TableLayout>>#indexForInserting:inList:horizontal:target: [Morphic-Base]
+ThemeIcons>>#spotterForIconsFor: [GT-SpotterExtensions-Core]
+GLMBrickGeometryTrait>>#extent: [Glamour-Morphic-Brick]
+MBConfigurationRoot>>#categoryModified: [Versionner-Core-Model]
+SocketStream class>>#finger: [Network-Kernel]
+GLMCompositeBrick>>#custom: [Glamour-Morphic-Brick]
+RPackageOrganizer>>#systemMethodModifiedActionFrom: [RPackage-SystemIntegration]
+RPackageOrganizer>>#systemClassRenamedActionFrom: [RPackage-SystemIntegration]
+RPackageOrganizer>>#systemCategoryRemovedActionFrom: [RPackage-SystemIntegration]
+RPackageOrganizer>>#packageOfClassNamed: [RPackage-Core]
+RPackageOrganizer>>#registerInterestToAnnouncer: [RPackage-SystemIntegration]
+ReturnNode>>#analyseTempsWithin:rootNode:assignmentPools: [Compiler]
+UnhandledError>>#defaultAction [Kernel]
+FilterTest>>#setUp [Debugger-Tests]
+RGContainer>>#addClass: [Ring-Core-Containers]
+RGContainer>>#includesClassNamed: [Ring-Core-Containers]
+AthensCanvasWrapper>>#image:at:sourceRect:rule: [Athens-Morphic]
+AthensCanvasWrapper>>#drawString:in:font:color: [Athens-Morphic]
+AthensCanvasWrapper>>#fillColor: [Athens-Morphic]
+AthensCanvasWrapper>>#cache:using:during: [Athens-Morphic]
+AthensCanvasWrapper>>#asShadowDrawingCanvas [Athens-Morphic]
+Generator class>>#examplePrimes [Collections-Streams]
+FileSystemHandleTest>>#testCreatedOpen [FileSystem-Tests-Core]
+TabExample>>#freshListTab [Morphic-Widgets-Tabs]
+PasteUpMorph>>#defaultDesktopCommandKeyTriplets [Tool-Base]
+NewListModel class>>#exampleWithMenu [Spec-Core]
+EnvironmentChooser>>#chooseNewEnvironment [NautilusRefactoring]
+GLMExamplesBrowser>>#exampleIn: [Glamour-Examples]
+TextMorph>>#passKeyboardFocusTo: [Morphic-Base]
+OCCompilerNotifyingTest>>#testTooManyTemporaries [OpalCompiler-Tests]
+OCCompilerNotifyingTest>>#testEmptyCaseStatement [OpalCompiler-Tests]
+GTFilterImplementor>>#itemFilterNameFor: [GT-SpotterExtensions-Core]
+ConfigurationCommandLineHandler>>#hasConfiguration [ConfigurationCommandLineHandler-Core]
+NBExternalEnumTests>>#primExecuteCallbackEnumReturn: [NativeBoost-Tests]
+ZipArchiveTest>>#testCreateWithRelativeNames [CompressionTests]
+ZipArchiveTest>>#testZip [CompressionTests]
+MetacelloMCProjectSpec>>#loadVersion: [Metacello-MC]
+MetacelloMCProjectSpec>>#version [Metacello-MC]
+EncoderForV3>>#genSend:numArgs: [Compiler]
+SourceFileArray>>#sourcedDataAt: [System-Sources]
+ZipArchiveMember>>#desiredCompressionMethod: [Compression]
+ZipArchiveMember>>#refreshLocalFileHeaderTo: [Compression]
+FileReference>>#spotterPreviewItemsIn: [GT-SpotterExtensions-Core]
+MCVersionInfo>>#spotterAncestorsFor: [GT-SpotterExtensions-Core]
+MethodClassifier>>#classifyByOtherImplementors: [Tool-Base]
+GLMWhitespaceTheme>>#windowEdgeNormalFillStyleFor: [Glamour-Morphic-Theme]
+GLMWhitespaceTheme>>#resizerGripNormalFillStyleFor: [Glamour-Morphic-Theme]
+TextMethodLink>>#actOnClick:for:in:editor: [Text-Core]
+PluggableCanvas>>#fillOval:fillStyle:borderWidth:borderColor: [Graphics-Canvas]
+MetacelloToolBox class>>#releaseEarlyAccessVersion:for:from: [Metacello-ToolBox]
+HandMorph>>#generateKeyboardEvent: [Morphic-Core]
+NewListAdapter>>#getHeaderHeight [Morphic-Widgets-NewList]
+Breakpoint>>#haltNow [Reflectivity]
+DelayBenchmark class>>#runAll [KernelTests]
+NECMenuMorph>>#drawModelMessageOn:in: [NECompletion]
+NECMenuMorph>>#insertCommonPrefix [NECompletion]
+NECMenuMorph>>#detailMessage [NECompletion]
+NECMenuMorph>>#insertCommonPrefixOrSelected [NECompletion]
+NECMenuMorph>>#mouseDown: [NECompletion]
+OCDecompilerConstructor>>#codeMessage:selector:arguments: [OpalDecompiler]
+Encoder>>#bindTemp:in: [Compiler]
+ComposableModel>>#private_buildWithSpec: [Spec-Core]
+DiskStore>>#isReadable: [FileSystem-Disk]
+DiskStore>>#isWritable: [FileSystem-Disk]
+NBNativeCodeGen>>#generatedCode [NativeBoost-Core]
+ZipNewFileMember>>#from: [Compression]
+RPackageMonticelloSynchronisationTest>>#testUnloadMCPackageRemovesRPackage [RPackage-Tests]
+FLInMemoryBasicSerializationTest>>#testStringGlobalsAndClosure [FuelTests]
+RBMethodNode>>#tempNames [OpalCompiler-Core]
+StartupPreferencesHandler>>#lookInFolder: [StartupPreferences]
+TxModel>>#postCopy [TxText-Model]
+CodeImporter>>#selectTextConverterForCode [CodeImport]
+DoItChunk>>#importFor: [CodeImport]
+TxBlockCursor>>#drawOnAthensCanvas: [TxText-Athens]
+TxCharacterSpanDisplayCommand>>#contains: [TxText-Athens]
+PackageTreeNautilusUI>>#registerSelectionGroup: [Nautilus]
+WorldState>>#interCyclePause: [Morphic-Core]
+WorldState>>#runStepMethodsIn: [Morphic-Core]
+PlatformResolver class>>#primitiveGetUntrustedUserDirectory [FileSystem-Core]
+WindowsStore class>>#maxFileNameLength [FileSystem-Disk]
+RFArgumentsReification>>#genForRBProgramNode [Reflectivity]
+RubTextAreaExamples class>>#textFieldWithCRAction [Rubric]
+Collection>>#includesAnyOf: [Collections-Abstract]
+Collection>>#includesAllOf: [Collections-Abstract]
+FormCanvas>>#fillOval:fillStyle:borderWidth:borderColor: [Graphics-Canvas]
+ProtoObjectTest>>#testIfNotNil [KernelTests]
+ProtoObjectTest>>#testFlag [KernelTests]
+ProtoObjectTest>>#testIfNil [KernelTests]
+ProtoObjectTest>>#testIfNotNilIfNil [KernelTests]
+ProtoObjectTest>>#testIfNilIfNotNil [KernelTests]
+DigitalSignatureAlgorithm>>#isProbablyPrime: [System-Hashing]
+DigitalSignatureAlgorithm>>#generateKeySet [System-Hashing]
+KMCategoryTarget>>#verifyMatchWith:notifying:thenDoing: [Keymapping-Core]
+MCConfiguration class>>#whatChangedFrom:to: [MonticelloConfigurations]
+TreeListMorph>>#addSubmorphsAfter:fromCollection:allowSorting: [Morphic-Widgets-List]
+GLMStringBrick>>#onDrawAthensCanvas: [Glamour-Morphic-Brick]
+CompiledMethod>>#packageFromOrganizer: [RPackage-Core]
+CompiledMethod>>#spotterPreviewCodeIn: [GT-SpotterExtensions-Core]
+CodeSimulationTests>>#methodWithHalt [KernelTests]
+CodeSimulationTests>>#methodWithTranscript [KernelTests]
+SlotErrorsTest>>#assertInvalidClassName: [Slot-Tests]
+MCCacheRepository class>>#default [Monticello]
+TxTextStyler>>#resolveStyleFor: [TxText-Styler]
+ZnLogEvent class>>#logToTranscript [Zinc-HTTP]
+PluggableMenuSpec class>>#exampleWithOneSingleItem [Morphic-Base]
+PluggableMenuSpec class>>#exampleWithTwoSimpleItems [Morphic-Base]
+MultiCanvas>>#apply: [Graphics-Canvas]
+AthensBalloonStrokePaint>>#capRound [Athens-Balloon]
+AthensBalloonStrokePaint>>#capButt [Athens-Balloon]
+AthensBalloonStrokePaint>>#capSquare [Athens-Balloon]
+AthensBalloonStrokePaint>>#joinRound [Athens-Balloon]
+AthensBalloonStrokePaint>>#joinMiter [Athens-Balloon]
+AthensBalloonStrokePaint>>#joinBevel [Athens-Balloon]
+ColorMap>>#mappingTo: [Graphics-Primitives]
+KMCategoryBinding>>#verifyMatchWith:notifying:thenDoing: [Keymapping-Core]
+AbstractNautilusUI>>#moveInPackage [Nautilus]
+SmalltalkImage>>#select: [System-Support]
+SmalltalkImage>>#associationAt:ifAbsent: [System-Support]
+SmalltalkImage>>#includes: [System-Support]
+SmalltalkImage>>#keys [System-Support]
+SmalltalkImage>>#removeKey:ifAbsent: [System-Support]
+SmalltalkImage>>#keyAtValue: [System-Support]
+SmalltalkImage>>#size [System-Support]
+SmalltalkImage>>#removeKey: [System-Support]
+SmalltalkImage>>#do: [System-Support]
+SmalltalkImage>>#keyAtIdentityValue:ifAbsent: [System-Support]
+SmalltalkImage>>#keysAndValuesDo: [System-Support]
+ObjectTest>>#testHaltIf [KernelTests]
+ObjectTest>>#b1 [KernelTests]
+ObjectTest>>#testHaltOnCount [KernelTests]
+ObjectTest>>#b [KernelTests]
+ObjectTest>>#testHaltOnce [KernelTests]
+RGMethodDefinition>>#''<='' [Ring-Core-Kernel]
+RGMethodDefinition>>#isSameRevisionAs: [Ring-Core-Kernel]
+StringMorphEditor>>#keyStroke: [Morphic-Base]
+GTSimpleMethodsBrowser>>#updateOuterPaneFrom:for: [GT-Inspector]
+InfiniteForm>>#displayOnPort:at: [Graphics-Display Objects]
+StringMorph>>#addOptionalHandlesTo:box: [Morphic-Base]
+SpecDebuggerStack>>#contextMenu: [Spec-Debugger]
+HaloMorph>>#popUpFor:event: [Morphic-Base]
+ToggleMenuItemMorph>>#icon [Morphic-Base]
+GLMPane>>#postCopy [Glamour-Core]
+GTSpotterResultsBrick>>#onCandidateSelected: [GT-Spotter]
+MemoryFileSystemFile>>#at: [FileSystem-Memory]
+FLMigrationTest>>#testBadDestinationVariableRename [FuelTests]
+Model>>#hasUnacceptedEdits [System-Support]
+GLMBrowser>>#resolveDestinationPort: [Glamour-Core]
+GLMBrowser>>#postCopy [Glamour-Core]
+Slot>>#link: [Reflectivity]
+GLMPagerScrollBrick>>#paneMargin [Glamour-Morphic-Pager]
+GLMFinder>>#passivelyFromPrevious: [Glamour-Browsers]
+GLMFinder>>#fromPrevious: [Glamour-Browsers]
+NBNativeFunctionGen>>#generateInstructions: [NativeBoost-Core]
+FLHookedSubstitutionTest>>#testProxyByTargetAnalisysIsPropagated [FuelTests]
+Termcap>>#reset [System-CommandLine]
+PropertySlot>>#layoutChanged: [Slot]
+DebugSession>>#unwindAndRestartToContext: [DebuggerModel]
+DebugSession>>#downInContext: [DebuggerModel]
+DebugSession>>#returnValueFrom: [DebuggerModel]
+DebugSession>>#peelToFirstLike: [DebuggerModel]
+DebugSession>>#returnValue:from: [DebuggerModel]
+MCFileTreeAbstractStWriter>>#visitScriptDefinition: [MonticelloFileTree-Core]
+FLPrimitiveCluster>>#registerIndexesOn: [Fuel]
+FLBitsObjectCluster>>#registerIndexesOn: [Fuel]
+ClippingCanvas>>#contentsOfArea:into: [Graphics-Canvas]
+Editor>>#setIndices:forward: [Text-Edition]
+BooleanSlot>>#layoutChanged: [Slot]
+MacStore>>#mimeTypesAt: [FileSystem-Disk]
+SpecDebugger>>#process:controller:context: [Spec-Debugger]
+SpecDebugger>>#openFullNoSuspendLabel: [Spec-Debugger]
+SpecDebugger>>#initializePresenter [Spec-Debugger]
+SystemProgressMorph>>#show: [Morphic-Base]
+SystemProgressMorph>>#show:from:to: [Morphic-Base]
+IRJumpIf>>#nextBytecodeOffsetAfterJump [OpalCompiler-Core]
+GLMSystemWindow>>#acceptContents: [GT-Playground]
+GLMSystemWindow>>#acceptAction: [GT-Playground]
+TClassDescription>>#noteMethodRemoved: [Traits]
+TClassDescription>>#noteMethodChanged:to: [Traits]
+ScriptLoader class>>#initialize [ScriptLoader50]
+TxTextAdapter>>#setSelectionFromModel: [TxText-Athens]
+TxTextAdapter>>#pendingText: [TxText-Athens]
+TxTextAdapter>>#getText [TxText-Athens]
+ChangesBrowser>>#updateChanges [NautilusRefactoring]
+MCDataStream class>>#initialize [Monticello]
+RubTextMethodLink>>#actOnClick:for:in:editor: [Rubric]
+GLMTransmission>>#transmitIn: [Glamour-Core]
+GTSpotterStepTest>>#testContextChange [GT-Tests-Spotter]
+GTSpotterStepTest>>#basicSearch: [GT-Tests-Spotter]
+FileStream class>>#standardIOStreamNamed:forWrite: [Files]
+GTSpotter>>#spotterStfxFor: [GT-SpotterExtensions-Core]
+GTSpotter>>#spotterConcreteMethodFor: [GT-SpotterExtensions-Core]
+GTSpotter>>#spotterForFilesFor: [GT-SpotterExtensions-Core]
+GTSpotter>>#fileReferencesBy:inContext:usingFilter: [GT-SpotterExtensions-Core]
+GTSpotter>>#spotterImplementorsFor: [GT-SpotterExtensions-Core]
+GTSpotter>>#spotterForExpressionsFor: [GT-SpotterExtensions-Core]
+GTSpotter>>#spotterForDirectoriesFor: [GT-SpotterExtensions-Core]
+VirtualMachine>>#isPharoVM [System-Support]
+GTSpotterStackedLayout>>#layoutStacked:in: [GT-Spotter]
+AbstractCategoryWidget>>#categoryIconFor: [Nautilus]
+Color>>#isTranslucentColor [Graphics-Primitives]
+UndefinedObjectTest>>#testIfNotNilIfNil [KernelTests]
+UndefinedObjectTest>>#testIfNilIfNotNil [KernelTests]
+UndefinedObjectTest>>#testIfNil [KernelTests]
+FinderUI>>#guessTypeForName: [NECompletion]
+DualChangeSorterApplication class>>#changesListMenu: [Spec-Tools]
+DualChangeSorterApplication class>>#messageListMenu: [Spec-Tools]
+DualChangeSorterApplication class>>#classListMenu: [Spec-Tools]
+AbstractClassInstaller>>#installTraitComposition:on: [Slot]
+NBMacSpecificTest>>#testSystemCall [NativeBoost-Tests]
+SelectorNode>>#sizeCode:args:super: [Compiler]
+TClass>>#spotterPreviewCodeIn: [GT-SpotterExtensions-Core]
+GLMTreeMorphModel>>#wantsDroppedMorph:event:inMorph: [Glamour-Morphic-Widgets]
+ScrollPane>>#mouseDown: [Morphic-Widgets-Scrolling]
+MBConfigurationRootTest>>#test0050BasicVersionLoad [Versionner-Tests-Core-Model]
+GLMPresentationBoundPort>>#value [Glamour-Core]
+GLMListingPresentation>>#columns [Glamour-Presentations]
+GLMListingPresentation>>#childrenValueOf: [Glamour-Presentations]
+GLMListingPresentation>>#childrenValueOf:atLevel: [Glamour-Presentations]
+ClassCommented class>>#classCommented: [System-Announcements]
+RubAbstractTextArea>>#handleSelectionChange: [Rubric]
+MFClassA>>#method [Manifest-Resources-Tests]
+NBExternalType class>>#pointerSize [NativeBoost-Core]
+StartupPreferencesLoader class>>#example3 [StartupPreferences]
+Context>>#completeCallee: [Kernel]
+RBNamespaceTest>>#testModelImplementorsSenders [Refactoring-Tests-Core]
+GLMSingleUpdateAction>>#computeAnnouncerObjects [Glamour-Core]
+PSMCPatchMorph>>#expandChangeTree [Tool-Diff]
+Timespan>>#includesAnyOf: [Kernel]
+Timespan>>#includesAllOf: [Kernel]
+GLMMorphicStackerRenderer>>#render: [Glamour-Morphic-Renderer]
+UndefinedObject>>#haltIfNil [Kernel]
+ZipWriteStream>>#flushBlock: [Compression]
+SpecLayoutAdd>>#offsets [Spec-Layout]
+AJInstruction>>#insert: [AsmJit-Instructions]
+NECController>>#handleKeystrokeBefore:editor: [NECompletion]
+EvaluateCommandLineHandler>>#evaluateStdIn [CodeImport]
+LinkWrapperGlobal>>#emitValue: [Reflectivity]
+TPrintOnSequencedTest>>#testPrintNameOn [CollectionsTests]
+Morph>>#rootMorphsAt: [Morphic-Core]
+Morph>>#transferHalo:from: [Morphic-Core]
+Morph>>#tabHitWithEvent: [Morphic-Core]
+GTPlayPage>>#acceptContents: [GT-Playground]
+GTPlayPage>>#spotterPreviewCodeIn: [GT-SpotterExtensions-Core]
+NBFFICallout>>#generateInstructions: [NativeBoost-Core]
+GTSpotterTest>>#testInitialText [GT-Tests-Spotter]
+GTSpotterTest>>#testNewSpotter [GT-Tests-Spotter]
+GTSpotterTest>>#testEmptyTextInput [GT-Tests-Spotter]
+Workspace>>#hasUnacceptedEdits [SUnit-UITesting]
+MenuItemMorph>>#invokeWithEvent: [Morphic-Base]
+MenuItemMorph>>#contents:withMarkers:inverse: [Morphic-Base]
+MenuItemMorph>>#spotterPreviewMenuIn: [GT-SpotterExtensions-Core]
+Socket class>>#loopbackTest [Network-Kernel]
+WorldState class>>#setHaltOnce [Morphic-Core]
+WorldState class>>#systemOn: [Morphic-Base]
+WorldState class>>#clearHaltOnce [Morphic-Core]
+GLMMorphicWidgetRenderer>>#morph:withTitleOf: [Glamour-Morphic-Renderer]
+MFClassB>>#method3 [Manifest-Resources-Tests]
+BlockClosureTest>>#testOnForkErrorTakesLessThanOneSecond [KernelTests]
+VariableNode>>#sizeCodeForValue: [Compiler]
+VariableNode>>#emitCodeForValue:encoder: [Compiler]
+UITestCase>>#runCase [SUnit-UITesting]
+Stdio class>>#standardIOStreamNamed:forWrite: [Files]
+MorphicWindowAdapter>>#title [Spec-MorphicAdapters]
+GTSpotterWidgetThemer>>#itemIconStyleFor: [GT-Spotter]
+ZipWriteStream class>>#printRegressionStats:from: [Compression]
+ZipWriteStream class>>#regressionTestFrom: [Compression]
+ZipWriteStream class>>#compressAndDecompress:using:stats: [Compression]
+MCConfigurationBrowser>>#showChangeLog [MonticelloGUI]
+RubTextEditor>>#saveContentsInFile [Rubric]
+RubTextEditor>>#inOutdent:delta: [Rubric]
+RubTextEditor>>#setIndices:forward: [Rubric]
+FileLocatorTest>>#testResolveRelativeReference [FileSystem-Tests-Core]
+GTPlayground class>>#edit:label: [GT-Playground]
+MetacelloFetchingMCSpecLoader>>#resolveDependencies:nearest:into: [Metacello-MC]
+MCTraitDefinition>>#= [Monticello]
+LiteralVariableNode>>#emitCodeForStore:encoder: [Compiler]
+DelayBenchmark>>#bench [KernelTests]
+Behavior>>#instSize [Kernel]
+GLMLipsumWithSegmentsExample>>#presentation [Glamour-Rubric-Presentations]
+NautilusUI>>#selectedMethod: [Nautilus]
+GLMPresentation>>#status: [Glamour-Core]
+GLMPresentation>>#registerAnnouncements [Glamour-Core]
+GLMPresentation>>#postCopy [Glamour-Core]
+GLMPresentation>>#copy [Glamour-Core]
+IRSequence>>#splitAfter: [OpalCompiler-Core]
+GLMMockPagerModel>>#popPane: [GT-Tests-Spotter]
+GLMMockPagerModel>>#scrollToPane:callback: [GT-Tests-Spotter]
+HelpTopic>>#spotterPreviewSubtopicsHelpIn: [GT-SpotterExtensions-Core]
+HelpTopic>>#spotterPreviewContentHelpIn: [GT-SpotterExtensions-Core]
+HelpTopic>>#spotterForHelpTopicFor: [GT-SpotterExtensions-Core]
+MenuMorph>>#addWithLabel:enablement:action: [Morphic-Base]
+MenuMorph>>#addUpdating:target:selector:argumentList: [Morphic-Base]
+MenuMorph>>#spotterItemsFor: [GT-SpotterExtensions-Core]
+NewList>>#updateRenderer [Morphic-Widgets-NewList]
+Context class>>#trace: [Kernel]
+Tab>>#mouseDown: [Morphic-Widgets-Tabs]
+RGCommentDefinition>>#selector [Ring-Core-Kernel]
+RGCommentDefinition>>#methodClass [Ring-Core-Kernel]
+HandleMorph>>#keyStroke: [Morphic-Base]
+HandleMorph>>#justDroppedInto:event: [Morphic-Base]
+HandleMorph>>#startStepping [Morphic-Base]
+Object>>#haltIf: [Kernel]
+Object>>#nbLibraryNameOrHandle [NativeBoost-Core]
+Object>>#halt: [Kernel]
+Object>>#log: [Kernel]
+Object>>#haltIfShiftPressed [Kernel]
+Object>>#spotterPreviewRawIn: [GT-Spotter]
+Object>>#haltOnCount: [Kernel]
+Object>>#halt [Kernel]
+Object>>#nominallyUnsent: [Kernel]
+Object>>#trace: [Kernel]
+Object>>#inspectOnce [Tool-Base]
+Object>>#haltOnce [Kernel]
+MetacelloProject>>#spotterForVersionsFor: [GT-SpotterExtensions-Core]
+MetacelloProject>>#latestVersion [Metacello-Core]
+NewListRenderer>>#updateRectFor:and: [Morphic-Widgets-NewList]
+NewListRenderer>>#updateRectFor: [Morphic-Widgets-NewList]
+NewListRenderer>>#drawItem:at:on: [Morphic-Widgets-NewList]
+LinkWrapper>>#emitValue: [Reflectivity]
+OCASTTranslator>>#visitBlockNode: [OpalCompiler-Core]
+AJReserveTemp>>#prohibitsRex [AsmJit-StackManagement]
+VTermOutputDriver>>#here [System-CommandLine]
+VTermOutputDriver>>#overwrite: [System-CommandLine]
+GTSpotterContext>>#exceptionHandler [GT-Spotter]
+SystemProgressMorph class>>#show:from:to:during: [Morphic-Base]
+SystemProgressMorph class>>#show:from:to: [Morphic-Base]
+SystemProgressMorph class>>#endJob: [Morphic-Base]
+MCStReader>>#classInstVarNamesFor: [Monticello]
+RubTextSegmentMorph>>#textChangedFrom:to:delta: [Rubric]
+NumberParser>>#makeIntegerOrScaledInteger [AST-Core]
+TxWorkspace>>#updateSyntaxHighlighting [Tool-TxWorkspace]
+GLMTreeMorphNodeModel>>#shouldBeDisplayedByText [Glamour-Morphic-Widgets]
+GLMTreeMorphNodeModel>>#shouldBeDisplayedByTags [Glamour-Morphic-Widgets]
+BalloonBezierSimulation>>#quickPrint:first: [Balloon]
+IRBuilder>>#addBlockReturnTopIfRequired [OpalCompiler-Core]
+DebugSession class>>#debuggingActionsForPragmas:for: [DebuggerModel]
+StrikeFont>>#characters:in:displayAt:clippedBy:rule:fillColor:kernDelta:on: [Graphics-Fonts]
+TraitTest>>#testRemoveFromSystem [Tests]
+TraitTest>>#testTraitRemoval [Tests]
+TextMorphForEditView>>#mouseDown: [Morphic-Base]
+OCCompilerTest>>#testInBlockArgumentInstanceVariableShadowing [OpalCompiler-Tests]
+DebugAction>>#shortcutCommand [Spec-Debugger]
+MetacelloVersionValidator>>#recordValidationCriticalWarning:versionString:callSite:reasonCode: [Metacello-Core]
+MetacelloVersionValidator>>#recordValidationError:versionString:callSite:reasonCode: [Metacello-Core]
+MetacelloVersionValidator>>#recordValidationWarning:versionString:callSite:reasonCode: [Metacello-Core]
+AbstractLayout>>#resolveSlot: [Slot]
+GLMPagerButtonsPaneBrick>>#markButtonsInside: [Glamour-Morphic-Pager]
+GTPlayBook>>#initialize [GT-Playground]
+SpecDebugger class>>#informExistingDebugger:label: [Spec-Debugger]
+AthensParagraph>>#findReplaceSelectionRegex: [Athens-Morphic]
+AthensParagraph>>#extraSelectionChanged [Athens-Morphic]
+AthensParagraph>>#secondarySelection: [Athens-Morphic]
+GLMTextMorphForEditView>>#acceptContents [Glamour-Morphic-Widgets]
+GLMMorphicPaneRenderer>>#actOnMatchingPresentationChanged: [Glamour-Morphic-Renderer]
+GLMMorphicListingRenderer>>#actOnUpdatedPresentation: [Glamour-Morphic-Renderer]
+ZnMessage>>#writeToTranscript [Zinc-HTTP]
+KMLog class>>#log: [Keymapping-Core]
+Transcripter class>>#startTranscriptProcess [EmergencyEvaluator]
+GLMMorphicSmalltalkCodeRenderer>>#actOnVariableBindingsUpdated: [Glamour-Morphic-Renderer]
+GLMBasicExamples>>#interdependentPanes [Glamour-Examples]
+GLMBasicExamples>>#onChangeOfPortAction [Glamour-Examples]
+GLMBasicExamples>>#wizard [Glamour-Examples]
+UpdateStreamer>>#groupUpdatesByVersion: [UpdateStreamer-Core]
+UpdateStreamer>>#extractVersion:from: [UpdateStreamer-Core]
+FLLightGeneralMapper>>#visitCharacter: [Fuel]
+BalloonEngine class>>#printStats [Balloon]
+FileHandle>>#open [FileSystem-Disk]
+FileHandle>>#at:write:startingAt:count: [FileSystem-Disk]
+FileHandle>>#at:read:startingAt:count: [FileSystem-Disk]
+FileHandle>>#flush [FileSystem-Disk]
+FileHandle>>#size [FileSystem-Disk]
+GTFilter>>#exceptionHandler [GT-Spotter]
+String>>#isLiteralSymbol [Collections-Strings]

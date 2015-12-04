@@ -1,180 +1,180 @@
-TextMorph
-FTTableMorph
-PluggableMenuItemSpec
-TestRunner
-FreeTypeNameParser
-GLMTreeMorphModel
-Socket
-RBSmalllintContext
-GLMWizard
-OrderedCollectionTest
-ZipArchiveMember
-AJConstants
-SystemWindow
-MorphTreeListManager
-FreeTypeFont
-RubCharacterScanner
-BlockNode
-DebugAction
-NBMacConstants
-SetTest
-LogicalFont
-AthensTigerShape
-BalloonEngine
-FT2GlyphRenderer
-IRBytecodeGenerator
-AndreasSystemProfiler
-GrowlMorph
-TreeModel
-ProcessBrowser
-MessageTally
-GLMInteractableBrick
-PluggableTreeMorph
-InflateStream
-ComposableModel
-Color
-Unicode
-CompilationContext
-LinkedListTest
-STONReader
-Paragraph
-MethodNode
-JPEGColorComponent
-FileDialogWindow
-TextStyle
-FreeTypeFileInfoAbstract
-PluggableListMorph
-EditableList
-FontChooserMorph
-ThemeSettings
-BagTest
-AJx86Registers
-RubFindReplaceService
-ZipFileConstants
-ChronologyConstants
-Tab
-DialogItemsChooserUI
-TextModel
-MetacelloMCPartiallyLoadedStatus
-WorldState
-GTSpotter
-ListDialogWindow
-ZipConstants
-Nautilus
-NetworkSystemSettings
-RubScrolledTextMorph
-GLMAnimation
-RubTextLine
-SlotClassBuilder
-RubAbstractTextArea
-IntervalTest
-NewListAdapter
-GTSpotterStep
-Float
-NewListModel
-DropListMorph
-PharoUserPermissions
-RBConfigurableFormatter
-StrikeFont
-FT2Constants
-RPackageTraitTest
-ArrayTest
-FloatArrayTest
-CharacterScanner
-AJx86InstructionDescription
-IRMethod
-NECTestClass
-HandMorph
-TreeNodeModel
-TimeProfiler
-SocketStream
-AbstractFontSelectorDialogWindow
-NBWinConstants
-KomitterUI
-OSStateModifiers
-ParseNode
-EventSensorConstants
-MCFileRepositoryInspector
-TextComposer
-NautilusHistoryEntry
-FreeTypeSettings
-MouseClickState
-GTSpotterCandidatesListProcessor
-MorphExtension
-MorphTreeMorph
-PragmaMenuAndShortcutRegistrationItem
-RPackageSet
-TableLayoutProperties
-DialogItemsChooser
-BalloonBezierSimulation
-TraitsResource
-GLMPresentation
-FT2GlyphSlot
-AthensTextLine
-SortedCollectionTest
-BMPReadWriter
-BitBlt
-FileList
-GIFReadWriter
-RxMatchOptimizer
-ClassModification
-Encoder
-AthensCairoDefs
-ListModel
-Locale
-CRC
-NativeBoostConstants
-SHParserST80
-PNGReadWriter
-MetacelloScriptExecutor
-MethodFinder
-AbstractWidgetModel
-EditingState
-BalloonEngineConstants
-NBUnixConstants
-GLMListingPresentation
-SDL2Types
-DictionaryTest
-MorphTreeNodeMorph
-Decompiler
-CCompilationContext
-HeapTest
-MessageNode
-String
-BIPrettyPrinterContext
-SmalltalkImage
-AthensTextScanner
-NBWinTypes
-PluggableTextMorph
-MCWorkingCopyBrowser
-Cursor
-SDL2Constants
-SimpleHierarchicalListMorph
-FT2Face
-NewList
-NECContext
-GLMBrickLayoutProperties
-ScrollBar
-PluggableButtonMorph
-TextConstants
-OSKeySymbols
-FontChooser
-RBMethodNode
-DelayScheduler
-ZipWriteStream
-GLMPagerModel
-MethodAddition
-RubTextComposer
-PolygonMorph
-Parser
-VersionnerProjectBrowser
-NBCallbackCodeGen
-AbstractNautilusUI
-PragmaSetting
-DiffMorph
-StringTest
-TimespanTest
-WarpBlt
-NumberParser
-JPEGReadWriter
-VersionnerProjectPanel
+MouseClickState [Morphic-Base]
+MetacelloMCPartiallyLoadedStatus [Metacello-MC]
+AthensTextScanner [Athens-Text]
+ZipFileConstants [Compression]
+GrowlMorph [Growl]
+AthensTextLine [Athens-Text]
+DropListMorph [Polymorph-Widgets]
+RubCharacterScanner [Rubric]
+TableLayoutProperties [Morphic-Base]
+SortedCollectionTest [CollectionsTests]
+BalloonEngineConstants [Balloon]
+Color [Graphics-Primitives]
+OrderedCollectionTest [CollectionsTests]
+AbstractNautilusUI [Nautilus]
+SDL2Types [OSWindow-SDL2]
+MethodNode [Compiler]
+BalloonEngine [Balloon]
+AthensTigerShape [Athens-Examples]
+HandMorph [Morphic-Core]
+RubTextLine [Rubric]
+NBUnixConstants [NativeBoost-Unix]
+MethodFinder [Tool-Finder]
+Locale [System-Localization]
+AbstractFontSelectorDialogWindow [FontChooser]
+BitBlt [Graphics-Primitives]
+PluggableMenuItemSpec [Morphic-Base]
+MCWorkingCopyBrowser [MonticelloGUI]
+BlockNode [Compiler]
+TextComposer [Morphic-Base]
+GLMInteractableBrick [Glamour-Morphic-Brick]
+RPackageTraitTest [RPackage-Tests]
+ChronologyConstants [Kernel]
+PragmaSetting [System-Settings]
+SimpleHierarchicalListMorph [Morphic-Widgets-List]
+FT2Face [FreeType]
+EditableList [Spec-PolyWidgets]
+GTSpotter [GT-Spotter]
+NBWinConstants [NativeBoost-Win32]
+ThemeSettings [Polymorph-Widgets]
+FileDialogWindow [Tool-FileList]
+NewListModel [Spec-Core]
+NetworkSystemSettings [Network-Kernel]
+RBConfigurableFormatter [AST-Core]
+GLMListingPresentation [Glamour-Presentations]
+MessageNode [Compiler]
+NautilusHistoryEntry [NautilusCommon]
+IRBytecodeGenerator [OpalCompiler-Core]
+FreeTypeFont [FreeType]
+BalloonBezierSimulation [Balloon]
+TraitsResource [Tests]
+SmalltalkImage [System-Support]
+BIPrettyPrinterContext [BlueInk-Core]
+Socket [Network-Kernel]
+STONReader [STON-Core]
+EditingState [Text-Edition]
+PragmaMenuAndShortcutRegistrationItem [MenuRegistration]
+RxMatchOptimizer [Regex-Core]
+NewListAdapter [Morphic-Widgets-NewList]
+MorphTreeMorph [Morphic-Widgets-Tree]
+Cursor [Graphics-Display Objects]
+StringTest [CollectionsTests]
+FreeTypeFileInfoAbstract [FreeType]
+JPEGColorComponent [Graphics-Files]
+StrikeFont [Graphics-Fonts]
+LogicalFont [FontInfrastructure]
+TimespanTest [KernelTests]
+OSStateModifiers [OSWindow-Core]
+DictionaryTest [CollectionsTests]
+Decompiler [Compiler]
+DiffMorph [Tool-Diff]
+SHParserST80 [Shout]
+NBCallbackCodeGen [NativeBoost-Core]
+MorphExtension [Morphic-Core]
+ClassModification [Slot]
+MessageTally [Tool-Profilers]
+Parser [Compiler]
+DebugAction [DebuggerActions]
+TreeModel [Spec-Core]
+MorphTreeNodeMorph [Morphic-Widgets-Tree]
+RubFindReplaceService [Rubric]
+ProcessBrowser [Tool-ProcessBrowser]
+RubTextComposer [Rubric]
+VersionnerProjectPanel [Versionner-Spec-Browser]
+ZipArchiveMember [Compression]
+GLMPresentation [Glamour-Core]
+KomitterUI [Komitter]
+WarpBlt [Graphics-Primitives]
+RubScrolledTextMorph [Rubric]
+GLMPagerModel [Glamour-Morphic-Pager]
+Encoder [Compiler]
+AJx86Registers [AsmJit-x86]
+GIFReadWriter [Graphics-Files]
+MorphTreeListManager [Morphic-Widgets-Tree]
+MethodAddition [Monticello]
+TextStyle [Text-Core]
+GLMTreeMorphModel [Glamour-Morphic-Widgets]
+NBWinTypes [NativeBoost-Win32]
+SlotClassBuilder [Slot]
+NativeBoostConstants [NativeBoost-Pools]
+FT2GlyphRenderer [Athens-Balloon]
+JPEGReadWriter [Graphics-Files]
+PluggableTextMorph [Morphic-Widgets-Pluggable]
+AbstractWidgetModel [Spec-Core]
+String [Collections-Strings]
+NBMacConstants [NativeBoost-Mac]
+WorldState [Morphic-Core]
+PNGReadWriter [Graphics-Files]
+NECContext [NECompletion]
+DialogItemsChooserUI [Tool-Finder]
+TextMorph [Morphic-Base]
+RPackageSet [RPackage-Core]
+ListDialogWindow [Polymorph-Widgets]
+SetTest [CollectionsTests]
+DialogItemsChooser [Tool-Finder]
+ComposableModel [Spec-Core]
+PluggableListMorph [Morphic-Widgets-Pluggable]
+FT2GlyphSlot [FreeType]
+FreeTypeNameParser [FreeType]
+BagTest [CollectionsTests]
+CompilationContext [OpalCompiler-Core]
+Float [Kernel]
+GTSpotterStep [GT-Spotter]
+RBSmalllintContext [Refactoring-Critics]
+TreeNodeModel [Spec-Core]
+FontChooser [FontChooser]
+FreeTypeSettings [FreeType]
+GTSpotterCandidatesListProcessor [GT-Spotter]
+BMPReadWriter [Graphics-Files]
+ListModel [Spec-Core]
+VersionnerProjectBrowser [Versionner-Spec-Browser]
+GLMWizard [Glamour-Browsers]
+InflateStream [Compression]
+Tab [Morphic-Widgets-Tabs]
+SystemWindow [Morphic-Widgets-Windows]
+ZipWriteStream [Compression]
+TextModel [Spec-Core]
+PharoUserPermissions [UserManager-Core]
+IRMethod [OpalCompiler-Core]
+NumberParser [AST-Core]
+AndreasSystemProfiler [Tool-Profilers]
+SDL2Constants [OSWindow-SDL2]
+NECTestClass [NECompletion-Tests]
+FT2Constants [FreeType]
+ParseNode [Compiler]
+FileList [Tool-FileList]
+TestRunner [SUnit-UI]
+MCFileRepositoryInspector [MonticelloGUI]
+GLMAnimation [Glamour-Morphic-Brick]
+TimeProfiler [Tool-Profilers]
+LinkedListTest [CollectionsTests]
+MetacelloScriptExecutor [Metacello-Core]
+ArrayTest [CollectionsTests]
+HeapTest [CollectionsTests]
+CCompilationContext [OpalCompiler-Core]
+TextConstants [Text-Core]
+IntervalTest [CollectionsTests]
+RubAbstractTextArea [Rubric]
+DelayScheduler [Kernel]
+ZipConstants [Compression]
+PluggableTreeMorph [Morphic-Widgets-Pluggable]
+SocketStream [Network-Kernel]
+NewList [Morphic-Widgets-NewList]
+OSKeySymbols [OSWindow-Core]
+Nautilus [Nautilus]
+FloatArrayTest [CollectionsTests]
+AJx86InstructionDescription [AsmJit-x86]
+PluggableButtonMorph [Morphic-Widgets-Basic]
+FTTableMorph [Morphic-Widgets-FastTable]
+CharacterScanner [Text-Scanning]
+ScrollBar [Morphic-Widgets-Scrolling]
+CRC [System-Hashing]
+EventSensorConstants [System-VMEvents]
+Unicode [Multilingual-Encodings]
+RBMethodNode [AST-Core]
+Paragraph [Morphic-Base]
+GLMBrickLayoutProperties [Glamour-Morphic-Brick]
+AthensCairoDefs [Athens-CairoPools]
+FontChooserMorph [FontChooser]
+PolygonMorph [Morphic-Base]
+AJConstants [AsmJit-Core]

@@ -1,56 +1,56 @@
-GLMBrick>>#updateHeight
-GLMBrick>>#updateWidth
-RBSmalllintTestObject>>#emptyExceptionHandler
-GLMBrickGeometryTrait>>#updateHeight
-GLMBrickGeometryTrait>>#updateWidth
-MCWorkingCopyTest>>#merge:
-PharoSyntaxTutorialTest>>#testDivideTwoByZeroSignalsZeroDivide
-FT2Face>>#loadFields
-FT2Face>>#newFaceFromExternalMemory:index:
-MBConfigurationInfo>>#printOn:
-BMPReadWriter class>>#displayAllFrom:
-BMPReadWriter class>>#readAllFrom:
-VSRemoveCommand>>#execute
-HDTestReport>>#done
-HDTestReport>>#runCase:
-HDTestReport>>#serializeError:of:
-SystemReporter>>#reportVM:
-ZnMultiThreadedServer>>#closeSocketStream:
-TestCommandLineHandler>>#addPackagesMatching:to:
-GTSpotterEventRecorderSettings class>>#deletePreferences
-GTSpotterEventRecorderSettings class>>#savePreferences:
-PolymorphSystemSettings class>>#desktopBackgroundChanged
-CodeSimulationTests>>#testHaltWithHaltHandler
-CodeSimulationTests>>#testErrorWithErrorHandler
-MCCacheRepository class>>#defaultDirectory
-MCRepositoryGroup>>#repositoriesDo:
-MCMockRPackage class>>#initialize
-MorphicUIManager>>#openDebuggerOn:context:label:contents:fullView:
-MorphicUIManager>>#onFontsChanged
-VSReleaseDevelopmentVersionCommandTest>>#testResolveSymbolicVersionsIn
-SmalltalkImage>>#logStartupError:into:tryDebugger:
-SmalltalkImage>>#logStdErrorDuring:
-ZnManagingMultiThreadedServer>>#closeConnections
-MCMcdReader>>#loadPatch
-FT2MemoryFaceData>>#validate
-FileStream class>>#flushAndVoidStdioFiles
-MCVersion>>#allAvailableDependenciesDo:
-MCMczReader>>#loadDefinitions
-SocketStream>>#upToEnd
-ZnHTTPSTests>>#runningOnWindows
-FreeTypeExternalMemory>>#validate
-EditingState>>#focused:from:
-MTDependency>>#addDependency:
-ZnUrl>>#withRelativeReference:
-FilteredMorphTreeModel>>#ensureSafePattern:
-GTSpotterEventRecorder class>>#cleanUp
-FileDialogWindow>>#updateImagePreview
-FileDialogWindow>>#updateTextPreview
-RubPluggableTextMorphExample>>#method
-RPackageWithDoTest>>#testDo2
-RPackageWithDoTest>>#testWithDoIsCorrectlyReinstallingDefaultEvenIfHalt
-RPackageWithDoTest>>#testDo
-RPackageWithDoTest>>#testDoC
-GTPlayBook>>#initialize
-ZnServerTests>>#runningOnWindows
-PluggableTextMorph>>#acceptBasic
+GLMBrick>>#updateHeight [Glamour-Morphic-Brick]
+GLMBrick>>#updateWidth [Glamour-Morphic-Brick]
+RBSmalllintTestObject>>#emptyExceptionHandler [Refactoring-Tests-Critics]
+GLMBrickGeometryTrait>>#updateHeight [Glamour-Morphic-Brick]
+GLMBrickGeometryTrait>>#updateWidth [Glamour-Morphic-Brick]
+MCWorkingCopyTest>>#merge: [Monticello-Tests]
+PharoSyntaxTutorialTest>>#testDivideTwoByZeroSignalsZeroDivide [ProfStef-Tests]
+FT2Face>>#loadFields [FreeType]
+FT2Face>>#newFaceFromExternalMemory:index: [FreeType]
+MBConfigurationInfo>>#printOn: [Versionner-Core-Model]
+BMPReadWriter class>>#displayAllFrom: [Graphics-Files]
+BMPReadWriter class>>#readAllFrom: [Graphics-Files]
+VSRemoveCommand>>#execute [Versionner-Core-Commands]
+HDTestReport>>#done [HudsonBuildTools20]
+HDTestReport>>#runCase: [HudsonBuildTools20]
+HDTestReport>>#serializeError:of: [HudsonBuildTools20]
+SystemReporter>>#reportVM: [Tool-SystemReporter]
+ZnMultiThreadedServer>>#closeSocketStream: [Zinc-HTTP]
+TestCommandLineHandler>>#addPackagesMatching:to: [HudsonBuildTools20]
+GTSpotterEventRecorderSettings class>>#deletePreferences [GT-Spotter-EventRecorder]
+GTSpotterEventRecorderSettings class>>#savePreferences: [GT-Spotter-EventRecorder]
+PolymorphSystemSettings class>>#desktopBackgroundChanged [Settings-Polymorph]
+CodeSimulationTests>>#testHaltWithHaltHandler [KernelTests]
+CodeSimulationTests>>#testErrorWithErrorHandler [KernelTests]
+MCCacheRepository class>>#defaultDirectory [Monticello]
+MCRepositoryGroup>>#repositoriesDo: [Monticello]
+MCMockRPackage class>>#initialize [RPackage-Tests]
+MorphicUIManager>>#openDebuggerOn:context:label:contents:fullView: [Polymorph-Widgets]
+MorphicUIManager>>#onFontsChanged [Polymorph-Widgets]
+VSReleaseDevelopmentVersionCommandTest>>#testResolveSymbolicVersionsIn [Versionner-Tests-Core-Commands]
+SmalltalkImage>>#logStartupError:into:tryDebugger: [System-Support]
+SmalltalkImage>>#logStdErrorDuring: [System-Support]
+ZnManagingMultiThreadedServer>>#closeConnections [Zinc-HTTP]
+MCMcdReader>>#loadPatch [Monticello]
+FT2MemoryFaceData>>#validate [FreeType]
+FileStream class>>#flushAndVoidStdioFiles [Files]
+MCVersion>>#allAvailableDependenciesDo: [Monticello]
+MCMczReader>>#loadDefinitions [Monticello]
+SocketStream>>#upToEnd [Network-Kernel]
+ZnHTTPSTests>>#runningOnWindows [Zinc-Zodiac]
+FreeTypeExternalMemory>>#validate [FreeType]
+EditingState>>#focused:from: [Text-Edition]
+MTDependency>>#addDependency: [Versionner-Core-DependenciesModel]
+ZnUrl>>#withRelativeReference: [Zinc-Resource-Meta-Core]
+FilteredMorphTreeModel>>#ensureSafePattern: [Morphic-Widgets-Tree]
+GTSpotterEventRecorder class>>#cleanUp [GT-Spotter-EventRecorder]
+FileDialogWindow>>#updateImagePreview [Tool-FileList]
+FileDialogWindow>>#updateTextPreview [Tool-FileList]
+RubPluggableTextMorphExample>>#method [Rubric]
+RPackageWithDoTest>>#testDo2 [RPackage-Tests]
+RPackageWithDoTest>>#testWithDoIsCorrectlyReinstallingDefaultEvenIfHalt [RPackage-Tests]
+RPackageWithDoTest>>#testDo [RPackage-Tests]
+RPackageWithDoTest>>#testDoC [RPackage-Tests]
+GTPlayBook>>#initialize [GT-Playground]
+ZnServerTests>>#runningOnWindows [Zinc-Tests]
+PluggableTextMorph>>#acceptBasic [Morphic-Widgets-Pluggable]

@@ -1,29 +1,29 @@
-UIThemeRegistry class>>#theme
-UIThemeRegistry class>>#icons
-GLMExpanderLabelNodeModel>>#elementColumn
-GLMExpanderLabelNodeModel>>#displayText
-MetalinkIconStyler>>#iconProvider
-FileReference class>>#gtExampleGif
-FileReference class>>#gtExamplePng
-GLMExpanderContentsNodeModel>>#elementColumn
-UITheme class>>#installFullTheme
-Bitmap class>>#gtExampleIconBits
-GTPlayground>>#codeIn:
-ReflectivitySourceCodeAgroupation>>#defaultColor
-PolymorphSystemSettings class>>#uiThemeClass
-GLMWhitespaceTheme class>>#installFullTheme
-GLMRubricExample>>#iconProvider
-GLMMorphicActionListRenderer>>#buttonMorph:
-RubTextSelectionColor class>>#theme
-GLMMorphicExpanderRenderer>>#renderWithExpanders:
-GLMMorphicActionRenderer>>#render:
-RubTextSelectionColor>>#theme
-GLMMorphicWidgetRenderer>>#theme
-RubLipsumWithSegmentsExample>>#iconProvider
-RubTextEditor>>#theme
-Pharo3DarkTheme class>>#installFullTheme
-GLMTreeMorphNodeModel>>#displayText
-GLMTreeMorphNodeModel>>#elementColumn
-GLMTreeMorphNodeModel>>#rowMorphForColumn:
-GLMMorphic class>>#morphElement:
-RubParagraph>>#theme
+UIThemeRegistry class>>#theme [Polymorph-Widgets]
+UIThemeRegistry class>>#icons [Polymorph-Widgets]
+GLMExpanderLabelNodeModel>>#elementColumn [Glamour-Morphic-Widgets]
+GLMExpanderLabelNodeModel>>#displayText [Glamour-Morphic-Widgets]
+MetalinkIconStyler>>#iconProvider [Reflectivity]
+FileReference class>>#gtExampleGif [GT-InspectorExtensions-Core]
+FileReference class>>#gtExamplePng [GT-InspectorExtensions-Core]
+GLMExpanderContentsNodeModel>>#elementColumn [Glamour-Morphic-Widgets]
+UITheme class>>#installFullTheme [Polymorph-Widgets]
+Bitmap class>>#gtExampleIconBits [GT-InspectorExtensions-Core]
+GTPlayground>>#codeIn: [GT-Playground]
+ReflectivitySourceCodeAgroupation>>#defaultColor [Reflectivity-Examples]
+PolymorphSystemSettings class>>#uiThemeClass [Settings-Polymorph]
+GLMWhitespaceTheme class>>#installFullTheme [Glamour-Morphic-Theme]
+GLMRubricExample>>#iconProvider [Glamour-Rubric-Presentations]
+GLMMorphicActionListRenderer>>#buttonMorph: [Glamour-Morphic-Renderer]
+RubTextSelectionColor class>>#theme [Rubric]
+GLMMorphicExpanderRenderer>>#renderWithExpanders: [Glamour-Morphic-Renderer]
+GLMMorphicActionRenderer>>#render: [Glamour-Morphic-Renderer]
+RubTextSelectionColor>>#theme [Rubric]
+GLMMorphicWidgetRenderer>>#theme [Glamour-Morphic-Renderer]
+RubLipsumWithSegmentsExample>>#iconProvider [Rubric]
+RubTextEditor>>#theme [Rubric]
+Pharo3DarkTheme class>>#installFullTheme [Polymorph-Widgets]
+GLMTreeMorphNodeModel>>#displayText [Glamour-Morphic-Widgets]
+GLMTreeMorphNodeModel>>#elementColumn [Glamour-Morphic-Widgets]
+GLMTreeMorphNodeModel>>#rowMorphForColumn: [Glamour-Morphic-Widgets]
+GLMMorphic class>>#morphElement: [Glamour-Morphic-Widgets]
+RubParagraph>>#theme [Rubric]

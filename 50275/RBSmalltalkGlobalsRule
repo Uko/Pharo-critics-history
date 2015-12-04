@@ -1,24 +1,24 @@
-TabContainerMorph class>>#example
-SizeInMemoryTest>>#testSizeInMemoryLargeInstances
-MBPackageInfoTest>>#testIsDirty
-TabsExample>>#browserTab
-GLMScrollListBrick class>>#exampleCollection
-ZnMultiThreadedServer>>#exceptionSet:
-SlotIntegrationTest>>#testSlotScopeParallelism
-ClassMethodBrowser class>>#example
-MetacelloPharoPlatform>>#copyClass:as:inCategory:
-SmalltalkImage>>#cleanUp:except:confirming:
-MetacelloToolBox>>#configurationNamed:
-MetacelloToolBox>>#createConfiguration:
-MetacelloToolBox>>#baselineNamed:
-ChangeRecord>>#commentClass
-GTSpotter>>#spotterForMetacelloConfigurationsFor:
-ScriptLoader>>#addRepositoryToPackagesWithConfiguration
-ListModel class>>#example
-CatalogBrowser class>>#iconFor:
-MetacelloPharoCommonPlatform>>#copyClass:as:inCategory:
-InstanceVariableSlot class>>#resetIvarSlots
-ListSelectionModel>>#initializeWidgets
-RBBasicLintRuleTest class>>#collectionMessagesToExternalObject
-TraitTest>>#testTraitsUsersSanity
-ClassHierarchyTest class>>#fixSlotScope
+TabContainerMorph class>>#example [Spec-Examples]
+SizeInMemoryTest>>#testSizeInMemoryLargeInstances [KernelTests]
+MBPackageInfoTest>>#testIsDirty [Versionner-Tests-Core-Model]
+TabsExample>>#browserTab [Spec-Examples]
+GLMScrollListBrick class>>#exampleCollection [Glamour-Morphic-Brick]
+ZnMultiThreadedServer>>#exceptionSet: [Zinc-HTTP]
+SlotIntegrationTest>>#testSlotScopeParallelism [Slot-Tests]
+ClassMethodBrowser class>>#example [Spec-Examples]
+MetacelloPharoPlatform>>#copyClass:as:inCategory: [Metacello-Platform]
+SmalltalkImage>>#cleanUp:except:confirming: [System-Support]
+MetacelloToolBox>>#configurationNamed: [Metacello-ToolBox]
+MetacelloToolBox>>#createConfiguration: [Metacello-ToolBox]
+MetacelloToolBox>>#baselineNamed: [Metacello-ToolBox]
+ChangeRecord>>#commentClass [System-Changes]
+GTSpotter>>#spotterForMetacelloConfigurationsFor: [GT-SpotterExtensions-Core]
+ScriptLoader>>#addRepositoryToPackagesWithConfiguration [ScriptLoader50]
+ListModel class>>#example [Spec-Core]
+CatalogBrowser class>>#iconFor: [Tool-Catalog]
+MetacelloPharoCommonPlatform>>#copyClass:as:inCategory: [Metacello-PharoCommonPlatform]
+InstanceVariableSlot class>>#resetIvarSlots [Slot]
+ListSelectionModel>>#initializeWidgets [Spec-Examples]
+RBBasicLintRuleTest class>>#collectionMessagesToExternalObject [Refactoring-Tests-Core]
+TraitTest>>#testTraitsUsersSanity [Tests]
+ClassHierarchyTest class>>#fixSlotScope [KernelTests]

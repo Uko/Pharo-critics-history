@@ -1,132 +1,132 @@
-ChangeList>>#removeOlderMethodVersions
-RBSelectorEnvironment>>#addClass:selector:
-DictionaryTest>>#testDeclareFrom
-DictionaryTest>>#testAddAll
-FLSerializationTest>>#newSubclassNamed:of:instanceVariableNames:classVariableNames:
-RPackage>>#addSelector:ofMetaclassName:
-RPackage>>#basicRemoveSelector:ofMetaclassName:
-RPackage>>#removeDefinedMethod:forClass:
-RPackage>>#renameTo:
-RPackage>>#addSelector:ofClassName:
-RPackage>>#basicRemoveSelector:ofClassName:
-RPackage>>#updateDefinedSelector:inClass:withNewSelector:
-RPackage>>#updateExtensionSelector:inClass:withNewSelector:
-RPackage>>#addMethod:
-MCVersionSorter>>#addToCurrentLayer:
-RBSmalllintTestObject>>#collectionMessagesToExternalObject
-RBRefactoryTestDataApp>>#collectionMessagesToExternalObject
-TraitDescription>>#packages
-VSCommitBrowser>>#commit
-RGVariableDefinitionTest>>#testPoolVariable
-RGVariableDefinitionTest>>#testClassVariable
-Stopwatch>>#duration
-IRTransformTest>>#testAddBefore
-IRTransformTest>>#testAdd
-Finder>>#pragmaSearch:
-Finder>>#constructSourceDictionary
-Finder>>#constructDictionaryWithPragmaSearch:
-Finder>>#constructDictionaryWithMessagesNameSearch:
-Finder>>#constructDictionaryWithMethodFinder:
-FreeTypeFontFamily>>#addSimulatedMembers
-GLMTransmissionContext>>#forbid:toAnnounce:
-AthensBalloonPath>>#visitMoveSegment:
-AthensBalloonPath>>#duplicateLastPoint
-AthensBalloonPath>>#visitLineSegment:
-AthensBalloonPath>>#visitQuadSegment:
-AthensBalloonPath>>#visitCloseSegment:
-TabManagerModel>>#addTab:
-RPackageIncrementalTest>>#testPrivateClassRegisterUnregister
-RBVariableEnvironment>>#addClass:instanceVariableReader:
-RBVariableEnvironment>>#addClass:instanceVariable:
-RBVariableEnvironment>>#addClass:instanceVariableWriter:
-RBVariableEnvironment>>#addClass:classVariable:
-MessageBrowser>>#methodModified:
-MessageBrowser>>#methodAdded:
-StartupAction>>#execute
-SystemHelp class>>#asHelpTopic
-GTSpotter class>>#gtExampleWithOneStepFrom:
-MBCommand>>#configurationReferencesFrom:
-TraitBehavior>>#addToComposition:
-TDictionaryAddingTest>>#testDeclareFrom
-TDictionaryAddingTest>>#testAddAll
-ZnRequestTests>>#testCookiesWriting
-MetacelloMCVersionSpec>>#isPartiallyCurrentAgainst:
-Scanner>>#xDoubleQuote
-EmbeddedFreeTypeFontInstaller>>#cacheEmbeddedFileInfo:index:
-Collection>>#groupedBy:
-KMRepository>>#attach:to:
-MetacelloAbstractVersionConstructor>>#groupForVersion:overrides:
-MetacelloAbstractVersionConstructor>>#packageForVersion:overrides:
-MetacelloAbstractVersionConstructor>>#removeGroupForVersion:
-MetacelloAbstractVersionConstructor>>#packageForVersion:
-MetacelloAbstractVersionConstructor>>#removeProjectForVersion:
-MetacelloAbstractVersionConstructor>>#removePackageForVersion:
-MetacelloAbstractVersionConstructor>>#projectForVersion:overrides:
-MCConfiguration class>>#fromArray:
-GoferChanges>>#addReference:
-TBehavior>>#addToComposition:
-TestRunner>>#showProgress
-KomitterUI>>#addRoot:
-TxTextStyles>>#extend:with:
-SmalltalkImage>>#fixObsoleteSharedPools
-SmalltalkImage>>#removeAllLineFeedsQuietlyCalling:
-MetacelloVersionMethodSpec>>#addMethodSection:versionSpec:
-PseudoClass>>#fileOutMethods:on:
-KMStorage>>#,
-MetacelloToolBox>>#updateVersionMethodForVersion:projectAttributes:updateProjects:updatePackages:versionSpecsDo:
-MCFileTreeStCypressWriter>>#writeDefinitions:
-RBSearchTest>>#buildSimpleLiteralSearch
-RBSearchTest>>#createMethodSearchWith:selectors:inClass:
-RBSearchTest>>#createSearchWith:selectors:inClass:
-RBSearchTest>>#createArgumentSearchWith:selectors:inClass:
-GTPlaygroundBindingsList>>#newRemoveButtonFor:
-OrderedDictionaryTest>>#testCapacity
-TClassDescription>>#packages
-DoesNotUnderstandDebugAction>>#askForSuperclassOf:toImplement:ifCancel:
-SetTest>>#setUp
-CriticsCache>>#addFalsePositive:forRule:
-CriticsCache>>#addFalsePositiveRule:forPackage:
-CriticsCache>>#addCritic:forRule:
-CriticsCache>>#addToDo:forRule:
-MCFileTreeStSnapshotWriter>>#visitMethodDefinition:
-ScriptLoader>>#buildConfigurationMapFor:
-TestResult class>>#updateTestHistoryFor:status:
-SlotExampleMovieAndPersonTest>>#testAddMovieDirectorInvalid
-SlotExampleMovieAndPersonTest>>#testAddMovieDirectorTwice
-SlotExampleMovieAndPersonTest>>#testAddMovieDirector
-SlotExampleMovieAndPersonTest>>#testSetAndRemoveMovieDirector
-GLMUpdateAction>>#registerInPresentation
-IRReconstructor>>#rememberReference:to:in:
-FreeTypeFontProvider>>#cacheFileInfo:index:
-SelectorFilter class>>#forSelector:
-SelectorFilter class>>#forSelectors:
-MailMessage>>#from:
-ZnClient>>#headerAddAll:
-ZnClient>>#receiveCookies
-BagTest>>#nonEmpty1Element
-BagTest>>#setUp
-Behavior>>#addToComposition:
-RBSendsDeprecatedMethodToGlobalRule>>#initialize
-CustomHelpHelpBuilder>>#createTopicFrom:
-MenuRegistration>>#buildMenuSpec:
-MorphicEventHandler>>#addSubscription:toEvent:
-SHParserST80>>#pushArgument:
-SHParserST80>>#pushTemporary:
-MetacelloMCVersionSpecTestCase>>#testMCVersionSpec
-OrderedCollectionTest>>#collectionWith2TimeSubcollection
-OrderedCollectionTest>>#collectionWith1TimeSubcollection
-KMDispatcher>>#gtInspectorMappingsIn:
-IRBuilder>>#initialize
-MCMerger>>#loadWithNameLike:
-MCMerger>>#load
-RFSemanticAnalyzer>>#visitNode:
-MorphTreeNodeMorph>>#path
-MorphTreeNodeMorph>>#selected:
-ClassDescription>>#packages
-TempVariableNode>>#addWriteWithin:at:
-TempVariableNode>>#addReadWithin:at:
-TraitAlias>>#allSelectors
-GLMBasicExamples>>#updateableBrowser
-RBRefactoryTyper>>#processCollectionMessagesFor:in:
-RBRefactoryTyper>>#guessTypeFromAssignment:
-RBRefactoryTyper>>#computeMessagesSentToVariables
+ChangeList>>#removeOlderMethodVersions [Tool-Changes]
+RBSelectorEnvironment>>#addClass:selector: [Refactoring-Environment]
+DictionaryTest>>#testDeclareFrom [CollectionsTests]
+DictionaryTest>>#testAddAll [CollectionsTests]
+FLSerializationTest>>#newSubclassNamed:of:instanceVariableNames:classVariableNames: [FuelTests]
+RPackage>>#addSelector:ofMetaclassName: [RPackage-Core]
+RPackage>>#basicRemoveSelector:ofMetaclassName: [RPackage-Core]
+RPackage>>#removeDefinedMethod:forClass: [RPackage-Core]
+RPackage>>#renameTo: [RPackage-Core]
+RPackage>>#addSelector:ofClassName: [RPackage-Core]
+RPackage>>#basicRemoveSelector:ofClassName: [RPackage-Core]
+RPackage>>#updateDefinedSelector:inClass:withNewSelector: [RPackage-Core]
+RPackage>>#updateExtensionSelector:inClass:withNewSelector: [RPackage-Core]
+RPackage>>#addMethod: [RPackage-Core]
+MCVersionSorter>>#addToCurrentLayer: [Monticello]
+RBSmalllintTestObject>>#collectionMessagesToExternalObject [Refactoring-Tests-Critics]
+RBRefactoryTestDataApp>>#collectionMessagesToExternalObject [Refactoring-Tests-Core]
+TraitDescription>>#packages [RPackage-Core]
+VSCommitBrowser>>#commit [Versionner-Commit]
+RGVariableDefinitionTest>>#testPoolVariable [Ring-Tests-Kernel]
+RGVariableDefinitionTest>>#testClassVariable [Ring-Tests-Kernel]
+Stopwatch>>#duration [Kernel]
+IRTransformTest>>#testAddBefore [OpalCompiler-Tests]
+IRTransformTest>>#testAdd [OpalCompiler-Tests]
+Finder>>#pragmaSearch: [Tool-Finder]
+Finder>>#constructSourceDictionary [Tool-Finder]
+Finder>>#constructDictionaryWithPragmaSearch: [Tool-Finder]
+Finder>>#constructDictionaryWithMessagesNameSearch: [Tool-Finder]
+Finder>>#constructDictionaryWithMethodFinder: [Tool-Finder]
+FreeTypeFontFamily>>#addSimulatedMembers [FreeType]
+GLMTransmissionContext>>#forbid:toAnnounce: [Glamour-Core]
+AthensBalloonPath>>#visitMoveSegment: [Athens-Balloon]
+AthensBalloonPath>>#duplicateLastPoint [Athens-Balloon]
+AthensBalloonPath>>#visitLineSegment: [Athens-Balloon]
+AthensBalloonPath>>#visitQuadSegment: [Athens-Balloon]
+AthensBalloonPath>>#visitCloseSegment: [Athens-Balloon]
+TabManagerModel>>#addTab: [Spec-Core]
+RPackageIncrementalTest>>#testPrivateClassRegisterUnregister [RPackage-Tests]
+RBVariableEnvironment>>#addClass:instanceVariableReader: [Refactoring-Environment]
+RBVariableEnvironment>>#addClass:instanceVariable: [Refactoring-Environment]
+RBVariableEnvironment>>#addClass:instanceVariableWriter: [Refactoring-Environment]
+RBVariableEnvironment>>#addClass:classVariable: [Refactoring-Environment]
+MessageBrowser>>#methodModified: [Spec-Tools]
+MessageBrowser>>#methodAdded: [Spec-Tools]
+StartupAction>>#execute [StartupPreferences]
+SystemHelp class>>#asHelpTopic [HelpSystem-Core]
+GTSpotter class>>#gtExampleWithOneStepFrom: [GT-Spotter]
+MBCommand>>#configurationReferencesFrom: [Versionner-Core-Commands]
+TraitBehavior>>#addToComposition: [Traits]
+TDictionaryAddingTest>>#testDeclareFrom [CollectionsTests]
+TDictionaryAddingTest>>#testAddAll [CollectionsTests]
+ZnRequestTests>>#testCookiesWriting [Zinc-Tests]
+MetacelloMCVersionSpec>>#isPartiallyCurrentAgainst: [Metacello-MC]
+Scanner>>#xDoubleQuote [Compiler]
+EmbeddedFreeTypeFontInstaller>>#cacheEmbeddedFileInfo:index: [EmbeddedFreeType]
+Collection>>#groupedBy: [Collections-Abstract]
+KMRepository>>#attach:to: [Keymapping-Core]
+MetacelloAbstractVersionConstructor>>#groupForVersion:overrides: [Metacello-Core]
+MetacelloAbstractVersionConstructor>>#packageForVersion:overrides: [Metacello-Core]
+MetacelloAbstractVersionConstructor>>#removeGroupForVersion: [Metacello-Core]
+MetacelloAbstractVersionConstructor>>#packageForVersion: [Metacello-Core]
+MetacelloAbstractVersionConstructor>>#removeProjectForVersion: [Metacello-Core]
+MetacelloAbstractVersionConstructor>>#removePackageForVersion: [Metacello-Core]
+MetacelloAbstractVersionConstructor>>#projectForVersion:overrides: [Metacello-Core]
+MCConfiguration class>>#fromArray: [MonticelloConfigurations]
+GoferChanges>>#addReference: [Gofer-Core]
+TBehavior>>#addToComposition: [Traits]
+TestRunner>>#showProgress [SUnit-UI]
+KomitterUI>>#addRoot: [Komitter]
+TxTextStyles>>#extend:with: [TxText-Model]
+SmalltalkImage>>#fixObsoleteSharedPools [System-Support]
+SmalltalkImage>>#removeAllLineFeedsQuietlyCalling: [System-Support]
+MetacelloVersionMethodSpec>>#addMethodSection:versionSpec: [Metacello-Core]
+PseudoClass>>#fileOutMethods:on: [System-FilePackage]
+KMStorage>>#, [Keymapping-Core]
+MetacelloToolBox>>#updateVersionMethodForVersion:projectAttributes:updateProjects:updatePackages:versionSpecsDo: [Metacello-ToolBox]
+MCFileTreeStCypressWriter>>#writeDefinitions: [MonticelloFileTree-Core]
+RBSearchTest>>#buildSimpleLiteralSearch [Refactoring-Tests-Core]
+RBSearchTest>>#createMethodSearchWith:selectors:inClass: [Refactoring-Tests-Core]
+RBSearchTest>>#createSearchWith:selectors:inClass: [Refactoring-Tests-Core]
+RBSearchTest>>#createArgumentSearchWith:selectors:inClass: [Refactoring-Tests-Core]
+GTPlaygroundBindingsList>>#newRemoveButtonFor: [GT-Playground]
+OrderedDictionaryTest>>#testCapacity [CollectionsTests]
+TClassDescription>>#packages [RPackage-Core]
+DoesNotUnderstandDebugAction>>#askForSuperclassOf:toImplement:ifCancel: [DebuggerActions]
+SetTest>>#setUp [CollectionsTests]
+CriticsCache>>#addFalsePositive:forRule: [Manifest-CriticBrowser]
+CriticsCache>>#addFalsePositiveRule:forPackage: [Manifest-CriticBrowser]
+CriticsCache>>#addCritic:forRule: [Manifest-CriticBrowser]
+CriticsCache>>#addToDo:forRule: [Manifest-CriticBrowser]
+MCFileTreeStSnapshotWriter>>#visitMethodDefinition: [MonticelloFileTree-Core]
+ScriptLoader>>#buildConfigurationMapFor: [ScriptLoader50]
+TestResult class>>#updateTestHistoryFor:status: [SUnit-Core]
+SlotExampleMovieAndPersonTest>>#testAddMovieDirectorInvalid [Slot-Tests]
+SlotExampleMovieAndPersonTest>>#testAddMovieDirectorTwice [Slot-Tests]
+SlotExampleMovieAndPersonTest>>#testAddMovieDirector [Slot-Tests]
+SlotExampleMovieAndPersonTest>>#testSetAndRemoveMovieDirector [Slot-Tests]
+GLMUpdateAction>>#registerInPresentation [Glamour-Core]
+IRReconstructor>>#rememberReference:to:in: [OpalCompiler-Core]
+FreeTypeFontProvider>>#cacheFileInfo:index: [FreeType]
+SelectorFilter class>>#forSelector: [DebuggerFilters]
+SelectorFilter class>>#forSelectors: [DebuggerFilters]
+MailMessage>>#from: [Network-Mail]
+ZnClient>>#headerAddAll: [Zinc-HTTP]
+ZnClient>>#receiveCookies [Zinc-HTTP]
+BagTest>>#nonEmpty1Element [CollectionsTests]
+BagTest>>#setUp [CollectionsTests]
+Behavior>>#addToComposition: [Traits]
+RBSendsDeprecatedMethodToGlobalRule>>#initialize [Refactoring-Critics]
+CustomHelpHelpBuilder>>#createTopicFrom: [HelpSystem-Core]
+MenuRegistration>>#buildMenuSpec: [MenuRegistration]
+MorphicEventHandler>>#addSubscription:toEvent: [Morphic-Base]
+SHParserST80>>#pushArgument: [Shout]
+SHParserST80>>#pushTemporary: [Shout]
+MetacelloMCVersionSpecTestCase>>#testMCVersionSpec [Metacello-TestsMCCore]
+OrderedCollectionTest>>#collectionWith2TimeSubcollection [CollectionsTests]
+OrderedCollectionTest>>#collectionWith1TimeSubcollection [CollectionsTests]
+KMDispatcher>>#gtInspectorMappingsIn: [GT-InspectorExtensions-Core]
+IRBuilder>>#initialize [OpalCompiler-Core]
+MCMerger>>#loadWithNameLike: [Monticello]
+MCMerger>>#load [Monticello]
+RFSemanticAnalyzer>>#visitNode: [Reflectivity]
+MorphTreeNodeMorph>>#path [Morphic-Widgets-Tree]
+MorphTreeNodeMorph>>#selected: [Morphic-Widgets-Tree]
+ClassDescription>>#packages [RPackage-Core]
+TempVariableNode>>#addWriteWithin:at: [Compiler]
+TempVariableNode>>#addReadWithin:at: [Compiler]
+TraitAlias>>#allSelectors [Traits]
+GLMBasicExamples>>#updateableBrowser [Glamour-Examples]
+RBRefactoryTyper>>#processCollectionMessagesFor:in: [Refactoring-Core]
+RBRefactoryTyper>>#guessTypeFromAssignment: [Refactoring-Core]
+RBRefactoryTyper>>#computeMessagesSentToVariables [Refactoring-Core]

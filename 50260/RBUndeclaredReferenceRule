@@ -1,1 +1,2 @@
-OSWindowAttributes class>>#defaultBounds
+RBPharoBootstrapRule>>#dependencyChecker [Refactoring-Critics]
+OSWindowAttributes class>>#defaultBounds [OSWindow-Core]

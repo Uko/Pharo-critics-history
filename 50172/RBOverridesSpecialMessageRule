@@ -1,9 +1,9 @@
-Integer class>>#basicNew
-Float>>#basicAt:put:
-Float>>#basicAt:
-CompiledMethod class>>#basicNew
-SmallInteger class>>#basicNew
-Context>>#basicAt:put:
-Context>>#basicSize
-Context>>#basicAt:
-SmallInteger>>#identityHash
+Integer class>>#basicNew [Kernel]
+Float>>#basicAt:put: [Kernel]
+Float>>#basicAt: [Kernel]
+CompiledMethod class>>#basicNew [Kernel]
+SmallInteger class>>#basicNew [Kernel]
+Context>>#basicAt:put: [Kernel]
+Context>>#basicSize [Kernel]
+Context>>#basicAt: [Kernel]
+SmallInteger>>#identityHash [Kernel]

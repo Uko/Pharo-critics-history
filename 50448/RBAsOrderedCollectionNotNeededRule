@@ -1,9 +1,9 @@
-GTInspectorVariableValuePairsTest>>#testArrayPairs43
-GTInspectorVariableValuePairsTest>>#testArrayPairsLong
-RBSmalllintTestObject>>#asOrderedCollectionNotNeeded
-RBRefactoryTestDataApp>>#asOrderedCollectionNotNeeded
-Collection>>#union:
-Collection>>#difference:
-Collection>>#intersection:
-ZnCharacterEncoderTests>>#testByteEncoderFromUrl
-Object>>#gtInspectorVariableValuePairs
+GTInspectorVariableValuePairsTest>>#testArrayPairs43 [GT-Tests-Inspector]
+GTInspectorVariableValuePairsTest>>#testArrayPairsLong [GT-Tests-Inspector]
+RBSmalllintTestObject>>#asOrderedCollectionNotNeeded [Refactoring-Tests-Critics]
+RBRefactoryTestDataApp>>#asOrderedCollectionNotNeeded [Refactoring-Tests-Core]
+Collection>>#union: [Collections-Abstract]
+Collection>>#difference: [Collections-Abstract]
+Collection>>#intersection: [Collections-Abstract]
+ZnCharacterEncoderTests>>#testByteEncoderFromUrl [Zinc-Character-Encoding-Tests]
+Object>>#gtInspectorVariableValuePairs [GT-Inspector]

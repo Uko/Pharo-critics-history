@@ -1,35 +1,35 @@
-TextMorph>>#cursorWrapped:
-TextMorph>>#elementCount
-Exception>>#freeze
-MorphicUIManager>>#onSnapshot:
-SmalltalkImage>>#exitFailure
-SmalltalkImage>>#logError:inContext:
-SmalltalkImage>>#logStdErrorDuring:
-SmalltalkImage>>#exit:
-CommandLineUIManager>>#logYellowDuring:
-CommandLineUIManager>>#nonInteractiveManager
-CommandLineUIManager>>#confirm:trueChoice:falseChoice:cancelChoice:default:
-CommandLineUIManager>>#unhandledErrorDefaultAction:
-CommandLineUIManager>>#warningDefaultAction:
-CommandLineUIManager>>#choose:title:
-CommandLineUIManager>>#confirm:trueChoice:falseChoice:
-CommandLineUIManager>>#logGreenDuring:
-CommandLineUIManager>>#quitFrom:withMessage:
-CommandLineUIManager>>#headlessManager
-CommandLineUIManager>>#logRedDuring:
-CommandLineUIManager>>#uiProcess
-CommandLineUIManager>>#stderr
-CommandLineUIManager>>#stdin
-CommandLineUIManager>>#exitFailure
-CommandLineUIManager>>#onPrimitiveError:
-CommandLineUIManager>>#stdout
-Context>>#debugStack:on:
-Context>>#shortDebugStack
-Context>>#debugStackOn:
-Context>>#printOn:
-NonInteractiveUIManager>>#syntaxErrorNotificationDefaultAction:
-NonInteractiveUIManager>>#nonInteractiveManager
-CommandLineUIManager class>>#snapshotErrorImage
-CommandLineUIManager class>>#snapshotErrorImage:
-CommandLineUIManager class>>#replacing:
-Context class>>#basicNew:
+TextMorph>>#cursorWrapped: [Morphic-Base]
+TextMorph>>#elementCount [Morphic-Base]
+Exception>>#freeze [Kernel]
+MorphicUIManager>>#onSnapshot: [Polymorph-Widgets]
+SmalltalkImage>>#exitFailure [System-Support]
+SmalltalkImage>>#logError:inContext: [System-Support]
+SmalltalkImage>>#logStdErrorDuring: [System-Support]
+SmalltalkImage>>#exit: [System-Support]
+CommandLineUIManager>>#logYellowDuring: [UIManager]
+CommandLineUIManager>>#nonInteractiveManager [UIManager]
+CommandLineUIManager>>#confirm:trueChoice:falseChoice:cancelChoice:default: [UIManager]
+CommandLineUIManager>>#unhandledErrorDefaultAction: [UIManager]
+CommandLineUIManager>>#warningDefaultAction: [UIManager]
+CommandLineUIManager>>#choose:title: [UIManager]
+CommandLineUIManager>>#confirm:trueChoice:falseChoice: [UIManager]
+CommandLineUIManager>>#logGreenDuring: [UIManager]
+CommandLineUIManager>>#quitFrom:withMessage: [UIManager]
+CommandLineUIManager>>#headlessManager [UIManager]
+CommandLineUIManager>>#logRedDuring: [UIManager]
+CommandLineUIManager>>#uiProcess [UIManager]
+CommandLineUIManager>>#stderr [UIManager]
+CommandLineUIManager>>#stdin [UIManager]
+CommandLineUIManager>>#exitFailure [UIManager]
+CommandLineUIManager>>#onPrimitiveError: [UIManager]
+CommandLineUIManager>>#stdout [UIManager]
+Context>>#debugStack:on: [Kernel]
+Context>>#shortDebugStack [Kernel]
+Context>>#debugStackOn: [Kernel]
+Context>>#printOn: [Kernel]
+NonInteractiveUIManager>>#syntaxErrorNotificationDefaultAction: [UIManager]
+NonInteractiveUIManager>>#nonInteractiveManager [UIManager]
+CommandLineUIManager class>>#snapshotErrorImage [UIManager]
+CommandLineUIManager class>>#snapshotErrorImage: [UIManager]
+CommandLineUIManager class>>#replacing: [UIManager]
+Context class>>#basicNew: [Kernel]

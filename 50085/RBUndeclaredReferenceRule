@@ -1,19 +1,22 @@
-AbstractNautilusUI class>>#classesIconsCache
-AbstractNautilusUI class>>#initialize
-AbstractNautilusUI class>>#nextFocusKey
-AbstractNautilusUI class>>#classesIconsCache:
-AbstractNautilusUI class>>#resetClassesIconsCache
-AbstractNautilusUI class>>#groupsIconsCache:
-AbstractNautilusUI class>>#resetIconCaches
-AbstractNautilusUI class>>#groupsIconsCache
-AbstractNautilusUI class>>#previousFocusKey
-AbstractNautilusUI>>#groupIconFor:
-AbstractNautilusUI>>#okToChangeComment
-AbstractNautilusUI>>#classIconFor:
-AbstractNautilusUI>>#removeFromClassesIconsCache:
-AbstractNautilusUI>>#removeFromGroupsIconsCache:
-AbstractNautilusUI>>#runTestsOfClass:notifying:
-NautilusUI>>#runTestForAMethod:notifying:priority:
-NautilusUI>>#methodRemoved:
-NautilusUI>>#runTestForAMethodWithAnHalt:
-NautilusUI>>#methodModified:
+AbstractNautilusUI class>>#classesIconsCache [Nautilus]
+AbstractNautilusUI class>>#initialize [Nautilus]
+AbstractNautilusUI class>>#nextFocusKey [Nautilus]
+AbstractNautilusUI class>>#classesIconsCache: [Nautilus]
+AbstractNautilusUI class>>#resetClassesIconsCache [Nautilus]
+AbstractNautilusUI class>>#groupsIconsCache: [Nautilus]
+AbstractNautilusUI class>>#resetIconCaches [Nautilus]
+AbstractNautilusUI class>>#groupsIconsCache [Nautilus]
+AbstractNautilusUI class>>#previousFocusKey [Nautilus]
+RBPharoBootstrapRule>>#collectionsPackages [Refactoring-Critics]
+RBPharoBootstrapRule>>#bootstrapPackages [Refactoring-Critics]
+RBPharoBootstrapRule>>#dependencyChecker [Refactoring-Critics]
+AbstractNautilusUI>>#groupIconFor: [Nautilus]
+AbstractNautilusUI>>#okToChangeComment [Nautilus]
+AbstractNautilusUI>>#classIconFor: [Nautilus]
+AbstractNautilusUI>>#removeFromClassesIconsCache: [Nautilus]
+AbstractNautilusUI>>#removeFromGroupsIconsCache: [Nautilus]
+AbstractNautilusUI>>#runTestsOfClass:notifying: [Nautilus]
+NautilusUI>>#runTestForAMethod:notifying:priority: [Nautilus]
+NautilusUI>>#methodRemoved: [Nautilus]
+NautilusUI>>#runTestForAMethodWithAnHalt: [Nautilus]
+NautilusUI>>#methodModified: [Nautilus]

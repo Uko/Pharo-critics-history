@@ -1,51 +1,51 @@
-HeapTest
-BagTest
-MissingClassError
-SymbolTest
-TraitsResource
-IntervalTest
-RBSmalllintTestObject
-ThemeSettings
-FreeTypeNameParser class
-DictionaryTest
-AJOperand
-NBInterpreterProxy
-VTermOutputDriver
-NBCPrinter class
-RxmLookahaed
-MCWorkingCopyBrowser class
-NECTestClass
-RubParagraphDecorator
-RBRefactoryTestDataApp
-CompiledMethodTest
-GLMAnimation
-SimpleTestResource
-PharoIssueTest
-WeakFinalizationList
-SetTest
-OrderedCollectionTest
-NBExternalStructure class
-AthensGenericTransform
-FileList
-SortedCollectionTest
-IdentityBagTest
-SystemVersion
-RubWorkspaceExample
-ZnEntityReader
-LinkedListTest
-ClassTest
-SUnitTest
-GLMPagerScrollSlidingBrick
-OCOpalExamples
-GLMSmalltalkCodePresentation
-ReflectivityExamples
-FreeTypeSettings
-StringTest
-ArrayTest
-FloatArrayTest
-RubTextComposer
-OSVMWindowHandle
-AthensBezierConverter
-PluggableTextMorph
-NewListRenderer
-DigitalSignatureAlgorithm
+WeakFinalizationList [System-Finalization]
+NewListRenderer [Morphic-Widgets-NewList]
+SymbolTest [CollectionsTests]
+RxmLookahaed [Regex-Core]
+SystemVersion [System-Support]
+OCOpalExamples [OpalCompiler-Tests]
+OSVMWindowHandle [OSWindow-VM]
+FreeTypeNameParser class [FreeType]
+NBExternalStructure class [NativeBoost-Core]
+AJOperand [AsmJit-Operands]
+SUnitTest [SUnit-Tests]
+SetTest [CollectionsTests]
+RBSmalllintTestObject [Refactoring-Tests-Critics]
+AthensGenericTransform [Athens-Core]
+RubTextComposer [Rubric]
+ZnEntityReader [Zinc-HTTP]
+OrderedCollectionTest [CollectionsTests]
+FileList [Tool-FileList]
+DigitalSignatureAlgorithm [System-Hashing]
+RubWorkspaceExample [Rubric]
+VTermOutputDriver [System-CommandLine]
+BagTest [CollectionsTests]
+ArrayTest [CollectionsTests]
+HeapTest [CollectionsTests]
+PharoIssueTest [IssueTracking-Tests]
+GLMSmalltalkCodePresentation [Glamour-Presentations]
+NBCPrinter class [NativeBoost-Examples]
+CompiledMethodTest [KernelTests]
+MCWorkingCopyBrowser class [MonticelloGUI]
+SimpleTestResource [SUnit-Tests]
+NECTestClass [NECompletion-Tests]
+IntervalTest [CollectionsTests]
+SortedCollectionTest [CollectionsTests]
+ReflectivityExamples [Reflectivity-Tests]
+ClassTest [KernelTests]
+StringTest [CollectionsTests]
+MissingClassError [CodeImport]
+RBRefactoryTestDataApp [Refactoring-Tests-Core]
+GLMAnimation [Glamour-Morphic-Brick]
+FloatArrayTest [CollectionsTests]
+TraitsResource [Tests]
+DictionaryTest [CollectionsTests]
+GLMPagerScrollSlidingBrick [Glamour-Morphic-Pager]
+NBInterpreterProxy [NativeBoost-Core]
+PluggableTextMorph [Morphic-Widgets-Pluggable]
+RubParagraphDecorator [Rubric]
+LinkedListTest [CollectionsTests]
+ThemeSettings [Polymorph-Widgets]
+AthensBezierConverter [Athens-Core]
+IdentityBagTest [CollectionsTests]
+FreeTypeSettings [FreeType]

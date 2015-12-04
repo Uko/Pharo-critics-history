@@ -1,1390 +1,1390 @@
-MetacelloLoadingMCSpecLoader>>#actionLabel
-MCFtpRepository>>#readStreamForFileNamed:do:
-MCFtpRepository>>#writeStreamForFileNamed:replace:do:
-GoferVersionReference>>#metacelloPackageNameWithBranch
-SDL2TouchGestureExample2>>#beginPinch:
-SDL2TouchGestureExample2>>#endPinch:
-SDL2TouchGestureExample2>>#generateCircleOfSize:
-SDL2TouchGestureExample2>>#drawCircle
-SDL2TouchGestureExample2>>#scroll:
-SDL2TouchGestureExample2>>#beginScroll:
-SDL2TouchGestureExample2>>#pinch:
-SDL2TouchGestureExample2>>#endScroll:
-AthensCWArcSegment>>#sendCommandTo:
-MCWorkingAncestry>>#lazy
-MCWorkingAncestry>>#summary
-RGClassDefinition>>#allClassVarNames
-RGClassDefinition>>#category
-RGClassDefinition>>#allSharedPoolNames
-RGClassDefinition>>#inheritsFrom:
-KeyboardEvent>>#isMouseMove
-BaselineOfQualityAssistant>>#baseline:
-MCChangeSelector>>#cancel
-DisplayScanner>>#cr
-DisplayScanner>>#tab
-DisplayScanner>>#crossedX
-DisplayScanner>>#endOfRun
-SDL2TouchGestureExample>>#beginPinch:
-SDL2TouchGestureExample>>#endPinch:
-SDL2TouchGestureExample>>#generateCircleOfSize:
-SDL2TouchGestureExample>>#drawCircle
-SDL2TouchGestureExample>>#scroll:
-SDL2TouchGestureExample>>#beginScroll:
-SDL2TouchGestureExample>>#pinch:
-SDL2TouchGestureExample>>#endScroll:
-KomitPackage>>#koSourceText
-KomitPackage>>#koDestinationText
-MCPatchBrowser>>#text
-MCPatchBrowser>>#text:
-ClassModificationPropagation>>#superclass
-ClassModificationPropagation>>#methodModification
-DictionaryTest>>#testAsSortedArray
-DictionaryTest>>#testAsBag
-DictionaryTest>>#assertNonDuplicatedContents:whenConvertedTo:
-DictionaryTest>>#anotherElementNotIn
-DictionaryTest>>#testCopyNonEmptyWithoutAllNotIncluded
-DictionaryTest>>#testIncludesElementIsNotThere
-DictionaryTest>>#test0FixtureIncludeTest
-DictionaryTest>>#testIncludesElementIsThere
-DictionaryTest>>#testAsSet
-DictionaryTest>>#testCopyNonEmptyWith
-DictionaryTest>>#testAsSortedCollectionWithSortBlock
-DictionaryTest>>#testCopyNonEmptyWithoutAll
-DictionaryTest>>#testIncludesAnyAllThere
-DictionaryTest>>#collectionWithSortableElements
-DictionaryTest>>#collectionWithElementsToRemove
-DictionaryTest>>#nonEmpty1Element
-DictionaryTest>>#testIncludesAnyNoneThere
-DictionaryTest>>#test0CopyTest
-DictionaryTest>>#testAsArray
-DictionaryTest>>#testAsIdentitySet
-DictionaryTest>>#collectionNotIncluded
-DictionaryTest>>#test0FixtureTConvertTest
-DictionaryTest>>#testIncludesAllNoneThere
-DictionaryTest>>#collectionClass
-DictionaryTest>>#assertNoDuplicates:whenConvertedTo:
-DictionaryTest>>#collectionWithoutEqualElements
-DictionaryTest>>#collection
-DictionaryTest>>#testAsOrderedCollection
-DictionaryTest>>#testCopyNotSame
-DictionaryTest>>#testCopyEquals
-DictionaryTest>>#testCopySameClass
-DictionaryTest>>#testCopyEmptyWithoutAll
-DictionaryTest>>#test0FixtureConverAsSortedTest
-DictionaryTest>>#testAsSortedCollection
-DictionaryTest>>#testCopyEmptyWith
-DictionaryTest>>#elementNotIn
-DictionaryTest>>#elementToAdd
-DictionaryTest>>#assertSameContents:whenConvertedTo:
-RubEditingArea>>#walkAlongDisplayedLine
-StrikeFontSet>>#descentKern
-StrikeFontSet>>#characterFormAt:
-FreeTypeFont>>#descentKern
-FreeTypeFont>>#characterFormAt:
-GTSpotterCandidateLink>>#processor
-True>>#xor:
-TextStyleAsFontFamilyMember>>#''<=''
-TextStyleAsFontFamilyMember>>#simulated
-Win32Environment>>#setEnv:value:
-AthensBalloonSurface>>#getFreetypeFontRendererFor:
-AthensBalloonSurface>>#asAthensPaintOn:
-ClassRecategorized>>#classAffected
-Pharo3Theme>>#checkboxUnselectedForm
-Pharo3Theme>>#glamorousNormalFillStyleWithBaseColor:for:height:
-Pharo3Theme>>#glamorousBaseColorFor:
-Pharo3Theme>>#glamorousBaseSelectionColorFor:
-Pharo3Theme>>#glamorousLightColorFor:
-Pharo3Theme>>#glamorousBasePassiveBackgroundColorFor:
-Pharo3Theme>>#newRadioMarkerForm
-Pharo3Theme>>#glamorousLightSelectionColorFor:
-Pharo3Theme>>#glamorousNormalFillStyleFor:height:
-Pharo3Theme>>#glamorousDarkBaseColorFor:
-AthensBalloonGradientPaint>>#strokeRect:on:strokeWidth:
-AthensBalloonGradientPaint>>#strokeRect:on:stroke:
-RubCharacterBlockScanner>>#cr
-RubCharacterBlockScanner>>#endOfRun
-RubCharacterBlockScanner>>#crossedX
-RubCharacterBlockScanner>>#tab
-RubCharacterBlockScanner>>#setStopConditions
-BitmapFillStyle>>#asAthensPaintOn:
-EncoderForLongFormV3>>#genStorePopInstVarLong:
-EncoderForLongFormV3>>#genReturnTop
-EncoderForLongFormV3>>#genStoreInstVar:
-EncoderForLongFormV3>>#genBranchPopTrue:
-EncoderForLongFormV3>>#genStorePopLiteralVar:
-EncoderForLongFormV3>>#genSend:numArgs:
-EncoderForLongFormV3>>#genBranchPopFalse:
-EncoderForLongFormV3>>#genReturnReceiver
-EncoderForLongFormV3>>#genPushInstVar:
-EncoderForLongFormV3>>#genStoreLiteralVar:
-EncoderForLongFormV3>>#genPushLiteralVar:
-EncoderForLongFormV3>>#genJumpLong:
-EncoderForLongFormV3>>#genJump:
-EncoderForLongFormV3>>#genStoreInstVarLong:
-EncoderForLongFormV3>>#genReturnSpecialLiteral:
-EncoderForLongFormV3>>#genPop
-EncoderForLongFormV3>>#genReturnTopToCaller
-EncoderForLongFormV3>>#genPushThisContext
-EncoderForLongFormV3>>#genPushInstVarLong:
-EncoderForLongFormV3>>#genPushTemp:
-EncoderForLongFormV3>>#genSendSuper:numArgs:
-EncoderForLongFormV3>>#genStorePopTemp:
-EncoderForLongFormV3>>#genStorePopInstVar:
-EncoderForLongFormV3>>#genDup
-EncoderForLongFormV3>>#genStoreTemp:
-EncoderForLongFormV3>>#genPushLiteral:
-EncoderForLongFormV3>>#genPushReceiver
-EncoderForLongFormV3>>#genPushSpecialLiteral:
-RGTraitDefinition>>#category
-MBConfigurationInfo>>#currentVersion
-MBConfigurationInfo>>#configurationClass
-MBConfigurationInfo>>#version
-TxVerticalSlider>>#handleEventWhileDraggingSlider:delta:
-TxVerticalSlider>>#computeSliderBounds
-TxVerticalSlider>>#mapMouseRelativeToSlider:
-TxVerticalSlider>>#originForDragStart:
-TxTextPosition>>#deleteUpTo:
-MCSnapshotReader>>#snapshot
-MCSnapshotReader>>#definitions
-Pharo3DarkTheme>>#checkboxUnselectedForm
-Pharo3DarkTheme>>#glamorousNormalFillStyleWithBaseColor:for:height:
-Pharo3DarkTheme>>#glamorousBaseColorFor:
-Pharo3DarkTheme>>#glamorousBaseSelectionColorFor:
-Pharo3DarkTheme>>#glamorousLightColorFor:
-Pharo3DarkTheme>>#glamorousBasePassiveBackgroundColorFor:
-Pharo3DarkTheme>>#newRadioMarkerForm
-Pharo3DarkTheme>>#glamorousLightSelectionColorFor:
-Pharo3DarkTheme>>#glamorousNormalFillStyleFor:height:
-Pharo3DarkTheme>>#glamorousDarkBaseColorFor:
-LiteralNode>>#emitCodeForValue:encoder:
-LiteralNode>>#name:key:index:type:
-PackageTreeGroupSelection>>#package
-PackageTreeGroupSelection>>#classes
-ChunkWriteStream>>#terminatorMark
-InflateStream>>#growHuffmanTable:
-InflateStream>>#createHuffmanTables:counts:from:to:
-InflateStream>>#decodeValueFrom:
-InflateStream>>#nextByte
-SDL_TouchFingerMotionEvent>>#accept:
-TxTextCursor>>#deleteUpTo:
-MethodChunk>>#description
-MCAddition>>#toSource
-MCAddition>>#selector
-MCAddition>>#targetDefinition
-MCAddition>>#basicApplyTo:
-MCAddition>>#baseDefinition
-MCAddition>>#koSourceText
-MCAddition>>#fromSource
-MCAddition>>#koDestinationText
-SpecTableLayoutSend>>#selector:
-SpecTableLayoutSend>>#arguments:
-SpecTableLayoutSend>>#arguments
-SpecTableLayoutSend>>#selector
-ArrayTest>>#testAsSortedArray
-ArrayTest>>#testAsBag
-ArrayTest>>#assertNonDuplicatedContents:whenConvertedTo:
-ArrayTest>>#anotherElementNotIn
-ArrayTest>>#testCopyNonEmptyWithoutAllNotIncluded
-ArrayTest>>#testIncludesElementIsNotThere
-ArrayTest>>#test0FixtureIncludeTest
-ArrayTest>>#testIncludesElementIsThere
-ArrayTest>>#testAsSet
-ArrayTest>>#testCopyNonEmptyWith
-ArrayTest>>#testAsSortedCollectionWithSortBlock
-ArrayTest>>#testCopyNonEmptyWithoutAll
-ArrayTest>>#testIncludesAnyAllThere
-ArrayTest>>#collectionWithSortableElements
-ArrayTest>>#collectionWithElementsToRemove
-ArrayTest>>#nonEmpty1Element
-ArrayTest>>#testIncludesAnyNoneThere
-ArrayTest>>#test0CopyTest
-ArrayTest>>#testAsArray
-ArrayTest>>#testAsIdentitySet
-ArrayTest>>#collectionNotIncluded
-ArrayTest>>#test0FixtureTConvertTest
-ArrayTest>>#testIncludesAllNoneThere
-ArrayTest>>#collectionClass
-ArrayTest>>#assertNoDuplicates:whenConvertedTo:
-ArrayTest>>#collectionWithoutEqualElements
-ArrayTest>>#collection
-ArrayTest>>#testAsOrderedCollection
-ArrayTest>>#testCopyNotSame
-ArrayTest>>#testCopyEquals
-ArrayTest>>#testCopySameClass
-ArrayTest>>#testCopyEmptyWithoutAll
-ArrayTest>>#test0FixtureConverAsSortedTest
-ArrayTest>>#testAsSortedCollection
-ArrayTest>>#testCopyEmptyWith
-ArrayTest>>#elementNotIn
-ArrayTest>>#elementToAdd
-ArrayTest>>#assertSameContents:whenConvertedTo:
-LogicalFont>>#descentKern
-LogicalFont>>#characterFormAt:
-SDL_JoyButtonUpEvent>>#accept:
-SDL_MouseButtonDownEvent>>#accept:
-RubWorkspaceBar>>#textColor
-RubWorkspaceBar>>#backgroundColor
-RubWorkspaceBar>>#fontToUse
-FloatArrayTest>>#testAsSortedArray
-FloatArrayTest>>#testAsBag
-FloatArrayTest>>#assertNonDuplicatedContents:whenConvertedTo:
-FloatArrayTest>>#anotherElementNotIn
-FloatArrayTest>>#testCopyNonEmptyWithoutAllNotIncluded
-FloatArrayTest>>#testIncludesElementIsNotThere
-FloatArrayTest>>#test0FixtureIncludeTest
-FloatArrayTest>>#testIncludesElementIsThere
-FloatArrayTest>>#testAsSet
-FloatArrayTest>>#testCopyNonEmptyWith
-FloatArrayTest>>#testAsSortedCollectionWithSortBlock
-FloatArrayTest>>#testCopyNonEmptyWithoutAll
-FloatArrayTest>>#testIncludesAnyAllThere
-FloatArrayTest>>#collectionWithSortableElements
-FloatArrayTest>>#collectionWithElementsToRemove
-FloatArrayTest>>#nonEmpty1Element
-FloatArrayTest>>#testIncludesAnyNoneThere
-FloatArrayTest>>#test0CopyTest
-FloatArrayTest>>#testAsArray
-FloatArrayTest>>#testAsIdentitySet
-FloatArrayTest>>#collectionNotIncluded
-FloatArrayTest>>#test0FixtureTConvertTest
-FloatArrayTest>>#testIncludesAllNoneThere
-FloatArrayTest>>#collectionClass
-FloatArrayTest>>#assertNoDuplicates:whenConvertedTo:
-FloatArrayTest>>#collectionWithoutEqualElements
-FloatArrayTest>>#collection
-FloatArrayTest>>#testAsOrderedCollection
-FloatArrayTest>>#testCopyNotSame
-FloatArrayTest>>#testCopyEquals
-FloatArrayTest>>#testCopySameClass
-FloatArrayTest>>#testCopyEmptyWithoutAll
-FloatArrayTest>>#test0FixtureConverAsSortedTest
-FloatArrayTest>>#testAsSortedCollection
-FloatArrayTest>>#testCopyEmptyWith
-FloatArrayTest>>#elementNotIn
-FloatArrayTest>>#elementToAdd
-FloatArrayTest>>#assertSameContents:whenConvertedTo:
-EncoderForV3>>#genStorePopInstVarLong:
-EncoderForV3>>#genReturnTop
-EncoderForV3>>#genStoreInstVar:
-EncoderForV3>>#genBranchPopTrue:
-EncoderForV3>>#genStorePopLiteralVar:
-EncoderForV3>>#genSend:numArgs:
-EncoderForV3>>#genBranchPopFalse:
-EncoderForV3>>#genReturnReceiver
-EncoderForV3>>#genPushInstVar:
-EncoderForV3>>#genStoreLiteralVar:
-EncoderForV3>>#genPushLiteralVar:
-EncoderForV3>>#genJumpLong:
-EncoderForV3>>#genJump:
-EncoderForV3>>#genStoreInstVarLong:
-EncoderForV3>>#genReturnSpecialLiteral:
-EncoderForV3>>#genPop
-EncoderForV3>>#genReturnTopToCaller
-EncoderForV3>>#genPushThisContext
-EncoderForV3>>#genPushInstVarLong:
-EncoderForV3>>#genPushTemp:
-EncoderForV3>>#genSendSuper:numArgs:
-EncoderForV3>>#genStorePopTemp:
-EncoderForV3>>#genStorePopInstVar:
-EncoderForV3>>#genDup
-EncoderForV3>>#genStoreTemp:
-EncoderForV3>>#genPushLiteral:
-EncoderForV3>>#genPushReceiver
-EncoderForV3>>#genPushSpecialLiteral:
-TxLayoutViewMorph>>#text
-TxLayoutViewMorph>>#layoutView
-HDTestReport>>#run
-HDTestReport>>#initializeOn:
-ClassReorganized>>#classAffected
-AthensBalloonSolidColorPaint>>#strokeRect:on:strokeWidth:
-AthensBalloonSolidColorPaint>>#strokeRect:on:stroke:
-FileReference>>#path
-OrientedFillStyle>>#addFillStyleMenuItems:hand:from:
-MCVersionReader>>#snapshot
-MCVersionReader>>#definitions
-MouseEvent>>#isMouseMove
-ClassRemoved>>#classAffected
-MCVersionInfo>>#lazy
-MCVersionInfo>>#summary
-EmptyLayout>>#extendWord
-EmptyLayout>>#extendVariable:
-EmptyLayout>>#extendByte
-EmptyLayout>>#extend:
-TestCase>>#resources
-TestCase>>#setUp
-TestCase>>#tearDown
-OCRequestorScope>>#findVariable:ifNone:
-OCRequestorScope>>#variableNamed:ifAbsent:
-IntervalTest>>#testAsSortedArray
-IntervalTest>>#testAsBag
-IntervalTest>>#assertNonDuplicatedContents:whenConvertedTo:
-IntervalTest>>#anotherElementNotIn
-IntervalTest>>#testCopyNonEmptyWithoutAllNotIncluded
-IntervalTest>>#testIncludesElementIsNotThere
-IntervalTest>>#test0FixtureIncludeTest
-IntervalTest>>#testIncludesElementIsThere
-IntervalTest>>#testAsSet
-IntervalTest>>#testCopyNonEmptyWith
-IntervalTest>>#testAsSortedCollectionWithSortBlock
-IntervalTest>>#testCopyNonEmptyWithoutAll
-IntervalTest>>#testIncludesAnyAllThere
-IntervalTest>>#collectionWithSortableElements
-IntervalTest>>#collectionWithElementsToRemove
-IntervalTest>>#nonEmpty1Element
-IntervalTest>>#testIncludesAnyNoneThere
-IntervalTest>>#test0CopyTest
-IntervalTest>>#testAsArray
-IntervalTest>>#testAsIdentitySet
-IntervalTest>>#collectionNotIncluded
-IntervalTest>>#test0FixtureTConvertTest
-IntervalTest>>#testIncludesAllNoneThere
-IntervalTest>>#collectionClass
-IntervalTest>>#assertNoDuplicates:whenConvertedTo:
-IntervalTest>>#collectionWithoutEqualElements
-IntervalTest>>#collection
-IntervalTest>>#testAsOrderedCollection
-IntervalTest>>#testCopyNotSame
-IntervalTest>>#testCopyEquals
-IntervalTest>>#testCopySameClass
-IntervalTest>>#testCopyEmptyWithoutAll
-IntervalTest>>#test0FixtureConverAsSortedTest
-IntervalTest>>#testAsSortedCollection
-IntervalTest>>#testCopyEmptyWith
-IntervalTest>>#elementNotIn
-IntervalTest>>#elementToAdd
-IntervalTest>>#assertSameContents:whenConvertedTo:
-SHA1>>#storeLength:in:
-SHA1>>#processBuffer:
-SHA1>>#processFinalBuffer:bitLength:
-TxHorizontalSlider>>#handleEventWhileDraggingSlider:delta:
-TxHorizontalSlider>>#computeSliderBounds
-TxHorizontalSlider>>#mapMouseRelativeToSlider:
-TxHorizontalSlider>>#originForDragStart:
-GLMWhitespaceTheme>>#checkboxUnselectedForm
-GLMWhitespaceTheme>>#glamorousNormalFillStyleWithBaseColor:for:height:
-GLMWhitespaceTheme>>#glamorousBaseColorFor:
-GLMWhitespaceTheme>>#glamorousBaseSelectionColorFor:
-GLMWhitespaceTheme>>#glamorousLightColorFor:
-GLMWhitespaceTheme>>#glamorousBasePassiveBackgroundColorFor:
-GLMWhitespaceTheme>>#newRadioMarkerForm
-GLMWhitespaceTheme>>#glamorousLightSelectionColorFor:
-GLMWhitespaceTheme>>#glamorousNormalFillStyleFor:height:
-GLMWhitespaceTheme>>#glamorousDarkBaseColorFor:
-MCFileRepositoryInspector>>#versionList
-MCFileRepositoryInspector>>#packageSelection:
-MCFileRepositoryInspector>>#versionListMenu:
-MCFileRepositoryInspector>>#packageListMenu:
-MCFileRepositoryInspector>>#packageList
-MCFileRepositoryInspector>>#versionSelection
-MCFileRepositoryInspector>>#setRepository:workingCopy:
-MCFileRepositoryInspector>>#refresh
-MCFileRepositoryInspector>>#packageSelection
-MCFileRepositoryInspector>>#versionSelection:
-ClassModification>>#superclass
-ClassModification>>#methodModification
-TxEmbeddedObjectSpan>>#removeBefore:
-TxEmbeddedObjectSpan>>#insertLineSeparator:at:
-VSUnloadConfigurationCommand>>#title
-RBRenameClassChange>>#oldName
-RBRenameClassChange>>#newName
-RBRenameClassChange>>#changeClass
-KMNamedCharKeyCombination>>#name:
-CharacterBlockScanner>>#cr
-CharacterBlockScanner>>#tab
-CharacterBlockScanner>>#crossedX
-CharacterBlockScanner>>#endOfRun
-RubLineNumberDisplayer>>#textColor
-RubLineNumberDisplayer>>#backgroundColor
-RubLineNumberDisplayer>>#fontToUse
-TxStartSpan>>#insertLineSeparator:at:
-DAPackageAnalyzerCycleDetectionWindow>>#initializeWithPackageNames:
-WideSymbol>>#privateAt:put:
-WideSymbol>>#scanCharactersFrom:to:with:rightX:font:
-WordLayout>>#instanceSpecification
-TxLineSeparator>>#removeBefore:
-TxLineSeparator>>#insertLineSeparator:at:
-DiskStore>>#forReferencePrintOn:
-DiskStore>>#handleClass
-RubTextFieldArea>>#walkAlongDisplayedLine
-BreadthFirstGuideTest>>#testAll
-OpalEncoderForV3>>#genStorePopInstVarLong:
-OpalEncoderForV3>>#genStoreInstVar:
-OpalEncoderForV3>>#genReturnTop
-OpalEncoderForV3>>#genStorePopLiteralVar:
-OpalEncoderForV3>>#genSend:numArgs:
-OpalEncoderForV3>>#genBranchPopFalse:
-OpalEncoderForV3>>#genReturnReceiver
-OpalEncoderForV3>>#genPushInstVar:
-OpalEncoderForV3>>#genStoreLiteralVar:
-OpalEncoderForV3>>#genPushLiteralVar:
-OpalEncoderForV3>>#genJumpLong:
-OpalEncoderForV3>>#genJump:
-OpalEncoderForV3>>#genReturnSpecialLiteral:
-OpalEncoderForV3>>#genStoreInstVarLong:
-OpalEncoderForV3>>#genPop
-OpalEncoderForV3>>#genReturnTopToCaller
-OpalEncoderForV3>>#genPushThisContext
-OpalEncoderForV3>>#genPushInstVarLong:
-OpalEncoderForV3>>#genPushTemp:
-OpalEncoderForV3>>#genSendSuper:numArgs:
-OpalEncoderForV3>>#genStorePopTemp:
-OpalEncoderForV3>>#genStorePopInstVar:
-OpalEncoderForV3>>#genDup
-OpalEncoderForV3>>#genPushReceiver
-OpalEncoderForV3>>#genStoreTemp:
-OpalEncoderForV3>>#genPushLiteral:
-OpalEncoderForV3>>#genBranchPopTrue:
-TxAthensLayoutTest>>#defaultLayoutViewExtent
-Integer>>#isPowerOfTwo
-Integer>>#asFraction
-Decompiler>>#storeIntoTemporaryVariable:
-Decompiler>>#pushConsArrayWithElements:
-Decompiler>>#doPop
-Decompiler>>#storeIntoLiteralVariable:
-Decompiler>>#methodReturnReceiver
-Decompiler>>#doDup
-Decompiler>>#storeIntoRemoteTemp:inVectorAt:
-Decompiler>>#pushLiteralVariable:
-Decompiler>>#methodReturnConstant:
-Decompiler>>#tempAt:
-Decompiler>>#pushReceiverVariable:
-Decompiler>>#storeIntoReceiverVariable:
-Decompiler>>#jump:
-Decompiler>>#pushClosureCopyNumCopiedValues:numArgs:blockSize:
-Decompiler>>#popIntoRemoteTemp:inVectorAt:
-Decompiler>>#popIntoLiteralVariable:
-Decompiler>>#pushTemporaryVariable:
-Decompiler>>#jump:if:
-Decompiler>>#blockReturnConstant:
-Decompiler>>#popIntoTemporaryVariable:
-Decompiler>>#pushConstant:
-Decompiler>>#methodReturnTop
-Decompiler>>#pushRemoteTemp:inVectorAt:
-Decompiler>>#pushNewArrayOfSize:
-Decompiler>>#send:super:numArgs:
-Decompiler>>#popIntoReceiverVariable:
-Decompiler>>#doNop
-Decompiler>>#pushActiveContext
-Decompiler>>#pushReceiver
-Decompiler>>#blockReturnTop
-AJStdCallCallInfo>>#emitAlignmentIfNeeded
-AJStdCallCallInfo>>#emitAlignment
-RGGlobalVariableDefinition>>#addInContainer:
-RGGlobalVariableDefinition>>#isIncludedInContainer:
-RGGlobalVariableDefinition>>#removeFromContainer:
-ByteSymbol>>#privateAt:put:
-ByteSymbol>>#scanCharactersFrom:to:with:rightX:font:
-GLMTreePresentation>>#hasTags
-GLMTreePresentation>>#hasTagsFilter
-Trait>>#removeSubclass:
-Trait>>#possibleVariablesFor:continuedFrom:
-Trait>>#classTrait:
-Trait>>#criticTheNonMetaclassClass
-Trait>>#sharedPools
-Trait>>#addSubclass:
-Trait>>#classPool
-Trait>>#subclasses
-Trait>>#asRingDefinition
-Trait>>#asFullRingDefinition
-Trait>>#fileOutInitializerOn:
-Trait>>#category
-SortedCollectionTest>>#testAsSortedArray
-SortedCollectionTest>>#testAsBag
-SortedCollectionTest>>#assertNonDuplicatedContents:whenConvertedTo:
-SortedCollectionTest>>#anotherElementNotIn
-SortedCollectionTest>>#testCopyNonEmptyWithoutAllNotIncluded
-SortedCollectionTest>>#testIncludesElementIsNotThere
-SortedCollectionTest>>#test0FixtureIncludeTest
-SortedCollectionTest>>#testIncludesElementIsThere
-SortedCollectionTest>>#testAsSet
-SortedCollectionTest>>#testCopyNonEmptyWith
-SortedCollectionTest>>#testAsSortedCollectionWithSortBlock
-SortedCollectionTest>>#testCopyNonEmptyWithoutAll
-SortedCollectionTest>>#testIncludesAnyAllThere
-SortedCollectionTest>>#collectionWithSortableElements
-SortedCollectionTest>>#collectionWithElementsToRemove
-SortedCollectionTest>>#nonEmpty1Element
-SortedCollectionTest>>#testIncludesAnyNoneThere
-SortedCollectionTest>>#test0CopyTest
-SortedCollectionTest>>#testAsArray
-SortedCollectionTest>>#testAsIdentitySet
-SortedCollectionTest>>#collectionNotIncluded
-SortedCollectionTest>>#test0FixtureTConvertTest
-SortedCollectionTest>>#testIncludesAllNoneThere
-SortedCollectionTest>>#collectionClass
-SortedCollectionTest>>#assertNoDuplicates:whenConvertedTo:
-SortedCollectionTest>>#collectionWithoutEqualElements
-SortedCollectionTest>>#collection
-SortedCollectionTest>>#testAsOrderedCollection
-SortedCollectionTest>>#testCopyNotSame
-SortedCollectionTest>>#testCopyEquals
-SortedCollectionTest>>#testCopySameClass
-SortedCollectionTest>>#testCopyEmptyWithoutAll
-SortedCollectionTest>>#test0FixtureConverAsSortedTest
-SortedCollectionTest>>#testAsSortedCollection
-SortedCollectionTest>>#testCopyEmptyWith
-SortedCollectionTest>>#elementNotIn
-SortedCollectionTest>>#elementToAdd
-SortedCollectionTest>>#assertSameContents:whenConvertedTo:
-ClassCommented>>#classAffected
-TxCharacterSpanDisplayCommand>>#advance
-TxCharacterSpanDisplayCommand>>#span:
-DAPackageCycleGenerator>>#buildEdges
-DAPackageCycleGenerator>>#buildNodes
-OSTouchScrollDetector>>#eventClassMoveGesture
-OSTouchScrollDetector>>#eventClassEndGesture
-OSTouchScrollDetector>>#eventClassBeginGesture
-GLMTablePresentation>>#hasTags
-GLMTablePresentation>>#hasTagsFilter
-MorphicTransform>>#offset
-AthensCCWArcSegment>>#sendCommandTo:
-TreeListMorph>>#keystrokeActionSelector:
-TreeListMorph>>#keystrokeActionSelector
-RubTextSegmentIconDisplayer>>#textColor
-RubTextSegmentIconDisplayer>>#backgroundColor
-RubTextSegmentIconDisplayer>>#fontToUse
-RubSelectorChooserMorph>>#setPosition
-RubSelectorChooserMorph>>#drawCommonPrefixAreasOn:
-RubSelectorChooserMorph>>#positionInRequestor
-RubSelectorChooserMorph>>#prefix:
-RubSelectorChooserMorph>>#nextPrefixWith:
-RubSelectorChooserMorph>>#drawCommonPrefixAreasOn:menu:
-VSLoadProjectCommand>>#title
-MD5>>#storeLength:in:
-MD5>>#processBuffer:
-MD5>>#processFinalBuffer:bitLength:
-ClassTrait>>#removeSubclass:
-ClassTrait>>#possibleVariablesFor:continuedFrom:
-ClassTrait>>#classTrait:
-ClassTrait>>#criticTheNonMetaclassClass
-ClassTrait>>#sharedPools
-ClassTrait>>#addSubclass:
-ClassTrait>>#classPool
-ClassTrait>>#subclasses
-ClassTrait>>#asRingDefinition
-ClassTrait>>#asFullRingDefinition
-ClassTrait>>#fileOutInitializerOn:
-ClassTrait>>#category
-OCAbstractMethodScope>>#findVariable:ifNone:
-OCAbstractMethodScope>>#variableNamed:ifAbsent:
-OSSDL2WindowHandle>>#newFormRenderer:
-GLMPrintPopper>>#initializeTextMorph
-SDL2TouchExample>>#clearSurface
-MCRemoval>>#toSource
-MCRemoval>>#selector
-MCRemoval>>#targetDefinition
-MCRemoval>>#basicApplyTo:
-MCRemoval>>#baseDefinition
-MCRemoval>>#koSourceText
-MCRemoval>>#fromSource
-MCRemoval>>#koDestinationText
-KMUntypeableSingleKeyCombination>>#name:
-OpalEncoderForLongFormV3>>#genStorePopInstVarLong:
-OpalEncoderForLongFormV3>>#genStoreInstVar:
-OpalEncoderForLongFormV3>>#genReturnTop
-OpalEncoderForLongFormV3>>#genStorePopLiteralVar:
-OpalEncoderForLongFormV3>>#genSend:numArgs:
-OpalEncoderForLongFormV3>>#genBranchPopFalse:
-OpalEncoderForLongFormV3>>#genReturnReceiver
-OpalEncoderForLongFormV3>>#genPushInstVar:
-OpalEncoderForLongFormV3>>#genStoreLiteralVar:
-OpalEncoderForLongFormV3>>#genPushLiteralVar:
-OpalEncoderForLongFormV3>>#genJumpLong:
-OpalEncoderForLongFormV3>>#genJump:
-OpalEncoderForLongFormV3>>#genReturnSpecialLiteral:
-OpalEncoderForLongFormV3>>#genStoreInstVarLong:
-OpalEncoderForLongFormV3>>#genPop
-OpalEncoderForLongFormV3>>#genReturnTopToCaller
-OpalEncoderForLongFormV3>>#genPushThisContext
-OpalEncoderForLongFormV3>>#genPushInstVarLong:
-OpalEncoderForLongFormV3>>#genPushTemp:
-OpalEncoderForLongFormV3>>#genSendSuper:numArgs:
-OpalEncoderForLongFormV3>>#genStorePopTemp:
-OpalEncoderForLongFormV3>>#genStorePopInstVar:
-OpalEncoderForLongFormV3>>#genDup
-OpalEncoderForLongFormV3>>#genPushReceiver
-OpalEncoderForLongFormV3>>#genStoreTemp:
-OpalEncoderForLongFormV3>>#genPushLiteral:
-OpalEncoderForLongFormV3>>#genBranchPopTrue:
-GTSpotterProcessorLink>>#processor
-MCDictionaryRepository>>#versionInfoFromVersionNamed:
-LayoutEmptyScope>>#allVisibleSlots
-SpecLayoutSend>>#selector:
-SpecLayoutSend>>#arguments:
-SpecLayoutSend>>#arguments
-SpecLayoutSend>>#selector
-ClassCommentChunk>>#description
-BaselineOfRenraku>>#baseline:
-FreeTypeFileInfo>>#baseName
-FreeTypeFileInfo>>#locationType
-FreeTypeFileInfo>>#fileSize
-PSMCClassChangeWrapper>>#clearChoice
-PSMCClassChangeWrapper>>#chooseRemote
-PSMCClassChangeWrapper>>#localChosen
-PSMCClassChangeWrapper>>#chooseLocal
-PSMCClassChangeWrapper>>#remoteChosen
-AthensCairoPathBuilder>>#toAbsolute:
-TxEmbeddedObjectCommand>>#advance
-TxEmbeddedObjectCommand>>#span:
-EncoderForSistaV1>>#genStorePopInstVarLong:
-EncoderForSistaV1>>#genReturnTop
-EncoderForSistaV1>>#genStoreInstVar:
-EncoderForSistaV1>>#genBranchPopTrue:
-EncoderForSistaV1>>#genStorePopLiteralVar:
-EncoderForSistaV1>>#genSend:numArgs:
-EncoderForSistaV1>>#genBranchPopFalse:
-EncoderForSistaV1>>#genReturnReceiver
-EncoderForSistaV1>>#genPushInstVar:
-EncoderForSistaV1>>#genStoreLiteralVar:
-EncoderForSistaV1>>#genPushLiteralVar:
-EncoderForSistaV1>>#genJumpLong:
-EncoderForSistaV1>>#genJump:
-EncoderForSistaV1>>#genStoreInstVarLong:
-EncoderForSistaV1>>#genReturnSpecialLiteral:
-EncoderForSistaV1>>#genPop
-EncoderForSistaV1>>#genReturnTopToCaller
-EncoderForSistaV1>>#genPushThisContext
-EncoderForSistaV1>>#genPushInstVarLong:
-EncoderForSistaV1>>#genPushTemp:
-EncoderForSistaV1>>#genSendSuper:numArgs:
-EncoderForSistaV1>>#genStorePopTemp:
-EncoderForSistaV1>>#genStorePopInstVar:
-EncoderForSistaV1>>#genDup
-EncoderForSistaV1>>#genStoreTemp:
-EncoderForSistaV1>>#genPushLiteral:
-EncoderForSistaV1>>#genPushReceiver
-EncoderForSistaV1>>#genPushSpecialLiteral:
-RGClassDescriptionDefinition>>#allInstVarNames
-ByteLayout>>#instanceSpecification
-SDL_TouchFingerDownEvent>>#accept:
-Float>>#isPowerOfTwo
-Float>>#asFraction
-ChunkReadStream>>#terminatorMark
-MCSnapshotBrowser>>#text
-MCSnapshotBrowser>>#text:
-VSMakeDevelopmentCommand>>#title
-SelectVisitorTest>>#testBreadthFirst
-SelectVisitorTest>>#testPostorder
-SelectVisitorTest>>#testPreorder
-Dictionary>>#isHealthy
-MetacelloVersionNumberTestCase>>#testVersion12
-MetacelloVersionNumberTestCase>>#testVersion17
-MetacelloVersionNumberTestCase>>#testSpecialMatch
-MetacelloVersionNumberTestCase>>#testInvalidSpecialMatch
-MetacelloVersionNumberTestCase>>#testVersion10
-MetacelloVersionNumberTestCase>>#testStandardMatch
-MetacelloVersionNumberTestCase>>#testVersion16
-MetacelloVersionNumberTestCase>>#testVersion15
-MetacelloVersionNumberTestCase>>#testVersion05
-MetacelloVersionNumberTestCase>>#testVersion18
-MetacelloVersionNumberTestCase>>#testVersion19
-MetacelloVersionNumberTestCase>>#testVersion09
-VSBrowseConfigurationCommand>>#title
-MCDirectoryRepository>>#readStreamForFileNamed:do:
-MCDirectoryRepository>>#writeStreamForFileNamed:replace:do:
-RBClass>>#realName:
-SDL_MouseButtonUpEvent>>#accept:
-MCHttpRepository>>#readStreamForFileNamed:do:
-MCHttpRepository>>#writeStreamForFileNamed:replace:do:
-MorphTreePager>>#nextPage
-MorphTreePager>>#currentNodelist
-MorphTreePager>>#nextPage:
-MorphTreePager>>#onLastPage
-MorphTreePager>>#notOnLastPage
-Metaclass>>#removeSubclass:
-Metaclass>>#possibleVariablesFor:continuedFrom:
-Metaclass>>#criticTheNonMetaclassClass
-Metaclass>>#sharedPools
-Metaclass>>#addSubclass:
-Metaclass>>#basicLocalSelectors:
-Metaclass>>#classPool
-Metaclass>>#subclasses
-Metaclass>>#asRingDefinition
-Metaclass>>#fileOutInitializerOn:
-Metaclass>>#asFullRingDefinition
-Metaclass>>#category
-Metaclass>>#fileOutOn:initializing:
-WeakValueAssociation>>#key:value:
-WeakValueAssociation>>#value:
-MacOSPlatform>>#keyForValue:
-RubDisplayScanner>>#cr
-RubDisplayScanner>>#endOfRun
-RubDisplayScanner>>#crossedX
-RubDisplayScanner>>#tab
-RubDisplayScanner>>#setStopConditions
-VSValidateConfigurationCommand>>#title
-PostorderGuideTest>>#testAll
-Set>>#isHealthy
-RBRenameVariableChange>>#oldName
-RBRenameVariableChange>>#newName
-RBRenameVariableChange>>#changeClass
-Compiler>>#parse:
-Compiler>>#format:
-MCFileBasedRepository>>#versionInfoFromVersionNamed:
-RubCommentAnnotationDisplayer>>#textColor
-RubCommentAnnotationDisplayer>>#backgroundColor
-RubCommentAnnotationDisplayer>>#fontToUse
-MemoryStore>>#forReferencePrintOn:
-MemoryStore>>#handleClass
-SHA256>>#storeLength:in:
-SHA256>>#processBuffer:
-SHA256>>#processFinalBuffer:bitLength:
-TxAthensNoWrapStrategy>>#visitCharacterSpan:
-SpecRowLayout>>#addSplitter
-SpecRowLayout>>#countNumberOfProportionals
-SpecRowLayout>>#autoFractionComputation
-SpecRowLayout>>#setWidgetLayoutWithNoOffset:at:delta:
-SpecRowLayout>>#manualFractionComputation
-SpecRowLayout>>#setWidgetLayoutWithOffset:at:
-SpecRowLayout>>#shiftLastWidgets
-SolidFillStyle>>#addFillStyleMenuItems:hand:from:
-SetTest>>#testAsSortedArray
-SetTest>>#testAsBag
-SetTest>>#assertNonDuplicatedContents:whenConvertedTo:
-SetTest>>#anotherElementNotIn
-SetTest>>#testCopyNonEmptyWithoutAllNotIncluded
-SetTest>>#testIncludesElementIsNotThere
-SetTest>>#test0FixtureIncludeTest
-SetTest>>#testIncludesElementIsThere
-SetTest>>#testAsSet
-SetTest>>#testCopyNonEmptyWith
-SetTest>>#testAsSortedCollectionWithSortBlock
-SetTest>>#testCopyNonEmptyWithoutAll
-SetTest>>#testIncludesAnyAllThere
-SetTest>>#collectionWithSortableElements
-SetTest>>#collectionWithElementsToRemove
-SetTest>>#nonEmpty1Element
-SetTest>>#testIncludesAnyNoneThere
-SetTest>>#test0CopyTest
-SetTest>>#testAsArray
-SetTest>>#testAsIdentitySet
-SetTest>>#collectionNotIncluded
-SetTest>>#test0FixtureTConvertTest
-SetTest>>#testIncludesAllNoneThere
-SetTest>>#collectionClass
-SetTest>>#assertNoDuplicates:whenConvertedTo:
-SetTest>>#collectionWithoutEqualElements
-SetTest>>#collection
-SetTest>>#testAsOrderedCollection
-SetTest>>#testCopyNotSame
-SetTest>>#testCopyEquals
-SetTest>>#testCopySameClass
-SetTest>>#testCopyEmptyWithoutAll
-SetTest>>#test0FixtureConverAsSortedTest
-SetTest>>#testAsSortedCollection
-SetTest>>#testCopyEmptyWith
-SetTest>>#elementNotIn
-SetTest>>#elementToAdd
-SetTest>>#assertSameContents:whenConvertedTo:
-CompositeTransform>>#offset
-OpalCompiler>>#parse:
-OpalCompiler>>#format:
-FileLocator>>#path
-NautilusAnnotationDisplayer>>#textColor
-NautilusAnnotationDisplayer>>#backgroundColor
-NautilusAnnotationDisplayer>>#fontToUse
-NativeBoostWin32>>#stackAlignment
-NativeBoostLinux32>>#stackAlignment
-SelectorNode>>#emitCodeForValue:encoder:
-SelectorNode>>#name:key:index:type:
-Class>>#removeSubclass:
-Class>>#possibleVariablesFor:continuedFrom:
-Class>>#criticTheNonMetaclassClass
-Class>>#sharedPools
-Class>>#addSubclass:
-Class>>#basicLocalSelectors:
-Class>>#classPool
-Class>>#subclasses
-Class>>#asRingDefinition
-Class>>#fileOutInitializerOn:
-Class>>#asFullRingDefinition
-Class>>#category
-Class>>#fileOutOn:initializing:
-RubCompositionScanner>>#cr
-RubCompositionScanner>>#endOfRun
-RubCompositionScanner>>#crossedX
-RubCompositionScanner>>#tab
-RubCompositionScanner>>#setStopConditions
-MorphTreeChunkPager>>#nextPage
-MorphTreeChunkPager>>#currentNodelist
-MorphTreeChunkPager>>#nextPage:
-MorphTreeChunkPager>>#onLastPage
-MorphTreeChunkPager>>#notOnLastPage
-Bezier3Segment>>#bezierClipHeight:
-Bezier3Segment>>#outlineSegment:
-ObjectLayout>>#extendWord
-ObjectLayout>>#extendVariable:
-ObjectLayout>>#extendByte
-ObjectLayout>>#extend:
-AJCdeclCallInfo>>#emitAlignmentIfNeeded
-AJCdeclCallInfo>>#emitAlignment
-TxAthensCharacterWrappingStrategy>>#visitCharacterSpan:
-TxEndSpan>>#insertLineSeparator:at:
-SDL_JoyButtonDownEvent>>#accept:
-HDLintReport>>#run
-HDLintReport>>#initializeOn:
-Context>>#storeIntoTemporaryVariable:
-Context>>#pushConsArrayWithElements:
-Context>>#doPop
-Context>>#storeIntoLiteralVariable:
-Context>>#methodReturnReceiver
-Context>>#doDup
-Context>>#storeIntoRemoteTemp:inVectorAt:
-Context>>#pushLiteralVariable:
-Context>>#methodReturnConstant:
-Context>>#tempAt:
-Context>>#pushReceiverVariable:
-Context>>#storeIntoReceiverVariable:
-Context>>#jump:
-Context>>#pushClosureCopyNumCopiedValues:numArgs:blockSize:
-Context>>#popIntoRemoteTemp:inVectorAt:
-Context>>#popIntoLiteralVariable:
-Context>>#pushTemporaryVariable:
-Context>>#jump:if:
-Context>>#blockReturnConstant:
-Context>>#popIntoTemporaryVariable:
-Context>>#pushConstant:
-Context>>#methodReturnTop
-Context>>#pushRemoteTemp:inVectorAt:
-Context>>#pushNewArrayOfSize:
-Context>>#send:super:numArgs:
-Context>>#popIntoReceiverVariable:
-Context>>#doNop
-Context>>#pushActiveContext
-Context>>#pushReceiver
-Context>>#blockReturnTop
-SDL_KeyDownEvent>>#accept:
-ClassModifiedClassDefinition>>#classAffected
-MatrixTransform2x3>>#offset
-RGMetaclassDefinition>>#allClassVarNames
-RGMetaclassDefinition>>#category
-RGMetaclassDefinition>>#allSharedPoolNames
-RGMetaclassDefinition>>#inheritsFrom:
-MCMergeBrowser>>#cancel
-RubAnnotationDisplayer>>#textColor
-RubAnnotationDisplayer>>#backgroundColor
-RubAnnotationDisplayer>>#fontToUse
-BottomLeftGripMorph>>#gripLayoutFrame
-BottomLeftGripMorph>>#apply:
-BottomLeftGripMorph>>#ptName
-KomitDefinition>>#koSourceText
-KomitDefinition>>#koDestinationText
-AbstractPackageWidget>>#takeKeyboardFocus
-VSUpdateDevelopmentVersionCommand>>#title
-NautilusCommentAnnotationDisplayer>>#textColor
-NautilusCommentAnnotationDisplayer>>#backgroundColor
-NautilusCommentAnnotationDisplayer>>#fontToUse
-Komit>>#commitOn:
-VSCommitPackageAction>>#packageName
-DAPackageAnalyzerPackageDependenciesWindow>>#initializeWithPackageNames:
-GoferPackageReference>>#metacelloPackageNameWithBranch
-KomitClass>>#koSourceText
-KomitClass>>#koDestinationText
-TxTextLayoutTest>>#defaultLayoutViewExtent
-BottomRightGripMorph>>#gripLayoutFrame
-BottomRightGripMorph>>#apply:
-BottomRightGripMorph>>#ptName
-PackageTreePackageSelection>>#package
-PackageTreePackageSelection>>#classes
-PSMCPatchOperationWrapper>>#clearChoice
-PSMCPatchOperationWrapper>>#chooseRemote
-PSMCPatchOperationWrapper>>#localChosen
-PSMCPatchOperationWrapper>>#chooseLocal
-PSMCPatchOperationWrapper>>#remoteChosen
-SimpleEditor>>#backTo:
-SimpleEditor>>#processKeyStroke:
-SimpleEditor>>#selection
-SimpleEditor>>#startIndex
-SimpleEditor>>#pointIndex
-SimpleEditor>>#cursorEnd:
-SimpleEditor>>#pointIndex:
-SimpleEditor>>#selectFrom:to:
-SimpleEditor>>#doneTyping
-SimpleEditor>>#makeCapitalized:
-SimpleEditor>>#cut
-SimpleEditor>>#startOfTyping
-SimpleEditor>>#stateArray
-SimpleEditor>>#replace:with:and:
-SimpleEditor>>#cursorHome:
-SimpleEditor>>#closeTypeIn
-SimpleEditor>>#replaceSelectionWith:
-SimpleEditor>>#hasCaret
-SimpleEditor>>#makeLowercase:
-SimpleEditor>>#zapSelectionWith:
-SimpleEditor>>#selectLine
-SimpleEditor>>#markIndex:
-SimpleEditor>>#dispatchOn:
-SimpleEditor>>#forwardDelete:
-SimpleEditor>>#stateArrayPut:
-SimpleEditor>>#makeUppercase:
-SimpleEditor>>#string
-SimpleEditor>>#stopIndex
-SimpleEditor>>#openTypeIn
-SimpleEditor>>#markIndex
-SimpleEditor>>#resetState
-SimpleEditor>>#copySelection
-SimpleEditor>>#addString:
-MetacelloSemanticVersionNumberTestCase>>#testVersion12
-MetacelloSemanticVersionNumberTestCase>>#testVersion17
-MetacelloSemanticVersionNumberTestCase>>#testSpecialMatch
-MetacelloSemanticVersionNumberTestCase>>#testInvalidSpecialMatch
-MetacelloSemanticVersionNumberTestCase>>#testVersion10
-MetacelloSemanticVersionNumberTestCase>>#testStandardMatch
-MetacelloSemanticVersionNumberTestCase>>#testVersion16
-MetacelloSemanticVersionNumberTestCase>>#testVersion15
-MetacelloSemanticVersionNumberTestCase>>#testVersion05
-MetacelloSemanticVersionNumberTestCase>>#testVersion18
-MetacelloSemanticVersionNumberTestCase>>#testVersion19
-MetacelloSemanticVersionNumberTestCase>>#testVersion09
-VariableNode>>#emitCodeForValue:encoder:
-VariableNode>>#name:key:index:type:
-TopLeftGripMorph>>#gripLayoutFrame
-TopLeftGripMorph>>#apply:
-TopLeftGripMorph>>#ptName
-UnixPlatform>>#keyForValue:
-SMTPClient>>#quit
-SMTPClient>>#login
-FTPClient>>#quit
-FTPClient>>#login
-OSVMWindowHandle>>#newFormRenderer:
-Slice>>#commitOn:
-SelectorChooserMorph>>#setPosition
-SelectorChooserMorph>>#drawCommonPrefixAreasOn:
-SelectorChooserMorph>>#positionInRequestor
-SelectorChooserMorph>>#prefix:
-SelectorChooserMorph>>#nextPrefixWith:
-SelectorChooserMorph>>#drawCommonPrefixAreasOn:menu:
-BagTest>>#testAsSortedArray
-BagTest>>#testAsBag
-BagTest>>#assertNonDuplicatedContents:whenConvertedTo:
-BagTest>>#anotherElementNotIn
-BagTest>>#testCopyNonEmptyWithoutAllNotIncluded
-BagTest>>#testIncludesElementIsNotThere
-BagTest>>#test0FixtureIncludeTest
-BagTest>>#testIncludesElementIsThere
-BagTest>>#testAsSet
-BagTest>>#testCopyNonEmptyWith
-BagTest>>#testAsSortedCollectionWithSortBlock
-BagTest>>#testCopyNonEmptyWithoutAll
-BagTest>>#testIncludesAnyAllThere
-BagTest>>#collectionWithSortableElements
-BagTest>>#collectionWithElementsToRemove
-BagTest>>#nonEmpty1Element
-BagTest>>#testIncludesAnyNoneThere
-BagTest>>#test0CopyTest
-BagTest>>#testAsArray
-BagTest>>#testAsIdentitySet
-BagTest>>#collectionNotIncluded
-BagTest>>#test0FixtureTConvertTest
-BagTest>>#testIncludesAllNoneThere
-BagTest>>#collectionClass
-BagTest>>#assertNoDuplicates:whenConvertedTo:
-BagTest>>#collectionWithoutEqualElements
-BagTest>>#collection
-BagTest>>#testAsOrderedCollection
-BagTest>>#testCopyNotSame
-BagTest>>#testCopyEquals
-BagTest>>#testCopySameClass
-BagTest>>#testCopyEmptyWithoutAll
-BagTest>>#test0FixtureConverAsSortedTest
-BagTest>>#testAsSortedCollection
-BagTest>>#testCopyEmptyWith
-BagTest>>#elementNotIn
-BagTest>>#elementToAdd
-BagTest>>#assertSameContents:whenConvertedTo:
-GLMSimpleRubricExample>>#presentation
-LargeInteger>>#as31BitSmallInt
-LargeInteger>>#digitLength
-LargeInteger>>#isLarge
-LargeInteger>>#digitAt:put:
-LargeInteger>>#hashMultiply
-LargeInteger>>#digitAt:
-AbstractClassWidget>>#takeKeyboardFocus
-SymbolTest>>#testAsSortedArray
-SymbolTest>>#testAsBag
-SymbolTest>>#assertNonDuplicatedContents:whenConvertedTo:
-SymbolTest>>#anotherElementNotIn
-SymbolTest>>#testCopyNonEmptyWithoutAllNotIncluded
-SymbolTest>>#testIncludesElementIsNotThere
-SymbolTest>>#test0FixtureIncludeTest
-SymbolTest>>#testIncludesElementIsThere
-SymbolTest>>#testAsSet
-SymbolTest>>#testCopyNonEmptyWith
-SymbolTest>>#testAsSortedCollectionWithSortBlock
-SymbolTest>>#testCopyNonEmptyWithoutAll
-SymbolTest>>#testIncludesAnyAllThere
-SymbolTest>>#collectionWithSortableElements
-SymbolTest>>#collectionWithElementsToRemove
-SymbolTest>>#nonEmpty1Element
-SymbolTest>>#testIncludesAnyNoneThere
-SymbolTest>>#test0CopyTest
-SymbolTest>>#testAsArray
-SymbolTest>>#testAsIdentitySet
-SymbolTest>>#collectionNotIncluded
-SymbolTest>>#test0FixtureTConvertTest
-SymbolTest>>#testIncludesAllNoneThere
-SymbolTest>>#collectionClass
-SymbolTest>>#assertNoDuplicates:whenConvertedTo:
-SymbolTest>>#collectionWithoutEqualElements
-SymbolTest>>#collection
-SymbolTest>>#testAsOrderedCollection
-SymbolTest>>#testCopyNotSame
-SymbolTest>>#testCopyEquals
-SymbolTest>>#testCopySameClass
-SymbolTest>>#testCopyEmptyWithoutAll
-SymbolTest>>#test0FixtureConverAsSortedTest
-SymbolTest>>#testAsSortedCollection
-SymbolTest>>#testCopyEmptyWith
-SymbolTest>>#elementNotIn
-SymbolTest>>#elementToAdd
-SymbolTest>>#assertSameContents:whenConvertedTo:
-GradientFillStyle>>#asAthensPaintOn:
-KomitMethod>>#koSourceText
-KomitMethod>>#koDestinationText
-DiskFileSystemTest>>#testEqual
-MetacelloFetchingMCSpecLoader>>#actionLabel
-TxNewLineDisplayCommand>>#advance
-TxNewLineDisplayCommand>>#span:
-DAPackageRelationGraphGenerator>>#buildEdges
-DAPackageRelationGraphGenerator>>#buildNodes
-OCClassScope>>#findVariable:ifNone:
-OCClassScope>>#variableNamed:ifAbsent:
-OSNullWindowHandle>>#newFormRenderer:
-RBMetaclass>>#realName:
-OSTouchSwipeDetector>>#eventClassMoveGesture
-OSTouchSwipeDetector>>#eventClassEndGesture
-OSTouchSwipeDetector>>#eventClassBeginGesture
-GLMLipsumWithSegmentsExample>>#presentation
-PreorderGuideTest>>#testAll
-SelectPackageBrowser>>#removeAllItems
-SelectPackageBrowser>>#addAllItems
-SelectPackageBrowser>>#removeItems
-SelectPackageBrowser>>#addItems
-Fraction>>#isPowerOfTwo
-Fraction>>#asFraction
-ClassAdded>>#classAffected
-StringTest>>#testAsSortedArray
-StringTest>>#testAsBag
-StringTest>>#assertNonDuplicatedContents:whenConvertedTo:
-StringTest>>#anotherElementNotIn
-StringTest>>#testCopyNonEmptyWithoutAllNotIncluded
-StringTest>>#testIncludesElementIsNotThere
-StringTest>>#test0FixtureIncludeTest
-StringTest>>#testIncludesElementIsThere
-StringTest>>#testAsSet
-StringTest>>#testCopyNonEmptyWith
-StringTest>>#testAsSortedCollectionWithSortBlock
-StringTest>>#testCopyNonEmptyWithoutAll
-StringTest>>#testIncludesAnyAllThere
-StringTest>>#collectionWithSortableElements
-StringTest>>#collectionWithElementsToRemove
-StringTest>>#nonEmpty1Element
-StringTest>>#testIncludesAnyNoneThere
-StringTest>>#test0CopyTest
-StringTest>>#testAsArray
-StringTest>>#testAsIdentitySet
-StringTest>>#collectionNotIncluded
-StringTest>>#test0FixtureTConvertTest
-StringTest>>#testIncludesAllNoneThere
-StringTest>>#collectionClass
-StringTest>>#assertNoDuplicates:whenConvertedTo:
-StringTest>>#collectionWithoutEqualElements
-StringTest>>#collection
-StringTest>>#testAsOrderedCollection
-StringTest>>#testCopyNotSame
-StringTest>>#testCopyEquals
-StringTest>>#testCopySameClass
-StringTest>>#testCopyEmptyWithoutAll
-StringTest>>#test0FixtureConverAsSortedTest
-StringTest>>#testAsSortedCollection
-StringTest>>#testCopyEmptyWith
-StringTest>>#elementNotIn
-StringTest>>#elementToAdd
-StringTest>>#assertSameContents:whenConvertedTo:
-ReCriticTest>>#testBan
-ReCriticTest>>#testBan1
-JPEGReadStream>>#growHuffmanTable:
-JPEGReadStream>>#createHuffmanTables:counts:from:to:
-JPEGReadStream>>#decodeValueFrom:
-JPEGReadStream>>#nextByte
-MemoryHandle>>#binaryReadStream
-TxLayoutStrategyTest>>#defaultLayoutViewExtent
-FreeTypeEmbeddedFileInfo>>#baseName
-FreeTypeEmbeddedFileInfo>>#locationType
-FreeTypeEmbeddedFileInfo>>#fileSize
-PluggableTreeMorph>>#keystrokeActionSelector:
-PluggableTreeMorph>>#keystrokeActionSelector
-SmallInteger>>#as31BitSmallInt
-SmallInteger>>#digitLength
-SmallInteger>>#isLarge
-SmallInteger>>#digitAt:put:
-SmallInteger>>#hashMultiply
-SmallInteger>>#digitAt:
-CollectVisitorTest>>#testBreadthFirst
-CollectVisitorTest>>#testPostorder
-CollectVisitorTest>>#testPreorder
-AbstractMethodWidget>>#takeKeyboardFocus
-ReadStream>>#on:from:to:
-LIFOQueue>>#nextIfNone:
-LIFOQueue>>#peek
-LIFOQueue>>#nextOrNil
-LIFOQueue>>#nextPut:
-TxCharacterSpan>>#removeBefore:
-TxCharacterSpan>>#insertLineSeparator:at:
-DACompositeDependency>>#nodeClass
-TxTextEditorMorph>>#text
-TxTextEditorMorph>>#layoutView
-TestResource>>#resources
-TestResource>>#setUp
-TestResource>>#tearDown
-GLMListPresentation>>#hasTags
-GLMListPresentation>>#hasTagsFilter
-Bezier2Segment>>#bezierClipHeight:
-Bezier2Segment>>#outlineSegment:
-GLMSegmentWithHelpAndMouseUpActionExample>>#presentation
-ClassOrganizationChunk>>#description
-OrderedCollectionTest>>#testAsSortedArray
-OrderedCollectionTest>>#testAsBag
-OrderedCollectionTest>>#assertNonDuplicatedContents:whenConvertedTo:
-OrderedCollectionTest>>#anotherElementNotIn
-OrderedCollectionTest>>#testCopyNonEmptyWithoutAllNotIncluded
-OrderedCollectionTest>>#testIncludesElementIsNotThere
-OrderedCollectionTest>>#test0FixtureIncludeTest
-OrderedCollectionTest>>#testIncludesElementIsThere
-OrderedCollectionTest>>#testAsSet
-OrderedCollectionTest>>#testCopyNonEmptyWith
-OrderedCollectionTest>>#testAsSortedCollectionWithSortBlock
-OrderedCollectionTest>>#testCopyNonEmptyWithoutAll
-OrderedCollectionTest>>#testIncludesAnyAllThere
-OrderedCollectionTest>>#collectionWithSortableElements
-OrderedCollectionTest>>#collectionWithElementsToRemove
-OrderedCollectionTest>>#nonEmpty1Element
-OrderedCollectionTest>>#testIncludesAnyNoneThere
-OrderedCollectionTest>>#test0CopyTest
-OrderedCollectionTest>>#testAsArray
-OrderedCollectionTest>>#testAsIdentitySet
-OrderedCollectionTest>>#collectionNotIncluded
-OrderedCollectionTest>>#test0FixtureTConvertTest
-OrderedCollectionTest>>#testIncludesAllNoneThere
-OrderedCollectionTest>>#collectionClass
-OrderedCollectionTest>>#assertNoDuplicates:whenConvertedTo:
-OrderedCollectionTest>>#collectionWithoutEqualElements
-OrderedCollectionTest>>#collection
-OrderedCollectionTest>>#testAsOrderedCollection
-OrderedCollectionTest>>#testCopyNotSame
-OrderedCollectionTest>>#testCopyEquals
-OrderedCollectionTest>>#testCopySameClass
-OrderedCollectionTest>>#testCopyEmptyWithoutAll
-OrderedCollectionTest>>#test0FixtureConverAsSortedTest
-OrderedCollectionTest>>#testAsSortedCollection
-OrderedCollectionTest>>#testCopyEmptyWith
-OrderedCollectionTest>>#elementNotIn
-OrderedCollectionTest>>#elementToAdd
-OrderedCollectionTest>>#assertSameContents:whenConvertedTo:
-VSReleaseDevelopmentVersionCommand>>#title
-MBAbstractVersionInfo>>#currentVersion
-MBAbstractVersionInfo>>#configurationClass
-MBAbstractVersionInfo>>#version
-ClassRenamed>>#classAffected
-CompositionScanner>>#cr
-CompositionScanner>>#tab
-CompositionScanner>>#crossedX
-CompositionScanner>>#endOfRun
-TxAthensTextTransformsTest>>#defaultLayoutViewExtent
-WriteStream>>#on:from:to:
-SpecPreDebugWindow>>#buildButtonWidgetsSpecForActions:
-SpecPreDebugWindow>>#initializeButtonWidget:forAction:
-SpecPreDebugWindow>>#dynamicLayoutForActions:
-SpecPreDebugWindow>>#session
-SpecPreDebugWindow>>#createWidgetsForActions:
-SpecPreDebugWindow>>#debugger
-SpecPreDebugWindow>>#setFocusOrderForActions:
-SpecPreDebugWindow>>#emptyLayout
-SpecPreDebugWindow>>#actionsForPragmas:
-HDChangeReport>>#run
-HDChangeReport>>#initializeOn:
-RGMetatraitDefinition>>#category
-VSMakeStableCommand>>#title
-VSUpdateFromItsRepositoryCommand>>#title
-StrikeFont>>#descentKern
-StrikeFont>>#characterFormAt:
-CategoryWidget>>#takeKeyboardFocus
-SDL_KeyUpEvent>>#accept:
-RGTraitDescriptionDefinition>>#allInstVarNames
-HeapTest>>#testAsSortedArray
-HeapTest>>#testAsBag
-HeapTest>>#assertNonDuplicatedContents:whenConvertedTo:
-HeapTest>>#anotherElementNotIn
-HeapTest>>#testCopyNonEmptyWithoutAllNotIncluded
-HeapTest>>#testIncludesElementIsNotThere
-HeapTest>>#test0FixtureIncludeTest
-HeapTest>>#testIncludesElementIsThere
-HeapTest>>#testAsSet
-HeapTest>>#testCopyNonEmptyWith
-HeapTest>>#testAsSortedCollectionWithSortBlock
-HeapTest>>#testCopyNonEmptyWithoutAll
-HeapTest>>#testIncludesAnyAllThere
-HeapTest>>#collectionWithSortableElements
-HeapTest>>#collectionWithElementsToRemove
-HeapTest>>#nonEmpty1Element
-HeapTest>>#testIncludesAnyNoneThere
-HeapTest>>#test0CopyTest
-HeapTest>>#testAsArray
-HeapTest>>#testAsIdentitySet
-HeapTest>>#collectionNotIncluded
-HeapTest>>#test0FixtureTConvertTest
-HeapTest>>#testIncludesAllNoneThere
-HeapTest>>#collectionClass
-HeapTest>>#assertNoDuplicates:whenConvertedTo:
-HeapTest>>#collectionWithoutEqualElements
-HeapTest>>#collection
-HeapTest>>#testAsOrderedCollection
-HeapTest>>#testCopyNotSame
-HeapTest>>#testCopyEquals
-HeapTest>>#testCopySameClass
-HeapTest>>#testCopyEmptyWithoutAll
-HeapTest>>#test0FixtureConverAsSortedTest
-HeapTest>>#testAsSortedCollection
-HeapTest>>#testCopyEmptyWith
-HeapTest>>#elementNotIn
-HeapTest>>#elementToAdd
-HeapTest>>#assertSameContents:whenConvertedTo:
-TextEditor>>#backTo:
-TextEditor>>#processKeyStroke:
-TextEditor>>#selection
-TextEditor>>#startIndex
-TextEditor>>#pointIndex
-TextEditor>>#cursorEnd:
-TextEditor>>#pointIndex:
-TextEditor>>#selectFrom:to:
-TextEditor>>#doneTyping
-TextEditor>>#makeCapitalized:
-TextEditor>>#cut
-TextEditor>>#startOfTyping
-TextEditor>>#stateArray
-TextEditor>>#replace:with:and:
-TextEditor>>#cursorHome:
-TextEditor>>#closeTypeIn
-TextEditor>>#replaceSelectionWith:
-TextEditor>>#hasCaret
-TextEditor>>#makeLowercase:
-TextEditor>>#zapSelectionWith:
-TextEditor>>#selectLine
-TextEditor>>#markIndex:
-TextEditor>>#dispatchOn:
-TextEditor>>#forwardDelete:
-TextEditor>>#stateArrayPut:
-TextEditor>>#makeUppercase:
-TextEditor>>#string
-TextEditor>>#stopIndex
-TextEditor>>#openTypeIn
-TextEditor>>#markIndex
-TextEditor>>#resetState
-TextEditor>>#copySelection
-TextEditor>>#addString:
-FreeTypeFontFamilyMember>>#''<=''
-FreeTypeFontFamilyMember>>#simulated
-False>>#xor:
-SpecColumnLayout>>#addSplitter
-SpecColumnLayout>>#countNumberOfProportionals
-SpecColumnLayout>>#autoFractionComputation
-SpecColumnLayout>>#setWidgetLayoutWithNoOffset:at:delta:
-SpecColumnLayout>>#manualFractionComputation
-SpecColumnLayout>>#setWidgetLayoutWithOffset:at:
-SpecColumnLayout>>#shiftLastWidgets
-SDL2AthensDrawingExample>>#clearSurface
-VSCatalogAdderCommand>>#title
-Win32Platform>>#keyForValue:
-MCModification>>#toSource
-MCModification>>#selector
-MCModification>>#targetDefinition
-MCModification>>#basicApplyTo:
-MCModification>>#baseDefinition
-MCModification>>#koSourceText
-MCModification>>#fromSource
-MCModification>>#koDestinationText
-RGBehaviorDefinition>>#addInContainer:
-RGBehaviorDefinition>>#isIncludedInContainer:
-RGBehaviorDefinition>>#removeFromContainer:
-PlatformIndependentEnvironment>>#setEnv:value:
-SDL_TouchFingerUpEvent>>#accept:
-ImageFillStyle>>#asAthensPaintOn:
-RenrakuTest>>#testBan
-RenrakuTest>>#testBan1
-CompositeFillStyle>>#addFillStyleMenuItems:hand:from:
-MCRepositoryInspector>>#versionList
-MCRepositoryInspector>>#packageSelection:
-MCRepositoryInspector>>#versionListMenu:
-MCRepositoryInspector>>#packageListMenu:
-MCRepositoryInspector>>#packageList
-MCRepositoryInspector>>#versionSelection
-MCRepositoryInspector>>#setRepository:workingCopy:
-MCRepositoryInspector>>#refresh
-MCRepositoryInspector>>#packageSelection
-MCRepositoryInspector>>#versionSelection:
-GLMErrorPopper>>#initializeTextMorph
-Association>>#key:value:
-Association>>#value:
-TopRightGripMorph>>#gripLayoutFrame
-TopRightGripMorph>>#apply:
-TopRightGripMorph>>#ptName
-AthensCairoSurface>>#getFreetypeFontRendererFor:
-AthensCairoSurface>>#asAthensPaintOn:
-DADependencyFromClass>>#nodeClass
-WaitfreeQueue>>#nextIfNone:
-WaitfreeQueue>>#peek
-WaitfreeQueue>>#nextOrNil
-WaitfreeQueue>>#nextPut:
-FixedFaceFont>>#descentKern
-FixedFaceFont>>#characterFormAt:
-VSCommitProjectAction>>#packageName
-GLMPhlowTextBrick>>#displayLogic
-OCInstanceScope>>#findVariable:ifNone:
-OCInstanceScope>>#variableNamed:ifAbsent:
-MemoryFileSystemTest>>#testEqual
-IdentityTransform>>#offset
-FileHandle>>#binaryReadStream
-UnixEnvironment>>#setEnv:value:
-OpalEncoderForSistaV1>>#genStorePopInstVarLong:
-OpalEncoderForSistaV1>>#genStoreInstVar:
-OpalEncoderForSistaV1>>#genReturnTop
-OpalEncoderForSistaV1>>#genStorePopLiteralVar:
-OpalEncoderForSistaV1>>#genSend:numArgs:
-OpalEncoderForSistaV1>>#genBranchPopFalse:
-OpalEncoderForSistaV1>>#genReturnReceiver
-OpalEncoderForSistaV1>>#genPushInstVar:
-OpalEncoderForSistaV1>>#genStoreLiteralVar:
-OpalEncoderForSistaV1>>#genPushLiteralVar:
-OpalEncoderForSistaV1>>#genJumpLong:
-OpalEncoderForSistaV1>>#genJump:
-OpalEncoderForSistaV1>>#genReturnSpecialLiteral:
-OpalEncoderForSistaV1>>#genStoreInstVarLong:
-OpalEncoderForSistaV1>>#genPop
-OpalEncoderForSistaV1>>#genReturnTopToCaller
-OpalEncoderForSistaV1>>#genPushThisContext
-OpalEncoderForSistaV1>>#genPushInstVarLong:
-OpalEncoderForSistaV1>>#genPushTemp:
-OpalEncoderForSistaV1>>#genSendSuper:numArgs:
-OpalEncoderForSistaV1>>#genStorePopTemp:
-OpalEncoderForSistaV1>>#genStorePopInstVar:
-OpalEncoderForSistaV1>>#genDup
-OpalEncoderForSistaV1>>#genPushReceiver
-OpalEncoderForSistaV1>>#genStoreTemp:
-OpalEncoderForSistaV1>>#genPushLiteral:
-OpalEncoderForSistaV1>>#genBranchPopTrue:
-AthensSimplePathBuilder>>#toAbsolute:
-SpecDebuggerDynamicToolbar>>#buildButtonWidgetsSpecForActions:
-SpecDebuggerDynamicToolbar>>#initializeButtonWidget:forAction:
-SpecDebuggerDynamicToolbar>>#dynamicLayoutForActions:
-SpecDebuggerDynamicToolbar>>#session
-SpecDebuggerDynamicToolbar>>#createWidgetsForActions:
-SpecDebuggerDynamicToolbar>>#debugger
-SpecDebuggerDynamicToolbar>>#setFocusOrderForActions:
-SpecDebuggerDynamicToolbar>>#emptyLayout
-SpecDebuggerDynamicToolbar>>#actionsForPragmas:
-SelectRuleBrowser>>#removeAllItems
-SelectRuleBrowser>>#addAllItems
-SelectRuleBrowser>>#removeItems
-SelectRuleBrowser>>#addItems
-LayoutClassScope>>#allVisibleSlots
-GLMPhlowListBrick>>#displayLogic
+MetacelloLoadingMCSpecLoader>>#actionLabel [Metacello-MC]
+MCFtpRepository>>#readStreamForFileNamed:do: [MonticelloRemoteRepositories]
+MCFtpRepository>>#writeStreamForFileNamed:replace:do: [MonticelloRemoteRepositories]
+GoferVersionReference>>#metacelloPackageNameWithBranch [Metacello-MC]
+SDL2TouchGestureExample2>>#beginPinch: [OSWindow-SDL2-Examples]
+SDL2TouchGestureExample2>>#endPinch: [OSWindow-SDL2-Examples]
+SDL2TouchGestureExample2>>#generateCircleOfSize: [OSWindow-SDL2-Examples]
+SDL2TouchGestureExample2>>#drawCircle [OSWindow-SDL2-Examples]
+SDL2TouchGestureExample2>>#scroll: [OSWindow-SDL2-Examples]
+SDL2TouchGestureExample2>>#beginScroll: [OSWindow-SDL2-Examples]
+SDL2TouchGestureExample2>>#pinch: [OSWindow-SDL2-Examples]
+SDL2TouchGestureExample2>>#endScroll: [OSWindow-SDL2-Examples]
+AthensCWArcSegment>>#sendCommandTo: [Athens-Core]
+MCWorkingAncestry>>#lazy [Monticello]
+MCWorkingAncestry>>#summary [Monticello]
+RGClassDefinition>>#allClassVarNames [Ring-Core-Kernel]
+RGClassDefinition>>#category [Ring-Core-Kernel]
+RGClassDefinition>>#allSharedPoolNames [Ring-Core-Kernel]
+RGClassDefinition>>#inheritsFrom: [NautilusCommon]
+KeyboardEvent>>#isMouseMove [Morphic-Core]
+BaselineOfQualityAssistant>>#baseline: [BaselineOfQualityAssistant]
+MCChangeSelector>>#cancel [MonticelloGUI]
+DisplayScanner>>#cr [Text-Scanning]
+DisplayScanner>>#tab [Text-Scanning]
+DisplayScanner>>#crossedX [Text-Scanning]
+DisplayScanner>>#endOfRun [Text-Scanning]
+SDL2TouchGestureExample>>#beginPinch: [OSWindow-SDL2-Examples]
+SDL2TouchGestureExample>>#endPinch: [OSWindow-SDL2-Examples]
+SDL2TouchGestureExample>>#generateCircleOfSize: [OSWindow-SDL2-Examples]
+SDL2TouchGestureExample>>#drawCircle [OSWindow-SDL2-Examples]
+SDL2TouchGestureExample>>#scroll: [OSWindow-SDL2-Examples]
+SDL2TouchGestureExample>>#beginScroll: [OSWindow-SDL2-Examples]
+SDL2TouchGestureExample>>#pinch: [OSWindow-SDL2-Examples]
+SDL2TouchGestureExample>>#endScroll: [OSWindow-SDL2-Examples]
+KomitPackage>>#koSourceText [Komitter]
+KomitPackage>>#koDestinationText [Komitter]
+MCPatchBrowser>>#text [MonticelloGUI]
+MCPatchBrowser>>#text: [MonticelloGUI]
+ClassModificationPropagation>>#superclass [Slot]
+ClassModificationPropagation>>#methodModification [Slot]
+DictionaryTest>>#testAsSortedArray [Collections-Tests]
+DictionaryTest>>#testAsBag [Collections-Tests]
+DictionaryTest>>#assertNonDuplicatedContents:whenConvertedTo: [Collections-Tests]
+DictionaryTest>>#anotherElementNotIn [Collections-Tests]
+DictionaryTest>>#testCopyNonEmptyWithoutAllNotIncluded [Collections-Tests]
+DictionaryTest>>#testIncludesElementIsNotThere [Collections-Tests]
+DictionaryTest>>#test0FixtureIncludeTest [Collections-Tests]
+DictionaryTest>>#testIncludesElementIsThere [Collections-Tests]
+DictionaryTest>>#testAsSet [Collections-Tests]
+DictionaryTest>>#testCopyNonEmptyWith [Collections-Tests]
+DictionaryTest>>#testAsSortedCollectionWithSortBlock [Collections-Tests]
+DictionaryTest>>#testCopyNonEmptyWithoutAll [Collections-Tests]
+DictionaryTest>>#testIncludesAnyAllThere [Collections-Tests]
+DictionaryTest>>#collectionWithSortableElements [Collections-Tests]
+DictionaryTest>>#collectionWithElementsToRemove [Collections-Tests]
+DictionaryTest>>#nonEmpty1Element [Collections-Tests]
+DictionaryTest>>#testIncludesAnyNoneThere [Collections-Tests]
+DictionaryTest>>#test0CopyTest [Collections-Tests]
+DictionaryTest>>#testAsArray [Collections-Tests]
+DictionaryTest>>#testAsIdentitySet [Collections-Tests]
+DictionaryTest>>#collectionNotIncluded [Collections-Tests]
+DictionaryTest>>#test0FixtureTConvertTest [Collections-Tests]
+DictionaryTest>>#testIncludesAllNoneThere [Collections-Tests]
+DictionaryTest>>#collectionClass [Collections-Tests]
+DictionaryTest>>#assertNoDuplicates:whenConvertedTo: [Collections-Tests]
+DictionaryTest>>#collectionWithoutEqualElements [Collections-Tests]
+DictionaryTest>>#collection [Collections-Tests]
+DictionaryTest>>#testAsOrderedCollection [Collections-Tests]
+DictionaryTest>>#testCopyNotSame [Collections-Tests]
+DictionaryTest>>#testCopyEquals [Collections-Tests]
+DictionaryTest>>#testCopySameClass [Collections-Tests]
+DictionaryTest>>#testCopyEmptyWithoutAll [Collections-Tests]
+DictionaryTest>>#test0FixtureConverAsSortedTest [Collections-Tests]
+DictionaryTest>>#testAsSortedCollection [Collections-Tests]
+DictionaryTest>>#testCopyEmptyWith [Collections-Tests]
+DictionaryTest>>#elementNotIn [Collections-Tests]
+DictionaryTest>>#elementToAdd [Collections-Tests]
+DictionaryTest>>#assertSameContents:whenConvertedTo: [Collections-Tests]
+RubEditingArea>>#walkAlongDisplayedLine [Rubric]
+StrikeFontSet>>#descentKern [Graphics-Fonts]
+StrikeFontSet>>#characterFormAt: [Graphics-Fonts]
+FreeTypeFont>>#descentKern [FreeType]
+FreeTypeFont>>#characterFormAt: [FreeType]
+GTSpotterCandidateLink>>#processor [GT-Spotter]
+True>>#xor: [Kernel]
+TextStyleAsFontFamilyMember>>#''<='' [FreeType]
+TextStyleAsFontFamilyMember>>#simulated [FreeType]
+Win32Environment>>#setEnv:value: [System-OSEnvironments]
+AthensBalloonSurface>>#getFreetypeFontRendererFor: [Athens-Balloon]
+AthensBalloonSurface>>#asAthensPaintOn: [Athens-Balloon]
+ClassRecategorized>>#classAffected [System-Announcements]
+Pharo3Theme>>#checkboxUnselectedForm [Polymorph-Widgets]
+Pharo3Theme>>#glamorousNormalFillStyleWithBaseColor:for:height: [Polymorph-Widgets]
+Pharo3Theme>>#glamorousBaseColorFor: [Polymorph-Widgets]
+Pharo3Theme>>#glamorousBaseSelectionColorFor: [Polymorph-Widgets]
+Pharo3Theme>>#glamorousLightColorFor: [Polymorph-Widgets]
+Pharo3Theme>>#glamorousBasePassiveBackgroundColorFor: [Polymorph-Widgets]
+Pharo3Theme>>#newRadioMarkerForm [Polymorph-Widgets]
+Pharo3Theme>>#glamorousLightSelectionColorFor: [Polymorph-Widgets]
+Pharo3Theme>>#glamorousNormalFillStyleFor:height: [Polymorph-Widgets]
+Pharo3Theme>>#glamorousDarkBaseColorFor: [Polymorph-Widgets]
+AthensBalloonGradientPaint>>#strokeRect:on:strokeWidth: [Athens-Balloon]
+AthensBalloonGradientPaint>>#strokeRect:on:stroke: [Athens-Balloon]
+RubCharacterBlockScanner>>#cr [Rubric]
+RubCharacterBlockScanner>>#endOfRun [Rubric]
+RubCharacterBlockScanner>>#crossedX [Rubric]
+RubCharacterBlockScanner>>#tab [Rubric]
+RubCharacterBlockScanner>>#setStopConditions [Rubric]
+BitmapFillStyle>>#asAthensPaintOn: [Athens-Core]
+EncoderForLongFormV3>>#genStorePopInstVarLong: [Compiler]
+EncoderForLongFormV3>>#genReturnTop [Compiler]
+EncoderForLongFormV3>>#genStoreInstVar: [Compiler]
+EncoderForLongFormV3>>#genBranchPopTrue: [Compiler]
+EncoderForLongFormV3>>#genStorePopLiteralVar: [Compiler]
+EncoderForLongFormV3>>#genSend:numArgs: [Compiler]
+EncoderForLongFormV3>>#genBranchPopFalse: [Compiler]
+EncoderForLongFormV3>>#genReturnReceiver [Compiler]
+EncoderForLongFormV3>>#genPushInstVar: [Compiler]
+EncoderForLongFormV3>>#genStoreLiteralVar: [Compiler]
+EncoderForLongFormV3>>#genPushLiteralVar: [Compiler]
+EncoderForLongFormV3>>#genJumpLong: [Compiler]
+EncoderForLongFormV3>>#genJump: [Compiler]
+EncoderForLongFormV3>>#genStoreInstVarLong: [Compiler]
+EncoderForLongFormV3>>#genReturnSpecialLiteral: [Compiler]
+EncoderForLongFormV3>>#genPop [Compiler]
+EncoderForLongFormV3>>#genReturnTopToCaller [Compiler]
+EncoderForLongFormV3>>#genPushThisContext [Compiler]
+EncoderForLongFormV3>>#genPushInstVarLong: [Compiler]
+EncoderForLongFormV3>>#genPushTemp: [Compiler]
+EncoderForLongFormV3>>#genSendSuper:numArgs: [Compiler]
+EncoderForLongFormV3>>#genStorePopTemp: [Compiler]
+EncoderForLongFormV3>>#genStorePopInstVar: [Compiler]
+EncoderForLongFormV3>>#genDup [Compiler]
+EncoderForLongFormV3>>#genStoreTemp: [Compiler]
+EncoderForLongFormV3>>#genPushLiteral: [Compiler]
+EncoderForLongFormV3>>#genPushReceiver [Compiler]
+EncoderForLongFormV3>>#genPushSpecialLiteral: [Compiler]
+RGTraitDefinition>>#category [Ring-Core-Kernel]
+MBConfigurationInfo>>#currentVersion [Versionner-Core-Model]
+MBConfigurationInfo>>#configurationClass [Versionner-Core-Model]
+MBConfigurationInfo>>#version [Versionner-Core-Model]
+TxVerticalSlider>>#handleEventWhileDraggingSlider:delta: [TxText-Athens]
+TxVerticalSlider>>#computeSliderBounds [TxText-Athens]
+TxVerticalSlider>>#mapMouseRelativeToSlider: [TxText-Athens]
+TxVerticalSlider>>#originForDragStart: [TxText-Athens]
+TxTextPosition>>#deleteUpTo: [TxText-Model]
+MCSnapshotReader>>#snapshot [Monticello]
+MCSnapshotReader>>#definitions [Monticello]
+Pharo3DarkTheme>>#checkboxUnselectedForm [Polymorph-Widgets]
+Pharo3DarkTheme>>#glamorousNormalFillStyleWithBaseColor:for:height: [Polymorph-Widgets]
+Pharo3DarkTheme>>#glamorousBaseColorFor: [Polymorph-Widgets]
+Pharo3DarkTheme>>#glamorousBaseSelectionColorFor: [Polymorph-Widgets]
+Pharo3DarkTheme>>#glamorousLightColorFor: [Polymorph-Widgets]
+Pharo3DarkTheme>>#glamorousBasePassiveBackgroundColorFor: [Polymorph-Widgets]
+Pharo3DarkTheme>>#newRadioMarkerForm [Polymorph-Widgets]
+Pharo3DarkTheme>>#glamorousLightSelectionColorFor: [Polymorph-Widgets]
+Pharo3DarkTheme>>#glamorousNormalFillStyleFor:height: [Polymorph-Widgets]
+Pharo3DarkTheme>>#glamorousDarkBaseColorFor: [Polymorph-Widgets]
+LiteralNode>>#emitCodeForValue:encoder: [Compiler]
+LiteralNode>>#name:key:index:type: [Compiler]
+PackageTreeGroupSelection>>#package [Nautilus]
+PackageTreeGroupSelection>>#classes [Nautilus]
+ChunkWriteStream>>#terminatorMark [CodeExport]
+InflateStream>>#growHuffmanTable: [Compression]
+InflateStream>>#createHuffmanTables:counts:from:to: [Compression]
+InflateStream>>#decodeValueFrom: [Compression]
+InflateStream>>#nextByte [Compression]
+SDL_TouchFingerMotionEvent>>#accept: [OSWindow-SDL2]
+TxTextCursor>>#deleteUpTo: [TxText-Model]
+MethodChunk>>#description [CodeImport]
+MCAddition>>#toSource [Monticello]
+MCAddition>>#selector [Komitter]
+MCAddition>>#targetDefinition [Monticello]
+MCAddition>>#basicApplyTo: [Monticello]
+MCAddition>>#baseDefinition [Monticello]
+MCAddition>>#koSourceText [Komitter]
+MCAddition>>#fromSource [Monticello]
+MCAddition>>#koDestinationText [Komitter]
+SpecTableLayoutSend>>#selector: [Spec-Layout]
+SpecTableLayoutSend>>#arguments: [Spec-Layout]
+SpecTableLayoutSend>>#arguments [Spec-Layout]
+SpecTableLayoutSend>>#selector [Spec-Layout]
+ArrayTest>>#testAsSortedArray [Collections-Tests]
+ArrayTest>>#testAsBag [Collections-Tests]
+ArrayTest>>#assertNonDuplicatedContents:whenConvertedTo: [Collections-Tests]
+ArrayTest>>#anotherElementNotIn [Collections-Tests]
+ArrayTest>>#testCopyNonEmptyWithoutAllNotIncluded [Collections-Tests]
+ArrayTest>>#testIncludesElementIsNotThere [Collections-Tests]
+ArrayTest>>#test0FixtureIncludeTest [Collections-Tests]
+ArrayTest>>#testIncludesElementIsThere [Collections-Tests]
+ArrayTest>>#testAsSet [Collections-Tests]
+ArrayTest>>#testCopyNonEmptyWith [Collections-Tests]
+ArrayTest>>#testAsSortedCollectionWithSortBlock [Collections-Tests]
+ArrayTest>>#testCopyNonEmptyWithoutAll [Collections-Tests]
+ArrayTest>>#testIncludesAnyAllThere [Collections-Tests]
+ArrayTest>>#collectionWithSortableElements [Collections-Tests]
+ArrayTest>>#collectionWithElementsToRemove [Collections-Tests]
+ArrayTest>>#nonEmpty1Element [Collections-Tests]
+ArrayTest>>#testIncludesAnyNoneThere [Collections-Tests]
+ArrayTest>>#test0CopyTest [Collections-Tests]
+ArrayTest>>#testAsArray [Collections-Tests]
+ArrayTest>>#testAsIdentitySet [Collections-Tests]
+ArrayTest>>#collectionNotIncluded [Collections-Tests]
+ArrayTest>>#test0FixtureTConvertTest [Collections-Tests]
+ArrayTest>>#testIncludesAllNoneThere [Collections-Tests]
+ArrayTest>>#collectionClass [Collections-Tests]
+ArrayTest>>#assertNoDuplicates:whenConvertedTo: [Collections-Tests]
+ArrayTest>>#collectionWithoutEqualElements [Collections-Tests]
+ArrayTest>>#collection [Collections-Tests]
+ArrayTest>>#testAsOrderedCollection [Collections-Tests]
+ArrayTest>>#testCopyNotSame [Collections-Tests]
+ArrayTest>>#testCopyEquals [Collections-Tests]
+ArrayTest>>#testCopySameClass [Collections-Tests]
+ArrayTest>>#testCopyEmptyWithoutAll [Collections-Tests]
+ArrayTest>>#test0FixtureConverAsSortedTest [Collections-Tests]
+ArrayTest>>#testAsSortedCollection [Collections-Tests]
+ArrayTest>>#testCopyEmptyWith [Collections-Tests]
+ArrayTest>>#elementNotIn [Collections-Tests]
+ArrayTest>>#elementToAdd [Collections-Tests]
+ArrayTest>>#assertSameContents:whenConvertedTo: [Collections-Tests]
+LogicalFont>>#descentKern [FontInfrastructure]
+LogicalFont>>#characterFormAt: [FontInfrastructure]
+SDL_JoyButtonUpEvent>>#accept: [OSWindow-SDL2]
+SDL_MouseButtonDownEvent>>#accept: [OSWindow-SDL2]
+RubWorkspaceBar>>#textColor [Tool-Workspace]
+RubWorkspaceBar>>#backgroundColor [Tool-Workspace]
+RubWorkspaceBar>>#fontToUse [Tool-Workspace]
+FloatArrayTest>>#testAsSortedArray [Collections-Tests]
+FloatArrayTest>>#testAsBag [Collections-Tests]
+FloatArrayTest>>#assertNonDuplicatedContents:whenConvertedTo: [Collections-Tests]
+FloatArrayTest>>#anotherElementNotIn [Collections-Tests]
+FloatArrayTest>>#testCopyNonEmptyWithoutAllNotIncluded [Collections-Tests]
+FloatArrayTest>>#testIncludesElementIsNotThere [Collections-Tests]
+FloatArrayTest>>#test0FixtureIncludeTest [Collections-Tests]
+FloatArrayTest>>#testIncludesElementIsThere [Collections-Tests]
+FloatArrayTest>>#testAsSet [Collections-Tests]
+FloatArrayTest>>#testCopyNonEmptyWith [Collections-Tests]
+FloatArrayTest>>#testAsSortedCollectionWithSortBlock [Collections-Tests]
+FloatArrayTest>>#testCopyNonEmptyWithoutAll [Collections-Tests]
+FloatArrayTest>>#testIncludesAnyAllThere [Collections-Tests]
+FloatArrayTest>>#collectionWithSortableElements [Collections-Tests]
+FloatArrayTest>>#collectionWithElementsToRemove [Collections-Tests]
+FloatArrayTest>>#nonEmpty1Element [Collections-Tests]
+FloatArrayTest>>#testIncludesAnyNoneThere [Collections-Tests]
+FloatArrayTest>>#test0CopyTest [Collections-Tests]
+FloatArrayTest>>#testAsArray [Collections-Tests]
+FloatArrayTest>>#testAsIdentitySet [Collections-Tests]
+FloatArrayTest>>#collectionNotIncluded [Collections-Tests]
+FloatArrayTest>>#test0FixtureTConvertTest [Collections-Tests]
+FloatArrayTest>>#testIncludesAllNoneThere [Collections-Tests]
+FloatArrayTest>>#collectionClass [Collections-Tests]
+FloatArrayTest>>#assertNoDuplicates:whenConvertedTo: [Collections-Tests]
+FloatArrayTest>>#collectionWithoutEqualElements [Collections-Tests]
+FloatArrayTest>>#collection [Collections-Tests]
+FloatArrayTest>>#testAsOrderedCollection [Collections-Tests]
+FloatArrayTest>>#testCopyNotSame [Collections-Tests]
+FloatArrayTest>>#testCopyEquals [Collections-Tests]
+FloatArrayTest>>#testCopySameClass [Collections-Tests]
+FloatArrayTest>>#testCopyEmptyWithoutAll [Collections-Tests]
+FloatArrayTest>>#test0FixtureConverAsSortedTest [Collections-Tests]
+FloatArrayTest>>#testAsSortedCollection [Collections-Tests]
+FloatArrayTest>>#testCopyEmptyWith [Collections-Tests]
+FloatArrayTest>>#elementNotIn [Collections-Tests]
+FloatArrayTest>>#elementToAdd [Collections-Tests]
+FloatArrayTest>>#assertSameContents:whenConvertedTo: [Collections-Tests]
+EncoderForV3>>#genStorePopInstVarLong: [Compiler]
+EncoderForV3>>#genReturnTop [Compiler]
+EncoderForV3>>#genStoreInstVar: [Compiler]
+EncoderForV3>>#genBranchPopTrue: [Compiler]
+EncoderForV3>>#genStorePopLiteralVar: [Compiler]
+EncoderForV3>>#genSend:numArgs: [Compiler]
+EncoderForV3>>#genBranchPopFalse: [Compiler]
+EncoderForV3>>#genReturnReceiver [Compiler]
+EncoderForV3>>#genPushInstVar: [Compiler]
+EncoderForV3>>#genStoreLiteralVar: [Compiler]
+EncoderForV3>>#genPushLiteralVar: [Compiler]
+EncoderForV3>>#genJumpLong: [Compiler]
+EncoderForV3>>#genJump: [Compiler]
+EncoderForV3>>#genStoreInstVarLong: [Compiler]
+EncoderForV3>>#genReturnSpecialLiteral: [Compiler]
+EncoderForV3>>#genPop [Compiler]
+EncoderForV3>>#genReturnTopToCaller [Compiler]
+EncoderForV3>>#genPushThisContext [Compiler]
+EncoderForV3>>#genPushInstVarLong: [Compiler]
+EncoderForV3>>#genPushTemp: [Compiler]
+EncoderForV3>>#genSendSuper:numArgs: [Compiler]
+EncoderForV3>>#genStorePopTemp: [Compiler]
+EncoderForV3>>#genStorePopInstVar: [Compiler]
+EncoderForV3>>#genDup [Compiler]
+EncoderForV3>>#genStoreTemp: [Compiler]
+EncoderForV3>>#genPushLiteral: [Compiler]
+EncoderForV3>>#genPushReceiver [Compiler]
+EncoderForV3>>#genPushSpecialLiteral: [Compiler]
+TxLayoutViewMorph>>#text [TxText-Athens]
+TxLayoutViewMorph>>#layoutView [TxText-Athens]
+HDTestReport>>#run [HudsonBuildTools20]
+HDTestReport>>#initializeOn: [HudsonBuildTools20]
+ClassReorganized>>#classAffected [System-Announcements]
+AthensBalloonSolidColorPaint>>#strokeRect:on:strokeWidth: [Athens-Balloon]
+AthensBalloonSolidColorPaint>>#strokeRect:on:stroke: [Athens-Balloon]
+FileReference>>#path [FileSystem-Core]
+OrientedFillStyle>>#addFillStyleMenuItems:hand:from: [Morphic-Base]
+MCVersionReader>>#snapshot [Monticello]
+MCVersionReader>>#definitions [Monticello]
+MouseEvent>>#isMouseMove [Morphic-Core]
+ClassRemoved>>#classAffected [System-Announcements]
+MCVersionInfo>>#lazy [Monticello]
+MCVersionInfo>>#summary [Monticello]
+EmptyLayout>>#extendWord [Slot]
+EmptyLayout>>#extendVariable: [Slot]
+EmptyLayout>>#extendByte [Slot]
+EmptyLayout>>#extend: [Slot]
+TestCase>>#resources [SUnit-Core]
+TestCase>>#setUp [SUnit-Core]
+TestCase>>#tearDown [SUnit-Core]
+OCRequestorScope>>#findVariable:ifNone: [OpalCompiler-Core]
+OCRequestorScope>>#variableNamed:ifAbsent: [OpalCompiler-Core]
+IntervalTest>>#testAsSortedArray [Collections-Tests]
+IntervalTest>>#testAsBag [Collections-Tests]
+IntervalTest>>#assertNonDuplicatedContents:whenConvertedTo: [Collections-Tests]
+IntervalTest>>#anotherElementNotIn [Collections-Tests]
+IntervalTest>>#testCopyNonEmptyWithoutAllNotIncluded [Collections-Tests]
+IntervalTest>>#testIncludesElementIsNotThere [Collections-Tests]
+IntervalTest>>#test0FixtureIncludeTest [Collections-Tests]
+IntervalTest>>#testIncludesElementIsThere [Collections-Tests]
+IntervalTest>>#testAsSet [Collections-Tests]
+IntervalTest>>#testCopyNonEmptyWith [Collections-Tests]
+IntervalTest>>#testAsSortedCollectionWithSortBlock [Collections-Tests]
+IntervalTest>>#testCopyNonEmptyWithoutAll [Collections-Tests]
+IntervalTest>>#testIncludesAnyAllThere [Collections-Tests]
+IntervalTest>>#collectionWithSortableElements [Collections-Tests]
+IntervalTest>>#collectionWithElementsToRemove [Collections-Tests]
+IntervalTest>>#nonEmpty1Element [Collections-Tests]
+IntervalTest>>#testIncludesAnyNoneThere [Collections-Tests]
+IntervalTest>>#test0CopyTest [Collections-Tests]
+IntervalTest>>#testAsArray [Collections-Tests]
+IntervalTest>>#testAsIdentitySet [Collections-Tests]
+IntervalTest>>#collectionNotIncluded [Collections-Tests]
+IntervalTest>>#test0FixtureTConvertTest [Collections-Tests]
+IntervalTest>>#testIncludesAllNoneThere [Collections-Tests]
+IntervalTest>>#collectionClass [Collections-Tests]
+IntervalTest>>#assertNoDuplicates:whenConvertedTo: [Collections-Tests]
+IntervalTest>>#collectionWithoutEqualElements [Collections-Tests]
+IntervalTest>>#collection [Collections-Tests]
+IntervalTest>>#testAsOrderedCollection [Collections-Tests]
+IntervalTest>>#testCopyNotSame [Collections-Tests]
+IntervalTest>>#testCopyEquals [Collections-Tests]
+IntervalTest>>#testCopySameClass [Collections-Tests]
+IntervalTest>>#testCopyEmptyWithoutAll [Collections-Tests]
+IntervalTest>>#test0FixtureConverAsSortedTest [Collections-Tests]
+IntervalTest>>#testAsSortedCollection [Collections-Tests]
+IntervalTest>>#testCopyEmptyWith [Collections-Tests]
+IntervalTest>>#elementNotIn [Collections-Tests]
+IntervalTest>>#elementToAdd [Collections-Tests]
+IntervalTest>>#assertSameContents:whenConvertedTo: [Collections-Tests]
+SHA1>>#storeLength:in: [System-Hashing]
+SHA1>>#processBuffer: [System-Hashing]
+SHA1>>#processFinalBuffer:bitLength: [System-Hashing]
+TxHorizontalSlider>>#handleEventWhileDraggingSlider:delta: [TxText-Athens]
+TxHorizontalSlider>>#computeSliderBounds [TxText-Athens]
+TxHorizontalSlider>>#mapMouseRelativeToSlider: [TxText-Athens]
+TxHorizontalSlider>>#originForDragStart: [TxText-Athens]
+GLMWhitespaceTheme>>#checkboxUnselectedForm [Glamour-Morphic-Theme]
+GLMWhitespaceTheme>>#glamorousNormalFillStyleWithBaseColor:for:height: [Glamour-Morphic-Theme]
+GLMWhitespaceTheme>>#glamorousBaseColorFor: [Glamour-Morphic-Theme]
+GLMWhitespaceTheme>>#glamorousBaseSelectionColorFor: [Glamour-Morphic-Theme]
+GLMWhitespaceTheme>>#glamorousLightColorFor: [Glamour-Morphic-Theme]
+GLMWhitespaceTheme>>#glamorousBasePassiveBackgroundColorFor: [Glamour-Morphic-Theme]
+GLMWhitespaceTheme>>#newRadioMarkerForm [Glamour-Morphic-Theme]
+GLMWhitespaceTheme>>#glamorousLightSelectionColorFor: [Glamour-Morphic-Theme]
+GLMWhitespaceTheme>>#glamorousNormalFillStyleFor:height: [Glamour-Morphic-Theme]
+GLMWhitespaceTheme>>#glamorousDarkBaseColorFor: [Glamour-Morphic-Theme]
+MCFileRepositoryInspector>>#versionList [MonticelloGUI]
+MCFileRepositoryInspector>>#packageSelection: [MonticelloGUI]
+MCFileRepositoryInspector>>#versionListMenu: [MonticelloGUI]
+MCFileRepositoryInspector>>#packageListMenu: [MonticelloGUI]
+MCFileRepositoryInspector>>#packageList [MonticelloGUI]
+MCFileRepositoryInspector>>#versionSelection [MonticelloGUI]
+MCFileRepositoryInspector>>#setRepository:workingCopy: [MonticelloGUI]
+MCFileRepositoryInspector>>#refresh [MonticelloGUI]
+MCFileRepositoryInspector>>#packageSelection [MonticelloGUI]
+MCFileRepositoryInspector>>#versionSelection: [MonticelloGUI]
+ClassModification>>#superclass [Slot]
+ClassModification>>#methodModification [Slot]
+TxEmbeddedObjectSpan>>#removeBefore: [TxText-Model]
+TxEmbeddedObjectSpan>>#insertLineSeparator:at: [TxText-Model]
+VSUnloadConfigurationCommand>>#title [Versionner-Core-Commands]
+RBRenameClassChange>>#oldName [Refactoring-Changes]
+RBRenameClassChange>>#newName [Refactoring-Changes]
+RBRenameClassChange>>#changeClass [Refactoring-Changes]
+KMNamedCharKeyCombination>>#name: [Keymapping-KeyCombinations]
+CharacterBlockScanner>>#cr [Text-Scanning]
+CharacterBlockScanner>>#tab [Text-Scanning]
+CharacterBlockScanner>>#crossedX [Text-Scanning]
+CharacterBlockScanner>>#endOfRun [Text-Scanning]
+RubLineNumberDisplayer>>#textColor [Rubric]
+RubLineNumberDisplayer>>#backgroundColor [Rubric]
+RubLineNumberDisplayer>>#fontToUse [Rubric]
+TxStartSpan>>#insertLineSeparator:at: [TxText-Model]
+DAPackageAnalyzerCycleDetectionWindow>>#initializeWithPackageNames: [Tool-DependencyAnalyser-UI]
+WideSymbol>>#privateAt:put: [Collections-Strings]
+WideSymbol>>#scanCharactersFrom:to:with:rightX:font: [Text-Scanning]
+WordLayout>>#instanceSpecification [Slot]
+TxLineSeparator>>#removeBefore: [TxText-Model]
+TxLineSeparator>>#insertLineSeparator:at: [TxText-Model]
+DiskStore>>#forReferencePrintOn: [FileSystem-Disk]
+DiskStore>>#handleClass [FileSystem-Disk]
+RubTextFieldArea>>#walkAlongDisplayedLine [Rubric]
+BreadthFirstGuideTest>>#testAll [FileSystem-Tests-Core]
+OpalEncoderForV3>>#genStorePopInstVarLong: [OpalCompiler-Core]
+OpalEncoderForV3>>#genStoreInstVar: [OpalCompiler-Core]
+OpalEncoderForV3>>#genReturnTop [OpalCompiler-Core]
+OpalEncoderForV3>>#genStorePopLiteralVar: [OpalCompiler-Core]
+OpalEncoderForV3>>#genSend:numArgs: [OpalCompiler-Core]
+OpalEncoderForV3>>#genBranchPopFalse: [OpalCompiler-Core]
+OpalEncoderForV3>>#genReturnReceiver [OpalCompiler-Core]
+OpalEncoderForV3>>#genPushInstVar: [OpalCompiler-Core]
+OpalEncoderForV3>>#genStoreLiteralVar: [OpalCompiler-Core]
+OpalEncoderForV3>>#genPushLiteralVar: [OpalCompiler-Core]
+OpalEncoderForV3>>#genJumpLong: [OpalCompiler-Core]
+OpalEncoderForV3>>#genJump: [OpalCompiler-Core]
+OpalEncoderForV3>>#genReturnSpecialLiteral: [OpalCompiler-Core]
+OpalEncoderForV3>>#genStoreInstVarLong: [OpalCompiler-Core]
+OpalEncoderForV3>>#genPop [OpalCompiler-Core]
+OpalEncoderForV3>>#genReturnTopToCaller [OpalCompiler-Core]
+OpalEncoderForV3>>#genPushThisContext [OpalCompiler-Core]
+OpalEncoderForV3>>#genPushInstVarLong: [OpalCompiler-Core]
+OpalEncoderForV3>>#genPushTemp: [OpalCompiler-Core]
+OpalEncoderForV3>>#genSendSuper:numArgs: [OpalCompiler-Core]
+OpalEncoderForV3>>#genStorePopTemp: [OpalCompiler-Core]
+OpalEncoderForV3>>#genStorePopInstVar: [OpalCompiler-Core]
+OpalEncoderForV3>>#genDup [OpalCompiler-Core]
+OpalEncoderForV3>>#genPushReceiver [OpalCompiler-Core]
+OpalEncoderForV3>>#genStoreTemp: [OpalCompiler-Core]
+OpalEncoderForV3>>#genPushLiteral: [OpalCompiler-Core]
+OpalEncoderForV3>>#genBranchPopTrue: [OpalCompiler-Core]
+TxAthensLayoutTest>>#defaultLayoutViewExtent [TxText-AthensTests]
+Integer>>#isPowerOfTwo [Kernel]
+Integer>>#asFraction [Kernel]
+Decompiler>>#storeIntoTemporaryVariable: [Compiler]
+Decompiler>>#pushConsArrayWithElements: [Compiler]
+Decompiler>>#doPop [Compiler]
+Decompiler>>#storeIntoLiteralVariable: [Compiler]
+Decompiler>>#methodReturnReceiver [Compiler]
+Decompiler>>#doDup [Compiler]
+Decompiler>>#storeIntoRemoteTemp:inVectorAt: [Compiler]
+Decompiler>>#pushLiteralVariable: [Compiler]
+Decompiler>>#methodReturnConstant: [Compiler]
+Decompiler>>#tempAt: [Compiler]
+Decompiler>>#pushReceiverVariable: [Compiler]
+Decompiler>>#storeIntoReceiverVariable: [Compiler]
+Decompiler>>#jump: [Compiler]
+Decompiler>>#pushClosureCopyNumCopiedValues:numArgs:blockSize: [Compiler]
+Decompiler>>#popIntoRemoteTemp:inVectorAt: [Compiler]
+Decompiler>>#popIntoLiteralVariable: [Compiler]
+Decompiler>>#pushTemporaryVariable: [Compiler]
+Decompiler>>#jump:if: [Compiler]
+Decompiler>>#blockReturnConstant: [Compiler]
+Decompiler>>#popIntoTemporaryVariable: [Compiler]
+Decompiler>>#pushConstant: [Compiler]
+Decompiler>>#methodReturnTop [Compiler]
+Decompiler>>#pushRemoteTemp:inVectorAt: [Compiler]
+Decompiler>>#pushNewArrayOfSize: [Compiler]
+Decompiler>>#send:super:numArgs: [Compiler]
+Decompiler>>#popIntoReceiverVariable: [Compiler]
+Decompiler>>#doNop [Compiler]
+Decompiler>>#pushActiveContext [Compiler]
+Decompiler>>#pushReceiver [Compiler]
+Decompiler>>#blockReturnTop [Compiler]
+AJStdCallCallInfo>>#emitAlignmentIfNeeded [AsmJit-StackManagement]
+AJStdCallCallInfo>>#emitAlignment [AsmJit-StackManagement]
+RGGlobalVariableDefinition>>#addInContainer: [Ring-Core-Kernel]
+RGGlobalVariableDefinition>>#isIncludedInContainer: [Ring-Core-Kernel]
+RGGlobalVariableDefinition>>#removeFromContainer: [Ring-Core-Kernel]
+ByteSymbol>>#privateAt:put: [Collections-Strings]
+ByteSymbol>>#scanCharactersFrom:to:with:rightX:font: [Text-Scanning]
+GLMTreePresentation>>#hasTags [Glamour-Presentations]
+GLMTreePresentation>>#hasTagsFilter [Glamour-Presentations]
+Trait>>#removeSubclass: [Traits]
+Trait>>#possibleVariablesFor:continuedFrom: [Traits]
+Trait>>#classTrait: [Traits]
+Trait>>#criticTheNonMetaclassClass [Manifest-Core]
+Trait>>#sharedPools [Traits]
+Trait>>#addSubclass: [Traits]
+Trait>>#classPool [Traits]
+Trait>>#subclasses [Traits]
+Trait>>#asRingDefinition [Ring-Core-Kernel]
+Trait>>#asFullRingDefinition [Ring-Core-Kernel]
+Trait>>#fileOutInitializerOn: [CodeExport]
+Trait>>#category [Traits]
+SortedCollectionTest>>#testAsSortedArray [Collections-Tests]
+SortedCollectionTest>>#testAsBag [Collections-Tests]
+SortedCollectionTest>>#assertNonDuplicatedContents:whenConvertedTo: [Collections-Tests]
+SortedCollectionTest>>#anotherElementNotIn [Collections-Tests]
+SortedCollectionTest>>#testCopyNonEmptyWithoutAllNotIncluded [Collections-Tests]
+SortedCollectionTest>>#testIncludesElementIsNotThere [Collections-Tests]
+SortedCollectionTest>>#test0FixtureIncludeTest [Collections-Tests]
+SortedCollectionTest>>#testIncludesElementIsThere [Collections-Tests]
+SortedCollectionTest>>#testAsSet [Collections-Tests]
+SortedCollectionTest>>#testCopyNonEmptyWith [Collections-Tests]
+SortedCollectionTest>>#testAsSortedCollectionWithSortBlock [Collections-Tests]
+SortedCollectionTest>>#testCopyNonEmptyWithoutAll [Collections-Tests]
+SortedCollectionTest>>#testIncludesAnyAllThere [Collections-Tests]
+SortedCollectionTest>>#collectionWithSortableElements [Collections-Tests]
+SortedCollectionTest>>#collectionWithElementsToRemove [Collections-Tests]
+SortedCollectionTest>>#nonEmpty1Element [Collections-Tests]
+SortedCollectionTest>>#testIncludesAnyNoneThere [Collections-Tests]
+SortedCollectionTest>>#test0CopyTest [Collections-Tests]
+SortedCollectionTest>>#testAsArray [Collections-Tests]
+SortedCollectionTest>>#testAsIdentitySet [Collections-Tests]
+SortedCollectionTest>>#collectionNotIncluded [Collections-Tests]
+SortedCollectionTest>>#test0FixtureTConvertTest [Collections-Tests]
+SortedCollectionTest>>#testIncludesAllNoneThere [Collections-Tests]
+SortedCollectionTest>>#collectionClass [Collections-Tests]
+SortedCollectionTest>>#assertNoDuplicates:whenConvertedTo: [Collections-Tests]
+SortedCollectionTest>>#collectionWithoutEqualElements [Collections-Tests]
+SortedCollectionTest>>#collection [Collections-Tests]
+SortedCollectionTest>>#testAsOrderedCollection [Collections-Tests]
+SortedCollectionTest>>#testCopyNotSame [Collections-Tests]
+SortedCollectionTest>>#testCopyEquals [Collections-Tests]
+SortedCollectionTest>>#testCopySameClass [Collections-Tests]
+SortedCollectionTest>>#testCopyEmptyWithoutAll [Collections-Tests]
+SortedCollectionTest>>#test0FixtureConverAsSortedTest [Collections-Tests]
+SortedCollectionTest>>#testAsSortedCollection [Collections-Tests]
+SortedCollectionTest>>#testCopyEmptyWith [Collections-Tests]
+SortedCollectionTest>>#elementNotIn [Collections-Tests]
+SortedCollectionTest>>#elementToAdd [Collections-Tests]
+SortedCollectionTest>>#assertSameContents:whenConvertedTo: [Collections-Tests]
+ClassCommented>>#classAffected [System-Announcements]
+TxCharacterSpanDisplayCommand>>#advance [TxText-Athens]
+TxCharacterSpanDisplayCommand>>#span: [TxText-Athens]
+DAPackageCycleGenerator>>#buildEdges [Tool-DependencyAnalyser]
+DAPackageCycleGenerator>>#buildNodes [Tool-DependencyAnalyser]
+OSTouchScrollDetector>>#eventClassMoveGesture [OSWindow-Core]
+OSTouchScrollDetector>>#eventClassEndGesture [OSWindow-Core]
+OSTouchScrollDetector>>#eventClassBeginGesture [OSWindow-Core]
+GLMTablePresentation>>#hasTags [Glamour-Presentations]
+GLMTablePresentation>>#hasTagsFilter [Glamour-Presentations]
+MorphicTransform>>#offset [Graphics-Transformations]
+AthensCCWArcSegment>>#sendCommandTo: [Athens-Core]
+TreeListMorph>>#keystrokeActionSelector: [Morphic-Widgets-List]
+TreeListMorph>>#keystrokeActionSelector [Morphic-Widgets-List]
+RubTextSegmentIconDisplayer>>#textColor [Rubric]
+RubTextSegmentIconDisplayer>>#backgroundColor [Rubric]
+RubTextSegmentIconDisplayer>>#fontToUse [Rubric]
+RubSelectorChooserMorph>>#setPosition [Rubric]
+RubSelectorChooserMorph>>#drawCommonPrefixAreasOn: [Rubric]
+RubSelectorChooserMorph>>#positionInRequestor [Rubric]
+RubSelectorChooserMorph>>#prefix: [Rubric]
+RubSelectorChooserMorph>>#nextPrefixWith: [Rubric]
+RubSelectorChooserMorph>>#drawCommonPrefixAreasOn:menu: [Rubric]
+VSLoadProjectCommand>>#title [Versionner-Core-Commands]
+MD5>>#storeLength:in: [System-Hashing]
+MD5>>#processBuffer: [System-Hashing]
+MD5>>#processFinalBuffer:bitLength: [System-Hashing]
+ClassTrait>>#removeSubclass: [Traits]
+ClassTrait>>#possibleVariablesFor:continuedFrom: [Traits]
+ClassTrait>>#classTrait: [Traits]
+ClassTrait>>#criticTheNonMetaclassClass [Manifest-Core]
+ClassTrait>>#sharedPools [Traits]
+ClassTrait>>#addSubclass: [Traits]
+ClassTrait>>#classPool [Traits]
+ClassTrait>>#subclasses [Traits]
+ClassTrait>>#asRingDefinition [Ring-Core-Kernel]
+ClassTrait>>#asFullRingDefinition [Ring-Core-Kernel]
+ClassTrait>>#fileOutInitializerOn: [CodeExport]
+ClassTrait>>#category [Traits]
+OCAbstractMethodScope>>#findVariable:ifNone: [OpalCompiler-Core]
+OCAbstractMethodScope>>#variableNamed:ifAbsent: [OpalCompiler-Core]
+OSSDL2WindowHandle>>#newFormRenderer: [OSWindow-SDL2]
+GLMPrintPopper>>#initializeTextMorph [Glamour-Morphic-Widgets]
+SDL2TouchExample>>#clearSurface [OSWindow-SDL2-Examples]
+MCRemoval>>#toSource [Monticello]
+MCRemoval>>#selector [Komitter]
+MCRemoval>>#targetDefinition [Monticello]
+MCRemoval>>#basicApplyTo: [Monticello]
+MCRemoval>>#baseDefinition [Monticello]
+MCRemoval>>#koSourceText [Komitter]
+MCRemoval>>#fromSource [Monticello]
+MCRemoval>>#koDestinationText [Komitter]
+KMUntypeableSingleKeyCombination>>#name: [Keymapping-KeyCombinations]
+OpalEncoderForLongFormV3>>#genStorePopInstVarLong: [OpalCompiler-Core]
+OpalEncoderForLongFormV3>>#genStoreInstVar: [OpalCompiler-Core]
+OpalEncoderForLongFormV3>>#genReturnTop [OpalCompiler-Core]
+OpalEncoderForLongFormV3>>#genStorePopLiteralVar: [OpalCompiler-Core]
+OpalEncoderForLongFormV3>>#genSend:numArgs: [OpalCompiler-Core]
+OpalEncoderForLongFormV3>>#genBranchPopFalse: [OpalCompiler-Core]
+OpalEncoderForLongFormV3>>#genReturnReceiver [OpalCompiler-Core]
+OpalEncoderForLongFormV3>>#genPushInstVar: [OpalCompiler-Core]
+OpalEncoderForLongFormV3>>#genStoreLiteralVar: [OpalCompiler-Core]
+OpalEncoderForLongFormV3>>#genPushLiteralVar: [OpalCompiler-Core]
+OpalEncoderForLongFormV3>>#genJumpLong: [OpalCompiler-Core]
+OpalEncoderForLongFormV3>>#genJump: [OpalCompiler-Core]
+OpalEncoderForLongFormV3>>#genReturnSpecialLiteral: [OpalCompiler-Core]
+OpalEncoderForLongFormV3>>#genStoreInstVarLong: [OpalCompiler-Core]
+OpalEncoderForLongFormV3>>#genPop [OpalCompiler-Core]
+OpalEncoderForLongFormV3>>#genReturnTopToCaller [OpalCompiler-Core]
+OpalEncoderForLongFormV3>>#genPushThisContext [OpalCompiler-Core]
+OpalEncoderForLongFormV3>>#genPushInstVarLong: [OpalCompiler-Core]
+OpalEncoderForLongFormV3>>#genPushTemp: [OpalCompiler-Core]
+OpalEncoderForLongFormV3>>#genSendSuper:numArgs: [OpalCompiler-Core]
+OpalEncoderForLongFormV3>>#genStorePopTemp: [OpalCompiler-Core]
+OpalEncoderForLongFormV3>>#genStorePopInstVar: [OpalCompiler-Core]
+OpalEncoderForLongFormV3>>#genDup [OpalCompiler-Core]
+OpalEncoderForLongFormV3>>#genPushReceiver [OpalCompiler-Core]
+OpalEncoderForLongFormV3>>#genStoreTemp: [OpalCompiler-Core]
+OpalEncoderForLongFormV3>>#genPushLiteral: [OpalCompiler-Core]
+OpalEncoderForLongFormV3>>#genBranchPopTrue: [OpalCompiler-Core]
+GTSpotterProcessorLink>>#processor [GT-Spotter]
+MCDictionaryRepository>>#versionInfoFromVersionNamed: [Metacello-MC]
+LayoutEmptyScope>>#allVisibleSlots [Slot]
+SpecLayoutSend>>#selector: [Spec-Layout]
+SpecLayoutSend>>#arguments: [Spec-Layout]
+SpecLayoutSend>>#arguments [Spec-Layout]
+SpecLayoutSend>>#selector [Spec-Layout]
+ClassCommentChunk>>#description [CodeImport]
+BaselineOfRenraku>>#baseline: [BaselineOfRenraku]
+FreeTypeFileInfo>>#baseName [FreeType]
+FreeTypeFileInfo>>#locationType [FreeType]
+FreeTypeFileInfo>>#fileSize [FreeType]
+PSMCClassChangeWrapper>>#clearChoice [Tool-Diff]
+PSMCClassChangeWrapper>>#chooseRemote [Tool-Diff]
+PSMCClassChangeWrapper>>#localChosen [Tool-Diff]
+PSMCClassChangeWrapper>>#chooseLocal [Tool-Diff]
+PSMCClassChangeWrapper>>#remoteChosen [Tool-Diff]
+AthensCairoPathBuilder>>#toAbsolute: [Athens-Cairo]
+TxEmbeddedObjectCommand>>#advance [TxText-Athens]
+TxEmbeddedObjectCommand>>#span: [TxText-Athens]
+EncoderForSistaV1>>#genStorePopInstVarLong: [Compiler]
+EncoderForSistaV1>>#genReturnTop [Compiler]
+EncoderForSistaV1>>#genStoreInstVar: [Compiler]
+EncoderForSistaV1>>#genBranchPopTrue: [Compiler]
+EncoderForSistaV1>>#genStorePopLiteralVar: [Compiler]
+EncoderForSistaV1>>#genSend:numArgs: [Compiler]
+EncoderForSistaV1>>#genBranchPopFalse: [Compiler]
+EncoderForSistaV1>>#genReturnReceiver [Compiler]
+EncoderForSistaV1>>#genPushInstVar: [Compiler]
+EncoderForSistaV1>>#genStoreLiteralVar: [Compiler]
+EncoderForSistaV1>>#genPushLiteralVar: [Compiler]
+EncoderForSistaV1>>#genJumpLong: [Compiler]
+EncoderForSistaV1>>#genJump: [Compiler]
+EncoderForSistaV1>>#genStoreInstVarLong: [Compiler]
+EncoderForSistaV1>>#genReturnSpecialLiteral: [Compiler]
+EncoderForSistaV1>>#genPop [Compiler]
+EncoderForSistaV1>>#genReturnTopToCaller [Compiler]
+EncoderForSistaV1>>#genPushThisContext [Compiler]
+EncoderForSistaV1>>#genPushInstVarLong: [Compiler]
+EncoderForSistaV1>>#genPushTemp: [Compiler]
+EncoderForSistaV1>>#genSendSuper:numArgs: [Compiler]
+EncoderForSistaV1>>#genStorePopTemp: [Compiler]
+EncoderForSistaV1>>#genStorePopInstVar: [Compiler]
+EncoderForSistaV1>>#genDup [Compiler]
+EncoderForSistaV1>>#genStoreTemp: [Compiler]
+EncoderForSistaV1>>#genPushLiteral: [Compiler]
+EncoderForSistaV1>>#genPushReceiver [Compiler]
+EncoderForSistaV1>>#genPushSpecialLiteral: [Compiler]
+RGClassDescriptionDefinition>>#allInstVarNames [Ring-Core-Kernel]
+ByteLayout>>#instanceSpecification [Slot]
+SDL_TouchFingerDownEvent>>#accept: [OSWindow-SDL2]
+Float>>#isPowerOfTwo [Kernel]
+Float>>#asFraction [Kernel]
+ChunkReadStream>>#terminatorMark [CodeImport]
+MCSnapshotBrowser>>#text [MonticelloGUI]
+MCSnapshotBrowser>>#text: [MonticelloGUI]
+VSMakeDevelopmentCommand>>#title [Versionner-Core-Commands]
+SelectVisitorTest>>#testBreadthFirst [FileSystem-Tests-Core]
+SelectVisitorTest>>#testPostorder [FileSystem-Tests-Core]
+SelectVisitorTest>>#testPreorder [FileSystem-Tests-Core]
+Dictionary>>#isHealthy [Collections-Unordered]
+MetacelloVersionNumberTestCase>>#testVersion12 [Metacello-TestsCore]
+MetacelloVersionNumberTestCase>>#testVersion17 [Metacello-TestsCore]
+MetacelloVersionNumberTestCase>>#testSpecialMatch [Metacello-TestsCore]
+MetacelloVersionNumberTestCase>>#testInvalidSpecialMatch [Metacello-TestsCore]
+MetacelloVersionNumberTestCase>>#testVersion10 [Metacello-TestsCore]
+MetacelloVersionNumberTestCase>>#testStandardMatch [Metacello-TestsCore]
+MetacelloVersionNumberTestCase>>#testVersion16 [Metacello-TestsCore]
+MetacelloVersionNumberTestCase>>#testVersion15 [Metacello-TestsCore]
+MetacelloVersionNumberTestCase>>#testVersion05 [Metacello-TestsCore]
+MetacelloVersionNumberTestCase>>#testVersion18 [Metacello-TestsCore]
+MetacelloVersionNumberTestCase>>#testVersion19 [Metacello-TestsCore]
+MetacelloVersionNumberTestCase>>#testVersion09 [Metacello-TestsCore]
+VSBrowseConfigurationCommand>>#title [Versionner-Core-Commands]
+MCDirectoryRepository>>#readStreamForFileNamed:do: [Monticello]
+MCDirectoryRepository>>#writeStreamForFileNamed:replace:do: [Monticello]
+RBClass>>#realName: [Refactoring-Core]
+SDL_MouseButtonUpEvent>>#accept: [OSWindow-SDL2]
+MCHttpRepository>>#readStreamForFileNamed:do: [MonticelloRemoteRepositories]
+MCHttpRepository>>#writeStreamForFileNamed:replace:do: [MonticelloRemoteRepositories]
+MorphTreePager>>#nextPage [Morphic-Widgets-Tree]
+MorphTreePager>>#currentNodelist [Morphic-Widgets-Tree]
+MorphTreePager>>#nextPage: [Morphic-Widgets-Tree]
+MorphTreePager>>#onLastPage [Morphic-Widgets-Tree]
+MorphTreePager>>#notOnLastPage [Morphic-Widgets-Tree]
+Metaclass>>#removeSubclass: [Traits]
+Metaclass>>#possibleVariablesFor:continuedFrom: [Traits]
+Metaclass>>#criticTheNonMetaclassClass [Manifest-Core]
+Metaclass>>#sharedPools [Traits]
+Metaclass>>#addSubclass: [Traits]
+Metaclass>>#basicLocalSelectors: [Kernel]
+Metaclass>>#classPool [Traits]
+Metaclass>>#subclasses [Traits]
+Metaclass>>#asRingDefinition [Ring-Core-Kernel]
+Metaclass>>#fileOutInitializerOn: [CodeExport]
+Metaclass>>#asFullRingDefinition [Ring-Core-Kernel]
+Metaclass>>#category [Traits]
+Metaclass>>#fileOutOn:initializing: [CodeExport]
+WeakValueAssociation>>#key:value: [Collections-Support]
+WeakValueAssociation>>#value: [Collections-Support]
+MacOSPlatform>>#keyForValue: [System-Platforms]
+RubDisplayScanner>>#cr [Rubric]
+RubDisplayScanner>>#endOfRun [Rubric]
+RubDisplayScanner>>#crossedX [Rubric]
+RubDisplayScanner>>#tab [Rubric]
+RubDisplayScanner>>#setStopConditions [Rubric]
+VSValidateConfigurationCommand>>#title [Versionner-Core-Commands]
+PostorderGuideTest>>#testAll [FileSystem-Tests-Core]
+Set>>#isHealthy [Collections-Unordered]
+RBRenameVariableChange>>#oldName [Refactoring-Changes]
+RBRenameVariableChange>>#newName [Refactoring-Changes]
+RBRenameVariableChange>>#changeClass [Refactoring-Changes]
+Compiler>>#parse: [Compiler]
+Compiler>>#format: [Compiler]
+MCFileBasedRepository>>#versionInfoFromVersionNamed: [Metacello-MC]
+RubCommentAnnotationDisplayer>>#textColor [Rubric]
+RubCommentAnnotationDisplayer>>#backgroundColor [Rubric]
+RubCommentAnnotationDisplayer>>#fontToUse [Rubric]
+MemoryStore>>#forReferencePrintOn: [FileSystem-Memory]
+MemoryStore>>#handleClass [FileSystem-Memory]
+SHA256>>#storeLength:in: [System-Hashing]
+SHA256>>#processBuffer: [System-Hashing]
+SHA256>>#processFinalBuffer:bitLength: [System-Hashing]
+TxAthensNoWrapStrategy>>#visitCharacterSpan: [TxText-Athens]
+SpecRowLayout>>#addSplitter [Spec-Layout]
+SpecRowLayout>>#countNumberOfProportionals [Spec-Layout]
+SpecRowLayout>>#autoFractionComputation [Spec-Layout]
+SpecRowLayout>>#setWidgetLayoutWithNoOffset:at:delta: [Spec-Layout]
+SpecRowLayout>>#manualFractionComputation [Spec-Layout]
+SpecRowLayout>>#setWidgetLayoutWithOffset:at: [Spec-Layout]
+SpecRowLayout>>#shiftLastWidgets [Spec-Layout]
+SolidFillStyle>>#addFillStyleMenuItems:hand:from: [Morphic-Base]
+SetTest>>#testAsSortedArray [Collections-Tests]
+SetTest>>#testAsBag [Collections-Tests]
+SetTest>>#assertNonDuplicatedContents:whenConvertedTo: [Collections-Tests]
+SetTest>>#anotherElementNotIn [Collections-Tests]
+SetTest>>#testCopyNonEmptyWithoutAllNotIncluded [Collections-Tests]
+SetTest>>#testIncludesElementIsNotThere [Collections-Tests]
+SetTest>>#test0FixtureIncludeTest [Collections-Tests]
+SetTest>>#testIncludesElementIsThere [Collections-Tests]
+SetTest>>#testAsSet [Collections-Tests]
+SetTest>>#testCopyNonEmptyWith [Collections-Tests]
+SetTest>>#testAsSortedCollectionWithSortBlock [Collections-Tests]
+SetTest>>#testCopyNonEmptyWithoutAll [Collections-Tests]
+SetTest>>#testIncludesAnyAllThere [Collections-Tests]
+SetTest>>#collectionWithSortableElements [Collections-Tests]
+SetTest>>#collectionWithElementsToRemove [Collections-Tests]
+SetTest>>#nonEmpty1Element [Collections-Tests]
+SetTest>>#testIncludesAnyNoneThere [Collections-Tests]
+SetTest>>#test0CopyTest [Collections-Tests]
+SetTest>>#testAsArray [Collections-Tests]
+SetTest>>#testAsIdentitySet [Collections-Tests]
+SetTest>>#collectionNotIncluded [Collections-Tests]
+SetTest>>#test0FixtureTConvertTest [Collections-Tests]
+SetTest>>#testIncludesAllNoneThere [Collections-Tests]
+SetTest>>#collectionClass [Collections-Tests]
+SetTest>>#assertNoDuplicates:whenConvertedTo: [Collections-Tests]
+SetTest>>#collectionWithoutEqualElements [Collections-Tests]
+SetTest>>#collection [Collections-Tests]
+SetTest>>#testAsOrderedCollection [Collections-Tests]
+SetTest>>#testCopyNotSame [Collections-Tests]
+SetTest>>#testCopyEquals [Collections-Tests]
+SetTest>>#testCopySameClass [Collections-Tests]
+SetTest>>#testCopyEmptyWithoutAll [Collections-Tests]
+SetTest>>#test0FixtureConverAsSortedTest [Collections-Tests]
+SetTest>>#testAsSortedCollection [Collections-Tests]
+SetTest>>#testCopyEmptyWith [Collections-Tests]
+SetTest>>#elementNotIn [Collections-Tests]
+SetTest>>#elementToAdd [Collections-Tests]
+SetTest>>#assertSameContents:whenConvertedTo: [Collections-Tests]
+CompositeTransform>>#offset [Graphics-Transformations]
+OpalCompiler>>#parse: [OpalCompiler-Core]
+OpalCompiler>>#format: [OpalCompiler-Core]
+FileLocator>>#path [FileSystem-Core]
+NautilusAnnotationDisplayer>>#textColor [Nautilus]
+NautilusAnnotationDisplayer>>#backgroundColor [Nautilus]
+NautilusAnnotationDisplayer>>#fontToUse [Nautilus]
+NativeBoostWin32>>#stackAlignment [NativeBoost-Win32]
+NativeBoostLinux32>>#stackAlignment [NativeBoost-Unix]
+SelectorNode>>#emitCodeForValue:encoder: [Compiler]
+SelectorNode>>#name:key:index:type: [Compiler]
+Class>>#removeSubclass: [Traits]
+Class>>#possibleVariablesFor:continuedFrom: [Traits]
+Class>>#criticTheNonMetaclassClass [Manifest-Core]
+Class>>#sharedPools [Kernel]
+Class>>#addSubclass: [Kernel]
+Class>>#basicLocalSelectors: [Kernel]
+Class>>#classPool [Kernel]
+Class>>#subclasses [Kernel]
+Class>>#asRingDefinition [Ring-Core-Kernel]
+Class>>#fileOutInitializerOn: [CodeExport]
+Class>>#asFullRingDefinition [Ring-Core-Kernel]
+Class>>#category [Traits]
+Class>>#fileOutOn:initializing: [CodeExport]
+RubCompositionScanner>>#cr [Rubric]
+RubCompositionScanner>>#endOfRun [Rubric]
+RubCompositionScanner>>#crossedX [Rubric]
+RubCompositionScanner>>#tab [Rubric]
+RubCompositionScanner>>#setStopConditions [Rubric]
+MorphTreeChunkPager>>#nextPage [Morphic-Widgets-Tree]
+MorphTreeChunkPager>>#currentNodelist [Morphic-Widgets-Tree]
+MorphTreeChunkPager>>#nextPage: [Morphic-Widgets-Tree]
+MorphTreeChunkPager>>#onLastPage [Morphic-Widgets-Tree]
+MorphTreeChunkPager>>#notOnLastPage [Morphic-Widgets-Tree]
+Bezier3Segment>>#bezierClipHeight: [Balloon]
+Bezier3Segment>>#outlineSegment: [Balloon]
+ObjectLayout>>#extendWord [Slot]
+ObjectLayout>>#extendVariable: [Slot]
+ObjectLayout>>#extendByte [Slot]
+ObjectLayout>>#extend: [Slot]
+AJCdeclCallInfo>>#emitAlignmentIfNeeded [AsmJit-StackManagement]
+AJCdeclCallInfo>>#emitAlignment [AsmJit-StackManagement]
+TxAthensCharacterWrappingStrategy>>#visitCharacterSpan: [TxText-Athens]
+TxEndSpan>>#insertLineSeparator:at: [TxText-Model]
+SDL_JoyButtonDownEvent>>#accept: [OSWindow-SDL2]
+HDLintReport>>#run [HudsonBuildTools20]
+HDLintReport>>#initializeOn: [HudsonBuildTools20]
+Context>>#storeIntoTemporaryVariable: [Kernel]
+Context>>#pushConsArrayWithElements: [Kernel]
+Context>>#doPop [Kernel]
+Context>>#storeIntoLiteralVariable: [Kernel]
+Context>>#methodReturnReceiver [Kernel]
+Context>>#doDup [Kernel]
+Context>>#storeIntoRemoteTemp:inVectorAt: [Kernel]
+Context>>#pushLiteralVariable: [Kernel]
+Context>>#methodReturnConstant: [Kernel]
+Context>>#tempAt: [Kernel]
+Context>>#pushReceiverVariable: [Kernel]
+Context>>#storeIntoReceiverVariable: [Kernel]
+Context>>#jump: [Kernel]
+Context>>#pushClosureCopyNumCopiedValues:numArgs:blockSize: [Kernel]
+Context>>#popIntoRemoteTemp:inVectorAt: [Kernel]
+Context>>#popIntoLiteralVariable: [Kernel]
+Context>>#pushTemporaryVariable: [Kernel]
+Context>>#jump:if: [Kernel]
+Context>>#blockReturnConstant: [Kernel]
+Context>>#popIntoTemporaryVariable: [Kernel]
+Context>>#pushConstant: [Kernel]
+Context>>#methodReturnTop [Kernel]
+Context>>#pushRemoteTemp:inVectorAt: [Kernel]
+Context>>#pushNewArrayOfSize: [Kernel]
+Context>>#send:super:numArgs: [Kernel]
+Context>>#popIntoReceiverVariable: [Kernel]
+Context>>#doNop [Kernel]
+Context>>#pushActiveContext [Kernel]
+Context>>#pushReceiver [Kernel]
+Context>>#blockReturnTop [Kernel]
+SDL_KeyDownEvent>>#accept: [OSWindow-SDL2]
+ClassModifiedClassDefinition>>#classAffected [System-Announcements]
+MatrixTransform2x3>>#offset [Graphics-Transformations]
+RGMetaclassDefinition>>#allClassVarNames [Ring-Core-Kernel]
+RGMetaclassDefinition>>#category [Ring-Core-Kernel]
+RGMetaclassDefinition>>#allSharedPoolNames [Ring-Core-Kernel]
+RGMetaclassDefinition>>#inheritsFrom: [NautilusCommon]
+MCMergeBrowser>>#cancel [MonticelloGUI]
+RubAnnotationDisplayer>>#textColor [Rubric]
+RubAnnotationDisplayer>>#backgroundColor [Rubric]
+RubAnnotationDisplayer>>#fontToUse [Rubric]
+BottomLeftGripMorph>>#gripLayoutFrame [Morphic-Widgets-Windows]
+BottomLeftGripMorph>>#apply: [Morphic-Widgets-Windows]
+BottomLeftGripMorph>>#ptName [Morphic-Widgets-Windows]
+KomitDefinition>>#koSourceText [Komitter]
+KomitDefinition>>#koDestinationText [Komitter]
+AbstractPackageWidget>>#takeKeyboardFocus [Nautilus]
+VSUpdateDevelopmentVersionCommand>>#title [Versionner-Core-Commands]
+NautilusCommentAnnotationDisplayer>>#textColor [Nautilus]
+NautilusCommentAnnotationDisplayer>>#backgroundColor [Nautilus]
+NautilusCommentAnnotationDisplayer>>#fontToUse [Nautilus]
+Komit>>#commitOn: [Komitter]
+VSCommitPackageAction>>#packageName [Versionner-Commit]
+DAPackageAnalyzerPackageDependenciesWindow>>#initializeWithPackageNames: [Tool-DependencyAnalyser-UI]
+GoferPackageReference>>#metacelloPackageNameWithBranch [Metacello-MC]
+KomitClass>>#koSourceText [Komitter]
+KomitClass>>#koDestinationText [Komitter]
+TxTextLayoutTest>>#defaultLayoutViewExtent [TxText-AthensTests]
+BottomRightGripMorph>>#gripLayoutFrame [Morphic-Widgets-Windows]
+BottomRightGripMorph>>#apply: [Morphic-Widgets-Windows]
+BottomRightGripMorph>>#ptName [Morphic-Widgets-Windows]
+PackageTreePackageSelection>>#package [Nautilus]
+PackageTreePackageSelection>>#classes [Nautilus]
+PSMCPatchOperationWrapper>>#clearChoice [Tool-Diff]
+PSMCPatchOperationWrapper>>#chooseRemote [Tool-Diff]
+PSMCPatchOperationWrapper>>#localChosen [Tool-Diff]
+PSMCPatchOperationWrapper>>#chooseLocal [Tool-Diff]
+PSMCPatchOperationWrapper>>#remoteChosen [Tool-Diff]
+SimpleEditor>>#backTo: [Text-Edition]
+SimpleEditor>>#processKeyStroke: [Text-Edition]
+SimpleEditor>>#selection [Text-Edition]
+SimpleEditor>>#startIndex [Text-Edition]
+SimpleEditor>>#pointIndex [Text-Edition]
+SimpleEditor>>#cursorEnd: [Text-Edition]
+SimpleEditor>>#pointIndex: [Text-Edition]
+SimpleEditor>>#selectFrom:to: [Text-Edition]
+SimpleEditor>>#doneTyping [Text-Edition]
+SimpleEditor>>#makeCapitalized: [Text-Edition]
+SimpleEditor>>#cut [Text-Edition]
+SimpleEditor>>#startOfTyping [Text-Edition]
+SimpleEditor>>#stateArray [Text-Edition]
+SimpleEditor>>#replace:with:and: [Text-Edition]
+SimpleEditor>>#cursorHome: [Text-Edition]
+SimpleEditor>>#closeTypeIn [Text-Edition]
+SimpleEditor>>#replaceSelectionWith: [Text-Edition]
+SimpleEditor>>#hasCaret [Text-Edition]
+SimpleEditor>>#makeLowercase: [Text-Edition]
+SimpleEditor>>#zapSelectionWith: [Text-Edition]
+SimpleEditor>>#selectLine [Text-Edition]
+SimpleEditor>>#markIndex: [Text-Edition]
+SimpleEditor>>#dispatchOn: [Text-Edition]
+SimpleEditor>>#forwardDelete: [Text-Edition]
+SimpleEditor>>#stateArrayPut: [Text-Edition]
+SimpleEditor>>#makeUppercase: [Text-Edition]
+SimpleEditor>>#string [Text-Edition]
+SimpleEditor>>#stopIndex [Text-Edition]
+SimpleEditor>>#openTypeIn [Text-Edition]
+SimpleEditor>>#markIndex [Text-Edition]
+SimpleEditor>>#resetState [Text-Edition]
+SimpleEditor>>#copySelection [Text-Edition]
+SimpleEditor>>#addString: [Text-Edition]
+MetacelloSemanticVersionNumberTestCase>>#testVersion12 [Metacello-TestsCore]
+MetacelloSemanticVersionNumberTestCase>>#testVersion17 [Metacello-TestsCore]
+MetacelloSemanticVersionNumberTestCase>>#testSpecialMatch [Metacello-TestsCore]
+MetacelloSemanticVersionNumberTestCase>>#testInvalidSpecialMatch [Metacello-TestsCore]
+MetacelloSemanticVersionNumberTestCase>>#testVersion10 [Metacello-TestsCore]
+MetacelloSemanticVersionNumberTestCase>>#testStandardMatch [Metacello-TestsCore]
+MetacelloSemanticVersionNumberTestCase>>#testVersion16 [Metacello-TestsCore]
+MetacelloSemanticVersionNumberTestCase>>#testVersion15 [Metacello-TestsCore]
+MetacelloSemanticVersionNumberTestCase>>#testVersion05 [Metacello-TestsCore]
+MetacelloSemanticVersionNumberTestCase>>#testVersion18 [Metacello-TestsCore]
+MetacelloSemanticVersionNumberTestCase>>#testVersion19 [Metacello-TestsCore]
+MetacelloSemanticVersionNumberTestCase>>#testVersion09 [Metacello-TestsCore]
+VariableNode>>#emitCodeForValue:encoder: [Compiler]
+VariableNode>>#name:key:index:type: [Compiler]
+TopLeftGripMorph>>#gripLayoutFrame [Morphic-Widgets-Windows]
+TopLeftGripMorph>>#apply: [Morphic-Widgets-Windows]
+TopLeftGripMorph>>#ptName [Morphic-Widgets-Windows]
+UnixPlatform>>#keyForValue: [System-Platforms]
+SMTPClient>>#quit [Network-Protocols]
+SMTPClient>>#login [Network-Protocols]
+FTPClient>>#quit [Network-Protocols]
+FTPClient>>#login [Network-Protocols]
+OSVMWindowHandle>>#newFormRenderer: [OSWindow-VM]
+Slice>>#commitOn: [Komitter]
+SelectorChooserMorph>>#setPosition [Text-Edition]
+SelectorChooserMorph>>#drawCommonPrefixAreasOn: [Text-Edition]
+SelectorChooserMorph>>#positionInRequestor [Text-Edition]
+SelectorChooserMorph>>#prefix: [Text-Edition]
+SelectorChooserMorph>>#nextPrefixWith: [Text-Edition]
+SelectorChooserMorph>>#drawCommonPrefixAreasOn:menu: [Text-Edition]
+BagTest>>#testAsSortedArray [Collections-Tests]
+BagTest>>#testAsBag [Collections-Tests]
+BagTest>>#assertNonDuplicatedContents:whenConvertedTo: [Collections-Tests]
+BagTest>>#anotherElementNotIn [Collections-Tests]
+BagTest>>#testCopyNonEmptyWithoutAllNotIncluded [Collections-Tests]
+BagTest>>#testIncludesElementIsNotThere [Collections-Tests]
+BagTest>>#test0FixtureIncludeTest [Collections-Tests]
+BagTest>>#testIncludesElementIsThere [Collections-Tests]
+BagTest>>#testAsSet [Collections-Tests]
+BagTest>>#testCopyNonEmptyWith [Collections-Tests]
+BagTest>>#testAsSortedCollectionWithSortBlock [Collections-Tests]
+BagTest>>#testCopyNonEmptyWithoutAll [Collections-Tests]
+BagTest>>#testIncludesAnyAllThere [Collections-Tests]
+BagTest>>#collectionWithSortableElements [Collections-Tests]
+BagTest>>#collectionWithElementsToRemove [Collections-Tests]
+BagTest>>#nonEmpty1Element [Collections-Tests]
+BagTest>>#testIncludesAnyNoneThere [Collections-Tests]
+BagTest>>#test0CopyTest [Collections-Tests]
+BagTest>>#testAsArray [Collections-Tests]
+BagTest>>#testAsIdentitySet [Collections-Tests]
+BagTest>>#collectionNotIncluded [Collections-Tests]
+BagTest>>#test0FixtureTConvertTest [Collections-Tests]
+BagTest>>#testIncludesAllNoneThere [Collections-Tests]
+BagTest>>#collectionClass [Collections-Tests]
+BagTest>>#assertNoDuplicates:whenConvertedTo: [Collections-Tests]
+BagTest>>#collectionWithoutEqualElements [Collections-Tests]
+BagTest>>#collection [Collections-Tests]
+BagTest>>#testAsOrderedCollection [Collections-Tests]
+BagTest>>#testCopyNotSame [Collections-Tests]
+BagTest>>#testCopyEquals [Collections-Tests]
+BagTest>>#testCopySameClass [Collections-Tests]
+BagTest>>#testCopyEmptyWithoutAll [Collections-Tests]
+BagTest>>#test0FixtureConverAsSortedTest [Collections-Tests]
+BagTest>>#testAsSortedCollection [Collections-Tests]
+BagTest>>#testCopyEmptyWith [Collections-Tests]
+BagTest>>#elementNotIn [Collections-Tests]
+BagTest>>#elementToAdd [Collections-Tests]
+BagTest>>#assertSameContents:whenConvertedTo: [Collections-Tests]
+GLMSimpleRubricExample>>#presentation [Glamour-Rubric-Presentations]
+LargeInteger>>#as31BitSmallInt [Kernel]
+LargeInteger>>#digitLength [Kernel]
+LargeInteger>>#isLarge [Kernel]
+LargeInteger>>#digitAt:put: [Kernel]
+LargeInteger>>#hashMultiply [Kernel]
+LargeInteger>>#digitAt: [Kernel]
+AbstractClassWidget>>#takeKeyboardFocus [Nautilus]
+SymbolTest>>#testAsSortedArray [Collections-Tests]
+SymbolTest>>#testAsBag [Collections-Tests]
+SymbolTest>>#assertNonDuplicatedContents:whenConvertedTo: [Collections-Tests]
+SymbolTest>>#anotherElementNotIn [Collections-Tests]
+SymbolTest>>#testCopyNonEmptyWithoutAllNotIncluded [Collections-Tests]
+SymbolTest>>#testIncludesElementIsNotThere [Collections-Tests]
+SymbolTest>>#test0FixtureIncludeTest [Collections-Tests]
+SymbolTest>>#testIncludesElementIsThere [Collections-Tests]
+SymbolTest>>#testAsSet [Collections-Tests]
+SymbolTest>>#testCopyNonEmptyWith [Collections-Tests]
+SymbolTest>>#testAsSortedCollectionWithSortBlock [Collections-Tests]
+SymbolTest>>#testCopyNonEmptyWithoutAll [Collections-Tests]
+SymbolTest>>#testIncludesAnyAllThere [Collections-Tests]
+SymbolTest>>#collectionWithSortableElements [Collections-Tests]
+SymbolTest>>#collectionWithElementsToRemove [Collections-Tests]
+SymbolTest>>#nonEmpty1Element [Collections-Tests]
+SymbolTest>>#testIncludesAnyNoneThere [Collections-Tests]
+SymbolTest>>#test0CopyTest [Collections-Tests]
+SymbolTest>>#testAsArray [Collections-Tests]
+SymbolTest>>#testAsIdentitySet [Collections-Tests]
+SymbolTest>>#collectionNotIncluded [Collections-Tests]
+SymbolTest>>#test0FixtureTConvertTest [Collections-Tests]
+SymbolTest>>#testIncludesAllNoneThere [Collections-Tests]
+SymbolTest>>#collectionClass [Collections-Tests]
+SymbolTest>>#assertNoDuplicates:whenConvertedTo: [Collections-Tests]
+SymbolTest>>#collectionWithoutEqualElements [Collections-Tests]
+SymbolTest>>#collection [Collections-Tests]
+SymbolTest>>#testAsOrderedCollection [Collections-Tests]
+SymbolTest>>#testCopyNotSame [Collections-Tests]
+SymbolTest>>#testCopyEquals [Collections-Tests]
+SymbolTest>>#testCopySameClass [Collections-Tests]
+SymbolTest>>#testCopyEmptyWithoutAll [Collections-Tests]
+SymbolTest>>#test0FixtureConverAsSortedTest [Collections-Tests]
+SymbolTest>>#testAsSortedCollection [Collections-Tests]
+SymbolTest>>#testCopyEmptyWith [Collections-Tests]
+SymbolTest>>#elementNotIn [Collections-Tests]
+SymbolTest>>#elementToAdd [Collections-Tests]
+SymbolTest>>#assertSameContents:whenConvertedTo: [Collections-Tests]
+GradientFillStyle>>#asAthensPaintOn: [Athens-Core]
+KomitMethod>>#koSourceText [Komitter]
+KomitMethod>>#koDestinationText [Komitter]
+DiskFileSystemTest>>#testEqual [FileSystem-Tests-Disk]
+MetacelloFetchingMCSpecLoader>>#actionLabel [Metacello-MC]
+TxNewLineDisplayCommand>>#advance [TxText-Athens]
+TxNewLineDisplayCommand>>#span: [TxText-Athens]
+DAPackageRelationGraphGenerator>>#buildEdges [Tool-DependencyAnalyser]
+DAPackageRelationGraphGenerator>>#buildNodes [Tool-DependencyAnalyser]
+OCClassScope>>#findVariable:ifNone: [OpalCompiler-Core]
+OCClassScope>>#variableNamed:ifAbsent: [OpalCompiler-Core]
+OSNullWindowHandle>>#newFormRenderer: [OSWindow-Core]
+RBMetaclass>>#realName: [Refactoring-Core]
+OSTouchSwipeDetector>>#eventClassMoveGesture [OSWindow-Core]
+OSTouchSwipeDetector>>#eventClassEndGesture [OSWindow-Core]
+OSTouchSwipeDetector>>#eventClassBeginGesture [OSWindow-Core]
+GLMLipsumWithSegmentsExample>>#presentation [Glamour-Rubric-Presentations]
+PreorderGuideTest>>#testAll [FileSystem-Tests-Core]
+SelectPackageBrowser>>#removeAllItems [Tool-CriticBrowser]
+SelectPackageBrowser>>#addAllItems [Tool-CriticBrowser]
+SelectPackageBrowser>>#removeItems [Tool-CriticBrowser]
+SelectPackageBrowser>>#addItems [Tool-CriticBrowser]
+Fraction>>#isPowerOfTwo [Kernel]
+Fraction>>#asFraction [Kernel]
+ClassAdded>>#classAffected [System-Announcements]
+StringTest>>#testAsSortedArray [Collections-Tests]
+StringTest>>#testAsBag [Collections-Tests]
+StringTest>>#assertNonDuplicatedContents:whenConvertedTo: [Collections-Tests]
+StringTest>>#anotherElementNotIn [Collections-Tests]
+StringTest>>#testCopyNonEmptyWithoutAllNotIncluded [Collections-Tests]
+StringTest>>#testIncludesElementIsNotThere [Collections-Tests]
+StringTest>>#test0FixtureIncludeTest [Collections-Tests]
+StringTest>>#testIncludesElementIsThere [Collections-Tests]
+StringTest>>#testAsSet [Collections-Tests]
+StringTest>>#testCopyNonEmptyWith [Collections-Tests]
+StringTest>>#testAsSortedCollectionWithSortBlock [Collections-Tests]
+StringTest>>#testCopyNonEmptyWithoutAll [Collections-Tests]
+StringTest>>#testIncludesAnyAllThere [Collections-Tests]
+StringTest>>#collectionWithSortableElements [Collections-Tests]
+StringTest>>#collectionWithElementsToRemove [Collections-Tests]
+StringTest>>#nonEmpty1Element [Collections-Tests]
+StringTest>>#testIncludesAnyNoneThere [Collections-Tests]
+StringTest>>#test0CopyTest [Collections-Tests]
+StringTest>>#testAsArray [Collections-Tests]
+StringTest>>#testAsIdentitySet [Collections-Tests]
+StringTest>>#collectionNotIncluded [Collections-Tests]
+StringTest>>#test0FixtureTConvertTest [Collections-Tests]
+StringTest>>#testIncludesAllNoneThere [Collections-Tests]
+StringTest>>#collectionClass [Collections-Tests]
+StringTest>>#assertNoDuplicates:whenConvertedTo: [Collections-Tests]
+StringTest>>#collectionWithoutEqualElements [Collections-Tests]
+StringTest>>#collection [Collections-Tests]
+StringTest>>#testAsOrderedCollection [Collections-Tests]
+StringTest>>#testCopyNotSame [Collections-Tests]
+StringTest>>#testCopyEquals [Collections-Tests]
+StringTest>>#testCopySameClass [Collections-Tests]
+StringTest>>#testCopyEmptyWithoutAll [Collections-Tests]
+StringTest>>#test0FixtureConverAsSortedTest [Collections-Tests]
+StringTest>>#testAsSortedCollection [Collections-Tests]
+StringTest>>#testCopyEmptyWith [Collections-Tests]
+StringTest>>#elementNotIn [Collections-Tests]
+StringTest>>#elementToAdd [Collections-Tests]
+StringTest>>#assertSameContents:whenConvertedTo: [Collections-Tests]
+ReCriticTest>>#testBan [Renraku-Test]
+ReCriticTest>>#testBan1 [Renraku-Test]
+JPEGReadStream>>#growHuffmanTable: [Graphics-Files]
+JPEGReadStream>>#createHuffmanTables:counts:from:to: [Graphics-Files]
+JPEGReadStream>>#decodeValueFrom: [Graphics-Files]
+JPEGReadStream>>#nextByte [Graphics-Files]
+MemoryHandle>>#binaryReadStream [FileSystem-Memory]
+TxLayoutStrategyTest>>#defaultLayoutViewExtent [TxText-AthensTests]
+FreeTypeEmbeddedFileInfo>>#baseName [EmbeddedFreeType]
+FreeTypeEmbeddedFileInfo>>#locationType [EmbeddedFreeType]
+FreeTypeEmbeddedFileInfo>>#fileSize [EmbeddedFreeType]
+PluggableTreeMorph>>#keystrokeActionSelector: [Morphic-Widgets-Pluggable]
+PluggableTreeMorph>>#keystrokeActionSelector [Morphic-Widgets-Pluggable]
+SmallInteger>>#as31BitSmallInt [Kernel]
+SmallInteger>>#digitLength [Kernel]
+SmallInteger>>#isLarge [Kernel]
+SmallInteger>>#digitAt:put: [Kernel]
+SmallInteger>>#hashMultiply [Kernel]
+SmallInteger>>#digitAt: [Kernel]
+CollectVisitorTest>>#testBreadthFirst [FileSystem-Tests-Core]
+CollectVisitorTest>>#testPostorder [FileSystem-Tests-Core]
+CollectVisitorTest>>#testPreorder [FileSystem-Tests-Core]
+AbstractMethodWidget>>#takeKeyboardFocus [Nautilus]
+ReadStream>>#on:from:to: [Collections-Streams]
+LIFOQueue>>#nextIfNone: [Collections-Atomic]
+LIFOQueue>>#peek [Collections-Atomic]
+LIFOQueue>>#nextOrNil [Collections-Atomic]
+LIFOQueue>>#nextPut: [Collections-Atomic]
+TxCharacterSpan>>#removeBefore: [TxText-Model]
+TxCharacterSpan>>#insertLineSeparator:at: [TxText-Model]
+DACompositeDependency>>#nodeClass [Tool-DependencyAnalyser-UI]
+TxTextEditorMorph>>#text [TxText-Athens]
+TxTextEditorMorph>>#layoutView [TxText-Athens]
+TestResource>>#resources [SUnit-Core]
+TestResource>>#setUp [SUnit-Core]
+TestResource>>#tearDown [SUnit-Core]
+GLMListPresentation>>#hasTags [Glamour-Presentations]
+GLMListPresentation>>#hasTagsFilter [Glamour-Presentations]
+Bezier2Segment>>#bezierClipHeight: [Balloon]
+Bezier2Segment>>#outlineSegment: [Balloon]
+GLMSegmentWithHelpAndMouseUpActionExample>>#presentation [Glamour-Rubric-Presentations]
+ClassOrganizationChunk>>#description [CodeImport]
+OrderedCollectionTest>>#testAsSortedArray [Collections-Tests]
+OrderedCollectionTest>>#testAsBag [Collections-Tests]
+OrderedCollectionTest>>#assertNonDuplicatedContents:whenConvertedTo: [Collections-Tests]
+OrderedCollectionTest>>#anotherElementNotIn [Collections-Tests]
+OrderedCollectionTest>>#testCopyNonEmptyWithoutAllNotIncluded [Collections-Tests]
+OrderedCollectionTest>>#testIncludesElementIsNotThere [Collections-Tests]
+OrderedCollectionTest>>#test0FixtureIncludeTest [Collections-Tests]
+OrderedCollectionTest>>#testIncludesElementIsThere [Collections-Tests]
+OrderedCollectionTest>>#testAsSet [Collections-Tests]
+OrderedCollectionTest>>#testCopyNonEmptyWith [Collections-Tests]
+OrderedCollectionTest>>#testAsSortedCollectionWithSortBlock [Collections-Tests]
+OrderedCollectionTest>>#testCopyNonEmptyWithoutAll [Collections-Tests]
+OrderedCollectionTest>>#testIncludesAnyAllThere [Collections-Tests]
+OrderedCollectionTest>>#collectionWithSortableElements [Collections-Tests]
+OrderedCollectionTest>>#collectionWithElementsToRemove [Collections-Tests]
+OrderedCollectionTest>>#nonEmpty1Element [Collections-Tests]
+OrderedCollectionTest>>#testIncludesAnyNoneThere [Collections-Tests]
+OrderedCollectionTest>>#test0CopyTest [Collections-Tests]
+OrderedCollectionTest>>#testAsArray [Collections-Tests]
+OrderedCollectionTest>>#testAsIdentitySet [Collections-Tests]
+OrderedCollectionTest>>#collectionNotIncluded [Collections-Tests]
+OrderedCollectionTest>>#test0FixtureTConvertTest [Collections-Tests]
+OrderedCollectionTest>>#testIncludesAllNoneThere [Collections-Tests]
+OrderedCollectionTest>>#collectionClass [Collections-Tests]
+OrderedCollectionTest>>#assertNoDuplicates:whenConvertedTo: [Collections-Tests]
+OrderedCollectionTest>>#collectionWithoutEqualElements [Collections-Tests]
+OrderedCollectionTest>>#collection [Collections-Tests]
+OrderedCollectionTest>>#testAsOrderedCollection [Collections-Tests]
+OrderedCollectionTest>>#testCopyNotSame [Collections-Tests]
+OrderedCollectionTest>>#testCopyEquals [Collections-Tests]
+OrderedCollectionTest>>#testCopySameClass [Collections-Tests]
+OrderedCollectionTest>>#testCopyEmptyWithoutAll [Collections-Tests]
+OrderedCollectionTest>>#test0FixtureConverAsSortedTest [Collections-Tests]
+OrderedCollectionTest>>#testAsSortedCollection [Collections-Tests]
+OrderedCollectionTest>>#testCopyEmptyWith [Collections-Tests]
+OrderedCollectionTest>>#elementNotIn [Collections-Tests]
+OrderedCollectionTest>>#elementToAdd [Collections-Tests]
+OrderedCollectionTest>>#assertSameContents:whenConvertedTo: [Collections-Tests]
+VSReleaseDevelopmentVersionCommand>>#title [Versionner-Core-Commands]
+MBAbstractVersionInfo>>#currentVersion [Versionner-Core-Model]
+MBAbstractVersionInfo>>#configurationClass [Versionner-Core-Model]
+MBAbstractVersionInfo>>#version [Versionner-Core-Model]
+ClassRenamed>>#classAffected [System-Announcements]
+CompositionScanner>>#cr [Text-Scanning]
+CompositionScanner>>#tab [Text-Scanning]
+CompositionScanner>>#crossedX [Text-Scanning]
+CompositionScanner>>#endOfRun [Text-Scanning]
+TxAthensTextTransformsTest>>#defaultLayoutViewExtent [TxText-AthensTests]
+WriteStream>>#on:from:to: [Collections-Streams]
+SpecPreDebugWindow>>#buildButtonWidgetsSpecForActions: [Spec-Debugger]
+SpecPreDebugWindow>>#initializeButtonWidget:forAction: [Spec-Debugger]
+SpecPreDebugWindow>>#dynamicLayoutForActions: [Spec-Debugger]
+SpecPreDebugWindow>>#session [Spec-Debugger]
+SpecPreDebugWindow>>#createWidgetsForActions: [Spec-Debugger]
+SpecPreDebugWindow>>#debugger [Spec-Debugger]
+SpecPreDebugWindow>>#setFocusOrderForActions: [Spec-Debugger]
+SpecPreDebugWindow>>#emptyLayout [Spec-Debugger]
+SpecPreDebugWindow>>#actionsForPragmas: [Spec-Debugger]
+HDChangeReport>>#run [HudsonBuildTools20]
+HDChangeReport>>#initializeOn: [HudsonBuildTools20]
+RGMetatraitDefinition>>#category [Ring-Core-Kernel]
+VSMakeStableCommand>>#title [Versionner-Core-Commands]
+VSUpdateFromItsRepositoryCommand>>#title [Versionner-Core-Commands]
+StrikeFont>>#descentKern [Graphics-Fonts]
+StrikeFont>>#characterFormAt: [Graphics-Fonts]
+CategoryWidget>>#takeKeyboardFocus [Nautilus]
+SDL_KeyUpEvent>>#accept: [OSWindow-SDL2]
+RGTraitDescriptionDefinition>>#allInstVarNames [Ring-Core-Kernel]
+HeapTest>>#testAsSortedArray [Collections-Tests]
+HeapTest>>#testAsBag [Collections-Tests]
+HeapTest>>#assertNonDuplicatedContents:whenConvertedTo: [Collections-Tests]
+HeapTest>>#anotherElementNotIn [Collections-Tests]
+HeapTest>>#testCopyNonEmptyWithoutAllNotIncluded [Collections-Tests]
+HeapTest>>#testIncludesElementIsNotThere [Collections-Tests]
+HeapTest>>#test0FixtureIncludeTest [Collections-Tests]
+HeapTest>>#testIncludesElementIsThere [Collections-Tests]
+HeapTest>>#testAsSet [Collections-Tests]
+HeapTest>>#testCopyNonEmptyWith [Collections-Tests]
+HeapTest>>#testAsSortedCollectionWithSortBlock [Collections-Tests]
+HeapTest>>#testCopyNonEmptyWithoutAll [Collections-Tests]
+HeapTest>>#testIncludesAnyAllThere [Collections-Tests]
+HeapTest>>#collectionWithSortableElements [Collections-Tests]
+HeapTest>>#collectionWithElementsToRemove [Collections-Tests]
+HeapTest>>#nonEmpty1Element [Collections-Tests]
+HeapTest>>#testIncludesAnyNoneThere [Collections-Tests]
+HeapTest>>#test0CopyTest [Collections-Tests]
+HeapTest>>#testAsArray [Collections-Tests]
+HeapTest>>#testAsIdentitySet [Collections-Tests]
+HeapTest>>#collectionNotIncluded [Collections-Tests]
+HeapTest>>#test0FixtureTConvertTest [Collections-Tests]
+HeapTest>>#testIncludesAllNoneThere [Collections-Tests]
+HeapTest>>#collectionClass [Collections-Tests]
+HeapTest>>#assertNoDuplicates:whenConvertedTo: [Collections-Tests]
+HeapTest>>#collectionWithoutEqualElements [Collections-Tests]
+HeapTest>>#collection [Collections-Tests]
+HeapTest>>#testAsOrderedCollection [Collections-Tests]
+HeapTest>>#testCopyNotSame [Collections-Tests]
+HeapTest>>#testCopyEquals [Collections-Tests]
+HeapTest>>#testCopySameClass [Collections-Tests]
+HeapTest>>#testCopyEmptyWithoutAll [Collections-Tests]
+HeapTest>>#test0FixtureConverAsSortedTest [Collections-Tests]
+HeapTest>>#testAsSortedCollection [Collections-Tests]
+HeapTest>>#testCopyEmptyWith [Collections-Tests]
+HeapTest>>#elementNotIn [Collections-Tests]
+HeapTest>>#elementToAdd [Collections-Tests]
+HeapTest>>#assertSameContents:whenConvertedTo: [Collections-Tests]
+TextEditor>>#backTo: [Text-Edition]
+TextEditor>>#processKeyStroke: [Text-Edition]
+TextEditor>>#selection [Text-Edition]
+TextEditor>>#startIndex [Text-Edition]
+TextEditor>>#pointIndex [Text-Edition]
+TextEditor>>#cursorEnd: [Text-Edition]
+TextEditor>>#pointIndex: [Text-Edition]
+TextEditor>>#selectFrom:to: [Text-Edition]
+TextEditor>>#doneTyping [Text-Edition]
+TextEditor>>#makeCapitalized: [Text-Edition]
+TextEditor>>#cut [Text-Edition]
+TextEditor>>#startOfTyping [Text-Edition]
+TextEditor>>#stateArray [Text-Edition]
+TextEditor>>#replace:with:and: [Text-Edition]
+TextEditor>>#cursorHome: [Text-Edition]
+TextEditor>>#closeTypeIn [Text-Edition]
+TextEditor>>#replaceSelectionWith: [Text-Edition]
+TextEditor>>#hasCaret [Text-Edition]
+TextEditor>>#makeLowercase: [Text-Edition]
+TextEditor>>#zapSelectionWith: [Text-Edition]
+TextEditor>>#selectLine [Text-Edition]
+TextEditor>>#markIndex: [Text-Edition]
+TextEditor>>#dispatchOn: [Text-Edition]
+TextEditor>>#forwardDelete: [Text-Edition]
+TextEditor>>#stateArrayPut: [Text-Edition]
+TextEditor>>#makeUppercase: [Text-Edition]
+TextEditor>>#string [Text-Edition]
+TextEditor>>#stopIndex [Text-Edition]
+TextEditor>>#openTypeIn [Text-Edition]
+TextEditor>>#markIndex [Text-Edition]
+TextEditor>>#resetState [Text-Edition]
+TextEditor>>#copySelection [Text-Edition]
+TextEditor>>#addString: [Text-Edition]
+FreeTypeFontFamilyMember>>#''<='' [FreeType]
+FreeTypeFontFamilyMember>>#simulated [FreeType]
+False>>#xor: [Kernel]
+SpecColumnLayout>>#addSplitter [Spec-Layout]
+SpecColumnLayout>>#countNumberOfProportionals [Spec-Layout]
+SpecColumnLayout>>#autoFractionComputation [Spec-Layout]
+SpecColumnLayout>>#setWidgetLayoutWithNoOffset:at:delta: [Spec-Layout]
+SpecColumnLayout>>#manualFractionComputation [Spec-Layout]
+SpecColumnLayout>>#setWidgetLayoutWithOffset:at: [Spec-Layout]
+SpecColumnLayout>>#shiftLastWidgets [Spec-Layout]
+SDL2AthensDrawingExample>>#clearSurface [OSWindow-SDL2-Examples]
+VSCatalogAdderCommand>>#title [Versionner-Core-Commands]
+Win32Platform>>#keyForValue: [System-Platforms]
+MCModification>>#toSource [Monticello]
+MCModification>>#selector [Komitter]
+MCModification>>#targetDefinition [Monticello]
+MCModification>>#basicApplyTo: [Monticello]
+MCModification>>#baseDefinition [Monticello]
+MCModification>>#koSourceText [Komitter]
+MCModification>>#fromSource [Monticello]
+MCModification>>#koDestinationText [Komitter]
+RGBehaviorDefinition>>#addInContainer: [Ring-Core-Kernel]
+RGBehaviorDefinition>>#isIncludedInContainer: [Ring-Core-Kernel]
+RGBehaviorDefinition>>#removeFromContainer: [Ring-Core-Kernel]
+PlatformIndependentEnvironment>>#setEnv:value: [System-OSEnvironments]
+SDL_TouchFingerUpEvent>>#accept: [OSWindow-SDL2]
+ImageFillStyle>>#asAthensPaintOn: [Athens-Core]
+RenrakuTest>>#testBan [Renraku-Test]
+RenrakuTest>>#testBan1 [Renraku-Test]
+CompositeFillStyle>>#addFillStyleMenuItems:hand:from: [Balloon]
+MCRepositoryInspector>>#versionList [MonticelloGUI]
+MCRepositoryInspector>>#packageSelection: [MonticelloGUI]
+MCRepositoryInspector>>#versionListMenu: [MonticelloGUI]
+MCRepositoryInspector>>#packageListMenu: [MonticelloGUI]
+MCRepositoryInspector>>#packageList [MonticelloGUI]
+MCRepositoryInspector>>#versionSelection [MonticelloGUI]
+MCRepositoryInspector>>#setRepository:workingCopy: [MonticelloGUI]
+MCRepositoryInspector>>#refresh [MonticelloGUI]
+MCRepositoryInspector>>#packageSelection [MonticelloGUI]
+MCRepositoryInspector>>#versionSelection: [MonticelloGUI]
+GLMErrorPopper>>#initializeTextMorph [Glamour-Morphic-Widgets]
+Association>>#key:value: [Collections-Support]
+Association>>#value: [Collections-Support]
+TopRightGripMorph>>#gripLayoutFrame [Morphic-Widgets-Windows]
+TopRightGripMorph>>#apply: [Morphic-Widgets-Windows]
+TopRightGripMorph>>#ptName [Morphic-Widgets-Windows]
+AthensCairoSurface>>#getFreetypeFontRendererFor: [Athens-Cairo]
+AthensCairoSurface>>#asAthensPaintOn: [Athens-Cairo]
+DADependencyFromClass>>#nodeClass [Tool-DependencyAnalyser-UI]
+WaitfreeQueue>>#nextIfNone: [Collections-Atomic]
+WaitfreeQueue>>#peek [Collections-Atomic]
+WaitfreeQueue>>#nextOrNil [Collections-Atomic]
+WaitfreeQueue>>#nextPut: [Collections-Atomic]
+FixedFaceFont>>#descentKern [Graphics-Fonts]
+FixedFaceFont>>#characterFormAt: [Graphics-Fonts]
+VSCommitProjectAction>>#packageName [Versionner-Commit]
+GLMPhlowTextBrick>>#displayLogic [Glamour-Morphic-Brick]
+OCInstanceScope>>#findVariable:ifNone: [OpalCompiler-Core]
+OCInstanceScope>>#variableNamed:ifAbsent: [OpalCompiler-Core]
+MemoryFileSystemTest>>#testEqual [FileSystem-Tests-Memory]
+IdentityTransform>>#offset [Graphics-Transformations]
+FileHandle>>#binaryReadStream [FileSystem-Disk]
+UnixEnvironment>>#setEnv:value: [System-OSEnvironments]
+OpalEncoderForSistaV1>>#genStorePopInstVarLong: [OpalCompiler-Core]
+OpalEncoderForSistaV1>>#genStoreInstVar: [OpalCompiler-Core]
+OpalEncoderForSistaV1>>#genReturnTop [OpalCompiler-Core]
+OpalEncoderForSistaV1>>#genStorePopLiteralVar: [OpalCompiler-Core]
+OpalEncoderForSistaV1>>#genSend:numArgs: [OpalCompiler-Core]
+OpalEncoderForSistaV1>>#genBranchPopFalse: [OpalCompiler-Core]
+OpalEncoderForSistaV1>>#genReturnReceiver [OpalCompiler-Core]
+OpalEncoderForSistaV1>>#genPushInstVar: [OpalCompiler-Core]
+OpalEncoderForSistaV1>>#genStoreLiteralVar: [OpalCompiler-Core]
+OpalEncoderForSistaV1>>#genPushLiteralVar: [OpalCompiler-Core]
+OpalEncoderForSistaV1>>#genJumpLong: [OpalCompiler-Core]
+OpalEncoderForSistaV1>>#genJump: [OpalCompiler-Core]
+OpalEncoderForSistaV1>>#genReturnSpecialLiteral: [OpalCompiler-Core]
+OpalEncoderForSistaV1>>#genStoreInstVarLong: [OpalCompiler-Core]
+OpalEncoderForSistaV1>>#genPop [OpalCompiler-Core]
+OpalEncoderForSistaV1>>#genReturnTopToCaller [OpalCompiler-Core]
+OpalEncoderForSistaV1>>#genPushThisContext [OpalCompiler-Core]
+OpalEncoderForSistaV1>>#genPushInstVarLong: [OpalCompiler-Core]
+OpalEncoderForSistaV1>>#genPushTemp: [OpalCompiler-Core]
+OpalEncoderForSistaV1>>#genSendSuper:numArgs: [OpalCompiler-Core]
+OpalEncoderForSistaV1>>#genStorePopTemp: [OpalCompiler-Core]
+OpalEncoderForSistaV1>>#genStorePopInstVar: [OpalCompiler-Core]
+OpalEncoderForSistaV1>>#genDup [OpalCompiler-Core]
+OpalEncoderForSistaV1>>#genPushReceiver [OpalCompiler-Core]
+OpalEncoderForSistaV1>>#genStoreTemp: [OpalCompiler-Core]
+OpalEncoderForSistaV1>>#genPushLiteral: [OpalCompiler-Core]
+OpalEncoderForSistaV1>>#genBranchPopTrue: [OpalCompiler-Core]
+AthensSimplePathBuilder>>#toAbsolute: [Athens-Core]
+SpecDebuggerDynamicToolbar>>#buildButtonWidgetsSpecForActions: [Spec-Debugger]
+SpecDebuggerDynamicToolbar>>#initializeButtonWidget:forAction: [Spec-Debugger]
+SpecDebuggerDynamicToolbar>>#dynamicLayoutForActions: [Spec-Debugger]
+SpecDebuggerDynamicToolbar>>#session [Spec-Debugger]
+SpecDebuggerDynamicToolbar>>#createWidgetsForActions: [Spec-Debugger]
+SpecDebuggerDynamicToolbar>>#debugger [Spec-Debugger]
+SpecDebuggerDynamicToolbar>>#setFocusOrderForActions: [Spec-Debugger]
+SpecDebuggerDynamicToolbar>>#emptyLayout [Spec-Debugger]
+SpecDebuggerDynamicToolbar>>#actionsForPragmas: [Spec-Debugger]
+SelectRuleBrowser>>#removeAllItems [Tool-CriticBrowser]
+SelectRuleBrowser>>#addAllItems [Tool-CriticBrowser]
+SelectRuleBrowser>>#removeItems [Tool-CriticBrowser]
+SelectRuleBrowser>>#addItems [Tool-CriticBrowser]
+LayoutClassScope>>#allVisibleSlots [Slot]
+GLMPhlowListBrick>>#displayLogic [Glamour-Morphic-Brick]

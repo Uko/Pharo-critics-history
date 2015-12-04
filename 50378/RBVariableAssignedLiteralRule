@@ -1,53 +1,53 @@
-HeapTest
-BagTest
-MissingClassError
-SymbolTest
-TraitsResource
-IntervalTest
-RBSmalllintTestObject
-ThemeSettings
-DictionaryTest
-AJOperand
-NBInterpreterProxy
-VTermOutputDriver
-ChunkReadStream
-RxmLookahaed
-NECTestClass
-RubParagraphDecorator
-RBRefactoryTestDataApp
-CompiledMethodTest
-GLMAnimation
-SimpleTestResource
-PharoIssueTest
-WeakFinalizationList
-SetTest
-OrderedCollectionTest
-FreeTypeNameParser class
-AthensGenericTransform
-FileList
-SortedCollectionTest
-NBCPrinter class
-IdentityBagTest
-SystemVersion
-RubWorkspaceExample
-ZnEntityReader
-Nautilus class
-ClassTest
-LinkedListTest
-MCWorkingCopyBrowser class
-GLMPagerScrollSlidingBrick
-OCOpalExamples
-GLMSmalltalkCodePresentation
-SUnitTest
-ReflectivityExamples
-FreeTypeSettings
-StringTest
-NBExternalStructure class
-ArrayTest
-FloatArrayTest
-RubTextComposer
-OSVMWindowHandle
-AthensBezierConverter
-PluggableTextMorph
-NewListRenderer
-DigitalSignatureAlgorithm
+ZnEntityReader [Zinc-HTTP]
+OCOpalExamples [OpalCompiler-Tests]
+NECTestClass [NECompletion-Tests]
+DigitalSignatureAlgorithm [System-Hashing]
+GLMPagerScrollSlidingBrick [Glamour-Morphic-Pager]
+AthensBezierConverter [Athens-Core]
+BagTest [Collections-Tests]
+PluggableTextMorph [Morphic-Widgets-Pluggable]
+HeapTest [Collections-Tests]
+FreeTypeNameParser class [FreeType]
+AJOperand [AsmJit-Operands]
+RxmLookahaed [Regex-Core]
+RBRefactoryTestDataApp [Refactoring-Tests-Core]
+IdentityBagTest [Collections-Tests]
+ChunkReadStream [CodeImport]
+SetTest [Collections-Tests]
+RubWorkspaceExample [Rubric]
+VTermOutputDriver [System-CommandLine]
+ReflectivityExamples [Reflectivity-Tests]
+FreeTypeSettings [FreeType]
+GLMSmalltalkCodePresentation [Glamour-Presentations]
+AthensGenericTransform [Athens-Core]
+RBSmalllintTestObject [Refactoring-Tests-Critics]
+SimpleTestResource [SUnit-Tests]
+OSVMWindowHandle [OSWindow-VM]
+WeakFinalizationList [System-Finalization]
+IntervalTest [Collections-Tests]
+SymbolTest [Collections-Tests]
+LinkedListTest [Collections-Tests]
+RubParagraphDecorator [Rubric]
+FloatArrayTest [Collections-Tests]
+NBExternalStructure class [NativeBoost-Core]
+NewListRenderer [Morphic-Widgets-NewList]
+SystemVersion [System-Support]
+SortedCollectionTest [Collections-Tests]
+DictionaryTest [Collections-Tests]
+NBInterpreterProxy [NativeBoost-Core]
+MissingClassError [CodeImport]
+SUnitTest [SUnit-Tests]
+ClassTest [Kernel-Tests]
+ThemeSettings [Polymorph-Widgets]
+MCWorkingCopyBrowser class [MonticelloGUI]
+NBCPrinter class [NativeBoost-Examples]
+GLMAnimation [Glamour-Morphic-Brick]
+TraitsResource [Tests]
+ArrayTest [Collections-Tests]
+FileList [Tool-FileList]
+StringTest [Collections-Tests]
+CompiledMethodTest [Kernel-Tests]
+RubTextComposer [Rubric]
+PharoIssueTest [IssueTracking-Tests]
+Nautilus class [Nautilus]
+OrderedCollectionTest [Collections-Tests]

@@ -1,41 +1,41 @@
-RBSmalllintTestObject>>#contains
-RBRefactoryTestDataApp>>#contains
-RxMatchOptimizer>>#conditionTester
-RxMatchOptimizer>>#nonMethodPredicateTester
-RxMatchOptimizer>>#methodPredicateTester
-RxMatchOptimizer>>#predicateTester
-RxMatchOptimizer>>#determineTestMethod
-RxMatchOptimizer>>#nonPredicateTester
-RBMoveVariableDefinitionRefactoring>>#checkNodes:
-RBCompositeLintRuleTest>>#isEmpty
-RBCompositeLintRuleTest>>#hasConflicts
-RBVariableEnvironment>>#includesClass:
-AJx86AssemblerTests>>#testMOVCMPSD
-RBVariableTypeTest>>#testBasicLintRuleTypes
-NetworkSystemSettings class>>#isAnExceptionFor:
-RBRealizeClassRefactoring>>#preconditions
-RBPullUpMethodRefactoring>>#copyDownMethod:
-RBPullUpMethodRefactoring>>#checkSuperSendsFromPushedUpMethods
-RBCondition class>>#subclassesOf:referToSelector:
-RBCondition class>>#hierarchyOf:referencesInstanceVariable:
-RBSuperSendsRule>>#initialize
-RBExtractMethodRefactoring>>#isParseTreeEquivalentTo:
-RBStringConcatenationRule>>#initialize
-RBAbstractClass>>#hierarchyDefinesInstanceVariable:
-RBAbstractClass>>#hierarchyDefinesPoolDictionary:
-RBAbstractClass>>#hierarchyDefinesClassVariable:
-RBAbstractClass>>#hierarchyDefinesVariable:
-RBTransformationRuleTest>>#superSends
-RxsCharSet>>#hasPredicates
-RxsCharSet>>#predicatePartPredicate
-RBCreateAccessorsForVariableRefactoring>>#usesAssignmentOf:in:classVariable:
-RBUtilityMethodsRule>>#subclassOf:overrides:
-RBAbstractVariablesRefactoring>>#removeDefinedClassVariables
-RBBasicLintRuleTest class>>#stringConcatenation
-RBBasicLintRuleTest class>>#utilityMethods
-RBBasicLintRuleTest class>>#overridesSpecialMessage
-RBBasicLintRuleTest class>>#ifTrueBlocks
-RBBasicLintRuleTest class>>#subclassResponsibilityNotDefined
-RBChildrenToSiblingsRefactoring>>#shouldPushUp:from:
-RBRemoveMethodRefactoring>>#justSendsSuper:
-RBPullUpInstanceVariableRefactoring>>#preconditions
+RBSmalllintTestObject>>#contains [Refactoring-Tests-Critics]
+RBRefactoryTestDataApp>>#contains [Refactoring-Tests-Core]
+RxMatchOptimizer>>#conditionTester [Regex-Core]
+RxMatchOptimizer>>#nonMethodPredicateTester [Regex-Core]
+RxMatchOptimizer>>#methodPredicateTester [Regex-Core]
+RxMatchOptimizer>>#predicateTester [Regex-Core]
+RxMatchOptimizer>>#determineTestMethod [Regex-Core]
+RxMatchOptimizer>>#nonPredicateTester [Regex-Core]
+RBMoveVariableDefinitionRefactoring>>#checkNodes: [Refactoring-Core]
+RBCompositeLintRuleTest>>#isEmpty [Refactoring-Tests-Core]
+RBCompositeLintRuleTest>>#hasConflicts [Refactoring-Tests-Core]
+RBVariableEnvironment>>#includesClass: [Refactoring-Environment]
+AJx86AssemblerTests>>#testMOVCMPSD [AsmJit-Tests]
+RBVariableTypeTest>>#testBasicLintRuleTypes [Refactoring-Tests-Core]
+NetworkSystemSettings class>>#isAnExceptionFor: [Network-Kernel]
+RBRealizeClassRefactoring>>#preconditions [Refactoring-Core]
+RBPullUpMethodRefactoring>>#copyDownMethod: [Refactoring-Core]
+RBPullUpMethodRefactoring>>#checkSuperSendsFromPushedUpMethods [Refactoring-Core]
+RBCondition class>>#subclassesOf:referToSelector: [Refactoring-Core]
+RBCondition class>>#hierarchyOf:referencesInstanceVariable: [Refactoring-Core]
+RBSuperSendsRule>>#initialize [Refactoring-Critics]
+RBExtractMethodRefactoring>>#isParseTreeEquivalentTo: [Refactoring-Core]
+RBStringConcatenationRule>>#initialize [Refactoring-Critics]
+RBAbstractClass>>#hierarchyDefinesInstanceVariable: [Refactoring-Core]
+RBAbstractClass>>#hierarchyDefinesPoolDictionary: [Refactoring-Core]
+RBAbstractClass>>#hierarchyDefinesClassVariable: [Refactoring-Core]
+RBAbstractClass>>#hierarchyDefinesVariable: [Refactoring-Core]
+RBTransformationRuleTest>>#superSends [Refactoring-Tests-Core]
+RxsCharSet>>#hasPredicates [Regex-Core]
+RxsCharSet>>#predicatePartPredicate [Regex-Core]
+RBCreateAccessorsForVariableRefactoring>>#usesAssignmentOf:in:classVariable: [Refactoring-Core]
+RBUtilityMethodsRule>>#subclassOf:overrides: [Refactoring-Critics]
+RBAbstractVariablesRefactoring>>#removeDefinedClassVariables [Refactoring-Core]
+RBBasicLintRuleTest class>>#stringConcatenation [Refactoring-Tests-Core]
+RBBasicLintRuleTest class>>#utilityMethods [Refactoring-Tests-Core]
+RBBasicLintRuleTest class>>#overridesSpecialMessage [Refactoring-Tests-Core]
+RBBasicLintRuleTest class>>#ifTrueBlocks [Refactoring-Tests-Core]
+RBBasicLintRuleTest class>>#subclassResponsibilityNotDefined [Refactoring-Tests-Core]
+RBChildrenToSiblingsRefactoring>>#shouldPushUp:from: [Refactoring-Core]
+RBRemoveMethodRefactoring>>#justSendsSuper: [Refactoring-Core]
+RBPullUpInstanceVariableRefactoring>>#preconditions [Refactoring-Core]

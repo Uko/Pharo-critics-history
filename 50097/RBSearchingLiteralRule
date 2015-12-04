@@ -1,133 +1,133 @@
-PanelMorphWithSplitters>>#addPaneVSplitters
-PanelMorphWithSplitters>>#addPaneHSplitters
-EncoderForSistaV1 class>>#bindingWriteScanBlockFor:using:
-EncoderForSistaV1 class>>#method:refersInBytecodeToLiteral:specialSelectorIndex:
-EncoderForSistaV1 class>>#instVarWriteScanBlockFor:using:
-RxParser>>#atom
-RxParser>>#regex
-RxParser>>#lookAround
-RxParser>>#branch
-RBScanner>>#scanLiteral
-RBScanner>>#scanName
-MetacelloVersionSpec>>#packageNamed:forLoad:forMap:ifAbsent:
-RBSmalllintTestObject>>#searchingLiteral
-RBRefactoryTestDataApp>>#searchingLiteral
-TableLayout>>#indexForInserting:at:in:
-TableLayout>>#computeCellArrangement:in:horizontal:target:
-TableLayout>>#minExtentOf:in:
-TableLayout>>#layout:in:
-ThemeIcons>>#readIconMethodsFromDirectory:
-ChangeList class>>#fileReaderServicesForFile:suffix:
-CheckboxButtonMorph>>#selected:
-CheckboxButtonMorph>>#selected
-CheckboxButtonMorph>>#drawOnAthensCanvas:
-CheckboxButtonMorph>>#drawOn:
-Symbol>>#isDoIt
-ScheduleTest>>#testDateAndTimes
-GeneralScrollPane>>#scrollByKeyboard:
-LogicalFont>>#isItalicOrOblique
-SourceFileArray>>#changeRecordsFrom:className:isMeta:do:
-SourceFileArray>>#sourcePointerFromFileIndex:andPosition:
-CornerGripMorph>>#targetPoint:
-FileReference>>#gtInspectorStScriptIn:
-FileReference>>#spotterPreviewStScriptIn:
-MetacelloProjectSpec>>#configShortCutMethodOn:member:indent:
-OCDecompilerConstructor>>#codeMessage:selector:arguments:
-MCFileTreeJsonParser>>#parseNumber
-AlphaImageMorph>>#layout:
-AlphaImageMorph>>#extent:
-AlphaImageMorph>>#layoutPosition
-Number>>#adaptToFloat:andCompare:
-Scanner>>#xLitQuote
-Scanner>>#scanAllTokenPositionsInto:
-Scanner>>#scanStringStruct
-Scanner>>#scanLitByte
-Scanner>>#scanLitVec
-MCFileTreeStCypressReader>>#addMethodDefinitionsForClass:methodProperties:in:
-MCFileTreeStCypressReader>>#isPropertyFile:
-MCFileTreeStCypressReader>>#isMethodPropertyFile:
-MetacelloGoferPackage>>#matches:
-CompiledMethod>>#irPrimitive
-SystemWindow>>#addPaneVSplitters
-SystemWindow>>#addPaneHSplitters
-NetNameResolver class>>#addressFromString:
-RBMessageNode>>#toDoLimit:
-MorphicUIManager>>#modalMorph
-AbstractNautilusUI>>#wantsDroppedMorph:event:inMorph:
-MIMEDocument>>#isJpeg
-Float>>#adaptToInteger:andCompare:
-Float>>#adaptToFraction:andCompare:
-Float>>#arcSin
-PluginBasedJPEGReadWriter>>#uncompress:into:
-PluginBasedJPEGReadWriter>>#uncompress:into:doDithering:
-GZipReadStream class>>#fileReaderServicesForFile:suffix:
-JapaneseEnvironment class>>#systemConverterClass
-Parser>>#pattern:inContext:
-Parser>>#messagePart:repeat:
-Parser>>#pragmaLiteral:
-Parser>>#primaryExpression
-Parser>>#pragmaStatement
-Parser>>#statements:innerBlock:blockNode:
-ClassChangeRecord>>#assimilateAllChangesIn:
-ClassChangeRecord>>#noteChangeType:fromClass:
-AbstractCategoryWidget>>#categoryIconFor:
-NativeBoostLinux32>>#loadSymbol:fromModule:
-AJx86InstructionDescription>>#isJump
-AJx86InstructionDescription>>#emitmem:operand1:operand2:operand3:
-Context>>#jump:if:
-STONReader>>#parseStringInternal
-STONReader>>#parseSimpleValue
-EncoderForV3PlusClosures class>>#bindingWriteScanBlockFor:using:
-EncoderForV3PlusClosures class>>#instVarWriteScanBlockFor:using:
-EncoderForV3PlusClosures class>>#isStoreAt:in:
-ZnByteEncoder class>>#parseUnicodeOrgSpec:
-MessageNode>>#sizeCodeForWhile:value:
-MessageNode>>#emitCodeForWhile:encoder:value:
-MessageNode>>#toDoLimit:
-Morph>>#changeListDirection:
-JPEGReadWriter>>#perScanSetup
-JPEGReadWriter>>#okToIgnoreMarker:
-MenuItemMorph>>#contents:withMarkers:inverse:
-ByteTextConverter class>>#parseUnicodeOrgSpec:
-RubTextEditor>>#saveContentsInFile
-ProceedDialogWindow>>#handlesKeyboard:
-ZnUrl>>#processRelativeReference:
-PolygonMorph>>#arrowsContainPoint:
-PolygonMorph>>#drawBorderOn:usingEnds:
-PolygonMorph>>#drawDashedBorderOn:usingEnds:
-PolygonMorph>>#drawArrowsOnAthensCanvas:
-PolygonMorph>>#arrowForms
-PolygonMorph>>#drawArrowsOn:
-PolygonMorph>>#adjustSegmentPointsForArrows
-EdgeGripMorph>>#isHorizontal
-EdgeGripMorph>>#setLayoutSizingFor:
-Character>>#tokenish
-CompiledMethodTrailer>>#sourceCode
-CompiledMethodTrailer>>#sourcePointer
-CompiledMethodTrailer>>#isEmpty
-CompiledMethodTrailer>>#hasSourcePointer
-CompiledMethodTrailer>>#hasSource
-NewList>>#specialKeyPressed:
-EmbossedStringMorph>>#drawOn:
-PackageTreeModel>>#helpTextFor:
-SHParserST80>>#isAssignment
-SHParserST80>>#parseSymbolIdentifier
-SHRange>>#isBlockTemporary
-SHRange>>#isKeyword
-SHRange>>#isAssignment
-OCAbstractVariable>>#isRead
-ChangeSet>>#fileOutChangesFor:on:
-NBExternalStructure class>>#noteCompilationOf:meta:
-TextEditor>>#saveContentsInFile
-GLMMorphic class>>#isGrayRoundedButton:
-OCCompilerTest>>#testReservedNameAsMethodArgumentShadowing
-OCCompilerTest>>#testReservedNameAsBlockArgumentShadowing
-PNGReadWriter>>#processBackgroundChunk
-Color class>>#colorFromPixelValue:depth:
-ZnCookie>>#extraAttributes
-ZnUTF16Encoder>>#processByteOrderMark:
-OCTempVariable>>#isEscaping
-MethodChangeRecord>>#methodInfoFromRemoval
-SequenceableCollection>>#before:ifAbsent:
-RBRefactoryTyper>>#typeFor:
-String>>#withoutQuoting
+PanelMorphWithSplitters>>#addPaneVSplitters [Spec-Core]
+PanelMorphWithSplitters>>#addPaneHSplitters [Spec-Core]
+EncoderForSistaV1 class>>#bindingWriteScanBlockFor:using: [Compiler]
+EncoderForSistaV1 class>>#method:refersInBytecodeToLiteral:specialSelectorIndex: [Compiler]
+EncoderForSistaV1 class>>#instVarWriteScanBlockFor:using: [Compiler]
+RxParser>>#atom [Regex-Core]
+RxParser>>#regex [Regex-Core]
+RxParser>>#lookAround [Regex-Core]
+RxParser>>#branch [Regex-Core]
+RBScanner>>#scanLiteral [AST-Core]
+RBScanner>>#scanName [AST-Core]
+MetacelloVersionSpec>>#packageNamed:forLoad:forMap:ifAbsent: [Metacello-Core]
+RBSmalllintTestObject>>#searchingLiteral [Refactoring-Tests-Critics]
+RBRefactoryTestDataApp>>#searchingLiteral [Refactoring-Tests-Core]
+TableLayout>>#indexForInserting:at:in: [Morphic-Base]
+TableLayout>>#computeCellArrangement:in:horizontal:target: [Morphic-Base]
+TableLayout>>#minExtentOf:in: [Morphic-Base]
+TableLayout>>#layout:in: [Morphic-Base]
+ThemeIcons>>#readIconMethodsFromDirectory: [Polymorph-Widgets]
+ChangeList class>>#fileReaderServicesForFile:suffix: [Tool-Changes]
+CheckboxButtonMorph>>#selected: [Morphic-Widgets-Basic]
+CheckboxButtonMorph>>#selected [Morphic-Widgets-Basic]
+CheckboxButtonMorph>>#drawOnAthensCanvas: [Athens-Morphic]
+CheckboxButtonMorph>>#drawOn: [Morphic-Widgets-Basic]
+Symbol>>#isDoIt [Collections-Strings]
+ScheduleTest>>#testDateAndTimes [KernelTests]
+GeneralScrollPane>>#scrollByKeyboard: [Morphic-Widgets-Scrolling]
+LogicalFont>>#isItalicOrOblique [FontInfrastructure]
+SourceFileArray>>#changeRecordsFrom:className:isMeta:do: [System-Sources]
+SourceFileArray>>#sourcePointerFromFileIndex:andPosition: [System-Sources]
+CornerGripMorph>>#targetPoint: [Morphic-Widgets-Windows]
+FileReference>>#gtInspectorStScriptIn: [GT-InspectorExtensions-Core]
+FileReference>>#spotterPreviewStScriptIn: [GT-SpotterExtensions-Core]
+MetacelloProjectSpec>>#configShortCutMethodOn:member:indent: [Metacello-Core]
+OCDecompilerConstructor>>#codeMessage:selector:arguments: [OpalDecompiler]
+MCFileTreeJsonParser>>#parseNumber [MonticelloFileTree-Core]
+AlphaImageMorph>>#layout: [Morphic-Base]
+AlphaImageMorph>>#extent: [Morphic-Base]
+AlphaImageMorph>>#layoutPosition [Morphic-Base]
+Number>>#adaptToFloat:andCompare: [Kernel]
+Scanner>>#xLitQuote [Compiler]
+Scanner>>#scanAllTokenPositionsInto: [Compiler]
+Scanner>>#scanStringStruct [Compiler]
+Scanner>>#scanLitByte [Compiler]
+Scanner>>#scanLitVec [Compiler]
+MCFileTreeStCypressReader>>#addMethodDefinitionsForClass:methodProperties:in: [MonticelloFileTree-Core]
+MCFileTreeStCypressReader>>#isPropertyFile: [MonticelloFileTree-Core]
+MCFileTreeStCypressReader>>#isMethodPropertyFile: [MonticelloFileTree-Core]
+MetacelloGoferPackage>>#matches: [Metacello-MC]
+CompiledMethod>>#irPrimitive [OpalCompiler-Core]
+SystemWindow>>#addPaneVSplitters [Polymorph-Widgets]
+SystemWindow>>#addPaneHSplitters [Polymorph-Widgets]
+NetNameResolver class>>#addressFromString: [Network-Kernel]
+RBMessageNode>>#toDoLimit: [OpalDecompiler]
+MorphicUIManager>>#modalMorph [Polymorph-Widgets]
+AbstractNautilusUI>>#wantsDroppedMorph:event:inMorph: [Nautilus]
+MIMEDocument>>#isJpeg [Network-MIME]
+Float>>#adaptToInteger:andCompare: [Kernel]
+Float>>#adaptToFraction:andCompare: [Kernel]
+Float>>#arcSin [Kernel]
+PluginBasedJPEGReadWriter>>#uncompress:into: [Graphics-Files]
+PluginBasedJPEGReadWriter>>#uncompress:into:doDithering: [Graphics-Files]
+GZipReadStream class>>#fileReaderServicesForFile:suffix: [System-FileRegistry]
+JapaneseEnvironment class>>#systemConverterClass [Multilingual-OtherLanguages]
+Parser>>#pattern:inContext: [Compiler]
+Parser>>#messagePart:repeat: [Compiler]
+Parser>>#pragmaLiteral: [Compiler]
+Parser>>#primaryExpression [Compiler]
+Parser>>#pragmaStatement [Compiler]
+Parser>>#statements:innerBlock:blockNode: [Compiler]
+ClassChangeRecord>>#assimilateAllChangesIn: [System-Changes]
+ClassChangeRecord>>#noteChangeType:fromClass: [System-Changes]
+AbstractCategoryWidget>>#categoryIconFor: [Nautilus]
+NativeBoostLinux32>>#loadSymbol:fromModule: [NativeBoost-Unix]
+AJx86InstructionDescription>>#isJump [AsmJit-x86]
+AJx86InstructionDescription>>#emitmem:operand1:operand2:operand3: [AsmJit-x86]
+Context>>#jump:if: [Kernel]
+STONReader>>#parseStringInternal [STON-Core]
+STONReader>>#parseSimpleValue [STON-Core]
+EncoderForV3PlusClosures class>>#bindingWriteScanBlockFor:using: [Compiler]
+EncoderForV3PlusClosures class>>#instVarWriteScanBlockFor:using: [Compiler]
+EncoderForV3PlusClosures class>>#isStoreAt:in: [Compiler]
+ZnByteEncoder class>>#parseUnicodeOrgSpec: [Zinc-Character-Encoding-Core]
+MessageNode>>#sizeCodeForWhile:value: [Compiler]
+MessageNode>>#emitCodeForWhile:encoder:value: [Compiler]
+MessageNode>>#toDoLimit: [Compiler]
+Morph>>#changeListDirection: [Morphic-Core]
+JPEGReadWriter>>#perScanSetup [Graphics-Files]
+JPEGReadWriter>>#okToIgnoreMarker: [Graphics-Files]
+MenuItemMorph>>#contents:withMarkers:inverse: [Morphic-Base]
+ByteTextConverter class>>#parseUnicodeOrgSpec: [Unicode-Initialization]
+RubTextEditor>>#saveContentsInFile [Rubric]
+ProceedDialogWindow>>#handlesKeyboard: [Polymorph-Widgets]
+ZnUrl>>#processRelativeReference: [Zinc-Resource-Meta-Core]
+PolygonMorph>>#arrowsContainPoint: [Morphic-Base]
+PolygonMorph>>#drawBorderOn:usingEnds: [Morphic-Base]
+PolygonMorph>>#drawDashedBorderOn:usingEnds: [Morphic-Base]
+PolygonMorph>>#drawArrowsOnAthensCanvas: [Athens-Morphic]
+PolygonMorph>>#arrowForms [Morphic-Base]
+PolygonMorph>>#drawArrowsOn: [Morphic-Base]
+PolygonMorph>>#adjustSegmentPointsForArrows [Athens-Morphic]
+EdgeGripMorph>>#isHorizontal [Morphic-Widgets-Windows]
+EdgeGripMorph>>#setLayoutSizingFor: [Morphic-Widgets-Windows]
+Character>>#tokenish [Kernel]
+CompiledMethodTrailer>>#sourceCode [Kernel]
+CompiledMethodTrailer>>#sourcePointer [Kernel]
+CompiledMethodTrailer>>#isEmpty [Kernel]
+CompiledMethodTrailer>>#hasSourcePointer [Kernel]
+CompiledMethodTrailer>>#hasSource [Kernel]
+NewList>>#specialKeyPressed: [Morphic-Widgets-NewList]
+EmbossedStringMorph>>#drawOn: [Morphic-Base]
+PackageTreeModel>>#helpTextFor: [Nautilus]
+SHParserST80>>#isAssignment [Shout]
+SHParserST80>>#parseSymbolIdentifier [Shout]
+SHRange>>#isBlockTemporary [Shout]
+SHRange>>#isKeyword [Shout]
+SHRange>>#isAssignment [Shout]
+OCAbstractVariable>>#isRead [OpalCompiler-Core]
+ChangeSet>>#fileOutChangesFor:on: [System-Changes]
+NBExternalStructure class>>#noteCompilationOf:meta: [NativeBoost-Core]
+TextEditor>>#saveContentsInFile [Text-Edition]
+GLMMorphic class>>#isGrayRoundedButton: [Glamour-Morphic-Widgets]
+OCCompilerTest>>#testReservedNameAsMethodArgumentShadowing [OpalCompiler-Tests]
+OCCompilerTest>>#testReservedNameAsBlockArgumentShadowing [OpalCompiler-Tests]
+PNGReadWriter>>#processBackgroundChunk [Graphics-Files]
+Color class>>#colorFromPixelValue:depth: [Graphics-Primitives]
+ZnCookie>>#extraAttributes [Zinc-HTTP]
+ZnUTF16Encoder>>#processByteOrderMark: [Zinc-Character-Encoding-Core]
+OCTempVariable>>#isEscaping [OpalCompiler-Core]
+MethodChangeRecord>>#methodInfoFromRemoval [System-Changes]
+SequenceableCollection>>#before:ifAbsent: [Collections-Abstract]
+RBRefactoryTyper>>#typeFor: [Refactoring-Core]
+String>>#withoutQuoting [Collections-Strings]

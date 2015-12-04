@@ -1,13 +1,13 @@
-PasswordDialogWindow
-GLMPharoPlaygroundPresentation
-OSTouchThreeFingersScrollDetector
-PopupChoiceOrRequestDialogWindow
-QuestionWithoutCancelDialogWindow
-OSTouchTwoFingersScrollDetector
-QuestionDialogWindow
-PopupChoiceDialogWindowWithMessage
-TextEntryDialogWindow
-AboutDialogWindow
-GLMPharoMethodPresentation
-OSTouchThreeFingersSwipeDetector
-CustomQuestionDialogWindow
+OSTouchThreeFingersScrollDetector [OSWindow-Core]
+OSTouchThreeFingersSwipeDetector [OSWindow-Core]
+PopupChoiceOrRequestDialogWindow [Polymorph-Widgets]
+PopupChoiceDialogWindowWithMessage [Polymorph-Widgets]
+CustomQuestionDialogWindow [Polymorph-Widgets]
+AboutDialogWindow [Polymorph-Widgets]
+TextEntryDialogWindow [Polymorph-Widgets]
+GLMPharoMethodPresentation [Glamour-Rubric-Presentations]
+PasswordDialogWindow [Polymorph-Widgets]
+GLMPharoPlaygroundPresentation [Glamour-Rubric-Presentations]
+QuestionWithoutCancelDialogWindow [Polymorph-Widgets]
+QuestionDialogWindow [Polymorph-Widgets]
+OSTouchTwoFingersScrollDetector [OSWindow-Core]

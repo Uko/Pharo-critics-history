@@ -1,5 +1,5 @@
-RBSmalllintTestObject>>#threeElementPoint
-RBRefactoryTestDataApp>>#threeElementPoint
-TraitCompositionTest>>#testSyntacticEqualsWithComplexCompositions
-TraitCompositionTest>>#testSyntacticEqualsWithAlias
-TraitCompositionTest>>#testInvalidComposition
+RBSmalllintTestObject>>#threeElementPoint [Refactoring-Tests-Critics]
+RBRefactoryTestDataApp>>#threeElementPoint [Refactoring-Tests-Core]
+TraitCompositionTest>>#testSyntacticEqualsWithComplexCompositions [Tests]
+TraitCompositionTest>>#testSyntacticEqualsWithAlias [Tests]
+TraitCompositionTest>>#testInvalidComposition [Tests]

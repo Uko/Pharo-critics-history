@@ -1,215 +1,214 @@
-FLBlockClosureSerializationTest class
-MCMergingTest
-KMDescription
-TextInputFieldModel
-MorphHandlingMiddleButton
-GLMTreeMorphModel
-RubTextMethodLink
-ConfigurationOfCodeImporter
-GTSpotterCategoryBrick
-LanguageEnvironment
-DynamicMessageImplementorTest
-NNavDirection
-VTermOutputDriver class
-GLMTableColumn
-FTEasyListDataSource
-ConfigurationOfShoreLineReporter
-AuthorTest
-MenuMorph
-OrderedCollectionTest
-StackFilter
-RBClassToRename
-ReEngine class
-BlockNode
-AJCallInfo
-NativeCodeTests
-VSCommitProjectAction
-AthensTigerShape
-MetacelloConfigTemplateExample
-FT2GlyphRenderer
-AJConstants
-NBFFICalloutTests
-OCSourceCode2BytecodeTest
-MatrixTest
-GLMMorphicMorphRenderer
-RPackageReadOnlyCompleteSetupTest
-TreeModel
-GLMInteractableBrick
-RubMethodEditingExample
-RBKeywordToken
-GrowlMorph
-ConfigurationOfSton
-ConfigurationOfOSWindow
-MCMockClassB
-GLMTestPane
-Unicode
-DictionaryTest class
-LinkedListTest
-MTPlatform
-CategoryRenamed
-OSSDL2GLRenderer
-VersionnerToolBoxTest
-GLMTreeMorphNodeModel
-CairoUTF8Converter
-MCRepositoryTest
-ConfigurationOfGTInspectorCore
-RubColumnDisplayer
-ConfigurationOfGTPlaygroundCore
-GLMImplicitBrowser
-OCMockCompilationClass
-BagTest
-RBRefactoringTest
-VSUnloadUnit
-TxAthensNoWrapStrategy
-SugsMockContext class
-HookGenerator
-SpecLayoutFrame
-ConfigurationOfAthens
-ImageReadWriter
-ConfigurationOfTxText
-RBIdentifierToken
-SlotExampleMovie
-MCMockClassF
-EyeInspector class
-IconicButton
-GLMPaginatedMorphTreeMorph
-KMTarget
-GTSnippets
-Nautilus
-SimpleHierarchicalListMorph class
-SlotClassVariableTest
-GLMMorphBrick
-TxAthensLayoutTest
-NBTestEnumeration
-AJOperand
-RBAbstractClassRule
-AthensDemoMorph
-TxDeleteOperation
-PharoUserPermissions
-NBFFICalloutIndirectArgumentTests
-StrikeFont
-PSMCClassChangeWrapper
-RPackageTraitTest
-ArrayTest
-JobProgressBarMorph
-AnnotationRequest
-ImageModel
-ScriptLoader
-ConfigurationOfGTSpotter
-TheManifestBuilder
-HandMorph
-NECTestClass
-AJx86InstructionDescription class
-IdentityBagTest
-GLMTextualPresentation
-OCBytecodeGeneratorTest
-GLMMorphicPaneWithoutTitleRenderer
-RubTextSegmentIconBox
-ParseNode
-TextMethodLink
-ZipArchiveTest
-CP1253TextConverter
-ToggleMenuItemShortcut
-FindReplaceService
-NBNativeFunctionGen
-NBTestEnumerationFromPairs
-CurveWorkshop
-NautilusHistoryEntry
-SpecPragmaCollector class
-NewVersionBrowser
-GlamourousBenchmark
-NBFnSpecParserTest
-MorphicCoreUIManager
-GTSpotterCandidatesListProcessor
-TxTextRenderer
-MCClassDefinitionTest
-VSCommitProjectValidator
-WindowsStore
-GLMTransmissionTriggered
-MBPackageInfoTest
-StartupAction
-MenuRegistration
-CairoFreetypeFontRenderer
-GIFReadWriter
-OSWindow
-ListModel
-Locale
-FT2BitmapSize
-AJData
-AthensCairoDefs
-NBExtraRootsRegistry
-ConfigurationOfGlamourCore
-OSWindowDropEvent
-GTPlayPage
-InspectorNavigator
-MockForCompilation
-MBConfigurationInfoTest
-FLAnalyzer
-RubScrolledTextModel
-FreeTypeCacheTest
-BalloonEngineConstants
-NativeBoost
-ISO88597TextConverter
-DisplayScanner
-KMCategoryTest
-MetacelloConfigTemplate
-SystemProgressItemMorph
-StartupPreferencesHandler
-CodeSimulationTests
-GLMMorphicActionListRenderer
-StackTest class
-TxWrappingMorph
-RPackageOrganizerTest
-MessageNode
-MCMockClassB class
-MBInfo
-SmalltalkImage
-NautilusUITest
-AthensTextScanner
-SplitJoinTest
-AJCallArgument
-FBDDecompilerTest
-ConfigurationOfGToolkitCore
-RBLintRuleTest
-GLMMorphicWatcherRenderer
-GradientPaint
-AthensSimpleTreeNode
-TxContextMenuAnnouncement
-AthensBalloonPath
-GLMStringBrick
-LazyTabGroupMorph
-FT2Face
-MetacelloGoferPackage
-ConfigurationOfVersionner
-AthensEllipticalArcSegment
-ProcessSpecificVariable class
-MorphTest
-TextEditorDialogWindow
-JobProgressMorph
-Workspace
-UnlimitedInstanceVariableSlot
-MTDependency
-SliderModel
-SpecTableLayoutAddSpacer
-ConfigurationCommandLineHandler
-RBClassToRename class
-GLMMorphicValidatorPaneRenderer
-SystemSystemSettings
-SugsMockContext
-AthensCurveFlattener
-IRBuilderTest
-GLMExpander
-TxEditorDecorator
-MorphicTabManagerAdapter
-AJReserveTemp
-DateAndTimeLeapTest
-RubSurfaceSelectionShape
-ConfigurationOfCatalog
-SlReporter
-ChunkFileFormatParser
-ConfigurationOfFastTable
-GTSpotterHeaderBrick
-SpecDebugger
-WarpBlt
-RBFooLintRuleTest
-GLMWizard
+FTEasyListDataSource [Morphic-Widgets-FastTable]
+ZipArchiveTest [CompressionTests]
+NBFnSpecParserTest [NativeBoost-Tests]
+MBInfo [Versionner-Core-Model]
+DictionaryTest class [CollectionsTests]
+MockForCompilation [OpalCompiler-Tests]
+JobProgressMorph [Morphic-Base]
+StartupAction [StartupPreferences]
+GLMMorphBrick [Glamour-Morphic-Brick]
+CurveWorkshop [Athens-Examples]
+SplitJoinTest [CollectionsTests]
+ConfigurationOfGlamourCore [ConfigurationOfGlamourCore]
+GTSnippets [GT-Inspector]
+GLMTextualPresentation [Glamour-Presentations]
+MenuRegistration [MenuRegistration]
+VSUnloadUnit [Versionner-Commit]
+SlReporter [ShoreLine-Report-Core]
+MCClassDefinitionTest [Monticello-Tests]
+SpecPragmaCollector class [Spec-Core]
+MorphicTabManagerAdapter [Spec-MorphicAdapters]
+SugsMockContext [SmartSuggestions-Tests]
+MenuMorph [Morphic-Base]
+CP1253TextConverter [Multilingual-TextConverterOtherLanguages]
+GTSpotterHeaderBrick [GT-Spotter]
+MetacelloConfigTemplate [Metacello-MC]
+NBTestEnumeration [NativeBoost-Tests]
+RBIdentifierToken [AST-Core]
+ConfigurationOfFastTable [ConfigurationOfFastTable]
+SystemSystemSettings [Settings-System]
+TxAthensNoWrapStrategy [TxText-Athens]
+StackFilter [DebuggerFilters]
+CategoryRenamed [System-Announcements]
+NativeBoost [NativeBoost-Core]
+GLMStringBrick [Glamour-Morphic-Brick]
+GLMTestPane [Glamour-Tests-Core]
+SlotClassVariableTest [Slot-Tests]
+VersionnerToolBoxTest [Versionner-Tests-Core-DependenciesModel]
+NECTestClass [NECompletion-Tests]
+EyeInspector class [Spec-Inspector]
+RubColumnDisplayer [Rubric]
+AuthorTest [Tests]
+ProcessSpecificVariable class [Kernel]
+ConfigurationOfGTPlaygroundCore [ConfigurationOfGTPlaygroundCore]
+GLMExpander [Glamour-Browsers]
+SystemProgressItemMorph [Morphic-Base]
+HookGenerator [Reflectivity]
+AthensTextScanner [Athens-Text]
+MCRepositoryTest [Monticello-Tests]
+MCMockClassB class [MonticelloMocks]
+MTPlatform [Versionner-Core-DependenciesModel]
+FindReplaceService [Text-Edition]
+RPackageOrganizerTest [RPackage-Tests]
+LinkedListTest [CollectionsTests]
+VSCommitProjectAction [Versionner-Commit]
+TxContextMenuAnnouncement [TxText-Athens]
+RubSurfaceSelectionShape [Rubric]
+RBRefactoringTest [Refactoring-Tests-Core]
+ArrayTest [CollectionsTests]
+SmalltalkImage [System-Support]
+FBDDecompilerTest [Flashback-Decompiler-Tests]
+OSWindow [OSWindow-Core]
+NautilusHistoryEntry [NautilusCommon]
+TxTextRenderer [TxText-Athens]
+AthensCurveFlattener [Athens-Core]
+WarpBlt [Graphics-Primitives]
+ConfigurationOfGTSpotter [ConfigurationOfGTSpotter]
+TextEditorDialogWindow [Polymorph-Widgets]
+GradientPaint [Athens-Core]
+ConfigurationOfSton [ConfigurationOfSton]
+GLMMorphicPaneWithoutTitleRenderer [Glamour-Morphic-Renderer]
+GLMTreeMorphModel [Glamour-Morphic-Widgets]
+RBClassToRename class [Refactoring-Tests-Core]
+InspectorNavigator [Spec-Inspector]
+CairoFreetypeFontRenderer [Athens-Cairo]
+AJReserveTemp [AsmJit-StackManagement]
+RubTextMethodLink [Rubric]
+MatrixTest [CollectionsTests]
+IRBuilderTest [OpalCompiler-Tests]
+MCMockClassB [MonticelloMocks]
+RPackageTraitTest [RPackage-Tests]
+ISO88597TextConverter [Multilingual-TextConverterOtherLanguages]
+AJConstants [AsmJit-Core]
+AJData [AsmJit-Instructions]
+GIFReadWriter [Graphics-Files]
+CodeSimulationTests [KernelTests]
+CairoUTF8Converter [Athens-Cairo]
+HandMorph [Morphic-Core]
+AJx86InstructionDescription class [AsmJit-x86]
+RPackageReadOnlyCompleteSetupTest [RPackage-Tests]
+ScriptLoader [ScriptLoader50]
+RBClassToRename [Refactoring-Tests-Core]
+FT2BitmapSize [FreeType]
+TxWrappingMorph [TxText-Athens]
+GLMMorphicWatcherRenderer [Glamour-Morphic-Renderer]
+ConfigurationOfAthens [ConfigurationOfAthens]
+Locale [System-Localization]
+FLAnalyzer [Fuel]
+VSCommitProjectValidator [Versionner-Commit]
+OSSDL2GLRenderer [OSWindow-SDL2]
+ToggleMenuItemShortcut [Morphic-Base]
+ConfigurationOfCatalog [ConfigurationOfCatalog]
+SimpleHierarchicalListMorph class [Morphic-Widgets-List]
+GLMMorphicMorphRenderer [Glamour-Morphic-Renderer]
+AthensTigerShape [Athens-Examples]
+ParseNode [Compiler]
+BalloonEngineConstants [Balloon]
+OrderedCollectionTest [CollectionsTests]
+AthensEllipticalArcSegment [Athens-Core]
+AJCallInfo [AsmJit-StackManagement]
+SliderModel [Spec-Core]
+AthensCairoDefs [Athens-CairoPools]
+TxEditorDecorator [TxText-Athens]
+NewVersionBrowser [Spec-Tools]
+ConfigurationOfGTInspectorCore [ConfigurationOfGTInspectorCore]
+FLBlockClosureSerializationTest class [FuelTests]
+ConfigurationOfCodeImporter [ConfigurationOfCodeImporter]
+FreeTypeCacheTest [FreeTypeTests]
+NativeCodeTests [NativeBoost-Tests]
+GLMImplicitBrowser [Glamour-Core]
+AthensBalloonPath [Athens-Balloon]
+Unicode [Multilingual-Encodings]
+TextInputFieldModel [Spec-Core]
+GLMMorphicValidatorPaneRenderer [Glamour-Morphic-Renderer]
+ChunkFileFormatParser [CodeImport]
+FT2GlyphRenderer [Athens-Balloon]
+GLMMorphicActionListRenderer [Glamour-Morphic-Renderer]
+ConfigurationOfShoreLineReporter [ConfigurationOfShoreLineReporter]
+MorphHandlingMiddleButton [SUnit-UITesting]
+IconicButton [Morphic-Widgets-Basic]
+SpecDebugger [Spec-Debugger]
+NBNativeFunctionGen [NativeBoost-Core]
+TxAthensLayoutTest [TxText-AthensTests]
+MetacelloGoferPackage [Metacello-MC]
+SlotExampleMovie [Slot-Tests]
+ConfigurationOfGToolkitCore [ConfigurationOfGToolkitCore]
+MessageNode [Compiler]
+LanguageEnvironment [Multilingual-Languages]
+ReEngine class [Renraku]
+ConfigurationOfTxText [ConfigurationOfTxText]
+MorphTest [MorphicTests]
+FT2Face [FreeType]
+RBFooLintRuleTest [Refactoring-Tests-Core]
+GlamourousBenchmark [Glamour-Tests-Core]
+ConfigurationCommandLineHandler [ConfigurationCommandLineHandler-Core]
+AJOperand [AsmJit-Operands]
+MCMergingTest [Monticello-Tests]
+NNavDirection [NodeNavigation]
+PharoUserPermissions [UserManager-Core]
+NautilusUITest [Nautilus-Tests]
+AthensDemoMorph [Athens-Examples]
+MCMockClassF [MonticelloMocks]
+RBKeywordToken [AST-Core]
+NBFFICalloutIndirectArgumentTests [NativeBoost-Tests]
+RubMethodEditingExample [Rubric]
+Workspace [Tool-Workspace]
+KMCategoryTest [Keymapping-Tests]
+AthensSimpleTreeNode [Athens-Examples]
+ConfigurationOfVersionner [ConfigurationOfVersionner]
+OCSourceCode2BytecodeTest [OpalCompiler-Tests]
+KMDescription [Keymapping-Tools-Spec]
+BlockNode [Compiler]
+TextMethodLink [Text-Core]
+GTSpotterCandidatesListProcessor [GT-Spotter]
+ListModel [Spec-Core]
+KMTarget [Keymapping-Core]
+AnnotationRequest [NautilusCommon]
+OCMockCompilationClass [OpalCompiler-Tests]
+GTSpotterCategoryBrick [GT-Spotter]
+GrowlMorph [Growl]
+ImageReadWriter [Graphics-Files]
+SpecLayoutFrame [Spec-Core]
+GLMInteractableBrick [Glamour-Morphic-Brick]
+RubScrolledTextModel [Rubric]
+SpecTableLayoutAddSpacer [Spec-Layout]
+NBTestEnumerationFromPairs [NativeBoost-Tests]
+OCBytecodeGeneratorTest [OpalCompiler-Tests]
+NBExtraRootsRegistry [NativeBoost-Core]
+DynamicMessageImplementorTest [Tools-Test]
+GLMWizard [Glamour-Browsers]
+StackTest class [CollectionsTests]
+RBLintRuleTest [Refactoring-Tests-Core]
+JobProgressBarMorph [Morphic-Base]
+TreeModel [Spec-Core]
+MBConfigurationInfoTest [Versionner-Tests-Core-Model]
+PSMCClassChangeWrapper [Tool-Diff]
+VTermOutputDriver class [System-CommandLine]
+WindowsStore [FileSystem-Disk]
+Nautilus [Nautilus]
+SugsMockContext class [SmartSuggestions-Tests]
+LazyTabGroupMorph [Glamour-Morphic-Widgets]
+DisplayScanner [Text-Scanning]
+StartupPreferencesHandler [StartupPreferences]
+TxDeleteOperation [TxText-Athens]
+GLMPaginatedMorphTreeMorph [Glamour-Morphic-Widgets]
+AJCallArgument [AsmJit-StackManagement]
+DateAndTimeLeapTest [KernelTests]
+MorphicCoreUIManager [Morphic-Core]
+GLMTableColumn [Glamour-Presentations]
+BagTest [CollectionsTests]
+MTDependency [Versionner-Core-DependenciesModel]
+UnlimitedInstanceVariableSlot [Slot]
+TheManifestBuilder [Manifest-Core]
+MBPackageInfoTest [Versionner-Tests-Core-Model]
+OSWindowDropEvent [OSWindow-Core]
+GLMTransmissionTriggered [Glamour-Announcements]
+ConfigurationOfOSWindow [ConfigurationOfOSWindow]
+NBFFICalloutTests [NativeBoost-Tests]
+GLMTreeMorphNodeModel [Glamour-Morphic-Widgets]
+ImageModel [Spec-Core]
+IdentityBagTest [CollectionsTests]
+StrikeFont [Graphics-Fonts]
+GTPlayPage [GT-Playground]
+RubTextSegmentIconBox [Rubric]
+MetacelloConfigTemplateExample [Metacello-MC]

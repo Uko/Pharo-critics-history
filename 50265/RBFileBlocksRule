@@ -1,34 +1,34 @@
-RBSmalllintTestObject>>#fileBlocks
-RBRefactoryTestDataApp>>#fileBlocks
-TraitFileOutTest>>#testFileOutTrait
-TraitFileOutTest>>#testFileOutCategory
-MCRepositoryAuthorizationTest>>#testStoredCredentials
-MCRepositoryAuthorizationTest>>#testOverrideStoredCredentials
-FileStreamTest>>#testDetectFileDo
-NBExternalArrayTest>>#testExternalArray
-NBExternalArrayTest>>#testExternalCopy
-FileReferenceTest>>#testWriteStream
-FileReferenceTest>>#testReadStreamIfAbsent
-FileReferenceTest>>#testReadStream
-FileReferenceTest>>#testWriteStreamifPresent
-FileReferenceTest>>#testWriteStreamExists
-ChangeSet class>>#fileIntoNewChangeSet:
-SlotExampleTest>>#testPharoClassInstallerExample
-STCommandLineHandlerTest>>#testCommandLineHandlerCondition
-ChunkImportTestCase>>#testImportAClass
-ChunkImportTestCase>>#testImportAClassCategory
-ChunkImportTestCase>>#testImportAMethodWithSpacesInItsCategory
-ChunkImportTestCase>>#testImportAClassComment
-ChunkImportTestCase>>#testImportAMethod
-ChunkImportTestCase>>#testImportAClassCommentWithExclamationMarks
-ChunkImportTestCase>>#testImportAMethodWithNoTimestamp
-MorphTreeMorphTests>>#testMaintainingSelectionsOnUpdate
-MorphTreeMorphTests>>#testLeakingSelectionsOnUpdate
-MorphTreeMorphTests>>#testUpdatingSelectionsOnUpdateWithRemoval
-MorphTreeMorphTests>>#testLastClickedMorphSetUponUpdateList
-MorphTreeMorphTests>>#testUpdatingSelectionsOnUpdate
-FileSystem>>#copyFrom:to:
-FileSystem>>#copy:toReference:
-File>>#writeStreamDo:
-File>>#readStreamDo:
-Semaphore>>#critical:
+RBSmalllintTestObject>>#fileBlocks [Refactoring-Tests-Critics]
+RBRefactoryTestDataApp>>#fileBlocks [Refactoring-Tests-Core]
+TraitFileOutTest>>#testFileOutTrait [Tests]
+TraitFileOutTest>>#testFileOutCategory [Tests]
+MCRepositoryAuthorizationTest>>#testStoredCredentials [Monticello-Tests]
+MCRepositoryAuthorizationTest>>#testOverrideStoredCredentials [Monticello-Tests]
+FileStreamTest>>#testDetectFileDo [Tests]
+NBExternalArrayTest>>#testExternalArray [NativeBoost-Tests]
+NBExternalArrayTest>>#testExternalCopy [NativeBoost-Tests]
+FileReferenceTest>>#testWriteStream [FileSystem-Tests-Core]
+FileReferenceTest>>#testReadStreamIfAbsent [FileSystem-Tests-Core]
+FileReferenceTest>>#testReadStream [FileSystem-Tests-Core]
+FileReferenceTest>>#testWriteStreamifPresent [FileSystem-Tests-Core]
+FileReferenceTest>>#testWriteStreamExists [FileSystem-Tests-Core]
+ChangeSet class>>#fileIntoNewChangeSet: [System-Changes]
+SlotExampleTest>>#testPharoClassInstallerExample [Slot-Tests]
+STCommandLineHandlerTest>>#testCommandLineHandlerCondition [Tests]
+ChunkImportTestCase>>#testImportAClass [Tests]
+ChunkImportTestCase>>#testImportAClassCategory [Tests]
+ChunkImportTestCase>>#testImportAMethodWithSpacesInItsCategory [Tests]
+ChunkImportTestCase>>#testImportAClassComment [Tests]
+ChunkImportTestCase>>#testImportAMethod [Tests]
+ChunkImportTestCase>>#testImportAClassCommentWithExclamationMarks [Tests]
+ChunkImportTestCase>>#testImportAMethodWithNoTimestamp [Tests]
+MorphTreeMorphTests>>#testMaintainingSelectionsOnUpdate [MorphicTests]
+MorphTreeMorphTests>>#testLeakingSelectionsOnUpdate [MorphicTests]
+MorphTreeMorphTests>>#testUpdatingSelectionsOnUpdateWithRemoval [MorphicTests]
+MorphTreeMorphTests>>#testLastClickedMorphSetUponUpdateList [MorphicTests]
+MorphTreeMorphTests>>#testUpdatingSelectionsOnUpdate [MorphicTests]
+FileSystem>>#copyFrom:to: [FileSystem-Core]
+FileSystem>>#copy:toReference: [FileSystem-Core]
+File>>#writeStreamDo: [Files]
+File>>#readStreamDo: [Files]
+Semaphore>>#critical: [Kernel]

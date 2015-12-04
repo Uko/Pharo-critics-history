@@ -1,36 +1,37 @@
-NBUnixSpecificTest class>>#isAbstract
-MCWorkingCopyBrowser>>#workingCopyList
-Locale class>>#initKnownLocales
-Generator class>>#examplePrimes
-SUnitExtensionsTest>>#testNoExceptionWithNoMatchingString
-SUnitExtensionsTest>>#testNoExceptionWithMatchingString
-TxAthensRenderingTest class>>#test
-MBLoadConfigurationCommandTest>>#testExecute
-RBLintRuleTest>>#runOnEnvironment:
-EmptyLayout>>#extendVariable:
-NBMacSpecificTest class>>#isAbstract
-Form class>>#unload
-Form class>>#initialize
-FontChooserMorph>>#newFontPointSizeField
-CharacterScanner class>>#initialize
-GTSpotterRecorderEvent>>#gtInspectorItems
-KeymapBuilderTest class>>#keymapEventBuilderClass
-MetacelloToolBox>>#baselineNamed:
-GLMMorphicTest>>#wait:until:evaluatesTo:
-ZnHTTPSTests>>#runningOnWindows
-FLUserGuidesTest>>#testShowingProgressBar
-KMDispatcherTestCase class>>#keymapEventBuilderClass
-MczInstaller>>#useNewChangeSetDuring:
-SimpleTextGlyphInfo>>#loadFrom:
-MCConfigurationBrowser>>#showChangeLog
-RBBasicLintRuleTest class>>#utilityMethods
-RBBasicLintRuleTest class>>#usesTrue
-RBBasicLintRuleTest class>>#refersToClass
-RBBasicLintRuleTest class>>#tempsReadBeforeWritten
-RBBasicLintRuleTest class>>#usesAdd
-Transcripter class>>#startTranscriptProcess
-GLMBasicExamples>>#onChangeOfPortAction
-KMKeymapTest class>>#keymapEventBuilderClass
-ZnServerTests>>#runningOnWindows
-BalloonEngine class>>#printBezierStats
-GLMPhlowListBrick class>>#example2
+NBUnixSpecificTest class>>#isAbstract [NativeBoost-Tests]
+MCWorkingCopyBrowser>>#workingCopyList [MonticelloGUI]
+Locale class>>#initKnownLocales [System-Localization]
+Generator class>>#examplePrimes [Collections-Streams]
+SUnitExtensionsTest>>#testNoExceptionWithNoMatchingString [SUnit-Tests]
+SUnitExtensionsTest>>#testNoExceptionWithMatchingString [SUnit-Tests]
+TxAthensRenderingTest class>>#test [TxText-AthensTests]
+MBLoadConfigurationCommandTest>>#testExecute [Versionner-Tests-Core-Commands]
+RBLintRuleTest>>#runOnEnvironment: [Refactoring-Tests-Core]
+EmptyLayout>>#extendVariable: [Slot]
+NBMacSpecificTest class>>#isAbstract [NativeBoost-Tests]
+Form class>>#unload [Graphics-Files]
+Form class>>#initialize [Graphics-Files]
+FontChooserMorph>>#newFontPointSizeField [FontChooser]
+CharacterScanner class>>#initialize [Text-Scanning]
+GTSpotterRecorderEvent>>#gtInspectorItems [GT-Spotter-EventRecorder]
+KeymapBuilderTest class>>#keymapEventBuilderClass [Keymapping-Tests]
+MetacelloToolBox>>#baselineNamed: [Metacello-ToolBox]
+GLMMorphicTest>>#wait:until:evaluatesTo: [Glamour-Tests-Morphic]
+ZnHTTPSTests>>#runningOnWindows [Zinc-Zodiac]
+FLUserGuidesTest>>#testShowingProgressBar [FuelTests]
+KMDispatcherTestCase class>>#keymapEventBuilderClass [Keymapping-Tests]
+MczInstaller>>#useNewChangeSetDuring: [System-Installers]
+SimpleTextGlyphInfo>>#loadFrom: [Athens-Text]
+MCConfigurationBrowser>>#showChangeLog [MonticelloGUI]
+SelectRuleBrowser class>>#pharoIntegrationRules [Tool-CriticBrowser]
+RBBasicLintRuleTest class>>#utilityMethods [Refactoring-Tests-Core]
+RBBasicLintRuleTest class>>#usesTrue [Refactoring-Tests-Core]
+RBBasicLintRuleTest class>>#refersToClass [Refactoring-Tests-Core]
+RBBasicLintRuleTest class>>#tempsReadBeforeWritten [Refactoring-Tests-Core]
+RBBasicLintRuleTest class>>#usesAdd [Refactoring-Tests-Core]
+Transcripter class>>#startTranscriptProcess [EmergencyEvaluator]
+GLMBasicExamples>>#onChangeOfPortAction [Glamour-Examples]
+KMKeymapTest class>>#keymapEventBuilderClass [Keymapping-Tests]
+ZnServerTests>>#runningOnWindows [Zinc-Tests]
+BalloonEngine class>>#printBezierStats [Balloon]
+GLMPhlowListBrick class>>#example2 [Glamour-Morphic-Brick]

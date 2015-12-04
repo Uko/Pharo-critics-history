@@ -1,98 +1,98 @@
-MCWorkingCopyBrowser>>#pickWorkingCopySatisfying:
-MCWorkingCopyBrowser>>#newRepository
-MCWorkingCopyBrowser>>#pickAncestorVersionInfo
-MCSliceMaker>>#resultInfo
-OkCancelToolbar>>#performCancelAction
-UnlockedKeyChain>>#userNameFor:
-RBSmalllintTestObject>>#returnsIfTrue
-RemotesManager>>#newRemote
-RBRefactoryTestDataApp>>#returnsIfTrue
-DropListMorph>>#selectedItem
-DropListMorph>>#getCurrentSelection
-OCOpalExamples>>#exampleSimpleBlockLocalIfNested
-OCOpalExamples>>#exampleSimpleBlockLocalIf
-AbstractTool>>#defaultGetSelectorAndSendQuery:to:with:
-PasteUpMorph>>#handlerForMouseDown:
-KeyChain>>#userNamePasswordFor:
-KeyChain>>#removeUserNamePasswordFor:
-KeyChain>>#passwordFor:
-TabSelectorMorph>>#selectedTab
-Generator>>#next
-DialogWindow>>#mainPanel
-TabGroupMorph>>#pageMorph
-FileReference>>#spotterForFilesFor:
-FileReference>>#spotterForDirectoriesFor:
-RxMatcherTest>>#compileRegex:
-MBCommand>>#pickRepositoryFrom:title:
-MCFileTreeJsonParser>>#expect:
-CodeHolder>>#sendQuery:to:
-CodeHolder>>#getSelectorAndSendQuery:to:with:
-RBVariableNode>>#hasIncompleteIdentifier
-GroupHolder>>#createAnEmptyStaticGroup
-RBRefactoryClassChange>>#methodSourceFor:
-MBAddRepositoryCommand>>#newRepository
-GTPlayground>>#acceptContents:
-GLMTabSelectorBrick>>#selectedTab
-RubSelectorChooserMorph>>#nextPrefixWith:
-CompiledMethod>>#methodClass:
-SystemWindow>>#activate
-SystemWindow>>#previousMorphInWindow
-SystemWindow>>#nextMorphInWindow
-SystemWindow>>#mouseMove:
-AbstractNautilusUI>>#dragTransferTypeForMorph:
-Float>>#printOn:base:
-ExpanderTitleMorph>>#font
-MultiByteFileStream>>#basicChunk
-PragmaMenuBuilder>>#pragmaKeyword
-ListModel>>#clickOnSelectedItem
-ChangeRecord>>#methodSelector
-WeakAnnouncementSubscription>>#deliver:
-GTSpotter>>#previousStep
-MonticelloRepositoryBrowser>>#newRepository
-NautilusMonticello>>#newRepository
-Socket>>#waitForAcceptFor:
-RxMatcher>>#lastChar
-PSMCPatchMorph>>#selectedMessageName
-EncoderForV3PlusClosures class>>#callPrimitiveCode
-SettingDeclaration>>#inputWidgetSelectorInClass:
-SettingDeclaration>>#localInputWidgetSelector
-MCVersionInspector>>#pickRepository
-MCVersionInspector>>#pickAncestor
-NECController>>#guessTypeFor:
-HistoryNode>>#current
-Morph>>#nextMorphWantingFocus
-Morph>>#previousMorphWantingFocus
-InputEventSensor>>#peekEvent
-SingleCodeCriticResultList>>#iconFor:
-SelectorChooserMorph>>#nextPrefixWith:
-MCConfigurationBrowser>>#pickRepositorySatisfying:
-MCConfigurationBrowser>>#pickName
-RubTextEditor>>#findNextString:startingAt:
-RubTextEditor>>#findPrevious:startingAt:
-ZnUrl>>#queryAt:ifPresent:
-UITheme>>#chooseFontIn:title:font:
-UITheme>>#chooseColorIn:title:color:
-UITheme>>#desktopImageFor:
-HistoryIterator>>#current
-HistoryIterator>>#previous
-HistoryIterator>>#next
-IdentifierChooserMorph class>>#labels:chooseBlock:
-AbstractWidget>>#dragTransferTypeForMorph:
-MCStReader>>#systemOrganizationFromRecords:
-FileDialogWindow>>#saveSelectedFile
-ChooseDropListDialogWindow>>#selectedItem
-TextEditor>>#findNextString:startingAt:
-TextEditor>>#findPrevious:startingAt:
-WeakSet>>#like:
-VSCatalogAdderCommand>>#ensureChangeLog
-VSCatalogAdderCommand>>#ensureContactInfo
-VSCatalogAdderCommand>>#ensureKeyClasses
-VSCatalogAdderCommand>>#ensureKeywords
-VSCatalogAdderCommand>>#ensureCatalogDescription
-MorphTreeModel>>#openDialogWindowIn:title:selectedtems:
-FileSystem>>#resolveReference:
-RBRemoveClassTest>>#resumeOnCannotRemoveTopLevelClassError:
-AnnouncementSubscription>>#deliver:
-HTTPProgress>>#percentage
-HTTPProgress>>#fraction
-HTTPProgress>>#amountLeft
+MCWorkingCopyBrowser>>#pickWorkingCopySatisfying: [MonticelloGUI]
+MCWorkingCopyBrowser>>#newRepository [MonticelloGUI]
+MCWorkingCopyBrowser>>#pickAncestorVersionInfo [MonticelloGUI]
+MCSliceMaker>>#resultInfo [MonticelloGUI]
+OkCancelToolbar>>#performCancelAction [Spec-Core]
+UnlockedKeyChain>>#userNameFor: [UserManager-Core]
+RBSmalllintTestObject>>#returnsIfTrue [Refactoring-Tests-Critics]
+RemotesManager>>#newRemote [Komitter]
+RBRefactoryTestDataApp>>#returnsIfTrue [Refactoring-Tests-Core]
+DropListMorph>>#selectedItem [Polymorph-Widgets]
+DropListMorph>>#getCurrentSelection [Polymorph-Widgets]
+OCOpalExamples>>#exampleSimpleBlockLocalIfNested [OpalCompiler-Tests]
+OCOpalExamples>>#exampleSimpleBlockLocalIf [OpalCompiler-Tests]
+AbstractTool>>#defaultGetSelectorAndSendQuery:to:with: [Tool-Base]
+PasteUpMorph>>#handlerForMouseDown: [Morphic-Core]
+KeyChain>>#userNamePasswordFor: [UserManager-Core]
+KeyChain>>#removeUserNamePasswordFor: [UserManager-Core]
+KeyChain>>#passwordFor: [UserManager-Core]
+TabSelectorMorph>>#selectedTab [Polymorph-Widgets]
+Generator>>#next [Collections-Streams]
+DialogWindow>>#mainPanel [Morphic-Widgets-Windows]
+TabGroupMorph>>#pageMorph [Polymorph-Widgets]
+FileReference>>#spotterForFilesFor: [GT-SpotterExtensions-Core]
+FileReference>>#spotterForDirectoriesFor: [GT-SpotterExtensions-Core]
+RxMatcherTest>>#compileRegex: [Regex-Tests-Core]
+MBCommand>>#pickRepositoryFrom:title: [Versionner-Core-Commands]
+MCFileTreeJsonParser>>#expect: [MonticelloFileTree-Core]
+CodeHolder>>#sendQuery:to: [Tool-Browser-Old]
+CodeHolder>>#getSelectorAndSendQuery:to:with: [Tool-Browser-Old]
+RBVariableNode>>#hasIncompleteIdentifier [AST-Core]
+GroupHolder>>#createAnEmptyStaticGroup [GroupManager]
+RBRefactoryClassChange>>#methodSourceFor: [Refactoring-Changes]
+MBAddRepositoryCommand>>#newRepository [Versionner-Core-Commands]
+GTPlayground>>#acceptContents: [GT-Playground]
+GLMTabSelectorBrick>>#selectedTab [Glamour-Morphic-Brick]
+RubSelectorChooserMorph>>#nextPrefixWith: [Rubric]
+CompiledMethod>>#methodClass: [Kernel]
+SystemWindow>>#activate [Polymorph-Widgets]
+SystemWindow>>#previousMorphInWindow [Polymorph-Widgets]
+SystemWindow>>#nextMorphInWindow [Polymorph-Widgets]
+SystemWindow>>#mouseMove: [Polymorph-Widgets]
+AbstractNautilusUI>>#dragTransferTypeForMorph: [Nautilus]
+Float>>#printOn:base: [Kernel]
+ExpanderTitleMorph>>#font [Polymorph-Widgets]
+MultiByteFileStream>>#basicChunk [Files]
+PragmaMenuBuilder>>#pragmaKeyword [MenuRegistration]
+ListModel>>#clickOnSelectedItem [Spec-Core]
+ChangeRecord>>#methodSelector [System-Changes]
+WeakAnnouncementSubscription>>#deliver: [Announcements-Core]
+GTSpotter>>#previousStep [GT-Spotter]
+MonticelloRepositoryBrowser>>#newRepository [Spec-Tools]
+NautilusMonticello>>#newRepository [Nautilus]
+Socket>>#waitForAcceptFor: [Network-Kernel]
+RxMatcher>>#lastChar [Regex-Core]
+PSMCPatchMorph>>#selectedMessageName [Tool-Diff]
+EncoderForV3PlusClosures class>>#callPrimitiveCode [Compiler]
+SettingDeclaration>>#inputWidgetSelectorInClass: [System-Settings]
+SettingDeclaration>>#localInputWidgetSelector [System-Settings]
+MCVersionInspector>>#pickRepository [MonticelloGUI]
+MCVersionInspector>>#pickAncestor [MonticelloGUI]
+NECController>>#guessTypeFor: [NECompletion]
+HistoryNode>>#current [System-History]
+Morph>>#nextMorphWantingFocus [Polymorph-Widgets]
+Morph>>#previousMorphWantingFocus [Polymorph-Widgets]
+InputEventSensor>>#peekEvent [System-VMEvents]
+SingleCodeCriticResultList>>#iconFor: [Manifest-CriticBrowser]
+SelectorChooserMorph>>#nextPrefixWith: [Text-Edition]
+MCConfigurationBrowser>>#pickRepositorySatisfying: [MonticelloGUI]
+MCConfigurationBrowser>>#pickName [MonticelloGUI]
+RubTextEditor>>#findNextString:startingAt: [Rubric]
+RubTextEditor>>#findPrevious:startingAt: [Rubric]
+ZnUrl>>#queryAt:ifPresent: [Zinc-Resource-Meta-Core]
+UITheme>>#chooseFontIn:title:font: [Polymorph-Widgets]
+UITheme>>#chooseColorIn:title:color: [Polymorph-Widgets]
+UITheme>>#desktopImageFor: [Polymorph-Widgets]
+HistoryIterator>>#current [System-History]
+HistoryIterator>>#previous [System-History]
+HistoryIterator>>#next [System-History]
+IdentifierChooserMorph class>>#labels:chooseBlock: [Polymorph-Widgets]
+AbstractWidget>>#dragTransferTypeForMorph: [Nautilus]
+MCStReader>>#systemOrganizationFromRecords: [Monticello]
+FileDialogWindow>>#saveSelectedFile [Tool-FileList]
+ChooseDropListDialogWindow>>#selectedItem [Polymorph-Widgets]
+TextEditor>>#findNextString:startingAt: [Text-Edition]
+TextEditor>>#findPrevious:startingAt: [Text-Edition]
+WeakSet>>#like: [Collections-Weak]
+VSCatalogAdderCommand>>#ensureChangeLog [Versionner-Core-Commands]
+VSCatalogAdderCommand>>#ensureContactInfo [Versionner-Core-Commands]
+VSCatalogAdderCommand>>#ensureKeyClasses [Versionner-Core-Commands]
+VSCatalogAdderCommand>>#ensureKeywords [Versionner-Core-Commands]
+VSCatalogAdderCommand>>#ensureCatalogDescription [Versionner-Core-Commands]
+MorphTreeModel>>#openDialogWindowIn:title:selectedtems: [Morphic-Widgets-Tree]
+FileSystem>>#resolveReference: [FileSystem-Core]
+RBRemoveClassTest>>#resumeOnCannotRemoveTopLevelClassError: [Refactoring-Tests-Core]
+AnnouncementSubscription>>#deliver: [Announcements-Core]
+HTTPProgress>>#percentage [Network-Protocols]
+HTTPProgress>>#fraction [Network-Protocols]
+HTTPProgress>>#amountLeft [Network-Protocols]

@@ -1,75 +1,75 @@
-SelectorChooserMorph
-RBRenameInstanceVariableChange
-KMSingleKeyCombination
-TxEmbeddedObjectCommand
-AJMMRegister
-AJBaseReg
-FileReference
-SpecColumnLayout
-TxDisplayCommand
-SDL2TouchGestureExample2
-AthensPathBuilder
-AthensSimplePathBuilder
-RBRenameVariableChange
-ZipNewFileMember
-SpecSplitterVertical
-RubSelectorChooserMorph
-MCSnapshotReader
-AJx87Register
-AJImmediate
-TxTabDisplayCommand
-AJRegister
-GLMBrickWidthTraverser class
-MCFileTreeStCypressReader
-TxCharacterSpanDisplayCommand
-SDL2TouchGestureExample
-GLMVerticalLinearLayout class
-GLMBrickHeightTraverser class
-AbstractFileReference
-OpalCompiler
-MCStReader
-ZipFileMember
-MCMcdReader
-AbstractSpecLayoutAction
-SpecTableLayoutSend
-AbstractCompiler
-SpecLayoutSend
-Metaclass
-Context
-SpecLayout
-MCVersionInspector
-RBRenameClassVariableChange
-AJMem
-AJxMMRegister
-KMUntypeableSingleKeyCombination
-RBCompositeRefactoryChange
-Compiler
-MCMczReader
-TxNewLineDisplayCommand
-ZipArchiveMember
-GLMLinearLayout class
-SHTextStyler
-IdentifierChooserMorph
-Decompiler
-FileLocator
-TxCairoCharacterSpanDisplayCommand
-AthensCairoPathBuilder
-SHTextStylerST80
-MCVersionReader
-KMNamedCharKeyCombination
-ZipStringMember
-MCFileTreeAbstractReader
-SDL2TouchExample
-SpecSplitterHorizontal
-GLMBrickLayoutTraverser class
-GLMHorizontalLinearLayout class
-InstructionStream
-GLMHighlighterTextParserStyler
-AJOperand
-SpecRowLayout
-Class
-ClassDescription
-MCReader
-MCRepositoryInspector
-MCFileRepositoryInspector
-RBRenameClassChange
+SelectorChooserMorph [Text-Edition]
+ZipArchiveMember [Compression]
+Decompiler [Compiler]
+SDL2TouchGestureExample [OSWindow-SDL2]
+InstructionStream [Kernel]
+MCReader [Monticello]
+AJMMRegister [AsmJit-x86]
+MCFileTreeStCypressReader [MonticelloFileTree-Core]
+AbstractFileReference [FileSystem-Core]
+GLMBrickWidthTraverser class [Glamour-Morphic-Brick]
+AJBaseReg [AsmJit-Operands]
+IdentifierChooserMorph [Polymorph-Widgets]
+AbstractSpecLayoutAction [Spec-Layout]
+MCMczReader [Monticello]
+TxEmbeddedObjectCommand [TxText-Athens]
+AthensPathBuilder [Athens-Core]
+GLMHighlighterTextParserStyler [Glamour-Rubric-Presentations]
+AJxMMRegister [AsmJit-x86]
+RubSelectorChooserMorph [Rubric]
+SpecLayout [Spec-Layout]
+TxNewLineDisplayCommand [TxText-Athens]
+ZipFileMember [Compression]
+RBRenameVariableChange [Refactoring-Changes]
+MCVersionInspector [MonticelloGUI]
+RBRenameClassChange [Refactoring-Changes]
+ZipStringMember [Compression]
+SpecLayoutSend [Spec-Layout]
+GLMLinearLayout class [Glamour-Morphic-Brick]
+AJx87Register [AsmJit-x86]
+SHTextStylerST80 [Shout]
+AJImmediate [AsmJit-Operands]
+TxTabDisplayCommand [TxText-Athens]
+RBCompositeRefactoryChange [Refactoring-Changes]
+SpecSplitterVertical [Spec-Layout]
+GLMBrickHeightTraverser class [Glamour-Morphic-Brick]
+AthensCairoPathBuilder [Athens-Cairo]
+GLMBrickLayoutTraverser class [Glamour-Morphic-Brick]
+ClassDescription [Kernel]
+SpecColumnLayout [Spec-Layout]
+Context [Kernel]
+AJRegister [AsmJit-Operands]
+KMSingleKeyCombination [Keymapping-KeyCombinations]
+SDL2TouchExample [OSWindow-SDL2]
+AthensSimplePathBuilder [Athens-Core]
+MCFileTreeAbstractReader [MonticelloFileTree-Core]
+MCFileRepositoryInspector [MonticelloGUI]
+TxCharacterSpanDisplayCommand [TxText-Athens]
+KMUntypeableSingleKeyCombination [Keymapping-KeyCombinations]
+MCSnapshotReader [Monticello]
+FileReference [FileSystem-Core]
+SHTextStyler [Shout]
+Compiler [Compiler]
+GLMVerticalLinearLayout class [Glamour-Morphic-Brick]
+RBRenameInstanceVariableChange [Refactoring-Changes]
+SpecTableLayoutSend [Spec-Layout]
+OpalCompiler [OpalCompiler-Core]
+ZipNewFileMember [Compression]
+SpecSplitterHorizontal [Spec-Layout]
+TxDisplayCommand [TxText-Athens]
+MCStReader [Monticello]
+SDL2TouchGestureExample2 [OSWindow-SDL2]
+Metaclass [Kernel]
+MCVersionReader [Monticello]
+RBRenameClassVariableChange [Refactoring-Changes]
+GLMHorizontalLinearLayout class [Glamour-Morphic-Brick]
+MCMcdReader [Monticello]
+Class [Kernel]
+KMNamedCharKeyCombination [Keymapping-KeyCombinations]
+AbstractCompiler [OpalCompiler-Core]
+AJOperand [AsmJit-Operands]
+FileLocator [FileSystem-Core]
+TxCairoCharacterSpanDisplayCommand [TxText-Athens]
+AJMem [AsmJit-Operands]
+MCRepositoryInspector [MonticelloGUI]
+SpecRowLayout [Spec-Layout]

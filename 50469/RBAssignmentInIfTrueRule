@@ -1,111 +1,111 @@
-GoferVersionReference>>#parseName:
-NBNativeCodeGen class>>#getErrorFromJit:
-RxParser>>#branch
-RxParser>>#next
-ZipEncoder>>#privateSendBlock:with:with:with:
-ZipEncoder>>#on:
-DisplayScanner>>#cr
-DisplayScanner>>#displayLine:offset:leftInRun:
-GroupCreatorTreeModel>>#acceptDroppingMorph:event:inMorph:
-RBSmalllintTestObject>>#assignmentInIfTrue
-RBRefactoryTestDataApp>>#assignmentInIfTrue
-TableLayout>>#computeCellArrangement:in:horizontal:target:
-TableLayout>>#indexForInserting:inList:horizontal:target:
-RubCharacterBlockScanner>>#cr
-RubCharacterBlockScanner>>#endOfRun
-AthensSceneView>>#createSurface
-RubEncryptedDisplayScanner>>#displayLine:offset:leftInRun:
-PasteUpMorph>>#mouseDown:
-SourceFileArray>>#changeRecordsFrom:className:isMeta:do:
-CornerGripMorph>>#targetPoint:
-NECContext>>#completionToken
-AthensCurveFlattener>>#isFlatQuadBezier:y1:x2:y2:x3:y3:
-Categorizer>>#classify:under:suppressIfDefault:
-CharacterBlockScanner>>#cr
-MCClassDefinition>>#initializeWithName:superclassName:category:instVarNames:classVarNames:poolDictionaryNames:classInstVarNames:type:comment:commentStamp:
-MCClassDefinition>>#initializeWithName:superclassName:traitComposition:classTraitComposition:category:instVarNames:classVarNames:poolDictionaryNames:classInstVarNames:type:comment:commentStamp:
-Scanner>>#step
-FBDExamples>>#exampleIfFalseIfTrue2
-FBDExamples>>#exampleIfTrueIfFalse2
-GIFReadWriter>>#nextBits
-GIFReadWriter>>#readHeader
-MetacelloVersionNumber>>#hash
-FreeTypeSettings>>#glyphContrast:
-ThumbnailMorph>>#scaleFor:in:
-Form class>>#floodFillTolerance:
-AthensCubicBezier>>#recursiveSubDiv:level:
-IntegerArray>>#atAllPut:
-IntegerArray>>#at:put:
-PolymorphSystemSettings class>>#desktopBackgroundChanged
-SystemWindow>>#position:
-TBehavior>>#allInstVarNames
-ColorMap>>#pixelMap:
-ColorMap>>#mapPixel:
-Date class>>#readFrom:
-AthensCairoPathBuilder>>#arcTo:angle:cw:
-SpecDebuggerStack>>#columnsFor:
-TextDiffBuilder>>#lcsFor:and:
-Float>>#printPaddedWith:to:
-RubDisplayScanner>>#cr
-RubDisplayScanner>>#displayLine:offset:leftInRun:
-Parser>>#temporaries
-Parser>>#temporariesIn:
-Parser>>#braceExpression
-TClassDescription>>#newInstanceFrom:variable:size:map:
-TClassDescription>>#newInstanceFrom:variable:size:
-SpecRowLayout>>#manualFractionComputation
-SimpleHierarchicalListMorph>>#basicKeyPressed:
-RxCharSetParser>>#match:
-Bitmap>>#integerAt:put:
-Color>>#hue
-Color>>#pixelWordFor:filledWith:
-Color>>#duller
-GLMTreeMorphModel>>#toggleAmountToFilterBy
-DelayMicrosecondScheduler>>#unscheduleDelay:
-Context>>#doPrimitive:method:receiver:args:
-DateAndTime class>>#readFrom:
-ZipWriteStream>>#encodeMatch:distance:
-MessageNode>>#printToDoOn:indent:
-KMKeymap>>#notifyCompleteMatchTo:buffer:
-Morph>>#privateAddAllMorphs:atIndex:
-ZipEncoderNode>>#computeHeight
-PragmaMenuAndShortcutRegistration>>#platform:
-RBDeprecateMethodRefactoring>>#formDeprecatedMethod
-NNavNavigation>>#bestNodeForSelection
-BMPReadWriter>>#read24BmpLine:into:startingAt:width:
-RubTextEditor>>#forwardDelete:
-RubTextEditor>>#changeEmphasisOrAlignment
-ZnUrl>>#scheme:
-PolygonMorph>>#computeCurvedSegmentCtrlPoints
-String class>>#with:
-AthensCairoText>>#fontSlant:
-AthensCairoText>>#fontWeight:
-NewList>>#basicKeyPressed:
-RubOpeningClosingDelimiterDecorator>>#positionOfOppositeDelimiter:startingAt:
-GLMPagerScrollSlidingBrick>>#mouseDown:
-Form>>#hackBits:
-Form>>#mapColors:to:
-Form>>#reducedPaletteOfSize:
-Form>>#readNativeResourceFrom:
-ZnUtils class>>#parseHttpDate:
-TextEditor>>#forwardDelete:
-TextEditor>>#changeEmphasisOrAlignment
-MorphTreeNodeMorph>>#drawLinesToFirstChildOn:
-PNGReadWriter>>#writeType6DataOn:
-PNGReadWriter>>#writePLTEChunkOn:
-BalloonBuffer>>#at:put:
-SpecColumnLayout>>#autoFractionComputation
-Color class>>#computeColormapFrom:to:
-Color class>>#computeRGBColorConvertingMap:to:keepSubPixelAA:
-Color class>>#maskingMap:
-Text>>#copyFrom:to:
-DelayMillisecondScheduler>>#unscheduleDelay:
-MCFileTreeRepository class>>#parseName:extension:
-GLMBasicExamples>>#actionsFor:
-AthensBezierConverter>>#isFlatBezier2_x1:y1:x2:y2:x3:y3:
-DeflateStream>>#deflateBlock
-DeflateStream>>#findMatch:lastLength:lastMatch:chainLength:goodMatch:
-MetacelloVersionConstructor>>#collectAllVersionsFromVersionImportPragmasInto:using:satisfiedPragmas:
-String>>#copyReplaceAll:with:asTokens:
-String>>#romanNumber
-Number class>>#readScaledDecimal:fractionPart:digits:base:sign:from:
+GoferVersionReference>>#parseName: [Gofer-Core]
+NBNativeCodeGen class>>#getErrorFromJit: [NativeBoost-Core]
+RxParser>>#branch [Regex-Core]
+RxParser>>#next [Regex-Core]
+ZipEncoder>>#privateSendBlock:with:with:with: [Compression]
+ZipEncoder>>#on: [Compression]
+DisplayScanner>>#cr [Text-Scanning]
+DisplayScanner>>#displayLine:offset:leftInRun: [Text-Scanning]
+GroupCreatorTreeModel>>#acceptDroppingMorph:event:inMorph: [Nautilus-GroupManagerUI]
+RBSmalllintTestObject>>#assignmentInIfTrue [Refactoring-Tests-Critics]
+RBRefactoryTestDataApp>>#assignmentInIfTrue [Refactoring-Tests-Core]
+TableLayout>>#computeCellArrangement:in:horizontal:target: [Morphic-Base]
+TableLayout>>#indexForInserting:inList:horizontal:target: [Morphic-Base]
+RubCharacterBlockScanner>>#cr [Rubric]
+RubCharacterBlockScanner>>#endOfRun [Rubric]
+AthensSceneView>>#createSurface [Athens-Morphic]
+RubEncryptedDisplayScanner>>#displayLine:offset:leftInRun: [Rubric]
+PasteUpMorph>>#mouseDown: [Morphic-Core]
+SourceFileArray>>#changeRecordsFrom:className:isMeta:do: [System-Sources]
+CornerGripMorph>>#targetPoint: [Morphic-Widgets-Windows]
+NECContext>>#completionToken [NECompletion]
+AthensCurveFlattener>>#isFlatQuadBezier:y1:x2:y2:x3:y3: [Athens-Core]
+Categorizer>>#classify:under:suppressIfDefault: [Kernel]
+CharacterBlockScanner>>#cr [Text-Scanning]
+MCClassDefinition>>#initializeWithName:superclassName:category:instVarNames:classVarNames:poolDictionaryNames:classInstVarNames:type:comment:commentStamp: [Monticello]
+MCClassDefinition>>#initializeWithName:superclassName:traitComposition:classTraitComposition:category:instVarNames:classVarNames:poolDictionaryNames:classInstVarNames:type:comment:commentStamp: [Monticello]
+Scanner>>#step [Compiler]
+FBDExamples>>#exampleIfFalseIfTrue2 [Flashback-Decompiler-Tests]
+FBDExamples>>#exampleIfTrueIfFalse2 [Flashback-Decompiler-Tests]
+GIFReadWriter>>#nextBits [Graphics-Files]
+GIFReadWriter>>#readHeader [Graphics-Files]
+MetacelloVersionNumber>>#hash [Metacello-Core]
+FreeTypeSettings>>#glyphContrast: [FreeType]
+ThumbnailMorph>>#scaleFor:in: [Morphic-Base]
+Form class>>#floodFillTolerance: [Graphics-Display Objects]
+AthensCubicBezier>>#recursiveSubDiv:level: [Athens-Core]
+IntegerArray>>#atAllPut: [Collections-Native]
+IntegerArray>>#at:put: [Collections-Native]
+PolymorphSystemSettings class>>#desktopBackgroundChanged [Settings-Polymorph]
+SystemWindow>>#position: [Morphic-Widgets-Windows]
+TBehavior>>#allInstVarNames [Traits]
+ColorMap>>#pixelMap: [Graphics-Primitives]
+ColorMap>>#mapPixel: [Graphics-Primitives]
+Date class>>#readFrom: [Kernel]
+AthensCairoPathBuilder>>#arcTo:angle:cw: [Athens-Cairo]
+SpecDebuggerStack>>#columnsFor: [Spec-Debugger]
+TextDiffBuilder>>#lcsFor:and: [Text-Diff]
+Float>>#printPaddedWith:to: [Kernel]
+RubDisplayScanner>>#cr [Rubric]
+RubDisplayScanner>>#displayLine:offset:leftInRun: [Rubric]
+Parser>>#temporaries [Compiler]
+Parser>>#temporariesIn: [Compiler]
+Parser>>#braceExpression [Compiler]
+TClassDescription>>#newInstanceFrom:variable:size:map: [Traits]
+TClassDescription>>#newInstanceFrom:variable:size: [Traits]
+SpecRowLayout>>#manualFractionComputation [Spec-Layout]
+SimpleHierarchicalListMorph>>#basicKeyPressed: [Morphic-Widgets-List]
+RxCharSetParser>>#match: [Regex-Core]
+Bitmap>>#integerAt:put: [Graphics-Primitives]
+Color>>#hue [Graphics-Primitives]
+Color>>#pixelWordFor:filledWith: [Graphics-Primitives]
+Color>>#duller [Graphics-Primitives]
+GLMTreeMorphModel>>#toggleAmountToFilterBy [Glamour-Morphic-Widgets]
+DelayMicrosecondScheduler>>#unscheduleDelay: [Kernel]
+Context>>#doPrimitive:method:receiver:args: [Kernel]
+DateAndTime class>>#readFrom: [Kernel]
+ZipWriteStream>>#encodeMatch:distance: [Compression]
+MessageNode>>#printToDoOn:indent: [Compiler]
+KMKeymap>>#notifyCompleteMatchTo:buffer: [Keymapping-Core]
+Morph>>#privateAddAllMorphs:atIndex: [Morphic-Core]
+ZipEncoderNode>>#computeHeight [Compression]
+PragmaMenuAndShortcutRegistration>>#platform: [MenuRegistration]
+RBDeprecateMethodRefactoring>>#formDeprecatedMethod [Refactoring-Core]
+NNavNavigation>>#bestNodeForSelection [NodeNavigation]
+BMPReadWriter>>#read24BmpLine:into:startingAt:width: [Graphics-Files]
+RubTextEditor>>#forwardDelete: [Rubric]
+RubTextEditor>>#changeEmphasisOrAlignment [Rubric]
+ZnUrl>>#scheme: [Zinc-Resource-Meta-Core]
+PolygonMorph>>#computeCurvedSegmentCtrlPoints [Athens-Morphic]
+String class>>#with: [Collections-Strings]
+AthensCairoText>>#fontSlant: [Athens-Cairo]
+AthensCairoText>>#fontWeight: [Athens-Cairo]
+NewList>>#basicKeyPressed: [Morphic-Widgets-NewList]
+RubOpeningClosingDelimiterDecorator>>#positionOfOppositeDelimiter:startingAt: [Rubric]
+GLMPagerScrollSlidingBrick>>#mouseDown: [Glamour-Morphic-Pager]
+Form>>#hackBits: [Graphics-Display Objects]
+Form>>#mapColors:to: [Graphics-Display Objects]
+Form>>#reducedPaletteOfSize: [Graphics-Display Objects]
+Form>>#readNativeResourceFrom: [Graphics-Files]
+ZnUtils class>>#parseHttpDate: [Zinc-HTTP]
+TextEditor>>#forwardDelete: [Text-Edition]
+TextEditor>>#changeEmphasisOrAlignment [Text-Edition]
+MorphTreeNodeMorph>>#drawLinesToFirstChildOn: [Morphic-Widgets-Tree]
+PNGReadWriter>>#writeType6DataOn: [Graphics-Files]
+PNGReadWriter>>#writePLTEChunkOn: [Graphics-Files]
+BalloonBuffer>>#at:put: [Balloon]
+SpecColumnLayout>>#autoFractionComputation [Spec-Layout]
+Color class>>#computeColormapFrom:to: [Graphics-Primitives]
+Color class>>#computeRGBColorConvertingMap:to:keepSubPixelAA: [Graphics-Primitives]
+Color class>>#maskingMap: [Graphics-Primitives]
+Text>>#copyFrom:to: [Text-Core]
+DelayMillisecondScheduler>>#unscheduleDelay: [Kernel]
+MCFileTreeRepository class>>#parseName:extension: [MonticelloFileTree-Core]
+GLMBasicExamples>>#actionsFor: [Glamour-Examples]
+AthensBezierConverter>>#isFlatBezier2_x1:y1:x2:y2:x3:y3: [Athens-Core]
+DeflateStream>>#deflateBlock [Compression]
+DeflateStream>>#findMatch:lastLength:lastMatch:chainLength:goodMatch: [Compression]
+MetacelloVersionConstructor>>#collectAllVersionsFromVersionImportPragmasInto:using:satisfiedPragmas: [Metacello-Core]
+String>>#copyReplaceAll:with:asTokens: [Collections-Strings]
+String>>#romanNumber [Collections-Strings]
+Number class>>#readScaledDecimal:fractionPart:digits:base:sign:from: [Kernel]

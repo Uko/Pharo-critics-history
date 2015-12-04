@@ -1,72 +1,72 @@
-AJRegister
-AJImmediate
-KMNamedCharKeyCombination
-MCVersionInspector
-TxNewLineDisplayCommand
-RBRenameClassChange
-SpecRowLayout
-MCFileRepositoryInspector
-MCReader
-SpecColumnLayout
-MCStReader
-AJOperand
-RubSelectorChooserMorph
-AJBaseReg
-SpecTableLayoutSend
-IdentifierChooserMorph
-AbstractCompiler
-Metaclass
-MCSnapshotReader
-AthensCairoPathBuilder
-TxCairoCharacterSpanDisplayCommand
-SpecSplitterHorizontal
-FileReference
-SpecLayout
-GLMBrickHeightTraverser class
-AJMem
-RBRenameClassVariableChange
-AJMMRegister
-TxEmbeddedObjectCommand
-InstructionStream
-AbstractFileReference
-TxTabDisplayCommand
-ZipArchiveMember
-AbstractSpecLayoutAction
-SpecLayoutSend
-SpecSplitterVertical
-MCMcdReader
-OpalCompiler
-MCMczReader
-TxDisplayCommand
-GLMBrickWidthTraverser class
-AthensPathBuilder
-Context
-MCFileTreeAbstractReader
-ClassDescription
-GLMVerticalLinearLayout class
-MCRepositoryInspector
-TxCharacterSpanDisplayCommand
-FileLocator
-AJxMMRegister
-MCVersionReader
-ZipFileMember
-GLMHorizontalLinearLayout class
-Class
-ZipStringMember
-AthensSimplePathBuilder
-RBCompositeRefactoryChange
-SHTextStylerST80
-RBRenameInstanceVariableChange
-SHTextStyler
-KMUntypeableSingleKeyCombination
-Decompiler
-MCFileTreeStCypressReader
-Compiler
-SelectorChooserMorph
-ZipNewFileMember
-RBRenameVariableChange
-KMSingleKeyCombination
-GLMHighlighterTextParserStyler
-GLMLinearLayout class
-AJx87Register
-GLMBrickLayoutTraverser class
+AbstractCompiler [OpalCompiler-Core]
+KMUntypeableSingleKeyCombination [Keymapping-KeyCombinations]
+MCFileTreeStCypressReader [MonticelloFileTree-Core]
+GLMBrickLayoutTraverser class [Glamour-Morphic-Brick]
+ClassDescription [Kernel]
+AJMMRegister [AsmJit-x86]
+GLMHighlighterTextParserStyler [Glamour-Rubric-Presentations]
+SHTextStyler [Shout]
+SpecSplitterVertical [Spec-Layout]
+Class [Kernel]
+RubSelectorChooserMorph [Rubric]
+AthensCairoPathBuilder [Athens-Cairo]
+ZipNewFileMember [Compression]
+SpecTableLayoutSend [Spec-Layout]
+SpecRowLayout [Spec-Layout]
+MCReader [Monticello]
+Metaclass [Kernel]
+RBRenameVariableChange [Refactoring-Changes]
+RBCompositeRefactoryChange [Refactoring-Changes]
+MCRepositoryInspector [MonticelloGUI]
+AbstractFileReference [FileSystem-Core]
+ZipStringMember [Compression]
+SpecSplitterHorizontal [Spec-Layout]
+GLMBrickHeightTraverser class [Glamour-Morphic-Brick]
+RBRenameClassVariableChange [Refactoring-Changes]
+AJBaseReg [AsmJit-Operands]
+ZipArchiveMember [Compression]
+AbstractSpecLayoutAction [Spec-Layout]
+AthensPathBuilder [Athens-Core]
+SpecLayoutSend [Spec-Layout]
+MCFileTreeAbstractReader [MonticelloFileTree-Core]
+MCSnapshotReader [Monticello]
+TxCairoCharacterSpanDisplayCommand [TxText-Athens]
+KMSingleKeyCombination [Keymapping-KeyCombinations]
+AthensSimplePathBuilder [Athens-Core]
+AJOperand [AsmJit-Operands]
+GLMLinearLayout class [Glamour-Morphic-Brick]
+GLMBrickWidthTraverser class [Glamour-Morphic-Brick]
+MCFileRepositoryInspector [MonticelloGUI]
+IdentifierChooserMorph [Polymorph-Widgets]
+Compiler [Compiler]
+TxNewLineDisplayCommand [TxText-Athens]
+MCStReader [Monticello]
+Context [Kernel]
+TxEmbeddedObjectCommand [TxText-Athens]
+MCMcdReader [Monticello]
+GLMVerticalLinearLayout class [Glamour-Morphic-Brick]
+AJMem [AsmJit-Operands]
+ZipFileMember [Compression]
+InstructionStream [Kernel]
+TxDisplayCommand [TxText-Athens]
+MCVersionReader [Monticello]
+AJx87Register [AsmJit-x86]
+OpalCompiler [OpalCompiler-Core]
+MCMczReader [Monticello]
+AJxMMRegister [AsmJit-x86]
+GLMHorizontalLinearLayout class [Glamour-Morphic-Brick]
+AJImmediate [AsmJit-Operands]
+KMNamedCharKeyCombination [Keymapping-KeyCombinations]
+AJRegister [AsmJit-Operands]
+FileReference [FileSystem-Core]
+RBRenameClassChange [Refactoring-Changes]
+SHTextStylerST80 [Shout]
+FileLocator [FileSystem-Core]
+Decompiler [Compiler]
+SpecLayout [Spec-Layout]
+TxTabDisplayCommand [TxText-Athens]
+TxCharacterSpanDisplayCommand [TxText-Athens]
+RBRenameInstanceVariableChange [Refactoring-Changes]
+SelectorChooserMorph [Text-Edition]
+MCVersionInspector [MonticelloGUI]
+SpecColumnLayout [Spec-Layout]

@@ -1,12 +1,12 @@
-RBSmalllintTestObject>>#equalNotUsed
-GLMPagerModel>>#recomputeState:
-RBRefactoryTestDataApp>>#equalNotUsed
-FloatTest>>#testSign
-FloatTest>>#testCopySignTo
-OCCompilerNotifyingTest>>#testTooManyLiterals
-GLMPresentationTest>>#testActions
-AJx86InstructionDescription>>#emitx87fpu:operand1:operand2:operand3:
-EUCTextConverterTest>>#testEUCJP
-TextStyle>>#veryDeepCopyWith:
-TraitTest>>#testCompositionCopy
-NBCoreTests>>#testPrimitive220ErrorCode
+RBSmalllintTestObject>>#equalNotUsed [Refactoring-Tests-Critics]
+GLMPagerModel>>#recomputeState: [Glamour-Morphic-Pager]
+RBRefactoryTestDataApp>>#equalNotUsed [Refactoring-Tests-Core]
+FloatTest>>#testSign [Kernel-Tests]
+FloatTest>>#testCopySignTo [Kernel-Tests]
+OCCompilerNotifyingTest>>#testTooManyLiterals [OpalCompiler-Tests]
+GLMPresentationTest>>#testActions [Glamour-Tests-Core]
+AJx86InstructionDescription>>#emitx87fpu:operand1:operand2:operand3: [AsmJit-x86]
+EUCTextConverterTest>>#testEUCJP [Multilingual-Tests]
+TextStyle>>#veryDeepCopyWith: [Text-Core]
+TraitTest>>#testCompositionCopy [Tests]
+NBCoreTests>>#testPrimitive220ErrorCode [NativeBoost-Tests]
