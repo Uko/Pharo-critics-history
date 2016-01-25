@@ -1,0 +1,52 @@
+RxsLookaround>>#initializePiece:
+Date class>>#starting:
+CharacterBlock>>#stringIndex:text:topLeft:extent:
+RBRenameClassChange>>#=
+Parser>>#init:notifying:failBlock:
+FLProxyThatBecomesItsContent>>#initializeWith:
+RBRefactoryTestDataApp>>#sendsDifferentSuper
+SharedRandom>>#next
+GTBrowseDebugAction class>>#gtDebugActionsFor:
+StrikeFontSet class>>#newFontArray:
+AthensTextMorph>>#contents:wrappedTo:
+PluggableTextAttribute class>>#evalBlock:
+PaginatedMorphTreeMorph>>#currentNodelist
+FT2GlyphSlot class>>#fromFace:
+RelationSlot class>>#named:inverse:inClass:
+GTSpotterBreadcrumbSeparatorRenderer>>#render:on:
+SelectionMorph>>#doneExtending
+LongTestCase class>>#allTestSelectors
+CheckboxButtonMorph>>#borderWidth:
+SystemWindow>>#basicIsSticky
+SystemWindow>>#setBoundsWithFlex:
+TextIndent class>>#amount:
+StartupPreferencesLoader class>>#default
+TextMorph>>#updateFromParagraph
+AJBaseReg>>#initializeWithCode:name:
+NBNativeFunction>>#initializeWithCode:fnSpec:
+EditableDropListMorph class>>#on:list:selected:changeSelected:useIndex:addToList:class:getEnabled:default:
+RemoteTempVectorNode>>#emitCodeForLoadFor:stack:encoder:
+RemoteTempVectorNode>>#sizeCodeForLoadFor:encoder:
+SortedCollection class>>#sortBlock:
+FFIExternalResourceManager class>>#uniqueInstance
+LargeInteger>>#digitAt:put:
+LargeInteger>>#digitAt:
+Decompiler>>#decompile:in:method:using:
+RBSmalllintTestObject>>#sendsDifferentSuper
+MultiByteFileStream>>#basicSkip:
+MultiByteFileStream>>#basicNextInto:
+MultiByteFileStream>>#basicSetToEnd
+MultiByteFileStream>>#basicNext:into:
+MultiByteFileStream>>#basicVerbatim:
+MultiByteFileStream>>#fileInEncodingName:
+MultiByteFileStream>>#basicPosition
+MultiByteFileStream>>#detectLineEndConvention
+MultiByteFileStream>>#basicPosition:
+MCDiffyVersion>>#initializeWithPackage:info:dependencies:baseInfo:patch:
+MetacelloPackageLoadDirective>>#spec:externalReference:loader:
+OSEnvironment>>#initializeWith:
+FLGlobalSendMock>>#initializeWith:
+CharacterSetComplement class>>#of:
+DAPackageDependencyWrapper>>#initializeFrom:
+GLMFoundationBrick>>#themer
+TempVariableNode>>#name:index:type:scope:

@@ -1,0 +1,223 @@
+MetacelloPackagesSpec>>#sortPackageSpecs:packageSpec:groupLoops:for:
+PragmaMenuBuilder>>#interpretRegistration:
+SHParserST80Test>>#verifyClass:selector:
+ThemeIcons class>>#uiFetchPacks
+TraitComposition>>#printOn:
+EyeCompiledMethodInspector>>#addVariableFields:
+SHTextStylerST80>>#addLinkAttributesFor:in:to:
+RGContainer>>#loadPackagesFromImage
+TClass>>#removeClassVarNamed:
+TClass>>#addClassVariable:
+TClass>>#fileOutPool:onFileStream:
+TClass>>#removeSharedPool:
+TClass>>#declareClassVariables:
+TClass>>#sharing:
+Metaclass>>#removeInstVarNamed:
+MTProjectBFSIteratorTest>>#testNext
+ScriptLoader class>>#latestVersionOf:location:
+TxViewContainer class>>#exampleEditorExistingTextWithEmbeddedObjects
+Pharo3Theme class>>#importIcons:fromFolder:inClass:category:
+DelayBenchmark>>#bench
+MCFileRepositoryInspector>>#packageIcon:
+ZnHTTPSTests>>#testTransfers
+ZnHTTPSTests>>#testTransfersSingleClient
+SystemReporter>>#updateReport
+MetacelloGroupSpec>>#configMethodCascadeOn:member:last:indent:
+RPackageOrganizer>>#renamePackage:from:to:
+ZnCharacterEncoderTests>>#testReadIntoStartingAtCountFromStream
+ZnCharacterEncoderTests>>#testNextPutAllStartingAtToStream
+Pharo3DarkTheme class>>#importIcons:fromFolder:inClass:category:
+MCFileTreeAbstractReader>>#addClassAndMethodDefinitionsFromDirectoryEntries:
+MCFileTreeAbstractReader>>#loadDependencies
+MetacelloToolBox class>>#saveModifiedDevelopmentPackages:for:description:
+TIterateTest>>#testDoSeparatedBy
+ConfigurationGenerator>>#createVersionForBlessing:
+ConfigurationGenerator>>#addMetacelloBaseline
+FFIFunctionSpec>>#asArraySpecArrayedArgs
+TAsStringCommaAndDelimiterSequenceableTest>>#testAsCommaStringMore
+MCTraitDefinition>>#classTraitCompositionString
+ToggleMenuItemShortcutWithSymbol>>#drawOnAthensCanvas:
+ToggleMenuItemShortcutWithSymbol>>#text
+TraitDescription>>#classesThatImplementAllOf:
+StrikeFont class>>#fromUser:allowKeyboard:
+RBRefactoryTestDataApp>>#stringConcatenation
+CompiledMethod>>#gtInspectorVariableValuePairs
+MetacelloVersionConstructor>>#verifyVersionImportPragmas:definedIn:
+MetacelloVersionConstructor>>#spawnPackageMethodIn:category:named:sourceVersion:targetVersion:blessing:
+MetacelloVersionConstructor>>#updatePackageMethodIn:sourceVersion:
+RBBasicLintRuleTest class>>#variableAssignedLiteral
+RBBasicLintRuleTest class>>#missingSubclassResponsibility
+Job class>>#exampleProgress
+Job class>>#exampleDebug
+ClassDescription>>#classesThatImplementAllOf:
+ClassFactoryForTestCase>>#cleanUpChangeSetForClassNames:
+MCCodeTool>>#fileOutMessage
+VSCommitAction>>#remoteRepository
+RBRefactoryTyper>>#computeMessagesSentToVariables
+ZnHTTPSTests class>>#generateTestFiles
+ExternalStructure class>>#compileFields:withAccessors:
+MTProjectExampleBuilder class>>#projectB
+MTProjectExampleBuilder class>>#projectA
+TxTextEditorMorph class>>#exampleHugeText
+MetacelloIssueTestCase>>#tearDown
+ClassFactoryForTestCaseTest>>#testClassFastCreationInDifferentCategories
+ClassFactoryForTestCaseTest>>#testClassCreationInDifferentCategories
+ClassFactoryForTestCaseTest>>#testTraitCreationInDifferentCategories
+MCConfiguration>>#depsSatisfying:versionDo:displayingProgress:
+MCConfiguration>>#logUpdate:with:
+CollectionRootTest>>#testDoSeparatedBy
+RPackage>>#renameTo:
+RPackage>>#renameExtensionsPrefixedWith:to:
+RPackage>>#renameTagsPrefixedWith:to:
+RPackage>>#classNamesAndExtensionSelectorsDo:
+MetacelloSymbolicVersionMethodSpec>>#methodSource
+GLMBandBrick class>>#gtExample
+SmalltalkImage>>#handleStartupErrors:
+SmalltalkImage>>#extractMinusParametersFrom:
+TextColor>>#writeScanOn:
+ChangeSet class>>#fileOutChangeSetsNamed:
+Trait>>#removeClassVarNamed:
+Trait>>#addClassVariable:
+Trait>>#fileOutPool:onFileStream:
+Trait>>#removeSharedPool:
+Trait>>#declareClassVariables:
+Trait>>#sharing:
+MCConfigurationBrowser>>#migrate
+MCConfigurationBrowser>>#add
+MCConfigurationBrowser>>#addDependency
+Random class>>#bucketTest:
+MetacelloProject>>#printOn:
+ColorTest>>#testAsHexString
+Class>>#removeClassVarNamed:
+Class>>#addClassVariable:
+Class>>#fileOutPool:onFileStream:
+Class>>#removeSharedPool:
+Class>>#declareClassVariables:
+Class>>#sharing:
+RBMissingSubclassResponsibilityRule>>#checkClass:
+GTEventConsolidate>>#consolidated
+VirtualMachine>>#isPharoVM
+MBAddConfigurationCommand>>#repositoryFor:
+TestRunner>>#showDiffWith:
+TestRunner>>#showProgress
+MetacelloMCVersionValidator>>#validateVersionTests:
+GLMBasicExamples>>#tableWithCustomWidth
+RubSHTextStylerST80>>#addLinkAttributesFor:in:to:
+SlotMigrationTest>>#testReshapeByteVariableToPointerPropagatesToDeepHierarchy
+SlotMigrationTest>>#testReshapePointerToByteVariablePropagatesToDeepHierarchy
+MBGroupInfo>>#printOn:
+MCFileTreeStCypressReader>>#addMethodDefinitionsForClass:methodProperties:in:extensionMethod:
+RBRenameInstanceVariableRefactoring>>#renameAccessorsReferences
+RubTextAreaExamples class>>#nicolaiAttributeFix
+AJRoutineStackManager>>#emitPrologue
+MetacelloLoadingMCSpecLoader>>#goferCommitPackageUsing:commitMessage:
+MetacelloLoadingMCSpecLoader>>#goferCommitBranchPackage:using:commitMessage:
+MethodFinder>>#constMod
+MethodFinder>>#simpleSearch
+RecentMessageList>>#removeAMethod:
+WeakKeyDictionaryTest>>#setUp
+GLMMorphicSpotterTest>>#creation
+MCFileTreeStCypressWriter>>#writeDefinitions:
+MCFileTreeStCypressWriter>>#fileNameMapFor:
+SystemProgressMorph class>>#exampleChangeLabel
+SystemProgressMorph class>>#exampleLabelOnly
+MCSnapshotBrowserTest>>#assertAListMatches:
+MetacelloDictionaryRepositoryTest>>#tearDown
+MetacelloVersionNumber>>#match:
+TraitFileOutTest>>#tearDown
+MailAddressParser>>#grabBasicAddress
+RBMoveInstVarToClassRefactoring>>#collectSendersOfInstVar
+ChangeSet>>#fileOutPSFor:on:
+ChangeSet>>#methodsWithoutClassifications
+ChangeSet>>#fileOutOn:
+ChangeSet>>#methodsWithoutComments
+MetacelloMethodSection>>#attributePrintString
+StringTest>>#testAsCommaStringMore
+DigitalSignatureAlgorithm class>>#timeDecode:
+TClassDescription>>#classesThatImplementAllOf:
+OCCompilerTest>>#testReservedNameAsBlockArgumentShadowing
+OCCompilerTest>>#testReservedNameAsMethodArgumentShadowing
+MetacelloToolBox>>#fixedImportFrom:projectAttributes:inactiveAttributes:updateProjects:updatePackages:versionSpecsDo:
+MetacelloToolBox>>#buildMapFrom:for:
+MetacelloToolBox>>#modifySection:sectionIndex:repository:requiredProjects:packages:dependencies:includes:files:repositories:preLoadDoIts:postLoadDoIts:supplyingAnswers:groups:versionSpecsDo:
+MetacelloToolBox>>#importFrom:projectAttributes:inactiveAttributes:updateProjects:updatePackages:versionSpecsDo:
+Categorizer>>#changeFromCategorySpecs:
+MCFileTreeStSnapshotWriter>>#writeDefinitions:
+AbstractNautilusUI>>#removePackages
+MetacelloProjectSpec>>#configMethodBodyOn:indent:fromShortCut:
+RBUnpackagedCodeRule>>#initialize
+FloatArrayTest>>#testAsCommaStringMore
+MetacelloCachingGoferResolvedReference>>#workingCopy
+ZipArchive>>#extractAllTo:informing:overwrite:
+SymbolTest>>#testAsCommaStringMore
+MessageTally>>#rootPrintOn:total:totalTime:threshold:
+AJx64AssemblerTests>>#testByteRegs4through7
+RubTextEditor>>#hiddenInfo
+StandardFonts class>>#setAllStandardFontsTo:
+TApplyingOnClassSide>>#removeInstVarNamed:
+MetacelloVersionValidator>>#validatePragmas
+MetacelloVersionValidator>>#validateProject:
+NBFnSpec>>#asArraySpecArrayedArgs
+LinkedListTest>>#testAsCommaStringMore
+LinkedListTest>>#testDoSeparatedBy
+FreeTypeNameParser>>#initialize
+FreeTypeNameParser>>#lastMatchValueSequence:
+FreeTypeNameParser>>#splitBadTokensIn:
+MCWorkingCopyBrowser>>#collectConfigurationMenuSpecs
+SimpleTestResourceTestCase>>#testResourceCollection
+TimeMeasuringTest>>#versionInfoForWorkingCopiesThat:
+ThreadSafeTranscript class>>#examplesForegroundUpdate
+IntegerDigitLogicTest>>#testLargeShift
+ArrayTest>>#testAsCommaStringMore
+MailMessage>>#atomicParts
+MailMessage>>#bodyTextFormatted
+Decompiler>>#popIntoTemporaryVariable:
+KMCatcherMorph>>#shortcut
+FFIExternalStructureFieldSpec>>#compileSpec
+IntegerTest>>#testPrintStringBase
+RBAsOrderedCollectionNotNeededRule>>#initialize
+OrderedCollectionTest>>#testAsCommaStringMore
+RBSmalllintTestObject>>#stringConcatenation
+MetacelloScriptingStdTstHarness>>#tearDown
+ScriptLoader>>#latestScriptLoaderPackageIdentificationString
+ScriptLoader>>#addRepositoryToPackagesWithConfiguration
+ScriptLoader>>#saveLatestScriptLoaderToHome
+ScriptLoader>>#deletePackage:
+ScriptLoader>>#newerVersionsIn:
+ScriptLoader>>#produceDiffLinksForPackages
+SystemNavigation>>#removeAllButPackages:
+SystemNavigation>>#browseUndeclaredReferences
+VSSaveProjectCommand>>#alertValidationErrors:for:
+TextEditor>>#hiddenInfo
+SortedCollectionTest>>#testAsCommaStringMore
+MetacelloSemanticVersionNumber class>>#fromString:forPattern:
+SHTextStylerST80 class>>#attributeArrayForColor:emphasis:font:
+Month class>>#indexOfMonth:
+ZnServerTests>>#assertTooManyHeaders:
+MorphTreeNavigationBar class>>#createIconMethods
+OCArrayLiteralTest>>#testByteArrayLong
+GLMWhitespaceTheme class>>#importIcons:fromFolder:inClass:category:
+IntervalTest>>#testAsCommaStringMore
+MetacelloSemanticVersionNumber>>#match:
+MetacelloCommonMCSpecLoader>>#loadPackageDirectives:gofer:
+MetacelloPackageSpecResolutionError>>#repositoryString
+SystemNavigationTest>>#testIsMessageSentInSystemAnswersMethodReference
+SystemNavigationTest>>#testIsMessageSentInSystemWithClassesActuallySendngTheMessage
+SystemNavigationTest>>#testIsMessageSentInSystemWithTheSelectorInsideAnArray
+GTInspectorExamplesTest>>#checkAllPresentationsOf:
+MetacelloAbstractPackageSpec>>#specs:forPackageOrdering:
+MetacelloAbstractPackageSpec>>#configMethodBodyOn:hasName:cascading:indent:
+MetacelloMCProject>>#projectPackage
+RBParserTest>>#testBinarySelectors
+RBParserTest>>#testNumberRadixParsing
+SpaceTally>>#compareTallyIn:to:
+FBDDecompiler>>#generateNativeBoostCallErrorMethodFrom:
+FBDDecompiler>>#decompileThenRecompileClass:
+MBMonticelloPackagesResource>>#setUpPackageClassDefs:methodDefs:named:ancestors:
+RBVariableAssignedLiteralRule>>#checkClass:
+RBVariableAssignedLiteralRule>>#basicCheck:
+ClassTrait>>#removeInstVarNamed:
+RPackageSet>>#collectFromAllPackages:with:
+RPackageSet>>#collectFromAllPackages:
+RPackageSet>>#categoryNames
+ClassRenameFixTest>>#newUniqueClassName

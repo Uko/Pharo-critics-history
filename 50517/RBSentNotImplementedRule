@@ -1,0 +1,618 @@
+AbstractFontSelectorDialogWindow>>#newUnderlinedButtonMorph
+AbstractFontSelectorDialogWindow>>#newItalicButtonMorph
+AbstractFontSelectorDialogWindow>>#newBoldButtonMorph
+AbstractFontSelectorDialogWindow>>#newStruckOutButtonMorph
+NBFFICallout>>#newCallInfo
+NBFFICallout>>#generateCallToAddress:
+NBFFICallout>>#generateInstructions:
+GTSpotterStackedLayout>>#layoutAllowedBottom:
+GTSpotterStackedLayout>>#layoutAllowedTop:
+CompiledMethodTrailer>>#sourceCode
+SpecDebugger class>>#initialize
+SpecDebugger class>>#taskbarIcon
+AJJumpInstruction>>#accept:
+IconListModel class>>#example
+BIConfigurableFormatter>>#traditionalBinaryPrecedenceArray:
+NautilusCommentAnnotationDisplayer>>#extendCommentPolicyMorph
+OSSDL2WindowHandle>>#visitWindowEvent:
+OSSDL2WindowHandle>>#visitKeyDownEvent:
+OSSDL2WindowHandle>>#visitMouseMotionEvent:
+OSSDL2WindowHandle>>#visitKeyUpEvent:
+PSMCPatchOperationWrapper>>#icon
+PluggableButtonMorphExample>>#initialize
+NBExternalEnumTests>>#callbackAAA
+NBExternalEnumTests>>#testNotEnumMember
+NBExternalEnumTests>>#testEnumIdents
+NBExternalEnumTests>>#testEnumToInt
+FileDirectoryWrapper>>#icon
+FileReference class>>#gtExamplePng
+FileReference class>>#gtExampleGif
+GLMAlertBrick>>#alert:
+AJJumpLabel>>#accept:
+AbstractTool>>#browseVersionsFrom:
+Komitter class>>#taskbarIcon
+MorphTreeMorph>>#selectItemsRequest:
+MorphTreeMorph>>#nodeExpandRequest:
+ScriptLoader class>>#menuCommandOn:
+ScriptLoader class>>#gofer
+NBInterpreterProxy>>#callFn:
+NBInterpreterProxy>>#gatedCallFn:
+NBInterpreterProxy>>#canUseDirectProxyFnAddress
+NBInterpreterProxy>>#canUseStackPointer
+ThemeIcons>>#smallInformationIcon
+TAssertable>>#assert:description:resumable:
+TxSelectionChangeOperation>>#reversed
+GLMFinder>>#passivelyFromPrevious:
+GLMFinder>>#fromPrevious:
+ResumableTestFailureTestCase>>#errorTest
+Pharo3Theme class>>#importIcons:fromFolder:inClass:category:
+GTSpotterRecorderActOnEvent>>#accept:
+SmalltalkEditor>>#spawn
+MCFileRepositoryInspector>>#packageIcon:
+TextURL>>#actOnClick:for:in:editor:
+MetacelloPharoCommonPlatform>>#downloadJSON:username:pass:
+MetacelloPharoCommonPlatform>>#downloadZipArchive:to:
+MetacelloPharoCommonPlatform>>#downloadBasicFile:to:username:pass:
+MetacelloPharoCommonPlatform>>#extractRepositoryFrom:to:
+RBTransformationRuleTest>>#superSends
+AbstractNautilusUI class>>#icon
+PragmaSetting>>#defaultIcon
+MethodClassInitializeAction>>#privateActionIcon
+NBWndClassEx>>#initialize
+AthensMoveSegment>>#accept:
+MethodPragmaTest>>#testPrimitiveNamed1
+MethodPragmaTest>>#testPrimitiveNamedErrorCode1
+MethodPragmaTest>>#testPrimitiveIndexed2
+MethodPragmaTest>>#testPrimitiveNamed2
+MethodPragmaTest>>#testPrimitiveNamedErrorCode2
+MethodPragmaTest>>#testPrimitiveIndexed1
+Pharo3DarkTheme class>>#importIcons:fromFolder:inClass:category:
+GTSpotterRecorderCategorySelectedEvent>>#accept:
+DynamicSpecExample>>#openOnInteger
+MCFileTreeAbstractReader>>#packageProperties
+GLMWhitespaceTheme>>#windowClosePassiveForm
+GLMWhitespaceTheme>>#newWindowMenuPassiveForm
+GLMWhitespaceTheme>>#windowMinimizePassiveForm
+GLMWhitespaceTheme>>#radioButtonForm
+GLMWhitespaceTheme>>#windowMaximizePassiveForm
+KeymapBrowser>>#menu:shifted:
+KeymapBrowser>>#initializeWidgets
+GlyphRenderer class>>#test
+TxHighlightRenderer>>#shapes
+AJMem>>#emit32BitAbsoluteDisplacementModRM:code:
+BuilderManifestTest>>#testResetToDo
+BuilderManifestTest>>#testAddAllToDo
+BuilderManifestTest>>#testAddAllFalsePositive
+BuilderManifestTest>>#testResetFalsePositive
+MenuMorph class>>#confirm:trueChoice:falseChoice:
+GLMPhlowListBrick class>>#example2
+AthensDemoMorph class>>#example
+ConfigurationOfRubric class>>#ensureMetacello
+PackageAndClassChooser>>#iconFor:
+GTEventTool>>#extract
+UnsafeAlien class>>#forPointerTo:
+GTSpotterRecorderContextChangedEvent>>#accept:
+LazyListMorph>>#drawOnAthensCanvas:
+MetacelloPlatform>>#newVersionForWorkingCopy:
+MetacelloPlatform>>#registerPackageNamed:
+MetacelloPlatform>>#parentDirectoryOf:
+MetacelloPlatform>>#suspendSystemUpdateEventsDuring:
+MetacelloPlatform>>#ensureDirectoryExists:
+MetacelloPlatform>>#directoryFromPath:relativeTo:
+MetacelloPlatform>>#string:includesSubstring:
+GLMWizard>>#valueOf:
+NBUInt64>>#pushAsValue:
+Morph>>#addDebuggingItemsTo:hand:
+Morph>>#addExportMenuItems:hand:
+Morph>>#buildDebugMenu:
+Morph>>#showActions
+Morph>>#gtInspectorMorphIn:
+Morph>>#buildMetaMenu:
+SystemSettingLauncher>>#inputWidget
+SystemSettingLauncher>>#defaultIcon
+FTExampleDataSource>>#iconFor:
+GLMSpotterRequest>>#handleWith:
+AthensCanvas>>#setMask:
+AthensCanvas>>#clearMask:
+ThreePhaseButtonMorph class>>#radioButton
+ThreePhaseButtonMorph class>>#checkBox
+SlotExampleTest>>#testAccessorInstanceVariableSlot
+SlotExampleTest>>#testExampleSlotWithState
+PopupChoiceDialogWindow class>>#taskbarIcon
+TabGroupMorph class>>#example
+RBRefactoryTestDataApp>>#inlineFailed
+RBRefactoryTestDataApp>>#inlineComponent
+RBRefactoryTestDataApp>>#fileBlocks
+ZnDefaultServerDelegate>>#vmStats
+GTSpotterRecorderDiveInCategoryEvent>>#accept:
+RubFindReplaceDialogWindow>>#buildWindowMenu
+TestCase>>#announce:
+PolygonMorph>>#intersects:
+FileList class>>#contentMenu:
+FileList class>>#taskbarIcon
+VersionnerSpecBrowser class>>#configurationLoadedIcon
+VersionnerSpecBrowser class>>#configurationChangedIcon
+GLMWizardGenericStep>>#numberOfDisplay
+MenuRegistrationExample class>>#mostUsedToolsOn:
+MenuRegistrationExample class>>#toolsOn:
+RBBasicLintRuleTest class>>#missingSubclassResponsibility
+RBBasicLintRuleTest class>>#equalsTrue
+RBBasicLintRuleTest class>>#onlyReadOrWritten
+RBBasicLintRuleTest class>>#classNameInSelector
+RBBasicLintRuleTest class>>#sentNotImplementedInApplication
+RBBasicLintRuleTest class>>#yourselfNotUsed
+RBBasicLintRuleTest class>>#unreferencedVariables
+RBBasicLintRuleTest class>>#endTrueFalse
+RBBasicLintRuleTest class>>#usesTrue
+RBBasicLintRuleTest class>>#stringConcatenation
+RBBasicLintRuleTest class>>#classNotReferenced
+RBBasicLintRuleTest class>>#tempVarOverridesInstVar
+RBBasicLintRuleTest class>>#ifTrueBlocks
+RBBasicLintRuleTest class>>#variableAssignedLiteral
+RBBasicLintRuleTest class>>#ifTrueReturns
+RBBasicLintRuleTest class>>#canCall:in:from:
+RBBasicLintRuleTest class>>#minMax
+RBBasicLintRuleTest class>>#createMatcherFor:method:
+RBBasicLintRuleTest class>>#returnsBooleanAndOther
+RBBasicLintRuleTest class>>#instVarInSubclasses
+RBBasicLintRuleTest class>>#utilityMethods
+RBBasicLintRuleTest class>>#tempsReadBeforeWritten
+RBBasicLintRuleTest class>>#toDo
+RBBasicLintRuleTest class>>#collectionMessagesToExternalObject
+RBBasicLintRuleTest class>>#overridesSpecialMessage
+RBBasicLintRuleTest class>>#precedence
+RBBasicLintRuleTest class>>#usesAdd
+RBBasicLintRuleTest class>>#longMethods
+RBBasicLintRuleTest class>>#threeElementPoint
+RBBasicLintRuleTest class>>#missingYourself
+RBBasicLintRuleTest class>>#superSends
+MTVersion>>#acceptVisitor:
+DateModel>>#iconMorph
+MCCodeTool>>#browseVersions
+PharoCommonTools>>#messageListTool
+PharoCommonTools>>#versionBrowserTool
+PharoCommonTools>>#changeSorterTool
+TabManagerModelTest>>#redMorphTab
+WatchpointWindow>>#setupMenu
+AthensParagraph>>#compose:style:from:in:
+Alien class>>#libcName
+GTSpotterRecorderDiveInElementEvent>>#accept:
+ClassTraitTest>>#testInitialization
+ClassTraitTest>>#testChanges
+ClassTraitTest>>#testConflictsAliasesAndExclusions
+GLMLipsumWithSegmentsExample>>#presentation
+VersionnerToolBar class>>#loadIcon
+VersionnerToolBar class>>#newIcon
+AthensDisplayScanner class>>#on:
+GraphicFontSettings class>>#resetAllFontToDefaultButton
+NBFFIExternalStructTests>>#testReturnStruct1Byte
+NBFFIExternalStructTests>>#testStructWithPointerAccess
+NBFFIExternalStructTests>>#testNestedStructure
+NBFFIExternalStructTests>>#testReturnStruct9Bytes
+NBUTF8StringExample>>#prepareArgumentUsing:
+SpecDebuggerStack>>#browseVersions
+AJReleaseTemps>>#accept:
+WorkingCopyToolBar>>#setConfigButton
+WorkingCopyToolBar>>#setSliceButton
+DACycleNode>>#addMenuEntriesOn:
+SettingTree>>#checkForUnknownParent
+ByteString>>#nbBeginsWithByteString:
+FileList>>#acceptDroppingMorph:event:inMorph:
+FileList>>#contents
+FileList>>#servicesFromSelectorSpecs:
+VSCommitBrowser>>#buildBrowser
+ConfigurationOfMooseAlgos class>>#ensureMetacello
+GTSpotterRecorderDiveOutEvent>>#accept:
+RubSmalltalkEditor>>#spawn
+RubSmalltalkEditor>>#prettyPrint
+SystemWindow class>>#taskbarIcon
+SystemWindow class>>#windowMenuOn:
+NBUInt32>>#pushAsValue:
+Win32Window class>>#coloredEllipses
+Win32Window class>>#coloredRectangles
+NBFFIExternalUnionTests>>#testReturnUnion2Pointers
+NBFFIExternalUnionTests>>#testReturnUnionWithStructStruct
+NBFFIExternalUnionTests>>#testReturnUnion1Byte
+NBFFIExternalUnionTests>>#testReturnUnionUnionInt
+NBFFIExternalUnionTests>>#testUnionWithUnion
+ColorSelectorDialogWindow>>#pickColor
+ColorSelectorDialogWindow>>#newColorPickerButtonMorph
+CriticBrowser>>#methodAdded:
+AbstractFontSelectorDialogWindow class>>#taskbarIcon
+ErrorDialogWindow>>#icon
+ToolRegistry>>#codeCompletionAround:textMorph:keyStroke:
+ToolRegistry>>#openRecentChangesLog
+ToolRegistry>>#openMonticelloBrowser
+SourceCodeFonts class>>#settingsOn:
+Object>>#gtInspectorPresentationsIn:inContext:
+Object>>#basicInspect
+Object>>#nbCall:module:options:
+AthensCloseSegment>>#accept:
+MacRect class>>#coloredEllipses
+MacRect class>>#coloredRectangles
+AJx86InstructionDescription>>#emitcall:operand1:operand2:operand3:
+AJx86InstructionDescription>>#emitxchg:operand1:operand2:operand3:
+AJx86InstructionDescription>>#emitbswap:operand1:operand2:operand3:
+AJx86InstructionDescription>>#emitjmp:operand1:operand2:operand3:
+AJx86InstructionDescription>>#emitcjmp:operand1:operand2:operand3:
+NBBasicExamples class>>#returnInstVar:from:
+Trait>>#systemIcon
+TabModelTest>>#redMorphTab
+ProcessBrowser>>#explorePointers
+ProcessBrowser>>#messageTally
+GLMFormBrick>>#asFormValue
+TxAthensRenderingTest class>>#test
+ClassTreeNodeExample>>#icon
+GLMRubricTextPresentation>>#codeEditingSelectionActions
+SelectionMorph>>#undoMove:redo:owner:bounds:predecessor:
+MergeJoinSection>>#defaultStateIcons
+MorphTreeNodeMorph>>#retrieveCheckIcon
+GTObjectVariablesBrowser>>#iconFor:error:
+TimeProfiler class>>#fullReportMenuOn:
+TimeProfiler class>>#taskbarIcon
+NECPreferences class>>#currentController
+NECPreferences class>>#settingsOn:
+TestRunner>>#collectCoverageFor:
+TestRunner>>#excludeClassesNotUnderTestFrom:
+CatalogBrowser>>#loadConfigurationButton:
+CatalogBrowser>>#installAndCreateGroupButton:
+CatalogBrowser>>#defineCurrentVersionRepositoryButton:
+CatalogBrowser>>#defineAllRepositoriesInMCBrowserButton:
+CatalogBrowser>>#loadConfigurationMenuItem:
+NBExternalObjectType>>#coerceReturnValue:
+GTSpotterRecorderExitAnnouncementEvent>>#accept:
+AthensBalloonPath>>#paintStrokeUsing:on:
+ErrorState>>#image
+GLMBasicExamples>>#compoundTaggedTree
+AJRoutinePrologue>>#accept:
+SettingBrowser class>>#menuCommandOn:
+StringMorph>>#launchEditor:
+FLSerializationTest>>#resultOfSerializeAndMaterializeMethod:
+Workspace>>#addModelItemsToWindowMenu:
+EyeAbstractInspector class>>#taskbarIcon
+RubAbstractTextArea>>#handleKeystroke:
+GTSpotterRecorderHidePreviewEvent>>#accept:
+ChooseDropListDialogWindow>>#icon
+SlReportWindow>>#initializeControls
+FileDialogWindow class>>#taskbarIcon
+SystemWindow>>#labelHeight
+GLMExamplesBrowser>>#exampleIn:
+KMDispatcherTestCase class>>#keymapEventBuilderClass
+AJRoutineStackManager>>#emitEpilogue:assembler:
+ClassListExample>>#treeMorph
+GTSpotterRecorderOpenEvent>>#accept:
+SUnitExtensionsTest>>#testNoExceptionWithMatchingString
+SUnitExtensionsTest>>#testNoExceptionWithNoMatchingString
+DAPackageAnalyzerTreeModel>>#relationGraphOnReverse:
+KeymapBrowser class>>#taskbarIcon
+FreeTypeSystemSettings class>>#freeTypeSettingsOn:
+RBTransformationRuleTest class>>#rewrite:methods:name:
+RBTransformationRuleTest class>>#initializeAfterLoad1
+MessageDialogWindow class>>#taskbarIcon
+AbstractEyeElement>>#errorSubMenu:
+AbstractEyeElement>>#explorePointers
+KMKeymapTest class>>#keymapEventBuilderClass
+AJStackAlignmentTests>>#testJumps
+StartupPreferencesLoader class>>#startupPreferencesVersionFolderMenuOn:
+StartupPreferencesLoader class>>#startupGeneralPrefererencesFolderMenuOn:
+StartupPreferencesLoader class>>#systemStartupMenuOn:
+StartupPreferencesLoader class>>#startupLoaderMenuOn:
+ClassListNodeExample>>#icon
+NBNativeCodeGen>>#generatedCode
+TextMorph>>#reverseCurveDirection
+TextMorph>>#handleKeystroke:
+JobProgressBarMorph>>#initialize
+DropListExample>>#initializeWidgets
+TimeProfiler>>#toolBarOn:
+ApplicationWithToolbar>>#subMenu
+ApplicationWithToolbar>>#initializeWidgets
+NBExternalString>>#coerceReturnValue:
+NBExternalString>>#prepareArgumentUsing:
+GTSpotterRecorderSearchFinishedEvent>>#accept:
+WidgetExamples class>>#exampleGroups
+WidgetExamples class>>#exampleWindowWithToolbars
+NativeBoost>>#memCopy:to:size:
+NativeBoost>>#generateCallgateCode
+AlertDialogWindow class>>#taskbarIcon
+Bitmap class>>#gtExampleIconBits
+TraitFileOutTest>>#testRemovingMethods
+UnlimitedInstanceVariableSlotTest>>#testExampleIvarSlot
+RBMoveInstVarToClassRefactoring>>#transform
+MessageDialogWindow>>#icon
+AthensCubicSegment>>#accept:
+NBCallbackCodeGen>>#memCopy:to:size:
+NBCallbackCodeGen>>#generateCallbackLeaveCodeFor:leaveAddr:
+AthensPolygon>>#paintFillsUsing:on:
+GTSpotterRecorderSelectedCandidateChangedEvent>>#accept:
+SUnitTest>>#error
+SUnitTest>>#errorShouldntRaise
+EditingState>>#addUndoRecord:
+AJCallArgument>>#accept:
+ProcessBrowser class>>#registerWellKnownProcesses
+ExternalChangesBrowser class>>#taskbarIcon
+ChunkImportTestCase>>#testImportAMethodWithNoTimestamp
+ChunkImportTestCase>>#testImportAMethod
+GTSpotterWidgetThemer>>#iconDiveInCategory
+GTSpotterWidgetThemer>>#iconDiveIn
+GTSpotterWidgetThemer>>#settingsButtonWidgetStyleFor:
+ChooseDropListDialogWindow class>>#taskbarIcon
+TraitMethodDescriptionTest>>#testConflictMethodCreation
+Context>>#copyTo:blocks:
+Context>>#failPrimitiveWith:
+Context>>#doPrimitive:method:receiver:args:
+RubSmalltalkEditor class>>#menuOn:
+RubSmalltalkEditor class>>#compilerFor:
+AlertDialogWindow>>#icon
+PackageTasksPlugin>>#updateMethodSelection:
+MessageBrowser>>#classModified:
+MessageBrowser>>#taskbarIcon
+GLMPresentation>>#addOpenBrowserAction:
+GLMPresentation>>#addSelectionOpenBrowserAction:
+GTSpotterRecorderShowPreviewEvent>>#accept:
+FFICalloutMethodBuilder>>#createFFIPragmaFromSpec:
+UITheme>>#menuPinForm
+UITheme>>#newTaskListButtonIn:for:
+RBLintRuleTest>>#runOnEnvironment:
+AJCallCleanup>>#accept:
+AbstractNautilusUI>>#hierarchyButtonIcon
+AbstractNautilusUI>>#browseVariableReferences
+AbstractNautilusUI>>#commentButtonIcon
+AbstractNautilusUI>>#mergeGroups
+AbstractNautilusUI>>#instanceButtonIcon
+BooleanSlotTest>>#testExampleBooleanSlot
+Pharo3Theme>>#windowClosePassiveForm
+Pharo3Theme>>#newWindowMenuPassiveForm
+Pharo3Theme>>#windowMinimizePassiveForm
+Pharo3Theme>>#radioButtonForm
+Pharo3Theme>>#windowMaximizePassiveForm
+SmalltalkEditor class>>#smalltalkEditorMenuOn:
+SelfEyeElement>>#customSubMenu:
+DenyDialogWindow class>>#taskbarIcon
+KomitLeaf>>#icon
+TraitPureBehaviorTest>>#testPropagationOfChangesInTraitsToAliasMethods
+TraitPureBehaviorTest>>#testPropagationOfChangesInTraitsToAliasMethodsWhenOriginalMethodIsExcluded
+TraitPureBehaviorTest>>#testPropagationOfChangesInTraits
+TraitPureBehaviorTest>>#testSuperSends
+TraitPureBehaviorTest>>#testRemovingMethods
+TraitPureBehaviorTest>>#testChangeSuperclass
+BlockClosure>>#timeProfile
+TxModel>>#applyAttribute:to:
+KeymapBuilderTest class>>#keymapEventBuilderClass
+NBNativeFunctionGen>>#prepareArguments
+NBNativeFunctionGen>>#generateInstructions:
+NBNativeFunctionGen>>#epilogue
+RubEditingState>>#addUndoRecord:
+TabsExample>>#browserTab
+TabsExample>>#objectClassTab
+TabsExample>>#objectInspectorTab
+TabsExample>>#dynamicTab
+VSCommitProjectAction>>#icon
+GLMMorphicTest>>#send:mouseDownWithShift:onItem:
+GLMMorphicTest>>#wait:until:evaluatesTo:
+NBExternalType>>#coerceNilToNull:oop:doneLabel:
+NBExternalType>>#coerceReturnPointer:
+NBExternalType>>#pushAsPointer:
+CodeSearchingAcceptor>>#accept:notifying:
+EditorFindReplaceDialogWindow>>#taskbarIcon
+EditorFindReplaceDialogWindow>>#buildWindowMenu
+PopupChoiceDialogWindowWithMessage>>#icon
+SHPreferences class>>#settingsOn:
+TextEditor class>>#textEditorMenuOn:
+ErrorDialogWindow class>>#taskbarIcon
+TraitTest>>#testAddAndRemoveMethodsInClassOrTrait
+TraitTest>>#testAddAndRemoveMethodsFromSubtraits
+TraitTest>>#testExplicitRequirementWithSuperclassImplementatiosAlwaysReturnsTheCorrectValue
+AJx64AssemblerTests>>#testJumps
+AJx64AssemblerTests>>#testXorInvalid
+AJx64AssemblerTests>>#testAssembly2
+AJx64AssemblerTests>>#testStringOps64Mnemonics
+AJx64AssemblerTests>>#testAssembly1
+RubTextEditor>>#lastParagraphStyle
+RubTextEditor>>#currentParagraphStyle
+RubTextEditor>>#currentCharacterStyleOrNil
+RubTextEditor>>#hiddenInfo
+MockLessonView>>#showTutorialNode:
+BehaviorTest>>#testCompile
+NBExternalTypeValue>>#emitCopyUsingLoop:
+Breakpoint class>>#browseAll
+MCRepository>>#gtInspectorGoferReferencesIn:
+PSMCPatchMorph class>>#taskbarIcon
+GroupNode>>#icon
+RubPlainTextMode class>>#menuOn:
+TreeModel class>>#exampleWithCustomColumnsAndNodesAndChildren
+TreeModel class>>#exampleWithCustomColumnsAndNodes
+PSMCChangeWrapper>>#icon
+ProceedDialogWindow>>#icon
+AthensEllipticalArcSegment>>#accept:
+DAGraphVizGenerator>>#saveDotFileAndGenerateForType:
+DAGraphVizGenerator>>#openWith:
+DAGraphVizGenerator>>#buildGraphViz
+GroupWindowMorph>>#offerWindowMenu
+MCWorkingCopyBrowser>>#repositoryIcon:
+MCWorkingCopyBrowser>>#workingCopySearchAdd:
+AthensSurfaceExamples class>>#exampleDrawForm2
+CodeSimulationTests>>#testDNU
+DenyDialogWindow>>#icon
+StrikeFontSet>>#acceptSettings:
+OkState>>#image
+TimeMeasuringTest>>#measure:
+RubLipsumWithSegmentsExample>>#newScrolledText
+AboutDialogWindow class>>#openForPharo
+RubLineNumberDisplayer class>>#menuOn:
+CatalogBrowser class>>#menuCommandOn:
+CatalogBrowser class>>#iconFor:
+AthensCairoSDLSurface class>>#fromSDLSurface:
+AJx64InstructionDescription>>#emitcall:operand1:operand2:operand3:
+AJx64InstructionDescription>>#emitbswap:operand1:operand2:operand3:
+MethodIsScriptAction>>#privateActionIcon
+BalloonEngine>>#registerFills:
+NBCoreTests>>#return0Code
+NBCoreTests>>#testOptionParsing
+NBCoreTests>>#testPrimitive220
+RubSegmentMorph>>#intersects:
+CategoryWidget>>#categoryIconFor:
+AlienWeakTable>>#add:finalizing:
+EyeTreeInspector>>#iconFor:error:
+AJData>>#accept:
+DualChangeSorterApplication class>>#menuCommandOn:
+DualChangeSorterApplication class>>#taskbarIcon
+AthensCCWArcSegment>>#accept:
+MCSaveVersionDialog class>>#taskbarIcon
+RubSmalltalkCodeMode class>>#menuOn:
+SlotBasicTest>>#testWithSharedVariable
+OSSDL2AthensRenderer>>#updateAll
+ProceedDialogWindow class>>#taskbarIcon
+PSMCClassChangeWrapper>>#remoteChosen
+PSMCClassChangeWrapper>>#icon
+TabBar>>#selectLastTab
+MetaLinkTest>>#testLinkOption
+RBSmalllintTestObject>>#uncommonMessageSend
+RBSmalllintTestObject>>#fileBlocks
+NBExternalAddressTests>>#testAddressAndStruct
+GTPlayground>>#codeIn:
+PluggableTextMorph>>#acceptBasic
+Callback>>#valueInContext:
+ScriptLoader>>#doneApplyingChangesSilentlyIssues:preLoad:postLoad:
+ScriptLoader>>#gofer
+SystemNavigation>>#browseMessageList:name:autoSelect:refreshingBlockSelector:
+AJGeneratedCode>>#labels:
+GLMSingleSpotterRequest>>#handleWith:
+AthensCWArcSegment>>#accept:
+MCVersionInspector class>>#taskbarIcon
+SlotClassBuilder>>#update:to:
+SlotClassBuilder>>#superclass:immediateSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
+TextEditor>>#hiddenInfo
+TextEditor>>#unapplyAttributesThat:fromWholeParagraph:
+TextEditor>>#reverseSelection
+TextEditor>>#pluggableYellowButtonActivity:
+TextEditor>>#lastParagraphStyle
+TextEditor>>#currentParagraphStyle
+TextEditor>>#currentCharacterStyleOrNil
+ProfStef class>>#menuCommandOn:
+AJx86Assembler>>#writeCodeToFile:
+AJx86Assembler>>#reg16:
+AJx86Assembler>>#gccDisassemble:
+AJx86Assembler>>#reg:size:
+AJx86Assembler>>#reg32:
+AJx86Assembler>>#reg8:
+CriticBrowser class>>#icon
+NBPointerArgumentsTests>>#testEnumCase2ByteArray
+NBPointerArgumentsTests>>#testEnumCase1ByteArray
+NBPointerArgumentsTests>>#testEnumDirectly
+NBPointerArgumentsTests>>#testEnumCase2ExternalAddress
+NBPointerArgumentsTests>>#testEnumCase4ExternalAddress
+NBPointerArgumentsTests>>#testEnumCase4ByteArray
+NBPointerArgumentsTests>>#testEnumCase1ExternalAddress
+NBPointerArgumentsTests>>#testEnumCase3ByteArray
+NBPointerArgumentsTests>>#testEnumCase3ExternalAddress
+WorldState class>>#helpOn:
+WorldState class>>#screenShotCommandOn:
+WorldState class>>#mostUsedToolsOn:
+WorldState class>>#systemOn:
+WorldState class>>#quitItemsOn:
+WorldState class>>#windowsOn:
+DatePrintFormatTester>>#assert:description:resumable:
+MCRepositoryInspector>>#packageSelection:
+TimeTest>>#testGeneralInquiries
+AthensCairoCanvas>>#visitQuadSegment:
+AthensCairoCanvas>>#visitCubicSegment:
+MetalinkIconStyler>>#iconFor:
+GTInspectorExamplesManualTest>>#filenameFor:
+X11Display class>>#coloredEllipses
+X11Display class>>#coloredRectangles
+SettingBrowser>>#taskbarIcon
+PSMCMergePatchMorph>>#allConflictsMenu
+PSMCMergePatchMorph>>#changesMenu:
+GLMWhitespaceTheme class>>#importIcons:fromFolder:inClass:category:
+TextEditorDialogWindow>>#icon
+PasteUpMorph>>#defaultDesktopCommandKeyTriplets
+PasteUpMorph>>#icon
+AJx86AssemblerTests>>#testJumps
+AJx86AssemblerTests>>#testFXCH
+AJx86AssemblerTests>>#testMOVCMPSD
+AJx86AssemblerTests>>#testDataWord
+AJx86AssemblerTests>>#testDataDouble
+AJx86AssemblerTests>>#testAssembly1
+AJx86AssemblerTests>>#testStringOpMnemonics
+AJx86AssemblerTests>>#setUpDataBytesAlign:
+KomitClassNode class>>#modifiedClassIcon
+KomitClassNode class>>#deletedClassIcon
+KomitClassNode class>>#defaultClassIcon
+KomitClassNode class>>#addedClassIcon
+NBExternalArray>>#emitCopyUsingLoop:
+RubCommentAnnotationDisplayer>>#extendCommentPolicyMorph
+ChangeSorterApplication>>#browseChangeSet
+MCGitBasedNetworkRepository>>#directoryDescription
+Form class>>#initialize
+Form class>>#unload
+InputEventSensor>>#processMenuEvent:
+NBInt64>>#pushAsValue:
+HDCoverageReport>>#generatePackage:class:on:
+InterpolatedGradientFillStyle>>#computePixelRampOfSize:
+WorldMorph>>#recreateOSWindow
+KomitPackageNode>>#initialize
+KomitPackageNode>>#icon
+HelpBrowser class>>#menuCommandOn:
+FinderUI>>#versionsButtonAction
+AJx86Instruction>>#emitSegmentPrefix:
+AthensInteractiveScene>>#eventHandledByScene:
+PackageTreePackageGroupNodeModel>>#icon
+FileDialogWindow>>#newNewDirectoryButton
+FileDialogWindow>>#newDeleteButton
+FileDialogWindow>>#newUpButton
+FileDialogWindow>>#iconFor:
+ChangeSorterModel>>#buildSelectorDescriptionFor:class:selector:prettyPrint:showDiff:
+NBFFICallbackType>>#coerceReturnValue:
+Pharo3DarkTheme>>#windowClosePassiveForm
+Pharo3DarkTheme>>#newWindowMenuPassiveForm
+Pharo3DarkTheme>>#windowMinimizePassiveForm
+Pharo3DarkTheme>>#radioButtonForm
+Pharo3DarkTheme>>#windowMaximizePassiveForm
+AJInstructionDecoration>>#accept:
+SettingDeclaration>>#defaultIcon
+SettingDeclaration>>#inputWidgetForFileOrDirectoryWithAction:
+OSSDL2MultiTouchDriver>>#visitFingerUpEvent:
+OSSDL2MultiTouchDriver>>#visitFingerMotionEvent:
+OSSDL2MultiTouchDriver>>#visitFingerDownEvent:
+TextEditorDialogWindow class>>#taskbarIcon
+SpecPreDebugWindow>>#initializeStackPane
+PSMCPatchMorph>>#changesMenu:
+PSMCPatchMorph>>#browseVersions
+TabExample>>#freshListTab
+TabExample>>#blueMorphTab
+TabExample>>#storedListTab
+TabExample>>#redMorphTab
+SugsSuggestionFactory class>>#createExtractMethod
+SugsSuggestionFactory class>>#createFormatSourceCode
+SugsSuggestionFactory class>>#createRemoveMethod
+SugsSuggestionFactory class>>#createRenameClass
+SugsSuggestionFactory class>>#createAccessors
+SugsSuggestionFactory class>>#createInline
+SugsSuggestionFactory class>>#createAccesorsFor
+SugsSuggestionFactory class>>#createVariableCorrection
+SugsSuggestionFactory class>>#createSwapMethod
+SugsSuggestionFactory class>>#createDeprecateMethod
+SugsSuggestionFactory class>>#createInlineTemporary
+SugsSuggestionFactory class>>#createExtractToLocalVariable
+SugsSuggestionFactory class>>#createFindImplementors
+SugsSuggestionFactory class>>#createMoveMethod
+SugsSuggestionFactory class>>#createBreakCommand
+SugsSuggestionFactory class>>#createRemoveParameter
+SugsSuggestionFactory class>>#createWatchpointCommand
+SugsSuggestionFactory class>>#createAddParameter
+SugsSuggestionFactory class>>#createPullUp
+SugsSuggestionFactory class>>#createBreakOnceCommand
+SugsSuggestionFactory class>>#createBrowseReferences
+SugsSuggestionFactory class>>#createPushDown
+SugsSuggestionFactory class>>#createRenameClassVariable
+SugsSuggestionFactory class>>#createBreakConditionCommand
+SugsSuggestionFactory class>>#createRenameMethod
+SugsSuggestionFactory class>>#createFindSenders
+SugsSuggestionFactory class>>#createUseAccessorToVar
+SugsSuggestionFactory class>>#createVariableStoresInto
+SugsSuggestionFactory class>>#createRenameTemporaryVariable
+SugsSuggestionFactory class>>#createRenameVariable
+SugsSuggestionFactory class>>#createExtractSentences
+SugsSuggestionFactory class>>#createAccessesToVariable
+AthensLineSegment>>#accept:
+NBSTIndirectArgument>>#emitLoad:

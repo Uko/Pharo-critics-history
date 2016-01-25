@@ -1,0 +1,4 @@
+MetacelloPharoCommonPlatform>>#downloadBasicFile:to:username:pass:
+MetacelloPlatform>>#fileDirectoryClass
+MetacelloPlatform>>#suspendSystemUpdateEventsDuring:
+ExternalFunction>>#tryInvokeWithArguments:

@@ -1,0 +1,13 @@
+MetacelloMCProjectSpec>>#loadVersion:
+MetacelloPlatform>>#createRepository:
+RBRefactoryTestDataApp>>#atIfAbsent
+MetacelloMCVersion>>#packageAndProjectNamesToLoad:loader:
+MetacelloMCVersionSpec>>#packageSpecsInLoadOrderForMap:
+MCPackageManager class>>#forPackage:
+MCFileTreeStCypressWriter>>#writeDefinitions:
+MCFileTreeStCypressWriter>>#fileNameMapFor:
+MCFileTreeStSnapshotWriter>>#visitMethodDefinition:
+MBCommand>>#configurationReferencesFrom:
+RBSmalllintTestObject>>#atIfAbsent
+MetacelloAbstractConstructor>>#extractPragmas:for:into:
+MetacelloAbstractVersionConstructor>>#setFor:do:

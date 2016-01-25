@@ -1,0 +1,51 @@
+RBCondition class>>#hierarchyOf:referencesInstanceVariable:
+RBCondition class>>#subclassesOf:referToSelector:
+RBCreateAccessorsForVariableRefactoring>>#usesAssignmentOf:in:classVariable:
+RBVariableEnvironment>>#includesClass:
+RBExtractMethodRefactoring>>#isParseTreeEquivalentTo:
+RBStringConcatenationRule>>#initialize
+RBTransformationRuleTest>>#superSends
+FLDecoder>>#classNamed:
+RBPullUpInstanceVariableRefactoring>>#preconditions
+ZnCharacterEncoder class>>#newForEncoding:
+RBRefactoryTestDataApp>>#contains
+RBBasicLintRuleTest class>>#stringConcatenation
+RBBasicLintRuleTest class>>#subclassResponsibilityNotDefined
+RBBasicLintRuleTest class>>#utilityMethods
+RBBasicLintRuleTest class>>#overridesSpecialMessage
+RBBasicLintRuleTest class>>#ifTrueBlocks
+RBPullUpMethodRefactoring>>#copyDownMethod:
+RBPullUpMethodRefactoring>>#checkSuperSendsFromPushedUpMethods
+GTSpotterStepTest>>#subclassesOf:inPackage:
+RBVariableTypeTest>>#testBasicLintRuleTypes
+BaselineOfMetacello>>#reprimeRegistryIssue197
+RBSuperSendsRule>>#initialize
+RBAbstractClass>>#hierarchyDefinesClassVariable:
+RBAbstractClass>>#hierarchyDefinesVariable:
+RBAbstractClass>>#hierarchyDefinesInstanceVariable:
+RBAbstractClass>>#hierarchyDefinesPoolDictionary:
+MetacelloMemberListSpec>>#deleteSpec:
+MCSnapshotBrowser>>#loadClassSelection
+Form>>#rectangleEnclosingPixelsNotOfColor:
+GoferMetacelloLoad>>#configurationReference
+MessageBrowser>>#sourceIntervalOf:in:
+MetacelloToolBox>>#createProjectReferenceSpec:
+ZnServerSessionManager>>#sessionIdFromRequest:
+RBAbstractVariablesRefactoring>>#removeDefinedClassVariables
+RBRealizeClassRefactoring>>#preconditions
+MCOrganizationDefinition>>#reorderCategories:original:
+String>>#skipDelimiters:startingAt:
+ImageReadWriter class>>#readerClassFromStream:
+RBCompositeLintRuleTest>>#hasConflicts
+RBCompositeLintRuleTest>>#isEmpty
+RBMoveVariableDefinitionRefactoring>>#checkNodes:
+RBSmalllintTestObject>>#contains
+VSCommitUnit>>#project
+RBUtilityMethodsRule>>#subclassOf:overrides:
+RBChildrenToSiblingsRefactoring>>#shouldPushUp:from:
+PickOneSettingDeclaration>>#content
+PickOneSettingDeclaration>>#index
+RBRemoveMethodRefactoring>>#justSendsSuper:
+SmalllintManifestChecker>>#criticsOf:
+MBConfigurationInfo>>#recalculateIfInterestedInConfigurationInfo:for:
+MorphTreeListManager>>#basicKeyPressed:

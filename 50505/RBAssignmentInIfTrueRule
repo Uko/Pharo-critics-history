@@ -1,0 +1,111 @@
+SpecRowLayout>>#manualFractionComputation
+Float>>#printPaddedWith:to:
+Date class>>#readFrom:
+CornerGripMorph>>#targetPoint:
+NNavNavigation>>#bestNodeForSelection
+FBDExamples>>#exampleIfFalseIfTrue2
+FBDExamples>>#exampleIfTrueIfFalse2
+String class>>#with:
+RubDisplayScanner>>#cr
+RubDisplayScanner>>#displayLine:offset:leftInRun:
+AthensCairoText>>#fontSlant:
+AthensCairoText>>#fontWeight:
+ThumbnailMorph>>#scaleFor:in:
+CharacterBlockScanner>>#cr
+SpecColumnLayout>>#autoFractionComputation
+Parser>>#temporariesIn:
+Parser>>#braceExpression
+Parser>>#temporaries
+Color class>>#computeColormapFrom:to:
+Color class>>#maskingMap:
+Color class>>#computeRGBColorConvertingMap:to:keepSubPixelAA:
+NBNativeCodeGen class>>#getErrorFromJit:
+RxCharSetParser>>#match:
+Morph>>#privateAddAllMorphs:atIndex:
+RBRefactoryTestDataApp>>#assignmentInIfTrue
+DelayMicrosecondScheduler>>#unscheduleDelay:
+ZnUtils class>>#parseHttpDate:
+PolygonMorph>>#computeCurvedSegmentCtrlPoints
+MetacelloVersionConstructor>>#collectAllVersionsFromVersionImportPragmasInto:using:satisfiedPragmas:
+RubEncryptedDisplayScanner>>#displayLine:offset:leftInRun:
+Text>>#copyFrom:to:
+ExternalStructure class>>#compileAlias:withAccessors:
+SimpleHierarchicalListMorph>>#basicKeyPressed:
+SpecDebuggerStack>>#columnsFor:
+NECContext>>#completionToken
+DelayMillisecondScheduler>>#unscheduleDelay:
+MCFileTreeRepository class>>#parseName:extension:
+MessageNode>>#printToDoOn:indent:
+BMPReadWriter>>#read24BmpLine:into:startingAt:width:
+Bitmap>>#integerAt:put:
+NewList>>#basicKeyPressed:
+GIFReadWriter>>#readHeader
+GIFReadWriter>>#nextBits
+ZipWriteStream>>#encodeMatch:distance:
+RxParser>>#next
+RxParser>>#branch
+GoferVersionReference>>#parseName:
+ZnUrl>>#scheme:
+MorphTreeNodeMorph>>#drawLinesToFirstChildOn:
+PolymorphSystemSettings class>>#desktopBackgroundChanged
+GLMBasicExamples>>#actionsFor:
+FreeTypeSettings>>#glyphContrast:
+Color>>#pixelWordFor:filledWith:
+Color>>#hue
+Color>>#duller
+SystemWindow>>#position:
+GLMTreeMorphModel>>#toggleAmountToFilterBy
+IntegerArray>>#at:put:
+IntegerArray>>#atAllPut:
+Form>>#readNativeResourceFrom:
+Form>>#hackBits:
+Form>>#reducedPaletteOfSize:
+Form>>#mapColors:to:
+AthensCubicBezier>>#recursiveSubDiv:level:
+SourceFileArray>>#changeRecordsFrom:className:isMeta:do:
+TBehavior>>#allInstVarNames
+MetacelloVersionNumber>>#hash
+PNGReadWriter>>#writeType6DataOn:
+PNGReadWriter>>#writePLTEChunkOn:
+Number class>>#readScaledDecimal:fractionPart:digits:base:sign:from:
+MCGitBasedNetworkRepository class>>#parseProjectVersionField:desc:versionDelim:
+TClassDescription>>#newInstanceFrom:variable:size:
+TClassDescription>>#newInstanceFrom:variable:size:map:
+AthensCurveFlattener>>#isFlatQuadBezier:y1:x2:y2:x3:y3:
+Categorizer>>#classify:under:suppressIfDefault:
+GroupCreatorTreeModel>>#acceptDroppingMorph:event:inMorph:
+BalloonBuffer>>#at:put:
+Scanner>>#step
+RubTextEditor>>#forwardDelete:
+RubTextEditor>>#changeEmphasisOrAlignment
+String>>#romanNumber
+String>>#copyReplaceAll:with:asTokens:
+AthensBezierConverter>>#isFlatBezier2_x1:y1:x2:y2:x3:y3:
+TextDiffBuilder>>#lcsFor:and:
+ExternalType>>#newReferentClass:
+RubCharacterBlockScanner>>#cr
+RubCharacterBlockScanner>>#endOfRun
+ColorMap>>#pixelMap:
+ColorMap>>#mapPixel:
+DateAndTime class>>#readFrom:
+TableLayout>>#indexForInserting:inList:horizontal:target:
+TableLayout>>#computeCellArrangement:in:horizontal:target:
+RBSmalllintTestObject>>#assignmentInIfTrue
+GLMPagerScrollSlidingBrick>>#mouseDown:
+DisplayScanner>>#cr
+DisplayScanner>>#displayLine:offset:leftInRun:
+TextEditor>>#forwardDelete:
+TextEditor>>#changeEmphasisOrAlignment
+KMKeymap>>#notifyCompleteMatchTo:buffer:
+PragmaMenuAndShortcutRegistration>>#platform:
+AthensCairoPathBuilder>>#arcTo:angle:cw:
+PasteUpMorph>>#mouseDown:
+ZipEncoder>>#privateSendBlock:with:with:with:
+ZipEncoder>>#on:
+Form class>>#floodFillTolerance:
+ZipEncoderNode>>#computeHeight
+RubOpeningClosingDelimiterDecorator>>#positionOfOppositeDelimiter:startingAt:
+MCClassDefinition>>#initializeWithName:superclassName:category:instVarNames:classVarNames:poolDictionaryNames:classInstVarNames:type:comment:commentStamp:
+MCClassDefinition>>#initializeWithName:superclassName:traitComposition:classTraitComposition:category:instVarNames:classVarNames:poolDictionaryNames:classInstVarNames:type:comment:commentStamp:
+DeflateStream>>#findMatch:lastLength:lastMatch:chainLength:goodMatch:
+DeflateStream>>#deflateBlock

@@ -1,0 +1,21 @@
+MetacelloPlatform>>#useStackCacheDuring:defaultDictionary:
+MetacelloVersionConstructor>>#prepareForMethodUpdate:sourceVersion:forceUpdate:generating:
+MetacelloMCVersionSpecLoader>>#load
+ExternalType class>>#cleanupUnusedTypes
+TDictionaryEnumeratingTest>>#testAssociationsDo
+TDictionaryEnumeratingTest>>#testKeysAndValuesDo
+TDictionaryEnumeratingTest>>#testAssociationsSelect
+TDictionaryEnumeratingTest>>#testSelect
+TDictionaryEnumeratingTest>>#testValuesDo
+TDictionaryEnumeratingTest>>#testCollect
+TDictionaryEnumeratingTest>>#testKeysDo
+MCFileTreeStCypressWriter class>>#initializeSpecials
+MetacelloMemberListSpec>>#do:
+MCFileTreeStCypressWriter>>#fileNameMapFor:
+MetacelloVersionSpec>>#resolveToLoadableSpecs:forLoad:map:
+MetacelloVersionValidator>>#validateProject:
+Callback>>#addToThunkTable
+Watchpoint class>>#removeAll
+PickListModel>>#initializePresenter
+GTExampleOrganizer>>#categoryRemoved:
+TDictionaryCopyingTest>>#testDictionaryConcatenationWithCommonKeysDifferentValues

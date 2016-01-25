@@ -1,0 +1,14 @@
+TraitBehavior>>#instSpec
+TraitBehavior>>#isVariable
+TraitBehavior>>#isBits
+TraitBehavior>>#isBytes
+TraitBehavior>>#kindOfSubclass
+Behavior>>#allInstances
+Behavior>>#allInstancesDo:
+Behavior>>#isVariable
+Behavior>>#typeOfClass
+Behavior>>#indexIfCompact
+Behavior>>#kindOfSubclass
+Behavior>>#isBytes
+Behavior>>#isBits
+AthensCairoSurface class>>#ffiLibraryName

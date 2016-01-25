@@ -1,0 +1,22 @@
+GTMoldableDebugger>>#inspectSubInstances
+GTMoldableDebugger>>#methodHierarchy
+GTMoldableDebugger>>#fileOutMessage
+GTMoldableDebugger>>#browseMessages
+GTMoldableDebugger>>#browseClassVarRefs
+GTMoldableDebugger>>#browseInstVarRefs
+GTMoldableDebugger>>#inspectInstances
+GTMoldableDebugger>>#browseVersions
+GTMoldableDebugger>>#currentMessageName
+GTMoldableDebugger>>#currentMessageCategoryName
+GTMoldableDebugger>>#currentClass
+GTMoldableDebugger>>#browseClassVariables
+GTMoldableDebugger>>#browseMethodFull
+GTMoldableDebugger>>#currentClassOrMetaClass
+GTMoldableDebugger>>#browseSendersOfMessages
+GTMoldableDebugger>>#browseClassRefs
+TraitBehavior>>#isImmediateClass
+TraitBehavior>>#isEphemeronClass
+Behavior>>#isImmediateClass
+Behavior>>#isEphemeronClass
+AthensCairoSurface class>>#ffiLibraryName
+GLMFastListOutlineDataSource>>#elementShouldBeDisplayed:

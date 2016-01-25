@@ -1,0 +1,191 @@
+RBCondition class>>#hasInstanceVariable:
+RBCondition class>>#hasSubclasses:
+RBCondition class>>#hierarchyOf:referencesInstanceVariable:
+RBCondition class>>#referencesInstanceVariable:in:
+MetacelloPackagesSpec>>#packageSpecsInLoadOrderFor:
+GTSpotterStackedLayout>>#layoutStacked:in:
+MTProjectBFSIterator>>#hasNext
+RBVariableEnvironment>>#includesProtocol:in:
+RBVariableEnvironment>>#includesCategory:
+ZnMimePart>>#hasHeaders
+TraitComposition>>#includesMethod:
+TraitComposition>>#notEmpty
+Float>>#asMinimalDecimalFraction
+DictionaryTest>>#testAllDictionariesAreHealthy
+RBExtractMethodRefactoring>>#extractMethod
+NavigationHistory>>#basicAdd:
+MCFileInTest>>#tearDown
+PluggableTreeMorph>>#hasNodeContents:
+MalTarjanNode>>#isInCycle
+ClassVariable>>#isSpecial
+GTSpotterStep>>#selected:dueTo:
+TClass>>#spotterSuperClassMethodsFor:
+MetacelloGoferPackage>>#currentVersionInfo
+MetacelloGoferPackage>>#ancestors
+BagTest>>#test0CopyTest
+BitBlt>>#installStrikeFont:foregroundColor:backgroundColor:
+GTSpotterContext>>#matches:
+GTSpotterContext>>#notEmpty
+InflateStream>>#createHuffmanTables:counts:from:to:
+TraitAlias class>>#assertValidAliasDefinition:
+RPackageOrganizer>>#initializeFromMCMethodsFor:
+GeneralScrollPane>>#extent:
+GeneralScrollPane>>#doLayoutIn:
+KMDispatcher>>#partialMatch
+SetTest>>#testCopyWithout
+SetTest>>#testAllSetsAreHealthy
+SetTest>>#testUnion
+SetTest>>#testCopy
+WideStringTest>>#testEqual
+ZnHeaders>>#includesKey:
+KeymapBrowser>>#initializePresenter
+TIterateTest>>#testAllSatisfy
+TIterateTest>>#testReject
+TIterateTest>>#testRejectNoReject
+TIterateTest>>#testNoneSatisfy
+TIterateTest>>#testSelect
+MetacelloRepositorySpec>>#configMethodCascadeOn:lastCascade:
+ZnMonticelloServerDelegate>>#isValidMczName:
+ZdcPluginSSLSession>>#logging
+IdentityBagTest>>#testIdentity
+Socket>>#errorSending:startingAt:count:toHost:port:
+RBInlineParameterRefactoring>>#myConditions
+MetacelloVersion>>#printOn:
+ToggleMenuItemShortcutWithSymbol>>#drawOnAthensCanvas:
+ToggleMenuItemShortcutWithSymbol>>#text
+WindowsStore>>#printPath:on:
+RBNotEnvironment>>#includesCategory:
+TheManifestBuilder>>#isFalsePositive:onRule:version:
+ZnStaticFileServerDelegate>>#actualFilenameFor:
+RBBasicLintRuleTest class>>#collectionCopyEmpty
+RBBasicLintRuleTest class>>#onlyReadOrWritten
+RBBasicLintRuleTest class>>#classNotReferenced
+RBBasicLintRuleTest class>>#unreferencedVariables
+GLMEditableLabelBrick>>#onTextAccepted:
+MenuRegistration>>#buildMenuSpec:
+RBSelectorEnvironment>>#includesClass:
+TestCase class>>#hasFailedTest
+TestCase class>>#hasErrorTest
+TestCase class>>#localCoverageForClass:
+TestCase class>>#coverageForClass:until:
+TestCase class>>#hasPassedTest
+WatchpointWindow>>#initializePresenter
+MetacelloMCVersionSpec>>#configMethodOn:last:indent:
+MetacelloMCVersionSpec>>#mergeSpec:
+TCopyTest>>#test0CopyTest
+AbstractTutorial class>>#tutorials
+GLMMorphicSingleSpotter>>#listIndex:
+GLMBrickStructureTrait>>#hasSubbricks
+GTSpotterStepsBreadcrumb>>#isVisible
+RowLayout>>#layout:in:
+MessageNode>>#sizeCodeForCase:value:
+MessageNode>>#printWhileOn:indent:
+MessageNode>>#sizeCodeForIf:value:
+MessageNode>>#emitCodeForIf:encoder:value:
+AJx86InstructionDescription>>#emitmov:operand1:operand2:operand3:
+RBRefactoryChangeManager>>#hasUndoableOperations
+RBRefactoryChangeManager>>#hasRedoableOperations
+NativeBoost class>>#sessionChanged:
+MetacelloProject>>#latestVersion
+MetacelloProject>>#sortedAndFilteredVersions
+ZnUrl>>#hasQuery
+ZnUrl>>#hasPath
+GTObjectVariablesBrowser>>#stringWithoutInitialCommentFrom:
+JPEGReadStream>>#createHuffmanTables:counts:from:to:
+TestRunner>>#findPackages
+RBOnlyReadOrWrittenVariableRule>>#checkClass:
+MorphicMenuAdapter>>#menuGroups
+IdentitySetTest>>#testIdentity
+TxWorkspace>>#buildContextMenu:
+GLMCompositePresentationTest>>#testAdd
+GLMPagerScrollBrick>>#pageOf:
+PackageManifest class>>#isManifest
+Workspace>>#openMenuAction
+GLMTreeBrick>>#hasChildren:
+MCFileTreeStCypressReader>>#validateExtensionMethodCategory:for:selector:
+RBRenameInstanceVariableRefactoring>>#renameAccessorsReferences
+GLMScrollListBrick>>#gatherInvisibleItems
+GLMScrollListBrick>>#updateVisible
+MetacelloLoadingMCSpecLoader>>#savePackageUsing:
+MethodFinder>>#constDiv
+MethodFinder>>#constPlus
+MethodFinder>>#constMult
+MethodFinder>>#constLinear
+MethodFinder>>#constEquiv
+MethodFinder>>#search:
+MethodFinder>>#constUsingData1Value
+RBCollectionCopyEmptyRule>>#basicCheck:
+EventManagerTest>>#testRemoveActionsWithReceiver
+EventManagerTest>>#testCopy
+NBNativeCodeGen>>#parseOptions:
+MethodDictionaryTest>>#testAllMethodDictionariesAreHealthy
+FFICallout>>#parseOptions:
+MailAddressParser>>#grabGroupAddress
+MailAddressParser>>#grabBasicAddress
+MailAddressParser>>#grabAddresses
+MailAddressParser>>#removePhrase
+ReleaseTest>>#testObsoleteClasses
+GTSpotterIterator>>#notEmpty
+MCVersionLoader>>#hasVersions
+MCVersionLoader>>#hasLocalModifications
+GTSpotterCandidateLink>>#isFirst
+GTSpotterRecorderSelectedCandidateChangedEvent>>#isUserSelection
+NECUntypedModelTest>>#testNarrowWith
+NautilusRefactoring class>>#buildSourceCodeShortcutsOn:
+WorldState>>#triggerAlarmsBefore:
+WorldState>>#runLocalStepMethodsIn:
+StringTest>>#test0CopyTest
+ClassModification>>#modifiesSharedPools
+ClassModification>>#modifiesSuperclass
+ClassModification>>#modifiesFormat
+AbstractNautilusUI>>#classIconFor:
+MetacelloVersionSpec>>#mergeSpec:
+MetacelloVersionSpec>>#configPackagesSpecMethodOn:indent:
+RBAndEnvironment>>#includesCategory:
+GLMPresentationTest>>#testEquality
+RBUnreferencedVariablesRule>>#checkClass:
+InstanceVariableSlot>>#isSpecial
+MCDependentsWrapper>>#hasContents
+RBVariableEnvironment class>>#on:referencesToInstanceVariable:in:
+ZnClientTests>>#testConnectionCloseOnReuseTimeout
+GTPlayPage>>#isInteresting
+RBCompositeLintRuleTest>>#isEmpty
+ArrayTest>>#test0CopyTest
+AJx64InstructionDescription>>#emitmov:operand1:operand2:operand3:
+MetacelloNullRecordingMCSpecLoader>>#resolvePackageSpecReferences:gofer:
+RBAddClassRefactoring>>#preconditions
+GLMExplicitBrowserCopyTest>>#testEquality
+TestResult>>#expectedDefects
+TestResult>>#unexpectedPasses
+StackLayout>>#layout:in:
+MCDirectoryRepository>>#includesVersionNamed:
+MCPackageLoader>>#shouldWarnAboutErrors
+GLMBrowserTest>>#testUpdateRecomputesMatchingPresentations
+MetacelloPackageSpec>>#workingCopyName
+ZnMessage>>#hasHeaders
+IntervalTest>>#test0CopyTest
+RBExpandReferencedPoolsRefactoring>>#hasPoolsToMove
+NECModel>>#notEmpty
+FreeTypeFileInfoAbstract>>#validStyleName
+MetacelloCommonMCSpecLoader>>#resolvePackageSpecReferences:gofer:
+KomitTreeBuilder class>>#rootsForStagingArea:
+Collection>>#notEmpty
+InputEventSensor>>#someEventInQueue
+AJInstruction>>#printOperandsOn:
+KomitPackageNode>>#initialize
+MetacelloAbstractPackageSpec>>#configMethodBodyOn:hasName:cascading:indent:
+GTSpotter>>#setText:from:
+MBConfigurationInfo>>#versions
+ListItemWrapper>>#hasContents
+FileSystemPermission>>#''<=''
+ZnMimeType>>#hasParameters
+SHParserST80>>#parsingBlockarguments
+SettingDeclaration>>#exportSettingAction
+MCClassDefinition>>#hasClassInstanceVariables
+HeapTest>>#testHeap
+HeapTest>>#testAdd
+GLMBrickLayoutTraverser>>#markDirtyAround:inContext:
+GLMBrickLayoutTraverser>>#hasCustomDependencies:
+GLMBrickLayoutTraverser>>#markDirtyCustomDependency:inContext:
+ZdcIOBufferTests>>#testAdvanceWritePointer
+ZdcIOBufferTests>>#testCompactDoNothing

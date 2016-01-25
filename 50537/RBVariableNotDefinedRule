@@ -1,0 +1,4 @@
+SlotExampleMovie>>#director:
+SlotExampleMovie>>#actors:
+SlotExamplePerson>>#directedMovies:
+SlotExamplePerson>>#actedInMovies:

@@ -1,0 +1,22 @@
+Latin1 class>>#nextPutValue:toStream:withShiftSequenceIfNeededForTextConverterState:
+EncoderForSistaV1 class>>#isExtension:
+EncoderForSistaV1 class>>#selectorToSendOrItselfFor:in:at:
+EncoderForSistaV1 class>>#nonExtensionBytecodeAt:in:
+EncoderForSistaV1 class>>#method:refersInBytecodeToLiteral:specialSelectorIndex:
+EncoderForSistaV1 class>>#isSendAt:in:
+EncoderForSistaV1 class>>#extensionsAt:in:into:
+Unicode class>>#digitValueOf:
+EncodedCharSet class>>#isUppercase:
+EncodedCharSet class>>#isLetter:
+EncodedCharSet class>>#digitValueOf:
+EncodedCharSet class>>#isDigit:
+EncodedCharSet class>>#isLowercase:
+FFICallbackThunk class>>#freeBlockInExecutablePage:
+Context>>#object:basicAt:put:
+OpalEncoderForSistaV1 class>>#isExtension:
+OpalEncoderForSistaV1 class>>#selectorToSendOrItselfFor:in:at:
+OpalEncoderForSistaV1 class>>#nonExtensionBytecodeAt:in:
+OpalEncoderForSistaV1 class>>#method:refersInBytecodeToLiteral:specialSelectorIndex:
+OpalEncoderForSistaV1 class>>#isSendAt:in:
+OpalEncoderForSistaV1 class>>#extensionsAt:in:into:
+GLMPagerModel>>#isPaneVisible:

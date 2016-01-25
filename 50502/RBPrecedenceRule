@@ -1,0 +1,77 @@
+CompiledMethodTrailer>>#qDecompress
+Float>>#hex
+Float>>#absPrintOn:base:digitCount:
+Date class>>#easterDateFor:
+GradientFillStyle>>#scaledAlphaMix:of:with:
+InflateStream>>#bitPosition
+Time class>>#benchmarkMillisecondClock
+SparseLargeTable>>#noCheckAt:
+SparseLargeTable>>#noCheckAt:put:
+RBRefactoryTestDataApp>>#precedence
+PolygonMorph>>#lineSegmentsDo:
+PolygonMorph>>#naturalCubicSlopesOf:
+PolygonMorph>>#changeOfChangesInSlopes:of:
+PolygonMorph>>#extent:
+PolygonMorph>>#changeInSlopes:of:
+PolygonMorph>>#closedCubicSlopesOf:
+SimpleHierarchicalListMorph>>#selectionIndex:
+Base64MimeConverter class>>#mimeEncode:multiLine:
+RowLayout>>#minExtentOf:in:
+RowLayout>>#layout:in:
+Bitmap>>#encodeBytesOf:in:at:
+ZipWriteStream>>#storedBlockSize
+CascadeNode>>#sizeCodeForValue:
+Point>>#triangleArea:with:
+TextLine>>#justifiedTabDeltaFor:
+Bezier2Segment class>>#makeEllipseSegments:
+Form>>#fadeImageVert:at:
+Form>>#zoomIn:orOutTo:at:vanishingPoint:
+HandMorph>>#showMouseFocusEvent:
+HandMorph>>#showDebugEvent:
+SourceFileArray>>#filePositionFromSourcePointer:
+FT2GlyphRenderer>>#loadSurfaceTransform
+Bezier3Segment class>>#makeUnitPieSegmentWith:and:
+Bezier3Segment class>>#makePieSegment:from:to:
+Bezier3Segment class>>#makePieSegments:from:to:
+Bezier3Segment class>>#makeEllipseSegments:count:
+PNGReadWriter>>#copyPixelsGray:at:by:
+PNGReadWriter>>#copyPixelsGray:
+Number class>>#readScaledDecimal:fractionPart:digits:base:sign:from:
+BalloonBezierSimulation>>#floatStepToFirstScanLineAt:in:
+BalloonBezierSimulation>>#stepToFirstInt
+BalloonBezierSimulation>>#stepToFirst
+BalloonBezierSimulation>>#intStepToFirstScanLineAt:in:
+AthensPolygonTester>>#includesPoint:
+CompiledMethod class>>#handleFailingNewMethod:header:
+TxAthensLayoutStrategy>>#alignTab:
+SVColorSelectorMorph>>#selectedLocation
+InstructionStream>>#interpretNextV3PlusClosureInstructionFor:
+ComplexBorder>>#framePolygon:on:
+ComplexBorder>>#frameRectangle:on:
+ComplexBorder>>#fillStyleForDirection:
+RubSegmentMorph>>#lineSegmentsDo:
+RubSegmentMorph>>#naturalCubicSlopesOf:
+RubSegmentMorph>>#changeOfChangesInSlopes:of:
+RubSegmentMorph>>#changeInSlopes:of:
+RubSegmentMorph>>#closedCubicSlopesOf:
+DateAndTime class>>#year:month:day:hour:minute:second:nanoSecond:offset:
+LineSegment>>#bezierClipInterval:
+LineSegment>>#bezierClipCurve:epsilon:
+LineSegment>>#valueAt:
+TableLayout>>#layoutLeftToRight:in:
+TableLayout>>#layoutTopToBottom:in:
+TableLayout>>#minExtentHorizontal:
+TableLayout>>#minExtentVertical:
+RBSmalllintTestObject>>#precedence
+Bezier2Segment>>#curveFrom:to:
+Bezier2Segment>>#from:to:withMidPoint:
+Bezier2Segment>>#tangentAtMid
+Bezier2Segment>>#tangentAt:
+UTF8TextConverter>>#nextPut:toStream:
+AthensCairoPathBuilder>>#curveVia:to:
+AJx86AssemblerTests>>#testAssemblyMemBaseDisp2
+RubTextLine>>#justifiedTabDeltaFor:
+ZipEncoder>>#bitPosition
+HashedCollection class>>#sizeFor:
+RealEstateAgent class>>#strictlyStaggeredInitialFrameFor:initialExtent:world:
+RealEstateAgent class>>#standardWindowExtent

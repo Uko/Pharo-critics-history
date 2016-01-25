@@ -1,0 +1,51 @@
+Symbol class>>#possibleSelectorsFor:
+MorphTreeMorph>>#expand:to:
+Latin1 class>>#nextPutValue:toStream:withShiftSequenceIfNeededForTextConverterState:
+MetacelloPharoCommonPlatform>>#defaultPlatformAttributes
+Unicode class>>#isUnifiedKanji:
+ThumbnailMorph>>#drawMeOn:
+MetacelloPharoPlatform>>#defaultPlatformAttributes
+CharacterBlockScanner>>#characterBlockAtPoint:index:in:
+CharacterBlockScanner>>#endOfRun
+StrikeFont>>#widthOf:
+SugsAbstractContext>>#hasOneStatement
+MBProjectInfo>>#buildStringOrText
+ClassTestCase>>#repeatedMethodsThatDoNotAccessInstanceVariablesBetween:and:
+ExternalStructure class>>#compileFields:withAccessors:
+SimpleHierarchicalListMorph>>#expand:to:
+TraitBehavior>>#dependentClasses
+SettingTree>>#itemSortBlock
+Behavior>>#dependentClasses
+MenuMorph>>#wantsToBeDroppedInto:
+NewList>>#specialKeyPressed:
+Point>>#to:intersects:to:
+JPEGReadWriter>>#okToIgnoreMarker:
+StringMorph>>#boundsForBalloon
+TextLine>>#=
+GLMBoundPort>>#=
+GLMTreeMorphModel>>#roots
+NewListRenderer>>#mouseUp:
+PragmaMenuBuilder class>>#itemSortBlock
+TBehavior>>#dependentClasses
+RubTextEditor>>#addTypeInUndoRecord
+RubTextEditor>>#replace:with:and:
+RubTextEditor>>#shiftEnclose:
+RubTextEditor>>#enclose:
+DAPackageCycleDetectorTest>>#testfindCycles
+String>>#isLegalInstVarName
+MetacelloMCConfigurationOfProjectSpec>>#hasConflictWithBaselineSpec:
+MCVersionSaved>>#=
+RubCharacterBlockScanner>>#characterBlockAtPoint:index:in:
+RubCharacterBlockScanner>>#endOfRun
+RBSmalllintTestObject>>#unoptimizedAndOr
+AlphaImageMorph>>#layout:
+SystemNavigation>>#allReferencesToPool:
+SystemNavigation>>#instanceSideMethodsWithNilKeyInLastLiteral
+TextEditor>>#addTypeInUndoRecord
+TextEditor>>#replace:with:and:
+TextEditor>>#enclose:
+Integer>>#bitShift:
+MetacelloGenericProjectSpec>>#hasNoLoadConflicts:
+RubTextLine>>#=
+IndexedSlot>>#=
+DAAbstractItemDiff>>#canBeDisplay

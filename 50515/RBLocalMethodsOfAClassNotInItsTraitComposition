@@ -1,0 +1,5 @@
+TraitBehavior>>#isImmediateClass
+TraitBehavior>>#isEphemeronClass
+Behavior>>#isImmediateClass
+Behavior>>#isEphemeronClass
+AthensCairoSurface class>>#ffiLibraryName

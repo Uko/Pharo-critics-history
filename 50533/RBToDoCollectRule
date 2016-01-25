@@ -1,0 +1,42 @@
+IRBytecodeScope>>#temps
+IRBytecodeScope>>#args
+FBDExamples>>#exampleToDo3
+PharoClassInstaller>>#updateInstancesFrom:to:
+NBInterpreterProxy>>#gatedCall
+NBInterpreterProxy>>#simpleCall
+DelayBenchmark>>#generateDelayProcesses:priority:maxDuration:fromSeed:
+MD5NonPrimitive class>>#initialize
+NBNativeCodeGen class>>#retrySend:
+MD5NonPrimitive>>#processBuffer:
+TraitDescription>>#updateInstances:from:isMeta:
+RBRefactoryTestDataApp>>#toDoCollect
+PolygonMorph>>#changeOfChangesInSlopes:of:
+PolygonMorph>>#changeInSlopes:of:
+ClassDescription>>#updateInstances:from:isMeta:
+RxMatcher>>#tryMatch
+ZipConstants class>>#initializeFixedTrees
+BMPReadWriter>>#readColorMap
+GIFReadWriter>>#readColorTable:
+GIFReadWriter>>#writeBitData:
+AthensBalloonPath>>#convertFromBuilder:
+FFIExternalArray>>#asArray
+JPEGReadWriter>>#parseStartOfScan
+JPEGReadWriter>>#parseStartOfFile
+MCDataStream>>#next:
+MethodFinder>>#load:
+Context>>#arguments
+StringTest>>#valueArray
+TClassDescription>>#updateInstances:from:isMeta:
+Categorizer>>#categories:
+Categorizer>>#changeFromCategorySpecs:
+FloatArrayTest>>#valueArray
+ZipEncoderTree>>#buildTreeFrom:maxDepth:
+PluggableTabButtonMorph>>#calculateArcLengths
+StrikeFontSet>>#copy
+ArrayTest>>#valueArray
+RubSegmentMorph>>#changeOfChangesInSlopes:of:
+RubSegmentMorph>>#changeInSlopes:of:
+OrderedCollectionTest>>#valueArray
+RBSmalllintTestObject>>#toDoCollect
+RunArray class>>#readFrom:
+TPutTest>>#valueArray

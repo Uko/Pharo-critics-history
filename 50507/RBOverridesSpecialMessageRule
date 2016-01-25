@@ -1,0 +1,14 @@
+Float>>#basicAt:put:
+Float>>#basicAt:
+SmallInteger>>#identityHash
+Character>>#identityHash
+Float class>>#basicNew
+SmallFloat64 class>>#basicNew
+BoxedFloat64 class>>#basicNew
+Integer class>>#basicNew
+Context>>#basicAt:put:
+Context>>#basicSize
+Context>>#basicAt:
+CompiledMethod class>>#basicNew
+SmallInteger class>>#basicNew
+SmallFloat64>>#identityHash

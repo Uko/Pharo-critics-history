@@ -1,0 +1,41 @@
+RBCondition class>>#hierarchyOf:referencesInstanceVariable:
+RBCondition class>>#subclassesOf:referToSelector:
+RBCreateAccessorsForVariableRefactoring>>#usesAssignmentOf:in:classVariable:
+RBVariableEnvironment>>#includesClass:
+RBExtractMethodRefactoring>>#isParseTreeEquivalentTo:
+RBStringConcatenationRule>>#initialize
+RBTransformationRuleTest>>#superSends
+NetworkSystemSettings class>>#isAnExceptionFor:
+RBPullUpInstanceVariableRefactoring>>#preconditions
+RBRefactoryTestDataApp>>#contains
+RBBasicLintRuleTest class>>#stringConcatenation
+RBBasicLintRuleTest class>>#subclassResponsibilityNotDefined
+RBBasicLintRuleTest class>>#utilityMethods
+RBBasicLintRuleTest class>>#overridesSpecialMessage
+RBBasicLintRuleTest class>>#ifTrueBlocks
+RxMatchOptimizer>>#conditionTester
+RxMatchOptimizer>>#nonPredicateTester
+RxMatchOptimizer>>#determineTestMethod
+RxMatchOptimizer>>#methodPredicateTester
+RxMatchOptimizer>>#nonMethodPredicateTester
+RxMatchOptimizer>>#predicateTester
+RBPullUpMethodRefactoring>>#copyDownMethod:
+RBPullUpMethodRefactoring>>#checkSuperSendsFromPushedUpMethods
+RBVariableTypeTest>>#testBasicLintRuleTypes
+RBSuperSendsRule>>#initialize
+RBAbstractClass>>#hierarchyDefinesClassVariable:
+RBAbstractClass>>#hierarchyDefinesVariable:
+RBAbstractClass>>#hierarchyDefinesInstanceVariable:
+RBAbstractClass>>#hierarchyDefinesPoolDictionary:
+RBAbstractVariablesRefactoring>>#removeDefinedClassVariables
+RBRealizeClassRefactoring>>#preconditions
+RBCompositeLintRuleTest>>#hasConflicts
+RBCompositeLintRuleTest>>#isEmpty
+RBMoveVariableDefinitionRefactoring>>#checkNodes:
+RBSmalllintTestObject>>#contains
+RBUtilityMethodsRule>>#subclassOf:overrides:
+RxsCharSet>>#predicatePartPredicate
+RxsCharSet>>#hasPredicates
+RBChildrenToSiblingsRefactoring>>#shouldPushUp:from:
+AJx86AssemblerTests>>#testMOVCMPSD
+RBRemoveMethodRefactoring>>#justSendsSuper:

@@ -1,0 +1,156 @@
+MetacelloPackagesSpec>>#sortPackageSpecs:packageSpec:groupLoops:for:
+MetacelloProjectRegistry>>#registerProjectRegistration:
+MetacelloMCProjectSpec>>#loadVersion:
+TransformationMorph>>#printOn:
+TClass>>#fileOutPool:onFileStream:
+AbstractTool>>#showUnreferencedInstVarsOf:
+DelayBenchmark>>#bench
+MetacelloValueHolderSpec>>#configMethodOn:indent:
+MetacelloGroupSpec>>#configMethodCascadeOn:member:last:indent:
+MetacelloGroupSpec>>#configMethodOn:indent:
+NBExternalEnumerationType>>#printOn:
+MCFileTreeAbstractReader>>#packageProperties
+MetacelloToolBox class>>#defaultTopic:for:
+StrikeFont>>#settingStoreOn:
+Parser>>#ambiguousSelector:inRange:
+MetacelloRepositorySpec>>#configMethodCascadeOn:lastCascade:
+ConfigurationGenerator>>#createVersionForBlessing:
+ConfigurationGenerator>>#addMetacelloBaseline
+FFIFunctionSpec>>#asArraySpecArrayedArgs
+MCTraitDefinition>>#printDefinitionOn:
+MCTraitDefinition>>#printMetaDefinitionOn:
+HaloSpec>>#printOn:
+Socket>>#printOn:
+MessageTally class>>#tallySendsTo:inBlock:showTree:closeAfter:openResultWindow:
+MetacelloVersion>>#printOn:
+MetacelloVersion>>#versionKey
+MetacelloAbstractVersionConstructor class>>#symbolicMethodSelectorAndPragma:symbolicVersionSymbol:on:
+MBProjectInfo>>#printOn:
+RBDeprecateMethodRefactoring>>#formNameFor:
+MenuModel>>#printOn:
+MetacelloMCVersion>>#doLoadRequiredFromArray:
+MetacelloMCVersion>>#doFetchRequiredFromArray:
+MetacelloMCVersion>>#doRecordRequiredFromArray:
+CompiledMethod>>#longPrintOn:
+MetacelloVersionConstructor>>#spawnPackageMethodIn:category:named:sourceVersion:targetVersion:blessing:
+MetacelloVersionConstructor>>#updatePackageMethodIn:sourceVersion:
+Month>>#printOn:
+MetacelloRepositorySqueakCommonTestCase>>#testFileTreeRepository
+TestCase class>>#lastRunMethodNamed:
+MetacelloMCVersionSpec>>#configMethodOn:last:indent:
+ExternalStructure class>>#defineAliasAccessorsFor:type:
+ExternalStructure class>>#compileAlias:withAccessors:
+ExternalStructure class>>#compileFields:withAccessors:
+MetacelloIssueTestCase>>#tearDown
+CustomHelp class>>#accept:title:contents:
+MCConfiguration>>#logUpdate:with:
+MetacelloSymbolicVersionMethodSpec>>#symbolicMethodSelectorAndPragma:symbolicVersionSymbol:on:
+MetacelloSymbolicVersionMethodSpec>>#methodSource
+SocketStream>>#printOn:
+SocketStream>>#sendCommand:
+SocketStream>>#debug
+SmalltalkImage>>#timeStamp:
+Object>>#storeOn:
+Object>>#logEntry
+Object>>#logExecution
+Object>>#logExit
+AJx86InstructionDescription>>#printOn:
+MCConfigurationBrowser>>#migrate
+Random class>>#bucketTest:
+BaselineOfMetacello>>#reprimeRegistryIssue197
+SocketStreamTest>>#testUpToAll
+SocketStreamTest>>#testUpTo
+SocketStreamTest>>#testUpToSmallInteger
+MetacelloProject>>#printOn:
+TestRunner>>#showDiffWith:
+TestRunner>>#showProgress
+NBExternalObjectType>>#printOn:
+PluggableMenuSpec class>>#exampleWithTwoSimpleItems
+PluggableMenuSpec class>>#exampleWithOneSingleItem
+MetacelloVersionLoadDirective>>#loadPostloadDirective:
+MetacelloVersionLoadDirective>>#loadPreloadDirective:
+TextAndTextStreamTest>>#example1:
+MCVersionInfo>>#summaryHeader
+MBGroupInfo>>#printOn:
+MetacelloProjectReferenceSpec>>#configMethodCascadeOn:member:last:indent:
+MetacelloProjectReferenceSpec>>#configMethodOn:indent:
+MorphExtension>>#printOn:
+Color>>#storeOn:
+MetacelloLoadingMCSpecLoader>>#linearLoadPackageSpec:gofer:
+MethodFinder>>#handleExceptionalSelectors
+MethodFinder>>#simpleSearch
+FLFuelCommandLineHandler>>#manageFile:
+MetacelloMemberSpec>>#configMethodOn:indent:
+MetacelloVersionMethodSpec>>#methodSelectorAndPragma:imports:versionString:on:
+MetacelloVersionMethodSpec>>#methodSource
+DigitalSignatureAlgorithm>>#initRandom:
+DigitalSignatureAlgorithm>>#generateQandP
+MCDefinition>>#printOn:
+TimeProfiler>>#summaryText
+MetacelloBaselineOfMethodSpec>>#methodSelectorAndPragma:imports:on:
+MetacelloBaselineOfMethodSpec>>#methodSource
+MetacelloDictionaryRepositoryTest>>#tearDown
+MCConfiguration class>>#changesIn:from:to:on:
+PNGReadWriter>>#nextImage
+MetacelloMethodSection>>#attributePrintString
+MCWorkingCopy>>#printOn:
+PNGReadWriterTest>>#readEncoded:
+Context>>#printOn:
+DigitalSignatureAlgorithm class>>#timeDirect:as:count:
+DigitalSignatureAlgorithm class>>#testExamplesFromDisk
+ZipWriteStream class>>#compressAndDecompress:using:stats:
+ZipWriteStream class>>#printRegressionStats:from:
+GLMMatchingPresentationsChanged>>#printOn:
+MetacelloProjectSpec>>#configMethodOn:indent:
+MetacelloProjectSpec>>#configMethodBodyOn:indent:fromShortCut:
+MetacelloVersionSpec>>#configMethodValueOn:for:selector:last:indent:
+MetacelloVersionSpec>>#configMethodOn:for:selector:last:indent:
+FreeTypeEmbeddedFileInfo>>#printOn:
+MessageTally>>#report:cutoff:
+MessageTally>>#rootPrintOn:total:totalTime:threshold:
+NBFnSpec>>#asArraySpecArrayedArgs
+MCWorkingCopyBrowser>>#saveRepositories
+MetacelloTutorialConfig>>#postloadForCore:package:
+StrikeFontSet>>#printOn:
+StrikeFontSet>>#settingStoreOn:
+TimeMeasuringTest>>#reportPerformance
+ThreadSafeTranscript class>>#examplesForegroundUpdate
+GLMPresentationsChanged>>#printOn:
+LocaleID>>#storeOn:
+MCStWriter>>#writeMethodInitializer:
+Transcripter>>#readEvalPrint
+MetacelloScriptingStdTstHarness>>#tearDown
+ScriptLoader>>#updateUpdatesList:
+ScriptLoader>>#generateScriptTemplateWithCurrentPackages:
+ScriptLoader>>#newGenerateNewUpdateMethod
+ScriptLoader>>#updateStageList:
+ScriptLoader>>#newGenerateScriptTemplateWithCurrentPackages:
+ScriptLoader>>#generateCS:fromUpdate:on:
+MetacelloFetchingMCSpecLoader>>#resolveDependencies:nearest:into:
+AndreasSystemProfiler>>#reportProcessStatsOn:
+AndreasSystemProfiler>>#report:cutoff:
+FreeTypeFileInfo>>#printOn:
+MetacelloPackageSpec>>#updatePackageRepositories:
+MetacelloPackageSpec>>#configMethodCascadeOn:member:last:indent:
+MetacelloPackageSpec>>#configMethodOn:indent:
+MetacelloPackageSpec>>#configShortCutMethodBodyOn:member:indent:
+MetacelloPackageSpec>>#explicitLoadUsing:
+Socket class>>#sendTest
+Socket class>>#loopbackTest
+MetacelloCommonMCSpecLoader>>#loadPackageDirectives:gofer:
+MetacelloCommonMCSpecLoader>>#retryingResolvePackageSpecReferences:gofer:
+MetacelloCommonMCSpecLoader>>#loadPackageDirective:gofer:
+NBExternalLibraryWrapper class>>#createArrayedMethodFor:
+MCGitBasedNetworkRepository>>#flushCache
+MetacelloAbstractPackageSpec>>#configMethodBodyOn:hasName:cascading:indent:
+MetacelloAbstractPackageSpec>>#configMethodOn:for:selector:cascading:cascade:indent:
+MetacelloMCProject>>#projectPackage
+Locale>>#printOn:
+MBConfigurationInfo>>#printOn:
+SpaceTally>>#compareTallyIn:to:
+Encoder>>#bindTemp:in:
+Encoder>>#warnAboutShadowed:
+SettingDeclaration>>#settingStoreOn:
+HeapTest>>#heapExample
+HeapTest>>#heapSortExample
+VGTigerDemo>>#runDemo

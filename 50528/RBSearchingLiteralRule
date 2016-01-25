@@ -1,0 +1,140 @@
+CompiledMethodTrailer>>#hasSourcePointer
+CompiledMethodTrailer>>#hasSource
+CompiledMethodTrailer>>#sourceCode
+CompiledMethodTrailer>>#sourcePointer
+CompiledMethodTrailer>>#isEmpty
+NetNameResolver class>>#addressFromString:
+EncoderForV3PlusClosures class>>#isStoreAt:in:
+EncoderForV3PlusClosures class>>#bindingWriteScanBlockFor:using:
+EncoderForV3PlusClosures class>>#instVarWriteScanBlockFor:using:
+RBScanner>>#scanLiteral
+RBScanner>>#scanName
+Float>>#arcSin
+Float>>#adaptToFraction:andCompare:
+Float>>#adaptToInteger:andCompare:
+CornerGripMorph>>#targetPoint:
+PluginBasedJPEGReadWriter>>#uncompress:into:
+PluginBasedJPEGReadWriter>>#uncompress:into:doDithering:
+Character>>#tokenish
+EncoderForSistaV1 class>>#bindingWriteScanBlockFor:using:
+EncoderForSistaV1 class>>#instVarWriteScanBlockFor:using:
+EncoderForSistaV1 class>>#method:refersInBytecodeToLiteral:specialSelectorIndex:
+GeneralScrollPane>>#scrollByKeyboard:
+SHRange>>#isKeyword
+SHRange>>#isBlockTemporary
+SHRange>>#isAssignment
+Parser>>#pattern:inContext:
+Parser>>#pragmaLiteral:
+Parser>>#pragmaStatement
+Parser>>#statements:innerBlock:blockNode:
+Parser>>#primaryExpression
+Parser>>#messagePart:repeat:
+MenuItemMorph>>#contents:withMarkers:inverse:
+Color class>>#colorFromPixelValue:depth:
+SpecTableLayout>>#orientation
+Morph>>#changeListDirection:
+Number>>#adaptToFloat:andCompare:
+RBRefactoryTestDataApp>>#searchingLiteral
+ByteTextConverter class>>#parseUnicodeOrgSpec:
+CompiledMethod>>#irPrimitive
+PolygonMorph>>#drawBorderOn:usingEnds:
+PolygonMorph>>#drawArrowsOnAthensCanvas:
+PolygonMorph>>#drawDashedBorderOn:usingEnds:
+PolygonMorph>>#drawArrowsOn:
+PolygonMorph>>#arrowForms
+PolygonMorph>>#adjustSegmentPointsForArrows
+PolygonMorph>>#arrowsContainPoint:
+LogicalFont>>#isItalicOrOblique
+SpecTableLayoutAddSpacer>>#orientation:
+RBRefactoryTyper>>#typeFor:
+ClassChangeRecord>>#noteChangeType:fromClass:
+ClassChangeRecord>>#assimilateAllChangesIn:
+Pragma>>#isGTExamplePragma
+MCFileTreeJsonParser>>#parseNumber
+MIMEDocument>>#isJpeg
+MessageNode>>#toDoLimit:
+MessageNode>>#sizeCodeForWhile:value:
+MessageNode>>#emitCodeForWhile:encoder:value:
+AJx86InstructionDescription>>#isJump
+AJx86InstructionDescription>>#emitmem:operand1:operand2:operand3:
+NewList>>#specialKeyPressed:
+MethodChangeRecord>>#methodInfoFromRemoval
+RxParser>>#lookAround
+RxParser>>#branch
+RxParser>>#atom
+RxParser>>#regex
+NBExternalStructure class>>#noteCompilationOf:meta:
+ZnUrl>>#processRelativeReference:
+CheckboxButtonMorph>>#selected:
+CheckboxButtonMorph>>#drawOnAthensCanvas:
+CheckboxButtonMorph>>#selected
+CheckboxButtonMorph>>#drawOn:
+JPEGReadWriter>>#perScanSetup
+JPEGReadWriter>>#okToIgnoreMarker:
+EdgeGripMorph>>#setLayoutSizingFor:
+EdgeGripMorph>>#isHorizontal
+PanelMorphWithSplitters>>#addPaneVSplitters
+PanelMorphWithSplitters>>#addPaneHSplitters
+MCFileTreeStCypressReader>>#isMethodPropertyFile:
+MCFileTreeStCypressReader>>#addMethodDefinitionsForClass:methodProperties:in:extensionMethod:
+MCFileTreeStCypressReader>>#isPropertyFile:
+SystemWindow>>#addPaneVSplitters
+SystemWindow>>#addPaneHSplitters
+JapaneseEnvironment class>>#systemConverterClass
+Symbol>>#isDoIt
+PluggableButtonMorph>>#label:font:
+SourceFileArray>>#changeRecordsFrom:className:isMeta:do:
+SourceFileArray>>#sourcePointerFromFileIndex:andPosition:
+PNGReadWriter>>#processBackgroundChunk
+ChangeSet>>#fileOutChangesFor:on:
+OCTempVariable>>#isEscaping
+ZnByteEncoder class>>#parseUnicodeOrgSpec:
+Context>>#jump:if:
+Context>>#doPrimitive:method:receiver:args:
+OCCompilerTest>>#testReservedNameAsBlockArgumentShadowing
+OCCompilerTest>>#testReservedNameAsMethodArgumentShadowing
+OpalEncoderForSistaV1 class>>#bindingWriteScanBlockFor:using:
+OpalEncoderForSistaV1 class>>#instVarWriteScanBlockFor:using:
+OpalEncoderForSistaV1 class>>#method:refersInBytecodeToLiteral:specialSelectorIndex:
+AbstractNautilusUI>>#wantsDroppedMorph:event:inMorph:
+MetacelloProjectSpec>>#configShortCutMethodOn:member:indent:
+MetacelloVersionSpec>>#packageNamed:forLoad:forMap:ifAbsent:
+ZnUTF16Encoder>>#processByteOrderMark:
+Scanner>>#scanStringStruct
+Scanner>>#xLitQuote
+Scanner>>#scanLitVec
+Scanner>>#scanLitByte
+Scanner>>#scanAllTokenPositionsInto:
+FileReference>>#gtInspectorStScriptIn:
+FileReference>>#spotterPreviewStScriptIn:
+STONReader>>#parseSimpleValue
+STONReader>>#parseStringInternal
+RubTextEditor>>#saveContentsInFile
+OpalEncoderForV3PlusClosures class>>#isStoreAt:in:
+OpalEncoderForV3PlusClosures class>>#bindingWriteScanBlockFor:using:
+OpalEncoderForV3PlusClosures class>>#instVarWriteScanBlockFor:using:
+String>>#withoutQuoting
+ProceedDialogWindow>>#handlesKeyboard:
+GLMMorphic class>>#isGrayRoundedButton:
+SequenceableCollection>>#before:ifAbsent:
+CategoryWidget>>#categoryIconFor:
+ScheduleTest>>#testDateAndTimes
+TableLayout>>#indexForInserting:at:in:
+TableLayout>>#minExtentOf:in:
+TableLayout>>#layout:in:
+TableLayout>>#computeCellArrangement:in:horizontal:target:
+NativeBoostLinux32>>#loadSymbol:fromModule:
+RBSmalllintTestObject>>#searchingLiteral
+PackageTreeModel>>#helpTextFor:
+GoferReference>>#matchesMetacelloGoferPackage:
+AlphaImageMorph>>#layout:
+AlphaImageMorph>>#layoutPosition
+AlphaImageMorph>>#extent:
+TextEditor>>#saveContentsInFile
+EmbossedStringMorph>>#drawOn:
+RBParser>>#basicParsePragma
+GZipReadStream class>>#fileReaderServicesForFile:suffix:
+SHParserST80>>#parseSymbolIdentifier
+SHParserST80>>#isAssignment
+MorphicUIManager>>#modalMorph
+ZnCookie>>#extraAttributes

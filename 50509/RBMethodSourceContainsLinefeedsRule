@@ -1,0 +1,35 @@
+CompiledMethodTrailer>>#encodeTempsNamesZip
+CompiledMethodTrailer>>#decodeTempsNamesZip
+CompiledMethodTrailer>>#decodeTempsNamesQCompress
+CompiledMethodTrailer>>#encodeTempsNamesQCompress
+Float>>#basicNew:
+Float>>#basicNew
+SmalltalkImage>>#exit:
+SmalltalkImage>>#logError:inContext:
+SmalltalkImage>>#exitFailure
+SmalltalkImage>>#logStdErrorDuring:
+TextMorph>>#elementCount
+TextMorph>>#cursorWrapped:
+CommandLineUIManager>>#headlessManager
+CommandLineUIManager>>#logRedDuring:
+CommandLineUIManager>>#exitFailure
+CommandLineUIManager>>#nonInteractiveManager
+CommandLineUIManager>>#stdin
+CommandLineUIManager>>#confirm:trueChoice:falseChoice:
+CommandLineUIManager>>#stderr
+CommandLineUIManager>>#unhandledErrorDefaultAction:
+CommandLineUIManager>>#onPrimitiveError:
+CommandLineUIManager>>#logGreenDuring:
+CommandLineUIManager>>#stdout
+CommandLineUIManager>>#quitFrom:withMessage:
+CommandLineUIManager>>#uiProcess
+CommandLineUIManager>>#logYellowDuring:
+CommandLineUIManager>>#warningDefaultAction:
+CommandLineUIManager>>#confirm:trueChoice:falseChoice:cancelChoice:default:
+CommandLineUIManager>>#choose:title:
+NonInteractiveUIManager>>#nonInteractiveManager
+NonInteractiveUIManager>>#syntaxErrorNotificationDefaultAction:
+CommandLineUIManager class>>#snapshotErrorImage
+CommandLineUIManager class>>#snapshotErrorImage:
+CommandLineUIManager class>>#replacing:
+MorphicUIManager>>#onSnapshot:

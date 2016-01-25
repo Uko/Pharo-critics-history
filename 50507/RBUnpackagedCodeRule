@@ -1,0 +1,113 @@
+AthensCairoPatternPaint class>>#nbLibraryNameOrHandle
+SmallInteger>>#asCharacter
+Character>>#identityHash
+AthensCairoStrokePaint class>>#nbLibraryNameOrHandle
+CairoFontOptions class>>#nbLibraryNameOrHandle
+OpalEncoderForV3PlusClosures>>#genCallPrimitive:
+Context class>>#allInstances
+CairoScaledFont class>>#nbLibraryNameOrHandle
+CairoFontMetricsProvider class>>#nbLibraryNameOrHandle
+EncoderForV3PlusClosures>>#genCallPrimitive:
+AthensCairoTransform class>>#nbLibraryNameOrHandle
+CairoFreetypeFontRenderer class>>#nbLibraryNameOrHandle
+CairoFontFace class>>#nbLibraryNameOrHandle
+TraitBehavior class>>#gtExampleTraits
+TraitBehavior class>>#gtExampleAllSubclasses
+TraitBehavior class>>#gtExampleSuperclasses
+TraitBehavior class>>#gtExampleClassVariables
+TraitBehavior class>>#gtExampleInstanceVariables
+TraitBehavior class>>#gtExampleTraitComposition
+TraitBehavior class>>#gtExampleTraitUsers
+TraitBehavior>>#isImmediateClass
+TraitBehavior>>#isEphemeronClass
+SmalltalkImage>>#growMemoryByAtLeast:
+SmalltalkImage>>#maxIdentityHash
+Behavior>>#basicIdentityHash
+Behavior>>#isEphemeronClass
+Behavior>>#handleFailingFailingBasicNew
+Behavior>>#handleFailingBasicNew:
+Behavior>>#isImmediateClass
+Behavior>>#allInstancesOrNil
+Behavior>>#isCompiledMethodClass
+Behavior>>#byteSizeOfInstance
+Behavior>>#largeIdentityHash
+Behavior>>#handleFailingBasicNew
+Behavior>>#shouldNotBeRedefined
+Behavior>>#handleFailingFailingBasicNew:
+Behavior>>#elementSize
+Behavior>>#byteSizeOfInstanceOfSize:
+Object>>#unpin
+Object>>#clone
+Object>>#setPinned:
+Object>>#pin
+Object>>#isPinned
+AthensCairoText class>>#nbLibraryNameOrHandle
+SystemDictionary>>#growMemoryByAtLeast:
+SystemDictionary>>#maxIdentityHash
+MethodNode>>#generate:using:ifQuick:
+MethodNode>>#generate:using:
+BytecodeEncoder>>#computeMethodHeaderForNumArgs:numTemps:numLits:primitive:
+MOPTestClassD>>#c3
+AthensCairoSolidPaint class>>#nbLibraryNameOrHandle
+Context>>#isPrimFailToken:
+Context>>#send:to:with:lookupIn:
+Context>>#failPrimitiveWith:
+Context>>#objectClass:
+CompiledMethod class>>#handleFailingFailingNewMethod:header:
+CompiledMethod class>>#installSecondaryBytecodeSet:
+CompiledMethod class>>#handleFailingNewMethod:header:
+CompiledMethod class>>#installPrimaryBytecodeSet:
+InstructionStream>>#interpretV3ClosuresExtension:in:for:
+Class class>>#doesNotIncludeInstanceOrSuperclassesFor:in:cache:
+Class class>>#allSuperclassesFor:cache:
+Class class>>#superclassOrder:
+Class class>>#templateForSubclassOf:category:
+Class class>>#template:
+Class class>>#hasNoSuperclassesOf:in:cache:
+Class class>>#rootsOfTheWorld
+Class class>>#hasNoDependenciesForMetaclass:in:cache:
+Class class>>#hasNoDependenciesFor:in:cache:
+String>>#adaptToNumber:andSend:
+ClassDescription class>>#gtExamplePackage
+AthensCairoCanvas class>>#nbLibraryNameOrHandle
+Behavior class>>#gtExampleTraits
+Behavior class>>#gtExampleAllSubclasses
+Behavior class>>#gtExampleSuperclasses
+Behavior class>>#gtExampleClassVariables
+Behavior class>>#gtExampleInstanceVariables
+Behavior class>>#gtExampleTraitComposition
+Behavior class>>#gtExampleTraitUsers
+AthensCairoPaintMode class>>#nbLibraryNameOrHandle
+SmallFloat64>>#copy
+SmallFloat64>>#deepCopy
+SmallFloat64>>#shallowCopy
+SmallFloat64>>#veryDeepCopyWith:
+SmallFloat64>>#clone
+SmallFloat64>>#identityHash
+SystemNavigation>>#allObjectsOrNil
+SystemNavigation>>#allObjects
+SlotClassBuilder>>#computeFormat:instSize:forSuper:ccIndex:
+SlotClassBuilder>>#format:variable:words:pointers:weak:
+SlotClassBuilder>>#update:to:
+SlotClassBuilder>>#superclass:immediateSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
+AthensCairoSurface class>>#nbLibraryNameOrHandle
+AthensCairoMatrix class>>#nbLibraryNameOrHandle
+Trait class>>#doesNotIncludeInstanceOrSuperclassesFor:in:cache:
+Trait class>>#template:
+Trait class>>#superclassOrder:
+Trait class>>#hasNoDependenciesForMetaclass:in:cache:
+Trait class>>#hasNoSuperclassesOf:in:cache:
+Trait class>>#allSuperclassesFor:cache:
+Trait class>>#templateForSubclassOf:category:
+Trait class>>#rootsOfTheWorld
+Trait class>>#hasNoDependenciesFor:in:cache:
+AthensCairoPathBuilder class>>#nbLibraryNameOrHandle
+SpaceTally>>#spaceForInstancesOf:
+NBExternalAddress>>#longAt:
+NBExternalAddress>>#ulongAt:put:
+NBExternalAddress>>#ulongAt:
+NBExternalAddress>>#longAt:put:
+NBExternalAddress>>#byteAt:
+NBExternalAddress>>#byteAt:put:
+TraitDescription class>>#gtExamplePackage
+AthensCairoPath class>>#nbLibraryNameOrHandle

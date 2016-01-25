@@ -1,0 +1,5 @@
+MetacelloPharoCommonPlatform>>#downloadBasicFile:to:username:pass:
+MetacelloPlatform>>#fileDirectoryClass
+MetacelloPlatform>>#suspendSystemUpdateEventsDuring:
+SlotIntegrationTest>>#testSmallIntegerLayout
+ExternalFunction>>#tryInvokeWithArguments:

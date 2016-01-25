@@ -1,0 +1,74 @@
+MCWorkingCopyTest>>#merge:
+RubPluggableTextMorphExample>>#method
+ZnHTTPSTests>>#runningOnWindows
+SystemReporter>>#reportVM:
+MCMcdReader>>#loadPatch
+HDTestReport>>#serializeError:of:
+HDTestReport>>#done
+HDTestReport>>#runCase:
+Callback class>>#initialize
+MetacelloPlatform>>#clearPackageCache
+MCMockRPackage class>>#initialize
+GLMBrick>>#updateHeight
+GLMBrick>>#updateWidth
+ZnMultiThreadedServer>>#closeSocketStream:
+MCCacheRepository class>>#defaultDirectory
+MCVersion>>#allAvailableDependenciesDo:
+SocketStream>>#upToEnd
+SmalltalkImage>>#logStartupError:into:tryDebugger:
+SmalltalkImage>>#logStdErrorDuring:
+MCMczReader>>#loadDefinitions
+RPackageWithDoTest>>#testWithDoIsCorrectlyReinstallingDefaultEvenIfHalt
+RPackageWithDoTest>>#testDo
+RPackageWithDoTest>>#testDoC
+RPackageWithDoTest>>#testDo2
+ZnUrl>>#withRelativeReference:
+GlobalIdentifierFuelPersistence>>#save:into:
+SettingsStonReader>>#secureLoad
+PolymorphSystemSettings class>>#desktopBackgroundChanged
+PharoSyntaxTutorialTest>>#testDivideTwoByZeroSignalsZeroDivide
+MCRepositoryGroup>>#repositoriesDo:
+TestCommandLineHandler>>#addPackagesMatching:to:
+FTFilterFunction>>#patternFromString:
+FilteredMorphTreeModel>>#ensureSafePattern:
+MTDependency>>#addDependency:
+GlobalIdentifierPersistence>>#delete
+EditingState>>#focused:from:
+BMPReadWriter class>>#readAllFrom:
+BMPReadWriter class>>#displayAllFrom:
+FreeTypeExternalMemory>>#validate
+GTPlayBook>>#initialize
+GTExampleNautilus class>>#methodChanged:
+GTExampleNautilus class>>#methodUpdated:with:
+FT2MemoryFaceData>>#validate
+FT2Face>>#newFaceFromExternalMemory:index:
+FT2Face>>#loadFields
+CodeSimulationTests>>#testErrorWithErrorHandler
+CodeSimulationTests>>#testHaltWithHaltHandler
+VSReleaseDevelopmentVersionCommandTest>>#testResolveSymbolicVersionsIn
+VSRemoveCommand>>#execute
+GTEventRecorder class>>#reset
+RBSmalllintTestObject>>#emptyExceptionHandler
+PluggableTextMorph>>#acceptBasic
+ZnManagingMultiThreadedServer>>#closeConnections
+OSSDL2Driver>>#processEvent:
+ZnServerTests>>#runningOnWindows
+MalCircuitSpanningEdges>>#findDirectCircuits
+GTExampleOrganizer>>#checkForMissingDependencies
+GTExampleOrganizer>>#checkForMissingDependencies:
+GTExampleOrganizer>>#reset
+GTExampleOrganizer>>#methodRemoved:
+GTExampleOrganizer>>#resetResults
+GTExampleOrganizer>>#checkForNumberOfArguments:
+GTExampleOrganizer>>#checkForDependenciesUsing:
+GTExampleOrganizer>>#withCleanupDo:
+GTExampleOrganizer>>#methodModified:
+GTExampleOrganizer>>#categoryRemoved:
+GTExampleOrganizer>>#classRemoved:
+FileStream class>>#flushAndVoidStdioFiles
+GLMBrickGeometryTrait>>#updateHeight
+GLMBrickGeometryTrait>>#updateWidth
+MBConfigurationInfo>>#printOn:
+FileDialogWindow>>#updateTextPreview
+FileDialogWindow>>#updateImagePreview
+MorphicUIManager>>#onFontsChanged
