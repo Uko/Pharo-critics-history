@@ -7,3 +7,4 @@ pharo-ui
 *.log
 *.out
 Gemfile.lock
+.bundle
