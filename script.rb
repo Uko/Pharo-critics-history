@@ -61,7 +61,6 @@ end
 def get_image_rules(image_name)
   script = '(RBCompositeLintRule allGoodRules leaves collect: #class) joinUsing: String space'
   rules = `#{pharo_preamble image_name} '#{script}'`.chomp[1..-2].split(' ')
-  rules = rules[0, 10]
   rules.map{ |rule| process_rule rule, image_name }
 end
 
@@ -91,6 +90,7 @@ def process_image(image_zip_name)
 
   critic_dict = get_image_rules image_name
 
+  FileUtils.mkdir_p 'data'
   File.open("data/#{image_name}.json", 'w') do |file|
     file.write(critic_dict.to_json)
   end
