@@ -6,3 +6,4 @@ pharo-ui
 *.image
 *.log
 *.out
+Gemfile.lock

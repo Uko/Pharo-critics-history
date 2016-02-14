@@ -1,6 +1,0 @@
-RBSmalllintTestObject>>#modifiesCollection [Refactoring-Tests-Critics]
-RBRefactoryTestDataApp>>#modifiesCollection [Refactoring-Tests-Core]
-Collection>>#removeAll [Collections-Abstract]
-ProcessList>>#removeAllSuchThat: [Kernel]
-ZnCookieJar>>#add: [Zinc-HTTP]
-LinkedList>>#removeAllSuchThat: [Collections-Sequenceable]

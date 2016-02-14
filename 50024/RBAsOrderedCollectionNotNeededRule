@@ -1,8 +1,0 @@
-GTInspectorVariableValuePairsTest>>#testArrayPairs43 [GT-Tests-Inspector]
-GTInspectorVariableValuePairsTest>>#testArrayPairsLong [GT-Tests-Inspector]
-RBSmalllintTestObject>>#asOrderedCollectionNotNeeded [Refactoring-Tests-Critics]
-RBRefactoryTestDataApp>>#asOrderedCollectionNotNeeded [Refactoring-Tests-Core]
-Collection>>#union: [Collections-Abstract]
-Collection>>#difference: [Collections-Abstract]
-Collection>>#intersection: [Collections-Abstract]
-Object>>#gtInspectorVariableValuePairs [GT-Inspector]

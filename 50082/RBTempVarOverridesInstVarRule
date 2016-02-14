@@ -1,6 +1,0 @@
-RBSmalllintTestObject>>#tempVarOverridesInstVar [Refactoring-Tests-Critics]
-RBRefactoryTestDataApp>>#tempVarOverridesInstVar [Refactoring-Tests-Core]
-TestRunner>>#addDeclaredPackagesUnderTestTo: [SUnit-UI]
-TestRunner>>#promptForPackages [SUnit-UI]
-TestRunner>>#runCoverage [SUnit-UI]
-TestRunner>>#addMethodsUnderTestIn:to: [SUnit-UI]
