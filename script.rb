@@ -103,9 +103,16 @@ end
 
 install_vm
 
-images_uri.read.scan(/50\d{3}\.zip/).reverse.each do |image|
+images_uri.read.scan(/50\d{3}\.zip/).uniq.reverse.each_slice(32) do |images|
 
-  process_image image
+  puts images
+
+  images.each do |image|
+    puts "working on #{image}"
+    fork { process_image image }
+  end
+
+  Process.waitall
 
 end
 
