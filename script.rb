@@ -6,6 +6,7 @@ require 'fileutils'
 require 'zip'
 require 'json'
 
+@max_processes = 32
 
 def unzip_file (file, destination = file.chomp('.zip'))
   Zip::File.open(file) { |zip_file|
@@ -103,16 +104,16 @@ end
 
 install_vm
 
-images_uri.read.scan(/50\d{3}\.zip/).uniq.reverse.each_slice(32) do |images|
 
-  puts images
+process_counter = @max_processes
+Signal.trap('CLD')  { process_counter += 1 }
 
-  images.each do |image|
-    puts "working on #{image}"
+images_uri.read.scan(/50\d{3}\.zip/).uniq.reverse.each do |image|
+
+    Process.wait if process_counter <= 0
+
+    process_counter -= 1
     fork { process_image image }
-  end
-
-  Process.waitall
 
 end
 
