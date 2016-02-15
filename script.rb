@@ -50,12 +50,19 @@ def get_critics(rule, image)
     (rule critics collect: [ :entity |
       entity package name, '}{', entity name ]) asArray joinUsing: String lf ]"
 
-  critics = `#{pharo_preamble image} "#{script}"`.chomp[1..-2].split("\n")
+  result=`#{pharo_preamble image} "#{script}"`
 
-  critics.map do |critic_str|
-    critic = critic_str.split('}{')
-    { :package => critic[0], :name => critic[1] }
+  if $?.to_i == 0
+    critics = result.chomp[1..-2].split("\n")
+
+    critics.map do |critic_str|
+      critic = critic_str.split('}{')
+      { :package => critic[0], :name => critic[1] }
+    end
+  else
+    []
   end
+  
 end
 
 def process_rule(rule, image)
