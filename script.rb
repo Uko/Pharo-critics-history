@@ -31,7 +31,7 @@ def remove_image_files(image_zip_name)
 end
 
 def pharo_preamble(version_string)
-  return "./pharo #{version_string}/Pharo-#{version_string}.image --no-default-preferences eval "
+  "./pharo #{version_string}/Pharo-#{version_string}.image --no-default-preferences eval "
 end
 
 def get_critics(rule, image)
@@ -49,7 +49,7 @@ def get_critics(rule, image)
 end
 
 def process_rule(rule, image)
-  return {
+   {
       :name => rule,
       :severity =>  `#{pharo_preamble image} '#{rule} new severity asString'`.chomp[1..-2],
       :group => `#{pharo_preamble image} '#{rule} new group asString'`.chomp[1..-2],
