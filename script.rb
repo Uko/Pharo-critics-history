@@ -5,8 +5,18 @@ require 'open-uri'
 require 'fileutils'
 require 'zip'
 require 'json'
+require 'optparse'
 
-@max_processes = 32
+max_processes = 4
+
+OptionParser.new do |opts|
+  opts.banner = "This stuf runs a lot of pharo images"
+
+  opts.on("-t", "--threads NUMBER", "Number of threads to use") do |num_processes|
+    max_processes =  Integer(num_processes)
+  end
+end.parse!
+
 
 def unzip_file (file, destination = file.chomp('.zip'))
   Zip::File.open(file) { |zip_file|
@@ -19,11 +29,10 @@ def unzip_file (file, destination = file.chomp('.zip'))
 end
 
 def download_image (name)
+  image_data = open("http://files.pharo.org/image/50-preSpur/#{name}", 'rb').read
+
   File.open(name, 'wb') do |saved_file|
-    # the following "open" is provided by open-uri
-    open("http://files.pharo.org/image/50-preSpur/#{name}", 'rb') do |read_file|
-      saved_file.write(read_file.read)
-    end
+      saved_file.write(image_data)
   end
 end
 
@@ -104,16 +113,13 @@ end
 
 install_vm
 
+images_uri.read.scan(/50\d{3}\.zip/).uniq.reverse.each_slice(max_processes) do |images|
 
-process_counter = @max_processes
-Signal.trap('CLD')  { process_counter += 1 }
-
-images_uri.read.scan(/50\d{3}\.zip/).uniq.reverse.each do |image|
-
-    Process.wait if process_counter <= 0
-
-    process_counter -= 1
+  images.each do |image|
     fork { process_image image }
+  end
+
+  Process.waitall
 
 end
 
