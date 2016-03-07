@@ -7,13 +7,18 @@ require 'zip'
 require 'json'
 require 'optparse'
 
-max_processes = 4
+@uniform_mode = false
+@max_processes = 4
 
 OptionParser.new do |opts|
-  opts.banner = "This stuf runs a lot of pharo images"
+  opts.banner = 'This stuf runs a lot of pharo images'
 
-  opts.on("-t", "--threads NUMBER", "Number of threads to use") do |num_processes|
-    max_processes =  Integer(num_processes)
+  opts.on('-t', '--threads NUMBER', 'Number of threads to use') do |num_processes|
+    @@max_processes =  Integer(num_processes)
+  end
+
+  opts.on('-u', '--[no-]uniform', 'Uniform mode (load latest rules into each image)') do |uniform|
+    @uniform_mode = uniform
   end
 end.parse!
 
@@ -42,6 +47,10 @@ end
 
 def pharo_preamble(version_string)
   "./pharo #{version_string}/Pharo-#{version_string}.image --no-default-preferences eval "
+end
+
+def load_latest_rules(image_name)
+  `#{pharo_preamble image_name} "Gofer it smalltalkhubUser: 'Pharo' project: 'Pharo50'; version: 'Manifest-Core-TheIntegrator.236'; load"`
 end
 
 def get_critics(rule, image)
@@ -81,11 +90,10 @@ def get_image_rules(image_name)
   rules.map{ |rule| process_rule rule, image_name }
 end
 
+def data_dir
+  @uniform_mode ? 'uni-data' : 'data'
+end
 
-
-
-images_uri = URI.parse('http://files.pharo.org/image/50-preSpur/')
-images_uri.read.scan(/50\d{3}\.zip/)
 
 def install_vm
   `./vm50.sh`
@@ -99,16 +107,17 @@ def process_image(image_zip_name)
 
   image_name = image_zip_name.chomp('.zip')
 
-  return if File.file?("data/#{image_name}.json")
+  return if File.file?("#{data_dir}/#{image_name}.json")
 
   download_image image_zip_name
   unzip_file image_zip_name
 
+  load_latest_rules(image_name) if @uniform_mode
 
   critic_dict = get_image_rules image_name
 
   FileUtils.mkdir_p 'data'
-  File.open("data/#{image_name}.json", 'w') do |file|
+  File.open("#{data_dir}/#{image_name}.json", 'w') do |file|
     file.write(critic_dict.to_json)
   end
 
@@ -118,9 +127,11 @@ end
 
 
 
+
 install_vm
 
-images_uri.read.scan(/50\d{3}\.zip/).uniq.reverse.each_slice(max_processes) do |images|
+images_uri = URI.parse('http://files.pharo.org/image/50-preSpur/')
+images_uri.read.scan(/50\d{3}\.zip/).uniq.reverse.each_slice(@max_processes) do |images|
 
   images.each do |image|
     fork { process_image image }
