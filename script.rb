@@ -91,7 +91,7 @@ def get_image_rules(image_name)
 end
 
 def data_dir
-  @uniform_mode ? 'uni-data' : 'data'
+  @uniform_mode ? 'data-uni' : 'data'
 end
 
 
