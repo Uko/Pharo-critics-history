@@ -116,14 +116,13 @@ def process_image(image_zip_name)
 
   critic_dict = get_image_rules image_name
 
-  FileUtils.mkdir_p 'data'
+  FileUtils.mkdir_p data_dir
   File.open("#{data_dir}/#{image_name}.json", 'w') do |file|
     file.write(critic_dict.to_json)
   end
 
   remove_image_files image_zip_name
 end
-
 
 
 
