@@ -14,7 +14,7 @@ OptionParser.new do |opts|
   opts.banner = 'This stuf runs a lot of pharo images'
 
   opts.on('-t', '--threads NUMBER', 'Number of threads to use') do |num_processes|
-    @@max_processes =  Integer(num_processes)
+    @max_processes =  Integer(num_processes)
   end
 
   opts.on('-u', '--[no-]uniform', 'Uniform mode (load latest rules into each image)') do |uniform|
