@@ -9,6 +9,7 @@ require 'optparse'
 
 @uniform_mode = false
 @max_processes = 4
+@old_images = false
 
 OptionParser.new do |opts|
   opts.banner = 'This stuf runs a lot of pharo images'
@@ -20,8 +21,14 @@ OptionParser.new do |opts|
   opts.on('-u', '--[no-]uniform', 'Uniform mode (load latest rules into each image)') do |uniform|
     @uniform_mode = uniform
   end
+
+  opts.on('-o', '--[no-]old', 'Process old (pre-spur) images') do |old|
+    @old_images = old
+  end
+
 end.parse!
 
+@spur_suffix = @old_images ? '-preSpur' : ''
 
 def unzip_file (file, destination = file.chomp('.zip'))
   Zip::File.open(file) { |zip_file|
@@ -34,7 +41,7 @@ def unzip_file (file, destination = file.chomp('.zip'))
 end
 
 def download_image (name)
-  image_data = open("http://files.pharo.org/image/50-preSpur/#{name}", 'rb').read
+  image_data = open("http://files.pharo.org/image/50#{@spur_suffix}/#{name}", 'rb').read
 
   File.open(name, 'wb') do |saved_file|
       saved_file.write(image_data)
@@ -96,11 +103,15 @@ end
 
 
 def install_vm
-  `./vm50.sh`
+  if @old_images
+    `./vm50.sh`
+  else
+    `curl get.pharo.org/vmLatest50 | bash`
+  end
 end
 
 def clean_up_vm
-  FileUtils.rm_r %w(pharo pharo-ui pharo-vm)
+  FileUtils.rm_rf %w(pharo pharo-ui pharo-vm)
 end
 
 def process_image(image_zip_name)
@@ -126,10 +137,10 @@ end
 
 
 
-
+clean_up_vm
 install_vm
 
-images_uri = URI.parse('http://files.pharo.org/image/50-preSpur/')
+images_uri = URI.parse("http://files.pharo.org/image/50#{@spur_suffix}/")
 images_uri.read.scan(/50\d{3}\.zip/).uniq.reverse.each_slice(@max_processes) do |images|
 
   images.each do |image|
